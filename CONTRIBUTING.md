@@ -1,6 +1,6 @@
 # Contributing through GitHub
 
-This is a proposed manual contribution workflow. The prototype does not yet ingest GitHub issues or pull requests as CRL events. The project's original protocol/documentation use CC BY 4.0 and its companion software uses Apache-2.0; see [license scope](LICENSE.md). Publication rights for each research artifact still need confirmation.
+This is a manual contribution workflow with local metadata and reproduction checks. The prototype does not yet ingest GitHub issues or pull requests as CRL events. The project's original protocol/documentation use CC BY 4.0 and its companion software uses Apache-2.0; see [license scope](LICENSE.md). Publication rights for each research artifact still need confirmation.
 
 ## Choose one contribution
 
@@ -47,3 +47,42 @@ A Git clone copies repository history; it does not automatically copy issue disc
 The current signed-event profile has `protocol`, `kind`, `problem`, `author_key`, `created_at`, `relations`, and object-valued `content` in its body, with `id` and `signature` in the envelope. Domain-specific content is not yet enforced by a research schema. Human attribution and licenses must be recorded explicitly in the contribution; the demo does not validate them or implement the ownership/delegation design in the protocol draft.
 
 No contribution request authorizes restarting research schedules, deploying a server, spending on compute, or submitting a paper elsewhere.
+
+## Check a GitHub contribution without a key
+
+The pilot uses `rights-and-attribution.json` and optional `records.draft.json` in each immediate `contributions/` subdirectory. These are **unsigned content drafts**, not signed CRL wire events. A question-only package has `QUESTION.md` and its rights file. The checker uses the first pilot's existing metadata format; it checks declared metadata, not actual identity, rights ownership, or proof correctness.
+
+```sh
+uv run python contribution_check.py
+# Run only verifiers you have reviewed. This command is not a code sandbox.
+uv run python contribution_check.py --reproduce
+uv run pytest -q
+```
+
+Checks require a human contributor, stated AI roles, and explicit authorized text/code license metadata. When present, a package manifest must match VERSION, every package file hash/size, and the declared text/code license; it excludes itself and runtime cache. Record attribution must match the package rights file; artifacts and verifier output must exist inside the package. Draft references must resolve within the same problem. Exact duplicate draft records count once; different content under the same draft reference fails. Challenges remain counted even after a successful reproduction. Runtime Python version is reported separately; all other reproduction JSON fields must match the recorded output. Pure metadata checking does not execute contribution code.
+
+The PR workflow runs these checks with read-only repository permissions. It also checks the fixed Git snapshot. A draft PR passes through human scope/review, versioned objections, and any linked revision before a maintainer decides inclusion. CI success and merge do not endorse the theorem. CI is configured by this workflow file; it becomes a main-branch contribution check after the engineering PR is merged.
+
+## Fix the GitHub version for a citation
+
+After review and an authorized merge, read the actual merged commit's **full 40-character SHA**. Link a contribution as `https://github.com/Li-Hongmin/citable-research-lineages/tree/<full-SHA>/contributions/<directory>` and individual files with `/blob/<full-SHA>/...`. Keep objections and replies needed to interpret a result in authorized versioned files: PR conversations are not included in Git archives. Use a linked new revision for later changes instead of changing the meaning of a published version.
+
+Prepare a snapshot from an explicit commit. The output directory can be outside the repository; untracked files and working-tree edits are excluded.
+
+```sh
+SHA=$(git rev-parse HEAD)
+uv run python tools/check_snapshot.py prepare --commit "$SHA" --output /tmp/crl-snapshot
+uv run python tools/check_snapshot.py verify --archive "/tmp/crl-snapshot/$SHA.tar" --manifest "/tmp/crl-snapshot/$SHA.manifest.json"
+```
+
+Keep the manifest alongside the citation or reviewed distribution. It records the source SHA, SHA256 of the local tar, and each file's size/SHA256. Retrying the same preparation is deterministic; replacing different existing bytes fails. For an anonymously downloaded GitHub commit archive, pass `--github-archive` to `verify`: GitHub can change compression/container bytes, but every listed file byte must match. The manifest itself needs a trusted source; a matching hash establishes content equality, not an author's identity or a mathematical verdict. The tool does not fetch, merge, create tags, or publish anything.
+
+A Git tag or ordinary release can move or be deleted; a commit-addressed GitHub link also depends on continued repository availability. The GitHub workflow and content hashes remain usable on their own and make no permanent-archival guarantee.
+
+## Repository release archiving
+
+The root `.zenodo.json` describes a **whole repository software release snapshot**, including the protocol and any example contributions present at that commit. Its primary software license field is `apache-2.0`; the description states the separate documentation/research license domains and points to LICENSE.md. Li Hongmin is the human creator. AI roles remain stated in versioned files, without listing AI tools as human authors. No DOI or release version is fabricated in this file; the actual release supplies the version. If CITATION.cff is introduced later, note that [Zenodo uses .zenodo.json instead of merging the two files](https://help.zenodo.org/docs/github/describe-software/zenodo-json/).
+
+Connecting Zenodo and enabling the repository require the account owner's authorization. Once the native GitHub integration is enabled, [publishing a GitHub release triggers Zenodo archiving](https://help.zenodo.org/docs/github/archive-software/github-upload/); the release is therefore the external publication step. Review the exact commit, metadata, versioned challenges and artifact hashes first. After processing, record the real version DOI, record URL, tag, full commit SHA and verified download hashes; a placeholder is not evidence of publication. A repository release DOI does not give each directory or PR an independent DOI.
+
+GitHub's [immutable releases](https://docs.github.com/en/code-security/concepts/supply-chain-security/immutable-releases) can lock a published release's tag and assets, but require a separately authorized settings change. A DOI identifies a record; it is not a guarantee that its bytes could never change: [Zenodo permits minor file corrections within 30 days, with unchanged DOI](https://help.zenodo.org/docs/deposit/manage-files/#modify). This project's content-equality evidence remains the reviewed commit and file hashes; substantial corrections should use a linked new version.
