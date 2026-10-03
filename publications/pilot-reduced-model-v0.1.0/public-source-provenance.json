@@ -1,0 +1,15 @@
+{
+  "repository": "Li-Hongmin/citable-research-lineages",
+  "ancestor_commit": "b2449ac9f37f8ef4050b74895dd92654e149d22e",
+  "ancestor_path": "contributions/barnette-reduced-support-v0.1.0",
+  "ancestor_version": "0.1.0-draft.1",
+  "ancestor_manifest_sha256": "979d2565762cc919b5c8f74bdc92744ee931ab834bbf5e334134dbce09684287",
+  "ancestor_verifier_sha256": "4e1ce2e2a00af4f391f56c4c5e9f33aa668cfdf58565a5034a688ccc579eae47",
+  "changes": [
+    "explicit runtime validation instead of optimization-stripped assertions",
+    "local publication metadata/version and scope disclosures",
+    "GitHub-first signed publication packaging version 0.1.0-github.1: README, VERSION and status/licensing metadata updated; mathematical statement, retained review and verifier unchanged"
+  ],
+  "private_proofs_included": false,
+  "new_staged_packet_is_not_committed_to_source_repository": true
+}

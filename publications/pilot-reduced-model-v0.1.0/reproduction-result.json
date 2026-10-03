@@ -1,0 +1,74 @@
+{
+  "admission_assignments": 4,
+  "barnette_conjecture_resolved": false,
+  "bond_assignments_per_admission": 16,
+  "child_combinations_checked": 64,
+  "child_supplement": false,
+  "coherent_singletons": 8,
+  "coverage": "declared reduced finite relational model and one local patch",
+  "full_marked_partition_types_checked": false,
+  "graph_realizability_checked": false,
+  "minimum_nonvacuous_row_count": 2,
+  "patch_rows": [
+    {
+      "old_exterior_defect": "",
+      "patch_edges": [
+        "ab",
+        "cd"
+      ]
+    },
+    {
+      "old_exterior_defect": "",
+      "patch_edges": [
+        "bc",
+        "da"
+      ]
+    },
+    {
+      "old_exterior_defect": "uv",
+      "patch_edges": [
+        "bv",
+        "cd",
+        "ua"
+      ]
+    },
+    {
+      "old_exterior_defect": "uvxy",
+      "patch_edges": [
+        "bv",
+        "dy",
+        "ua",
+        "xc"
+      ]
+    },
+    {
+      "old_exterior_defect": "uy",
+      "patch_edges": [
+        "bc",
+        "dy",
+        "ua"
+      ]
+    },
+    {
+      "old_exterior_defect": "vx",
+      "patch_edges": [
+        "bv",
+        "da",
+        "xc"
+      ]
+    },
+    {
+      "old_exterior_defect": "xy",
+      "patch_edges": [
+        "ab",
+        "dy",
+        "xc"
+      ]
+    }
+  ],
+  "patch_subsets_examined": 256,
+  "python": "3.14.7",
+  "singleton_assignments_examined": 16,
+  "status": "PASS",
+  "two_row_parent_kill": true
+}

@@ -1,0 +1,125 @@
+{
+  "id": "crl:sha256:5805a7802d81ffb084689217b9576d9c55dc9646fb8051df5ed85764066bff95",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "RESULT",
+    "problem": "crl:problem:barnette",
+    "title": "A minimum two-row countermodel in a reduced boundary-support language",
+    "body": "# A two-row countermodel in an explicitly reduced boundary-support language\n\nStatus: analytically checked and reproduced within the reduced model stated below; broader marked-type realizability unverified. Human contributor: Li Hongmin. New mathematical text: CC BY 4.0. New verification code: Apache-2.0. Actual Codex roles and source boundaries are recorded in rights-and-attribution.json. This is not a graph counterexample to the Barnette conjecture.\n\n## Objects and assumptions\n\nLet R be a finite set of abstract row identities. A row has a unary type label, an exterior defect class, a parent-admission flag, a parent-state-11 flag, and a sector bit. For every ordered pair of rows record its endpoint labels, an equality bit, and a crossing-bond bit. Require endpoint consistency, equality exactly on the diagonal, transpose consistency, and a false crossing-bond bit on every diagonal. These are the complete axioms of this **reduced language**; no graph, perfect-matching family, or full marked partition alphabet is assumed.\n\nDefine ParentKill as the conjunction of: an admitted state-11 row exists; an admitted crossing bond between different sectors exists; and every such bond has at least one state-11 endpoint.\n\nFor a standard four-vertex patch, let its internal edges be ab, bc, cd, da and its connectors be ua, bv, xc, dy. Its internal vertices must each be matched once; each old exterior endpoint is used at most once. A compatible exterior defect is the set of old endpoints used by the patch. Direct finite enumeration, or the vertex-degree constraints, give seven patterns: two with no exterior defect and one each with uv, xy, uvxy, uy, vx. The uvxy pattern is uniquely the four connectors and is denoted C11. The three new cells R00, Xuy, Xvx have defects empty, uy, vx, respectively. A child supplement is an admitted child bond with at least one endpoint in these new cells.\n\n## Proposition and proof\n\nIn this language, ParentKill does not imply child supplementation. The minimum number of rows for a countermodel with the nonempty-bond antecedent is two.\n\nTake R = {r0,r1}. Both rows have exterior defect uvxy, are parent-admitted and state-11, and have different sector bits. Give them different unary labels. Give each diagonal pair the appropriate endpoint labels, equality true, and crossing-bond false. Give both off-diagonal ordered pairs consistent endpoint labels, equality false, and crossing-bond true, with one the transpose of the other. All axioms hold. The state-11 slice and the crossing graph are nonempty, and every crossing bond has both endpoints in the slice. ParentKill is therefore true.\n\nEach row has only the compatible C11 child pattern. Thus every child row has cell label C11, with no endpoint in R00, Xuy, Xvx. The child-supplement existential formula is false for **every** choice of child-admission and child-bond flags. No partition-join calculation is needed for this conclusion.\n\nWith zero rows there is no admitted state-11 row or crossing bond. With one row every ordered pair is diagonal and its bond flag must be false. Consequently ParentKill fails in both cases, proving minimum nonvacuous size two.\n\n## Exact boundary\n\nThis is a self-contained theorem about the declared reduced language. Source note 134 phrases its countermodel using complete unary and pair-deletion types. The present verifier does not construct those full types or check their partition joins. Therefore it reproduces a precise projection of that argument and its local patch premise, not every stronger assertion in the source. It does not prove the original state graph-realizable, reachability under CEN/UV, a counterexample to actual rooted split-bond supplementation, or a solution of Barnette.\n\n## Reproduction and sources\n\nRun `python3 reproduce.py` in this directory. It uses only the Python standard library, examines all 256 patch edge subsets, verifies the seven compatible patterns, checks the two-row quantifiers, exhausts all 64 child admission/bond assignments, and checks all singleton flag combinations under the stated diagonal axiom. It also rejects malformed equality, endpoint and transpose data and an empty-bond antecedent.\n\nThe source lineage is the fixed Barnette notes 132–134, indexed by content hashes in `sources.json`. No original private note is included in this contribution. Notes 132–133 motivated the language/table; all definitions needed for this narrowed theorem are supplied above. Their CEN/UV iteration theorems and computational bundles are not dependencies of this theorem and are not claimed reproduced here. The review in `REVIEW.md` must travel with this result.\n\nLicense: CC BY 4.0 for this new text; see rights-and-attribution.json.\n\n\nPublication scope disclosure: this is a partial result about an explicitly reduced finite language. The retained REVIEW prohibits upgrading it to complete marked types, graph realizability, CEN/UV reachability, or Barnette's conjecture. Review and verification were performed by the same Codex coordinator; independent-model or human scientific acceptance is not claimed. The staged verifier has explicit checks in normal and optimized Python; its mathematical definitions match the public ancestor. The prototype's indexing status is scientific_validity=not-assessed.\n\nPublic ancestor: https://github.com/Li-Hongmin/citable-research-lineages/tree/b2449ac9f37f8ef4050b74895dd92654e149d22e/contributions/barnette-reduced-support-v0.1.0 . Only previously public original text/code and its disclosed derivative are included. No private ancestor proof is published or relicensed.\n",
+    "scope": "Only endpoint/equality/transpose/diagonal axioms, the stated four-vertex patch and finite two-row predicate. No full marked types, graph realization, CEN/UV reachability, novelty, independent referee acceptance or Barnette solution.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized public contribution credit and publication coordination; Codex drafted the scoped argument and finite verifier. No claim that the human independently proved or refereed it."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed Codex assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T14:29:48Z",
+    "basis_snapshot": null,
+    "rights": {
+      "rights_holder_statement": "Explicit license and contributor credit for the already public original contribution; private ancestors and third-party materials are excluded and not relicensed.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "addresses",
+        "target": "crl:problem:barnette",
+        "scope": "A partial abstract support countermodel, not a graph counterexample or proof of the root conjecture."
+      }
+    ],
+    "artifacts": [
+      {
+        "path": "LICENSE.md",
+        "sha256": "5cee98703997e6ee5aca305776480eb8e785fbc0aecfae389f666052c95248d7",
+        "description": "Scoped public contribution artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Scoped public contribution artifact: LICENSES/Apache-2.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Scoped public contribution artifact: LICENSES/CC-BY-4.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "QUESTION.md",
+        "sha256": "a19bf7c162f5a13c5d67b8b0d63f75656015bdc6cfaf52f846f65aec8a2307fd",
+        "description": "Scoped public contribution artifact: QUESTION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "e2ff0ba75d0851f5c4ecfa66257d03c6949a77da72147f57ac6d195369bcd2c3",
+        "description": "Scoped public contribution artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RESULT.md",
+        "sha256": "974343b2068afeca867f56ac24b152a9c618675d05a7d07f8de70d8fe4592248",
+        "description": "Scoped public contribution artifact: RESULT.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "6e9525c246c62e68c0b73eadb8396bfecabcca3600a6f321f1af211302c8088c",
+        "description": "Scoped public contribution artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Scoped public contribution artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "public-source-provenance.json",
+        "sha256": "36df69e68f6eb3545b7cffcefaa7dd8bbc08ab5913a50e636b408ccb60b63403",
+        "description": "Scoped public contribution artifact: public-source-provenance.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "reproduce.py",
+        "sha256": "8fda639c9ea84af4a87d3a89ff6ae0ccb0f497a37bdd94f8c91c219cd5dd461c",
+        "description": "Scoped public contribution artifact: reproduce.py",
+        "license_declared": "Apache-2.0"
+      },
+      {
+        "path": "reproduction-result.json",
+        "sha256": "220dbabc50c663d2c5af023c22625dfd73d9780048bf3e2edbe9f6fe6cab9a80",
+        "description": "Scoped public contribution artifact: reproduction-result.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "rights-and-attribution.json",
+        "sha256": "6b28a48f8f3998203ff54762d355f2681e5c6b1773a4cb76f72bdc603b82d8b5",
+        "description": "Scoped public contribution artifact: rights-and-attribution.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "sources.json",
+        "sha256": "309e632dbdf758f611c85580702d422326190adc5bcba9526967c0fcb430873f",
+        "description": "Scoped public contribution artifact: sources.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "verification-report.json",
+        "sha256": "3fe9a2180b97c8b8662f0ad66319b55e0c1352b8de78c6fc45a1183475e9b66b",
+        "description": "Scoped public contribution artifact: verification-report.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ],
+    "result_kind": "lemma",
+    "answer_scope": "partial"
+  },
+  "signature": "c3f3dd527d82612305005e2de3a134256bc121ae0aad8f008b9569a5557da325a9f054546493c8c2e0016b6ee60e6a66def21ba9f9aea3d64fede4b3178a3709"
+}

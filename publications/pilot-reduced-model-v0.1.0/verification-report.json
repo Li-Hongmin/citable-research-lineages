@@ -1,0 +1,56 @@
+{
+  "coverage": "declared reduced model only; not independent mathematical acceptance",
+  "explicit_runtime_checks": 10,
+  "runs": [
+    {
+      "mode": "normal",
+      "exit_code": 0,
+      "semantic_match_public_output": true
+    },
+    {
+      "mode": "optimized",
+      "exit_code": 0,
+      "semantic_match_public_output": true
+    }
+  ],
+  "negative_controls": [
+    {
+      "mutation": "empty_patch",
+      "mode": "normal",
+      "rejected": true,
+      "false_pass_emitted": false
+    },
+    {
+      "mutation": "always_coherent",
+      "mode": "normal",
+      "rejected": true,
+      "false_pass_emitted": false
+    },
+    {
+      "mutation": "always_parent_kill",
+      "mode": "normal",
+      "rejected": true,
+      "false_pass_emitted": false
+    },
+    {
+      "mutation": "empty_patch",
+      "mode": "optimized",
+      "rejected": true,
+      "false_pass_emitted": false
+    },
+    {
+      "mutation": "always_coherent",
+      "mode": "optimized",
+      "rejected": true,
+      "false_pass_emitted": false
+    },
+    {
+      "mutation": "always_parent_kill",
+      "mode": "optimized",
+      "rejected": true,
+      "false_pass_emitted": false
+    }
+  ],
+  "same_codex_coordinator": true,
+  "scientific_validity": "not-assessed"
+}
