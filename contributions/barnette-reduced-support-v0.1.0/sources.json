@@ -1,0 +1,41 @@
+[
+  {
+    "note": "132",
+    "repository": "Li-Hongmin/AIMath",
+    "relative_source_path": "units/barnette/notes/132-complete-boundary-rows-and-bond-deletion-atoms-are-one-step-closed.md",
+    "source_commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+    "sha256": "d1bfcb75b8b5b359ea38c066cbde99677477524c467f2f0eb913ded0379289f7",
+    "matches_commit_blob": true,
+    "access": "private or public access unverified; not a public reproduction link",
+    "source_capture_utc": "2026-10-03T05:03:57.675055+00:00",
+    "role": "private source ancestry fingerprint; not a dependency of the self-contained reduced proof",
+    "license": "original source not included or relicensed",
+    "public_access_verified": false
+  },
+  {
+    "note": "133",
+    "repository": "Li-Hongmin/AIMath",
+    "relative_source_path": "units/barnette/notes/133-complete-unary-and-pair-type-supports-form-a-finite-cen-uv-transducer.md",
+    "source_commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+    "sha256": "e9fc1f3c00315d4c3de337ce58f9f7efebfa231b406409d5e8eff79feaefd135",
+    "matches_commit_blob": true,
+    "access": "private or public access unverified; not a public reproduction link",
+    "source_capture_utc": "2026-10-03T05:03:57.675055+00:00",
+    "role": "private source ancestry fingerprint; not a dependency of the self-contained reduced proof",
+    "license": "original source not included or relicensed",
+    "public_access_verified": false
+  },
+  {
+    "note": "134",
+    "repository": "Li-Hongmin/AIMath",
+    "relative_source_path": "units/barnette/notes/134-a-two-row-type-support-countermodel-isolates-the-actual-matching-incidence-gap.md",
+    "source_commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+    "sha256": "1411e79ac65eca82373278613ca3417d39fdf624a6cced8d33ebf1c4b4707762",
+    "matches_commit_blob": true,
+    "access": "private or public access unverified; not a public reproduction link",
+    "source_capture_utc": "2026-10-03T05:03:57.675055+00:00",
+    "role": "private source ancestry fingerprint; not a dependency of the self-contained reduced proof",
+    "license": "original source not included or relicensed",
+    "public_access_verified": false
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "publication_status": "authorized for this GitHub draft contribution; not merged",
+  "human_attribution_status": "human contribution credit authorized; no claim of independent human referee acceptance",
+  "source_authorship": "private-source exact authorship not asserted; source fingerprints only, no original text copied",
+  "source_ai_roles": "not established; no claim about authorship or AI roles of private original notes",
+  "new_package_ai_roles": {
+    "tool": "Codex in this task",
+    "actions": [
+      "bounded source argument review",
+      "new self-contained reduced-language statement and proof",
+      "independent local patch enumerator and reduced-model verifier",
+      "draft CRL content and packaging"
+    ],
+    "independence_boundary": "new implementation independent of archived project scripts; same Codex task, not independent human/different-model acceptance"
+  },
+  "content_license": {
+    "status": "authorized",
+    "identifier": "CC-BY-4.0",
+    "scope": "new QUESTION.md, RESULT.md, REVIEW.md, README.md and authored metadata/reproduction output in this contribution only",
+    "terms": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "code_license": {
+    "status": "authorized",
+    "identifier": "Apache-2.0",
+    "scope": "new reproduce.py only",
+    "terms": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "third_party_material": "no original private note, external paper, raw chat, private review or archived source script included; source hashes do not relicense sources",
+  "crl_existing_license_inheritance": false,
+  "human_contributor": "Li Hongmin"
+}

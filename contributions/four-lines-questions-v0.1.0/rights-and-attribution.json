@@ -1,0 +1,19 @@
+{
+  "human_contributor": "Li Hongmin",
+  "ai_roles": {
+    "tool": "Codex",
+    "actions": [
+      "bounded source reading",
+      "original question formulation",
+      "scope and version checks"
+    ],
+    "not_claimed": "independent acceptance of private proofs"
+  },
+  "content_license": {
+    "status": "authorized",
+    "identifier": "CC-BY-4.0",
+    "scope": "new questions and authored metadata only"
+  },
+  "original_sources": "not included or relicensed",
+  "third_party_artifacts_copied": false
+}
