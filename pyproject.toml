@@ -1,0 +1,13 @@
+[project]
+name = "crl-event-prototype"
+version = "0.1.0"
+description = "Local signature and dispute-context experiment for CRL"
+requires-python = ">=3.11"
+dependencies = ["cryptography>=45,<48", "rfc8785>=0.1.4,<1"]
+
+[dependency-groups]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
