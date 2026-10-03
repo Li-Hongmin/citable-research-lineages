@@ -1,0 +1,62 @@
+[
+  {
+    "line": "berge-fulkerson",
+    "note": "615",
+    "repository": "Li-Hongmin/AIMath",
+    "relative_source_path": "units/berge-fulkerson/notes/615-no-central-bridge-on-the-four-path-in-five-four-zero.md",
+    "sha256": "1101b712d44a9ce1d9ebbcb43fd0dc0da9b6a4ae6095327975826e42d772c291",
+    "local_source_commit": null,
+    "public_access_verified": false,
+    "included_or_relicensed": false,
+    "status": "question motivation only; source proof not independently accepted",
+    "captured_utc": "2026-10-03T05:03:57.675055+00:00"
+  },
+  {
+    "line": "berge-fulkerson",
+    "note": "616",
+    "repository": "Li-Hongmin/AIMath",
+    "relative_source_path": "units/berge-fulkerson/notes/616-no-doubled-edge-plus-bridge-twelve-vertex-exterior-survives-exact-case-xii.md",
+    "sha256": "065878ee8fee0f261313be55f0644a32a4e52025006c6d0c9d50e224d7bc52a4",
+    "local_source_commit": null,
+    "public_access_verified": false,
+    "included_or_relicensed": false,
+    "status": "question motivation only; source proof not independently accepted",
+    "captured_utc": "2026-10-03T05:03:57.675055+00:00"
+  },
+  {
+    "line": "nnp",
+    "note": "609",
+    "repository": "Li-Hongmin/N-and-NP",
+    "relative_source_path": "units/rw-jk-succinct-reconstruction/notes/609-all-five-choice-third-source-branches-contract-on-the-ledger-separator-2026-10-03.md",
+    "sha256": "89d0d63f8b407d5e62422e920b0b24c62bb9ba82b885aedac1c4f29fa38c0038",
+    "local_source_commit": null,
+    "public_access_verified": false,
+    "included_or_relicensed": false,
+    "status": "question motivation only; source proof not independently accepted",
+    "captured_utc": "2026-10-03T06:24:02.804543+00:00"
+  },
+  {
+    "line": "rh",
+    "note": "879",
+    "repository": "Li-Hongmin/Riemann-Hypothesis-Weil",
+    "relative_source_path": "notes/879-macroscopic-prime-sign-instability-of-the-complete-two-arm-band.md",
+    "sha256": "01d1d1ff1f9519cccb911170e59fd8ad374d67a110446374561291bb8e954fb1",
+    "local_source_commit": "c9fc9a5fcc1152946182fda493e1be6b114c7c9e",
+    "public_access_verified": false,
+    "included_or_relicensed": false,
+    "status": "question motivation only; source proof not independently accepted",
+    "captured_utc": "2026-10-03T05:03:57.675055+00:00"
+  },
+  {
+    "line": "rh",
+    "note": "880",
+    "repository": "Li-Hongmin/Riemann-Hypothesis-Weil",
+    "relative_source_path": "notes/880-true-prime-packet-self-cancels-across-observation-distances.md",
+    "sha256": "7cb06022568093722ff192c8cddd11dc4376abf3267ac1db673878aac21fd433",
+    "local_source_commit": "c9fc9a5fcc1152946182fda493e1be6b114c7c9e",
+    "public_access_verified": false,
+    "included_or_relicensed": false,
+    "status": "question motivation only; source proof not independently accepted",
+    "captured_utc": "2026-10-03T05:03:57.675055+00:00"
+  }
+]

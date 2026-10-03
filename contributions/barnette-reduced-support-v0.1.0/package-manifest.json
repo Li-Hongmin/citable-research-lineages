@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0-draft.1",
+  "scope": "bounded contribution files only; not a repository freeze",
+  "crl_reference_commit": "402829cb68c45056749bb37f319b523b53c5df30",
+  "files": [
+    {
+      "path": "LICENSE.md",
+      "bytes": 1275,
+      "sha256": "8f416a0fba307fcefba25a986b80632bfcf299d2d264ef8d3f9ebfab55bc340d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "QUESTION.md",
+      "bytes": 1051,
+      "sha256": "a19bf7c162f5a13c5d67b8b0d63f75656015bdc6cfaf52f846f65aec8a2307fd",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3034,
+      "sha256": "9c704111e77a336fcdb5ee5892a46186a04d120fda0352a417b892df09e29f60",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "RESULT.md",
+      "bytes": 4724,
+      "sha256": "974343b2068afeca867f56ac24b152a9c618675d05a7d07f8de70d8fe4592248",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "REVIEW.md",
+      "bytes": 3580,
+      "sha256": "3b68ab7f36aacb760ceff7745df226eb48e43700b6f381637578f41b6769ae5d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 14,
+      "sha256": "8bb8d7aeb2301655cc28824f4c288d3a1b5510794b056086b72c44b2169f151a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "records.draft.json",
+      "bytes": 11909,
+      "sha256": "df8f65809e244ca3545f9f9eba9ef4087728075f4f8c2d6a1ca3d25f7ddbc56b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 6523,
+      "sha256": "4e1ce2e2a00af4f391f56c4c5e9f33aa668cfdf58565a5034a688ccc579eae47",
+      "license": "Apache-2.0"
+    },
+    {
+      "path": "reproduction-result.json",
+      "bytes": 1402,
+      "sha256": "220dbabc50c663d2c5af023c22625dfd73d9780048bf3e2edbe9f6fe6cab9a80",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "rights-and-attribution.json",
+      "bytes": 1614,
+      "sha256": "880d6dc4723061456660c5a0cdb501017c1ed968b157be56544101333fe4eb5e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 2184,
+      "sha256": "309e632dbdf758f611c85580702d422326190adc5bcba9526967c0fcb430873f",
+      "license": "CC-BY-4.0"
+    }
+  ],
+  "unsigned_content_only": true,
+  "original_private_proofs_included": false,
+  "source_fingerprints": "sources.json",
+  "claim_review": "REVIEW.md"
+}

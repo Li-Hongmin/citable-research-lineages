@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0-draft.1",
+  "scope": "bounded contribution files only; not a repository freeze",
+  "crl_reference_commit": "402829cb68c45056749bb37f319b523b53c5df30",
+  "files": [
+    {
+      "path": "QUESTION.md",
+      "bytes": 3016,
+      "sha256": "b8a95d13ab37a2aade2ce5844c3d5da01b1df98bafcd3a86507caaa0ffc2312f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1503,
+      "sha256": "7946c7b9bb8a399dc05ea9c17bce36354d9fb1a9921313ef7be753d3150bdd1c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 14,
+      "sha256": "8bb8d7aeb2301655cc28824f4c288d3a1b5510794b056086b72c44b2169f151a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "rights-and-attribution.json",
+      "bytes": 508,
+      "sha256": "51ced39ee04f6e786f7e5ed4c1bbcd80654bff1f0289a297a1222fcb20999af6",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 2836,
+      "sha256": "b24e764edd7920551a9031e64106d9e1a36a1b8e032755271d7915d29a4ae3de",
+      "license": "CC-BY-4.0"
+    }
+  ],
+  "unsigned_content_only": true,
+  "original_private_proofs_included": false,
+  "source_fingerprints": "sources.json",
+  "claim_review": null
+}

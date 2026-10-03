@@ -1,0 +1,228 @@
+{
+  "status": "UNSIGNED CONTENT DRAFTS; NOT CRL WIRE EVENTS",
+  "crl_reference_commit": "402829cb68c45056749bb37f319b523b53c5df30",
+  "finalization_required": [
+    "these content drafts are intentionally unsigned and may be reviewed through the manual GitHub workflow",
+    "if a signed wire event is requested later, use an explicitly authorized signer and resolve references to actual signed event IDs"
+  ],
+  "records": [
+    {
+      "draft_ref": "question",
+      "reader_label": "QUESTION",
+      "kind": "PROBLEM",
+      "problem": "barnette:reduced-boundary-support-supplementation",
+      "created_at": 1791010926,
+      "relations": [],
+      "content": {
+        "attribution": {
+          "publication_status": "authorized for this GitHub draft contribution; not merged",
+          "human_attribution_status": "human contribution credit authorized; no claim of independent human referee acceptance",
+          "source_authorship": "private-source exact authorship not asserted; source fingerprints only, no original text copied",
+          "source_ai_roles": "not established; no claim about authorship or AI roles of private original notes",
+          "new_package_ai_roles": {
+            "tool": "Codex in this task",
+            "actions": [
+              "bounded source argument review",
+              "new self-contained reduced-language statement and proof",
+              "independent local patch enumerator and reduced-model verifier",
+              "draft CRL content and packaging"
+            ],
+            "independence_boundary": "new implementation independent of archived project scripts; same Codex task, not independent human/different-model acceptance"
+          },
+          "content_license": {
+            "status": "authorized",
+            "identifier": "CC-BY-4.0",
+            "scope": "new QUESTION.md, RESULT.md, REVIEW.md, README.md and authored metadata/reproduction output in this contribution only",
+            "terms": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "code_license": {
+            "status": "authorized",
+            "identifier": "Apache-2.0",
+            "scope": "new reproduce.py only",
+            "terms": "https://www.apache.org/licenses/LICENSE-2.0"
+          },
+          "third_party_material": "no original private note, external paper, raw chat, private review or archived source script included; source hashes do not relicense sources",
+          "crl_existing_license_inheritance": false,
+          "human_contributor": "Li Hongmin"
+        },
+        "publication_status": "authorized public draft content; not a signed event",
+        "access": "relative artifacts in this contribution; private source fingerprints only",
+        "title": "Which actual matching-incidence axiom forces supplementation?",
+        "artifact": "QUESTION.md",
+        "status": "question",
+        "license": "CC-BY-4.0 for new text; Apache-2.0 for reproduce.py"
+      }
+    },
+    {
+      "draft_ref": "reduced-result",
+      "reader_label": "RESULT",
+      "kind": "CLAIM",
+      "problem": "barnette:reduced-boundary-support-supplementation",
+      "created_at": 1791010926,
+      "relations": [
+        {
+          "type": "addresses",
+          "target_draft_ref": "question"
+        }
+      ],
+      "content": {
+        "attribution": {
+          "publication_status": "authorized for this GitHub draft contribution; not merged",
+          "human_attribution_status": "human contribution credit authorized; no claim of independent human referee acceptance",
+          "source_authorship": "private-source exact authorship not asserted; source fingerprints only, no original text copied",
+          "source_ai_roles": "not established; no claim about authorship or AI roles of private original notes",
+          "new_package_ai_roles": {
+            "tool": "Codex in this task",
+            "actions": [
+              "bounded source argument review",
+              "new self-contained reduced-language statement and proof",
+              "independent local patch enumerator and reduced-model verifier",
+              "draft CRL content and packaging"
+            ],
+            "independence_boundary": "new implementation independent of archived project scripts; same Codex task, not independent human/different-model acceptance"
+          },
+          "content_license": {
+            "status": "authorized",
+            "identifier": "CC-BY-4.0",
+            "scope": "new QUESTION.md, RESULT.md, REVIEW.md, README.md and authored metadata/reproduction output in this contribution only",
+            "terms": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "code_license": {
+            "status": "authorized",
+            "identifier": "Apache-2.0",
+            "scope": "new reproduce.py only",
+            "terms": "https://www.apache.org/licenses/LICENSE-2.0"
+          },
+          "third_party_material": "no original private note, external paper, raw chat, private review or archived source script included; source hashes do not relicense sources",
+          "crl_existing_license_inheritance": false,
+          "human_contributor": "Li Hongmin"
+        },
+        "publication_status": "authorized public draft content; not a signed event",
+        "access": "relative artifacts in this contribution; private source fingerprints only",
+        "title": "A minimum two-row countermodel in an explicitly reduced finite relational language",
+        "artifact": "RESULT.md",
+        "proof_status": "analytic reduced-model proof and finite implementation check",
+        "scope": "endpoint/equality/transpose/diagonal axioms plus local patch defect production only",
+        "not_claimed": [
+          "full marked partition realization",
+          "graph-realizable Barnette counterexample",
+          "CEN/UV reachability",
+          "Barnette conjecture solved"
+        ],
+        "license": "CC-BY-4.0 for new text; Apache-2.0 for reproduce.py"
+      }
+    },
+    {
+      "draft_ref": "finite-reproduction",
+      "reader_label": "REVIEW",
+      "kind": "REPLICATION",
+      "problem": "barnette:reduced-boundary-support-supplementation",
+      "created_at": 1791010926,
+      "relations": [
+        {
+          "type": "reproduces",
+          "target_draft_ref": "reduced-result"
+        }
+      ],
+      "content": {
+        "attribution": {
+          "publication_status": "authorized for this GitHub draft contribution; not merged",
+          "human_attribution_status": "human contribution credit authorized; no claim of independent human referee acceptance",
+          "source_authorship": "private-source exact authorship not asserted; source fingerprints only, no original text copied",
+          "source_ai_roles": "not established; no claim about authorship or AI roles of private original notes",
+          "new_package_ai_roles": {
+            "tool": "Codex in this task",
+            "actions": [
+              "bounded source argument review",
+              "new self-contained reduced-language statement and proof",
+              "independent local patch enumerator and reduced-model verifier",
+              "draft CRL content and packaging"
+            ],
+            "independence_boundary": "new implementation independent of archived project scripts; same Codex task, not independent human/different-model acceptance"
+          },
+          "content_license": {
+            "status": "authorized",
+            "identifier": "CC-BY-4.0",
+            "scope": "new QUESTION.md, RESULT.md, REVIEW.md, README.md and authored metadata/reproduction output in this contribution only",
+            "terms": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "code_license": {
+            "status": "authorized",
+            "identifier": "Apache-2.0",
+            "scope": "new reproduce.py only",
+            "terms": "https://www.apache.org/licenses/LICENSE-2.0"
+          },
+          "third_party_material": "no original private note, external paper, raw chat, private review or archived source script included; source hashes do not relicense sources",
+          "crl_existing_license_inheritance": false,
+          "human_contributor": "Li Hongmin"
+        },
+        "publication_status": "authorized public draft content; not a signed event",
+        "access": "relative artifacts in this contribution; private source fingerprints only",
+        "artifact": "REVIEW.md",
+        "verifier": "reproduce.py",
+        "output": "reproduction-result.json",
+        "status": "successful within declared finite scope",
+        "coverage": {
+          "patch_subsets": 256,
+          "child_assignment_combinations": 64,
+          "singleton_flag_cases": 16
+        },
+        "checker": "same Codex task; new implementation independent of archived scripts",
+        "license": "CC-BY-4.0 for new text; Apache-2.0 for reproduce.py"
+      }
+    },
+    {
+      "draft_ref": "stronger-reading-objection",
+      "reader_label": "REVIEW",
+      "kind": "CHALLENGE",
+      "problem": "barnette:reduced-boundary-support-supplementation",
+      "created_at": 1791010926,
+      "relations": [
+        {
+          "type": "challenges",
+          "target_draft_ref": "reduced-result"
+        }
+      ],
+      "content": {
+        "attribution": {
+          "publication_status": "authorized for this GitHub draft contribution; not merged",
+          "human_attribution_status": "human contribution credit authorized; no claim of independent human referee acceptance",
+          "source_authorship": "private-source exact authorship not asserted; source fingerprints only, no original text copied",
+          "source_ai_roles": "not established; no claim about authorship or AI roles of private original notes",
+          "new_package_ai_roles": {
+            "tool": "Codex in this task",
+            "actions": [
+              "bounded source argument review",
+              "new self-contained reduced-language statement and proof",
+              "independent local patch enumerator and reduced-model verifier",
+              "draft CRL content and packaging"
+            ],
+            "independence_boundary": "new implementation independent of archived project scripts; same Codex task, not independent human/different-model acceptance"
+          },
+          "content_license": {
+            "status": "authorized",
+            "identifier": "CC-BY-4.0",
+            "scope": "new QUESTION.md, RESULT.md, REVIEW.md, README.md and authored metadata/reproduction output in this contribution only",
+            "terms": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "code_license": {
+            "status": "authorized",
+            "identifier": "Apache-2.0",
+            "scope": "new reproduce.py only",
+            "terms": "https://www.apache.org/licenses/LICENSE-2.0"
+          },
+          "third_party_material": "no original private note, external paper, raw chat, private review or archived source script included; source hashes do not relicense sources",
+          "crl_existing_license_inheritance": false,
+          "human_contributor": "Li Hongmin"
+        },
+        "publication_status": "authorized public draft content; not a signed event",
+        "access": "relative artifacts in this contribution; private source fingerprints only",
+        "artifact": "REVIEW.md",
+        "status": "retained scope objection; not a disproof of the reduced theorem",
+        "objection": "Full marked unary/pair atom data and partition joins in source note134 are not instantiated by this package. Any upgrade of the verified projection to the full marked-type assertion or a graph counterexample is unverified.",
+        "requested_resolution": "Provide explicit complete atoms and validated joins, or retain the reduced-language scope.",
+        "license": "CC-BY-4.0 for new text; Apache-2.0 for reproduce.py"
+      }
+    }
+  ]
+}
