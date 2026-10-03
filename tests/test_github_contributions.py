@@ -138,3 +138,29 @@ def test_replication_compares_output_and_retains_runtime_metadata(tmp_path):
     output.write_text('{"answer": 5}')
     with pytest.raises(ValueError, match='Reproduction output mismatch'):
         check_package(tmp_path, reproduce=True)
+
+
+@pytest.mark.parametrize('case, message', [('tamper', 'hash/size mismatch'),
+    ('omitted', 'cover every'), ('license', 'license mismatch'), ('version', 'VERSION')])
+def test_package_manifest_detects_real_revision_errors(tmp_path, case, message):
+    import hashlib
+    package(tmp_path)
+    (tmp_path / 'VERSION').write_text('0.1.0-draft.1\n')
+    entries = [{'path': p.name, 'bytes': p.stat().st_size,
+                'sha256': hashlib.sha256(p.read_bytes()).hexdigest(), 'license': 'CC-BY-4.0'}
+               for p in sorted(tmp_path.iterdir())]
+    manifest = {'version': '0.1.0-draft.1', 'crl_reference_commit': 'a' * 40, 'files': entries}
+    path = tmp_path / 'package-manifest.json'
+    path.write_text(json.dumps(manifest))
+    assert check_package(tmp_path)['package_manifest_checked']
+    if case == 'tamper':
+        (tmp_path / 'RESULT.md').write_text('Changed claim')
+    elif case == 'omitted':
+        (tmp_path / 'additional.md').write_text('Unlisted file')
+    elif case == 'license':
+        manifest['files'][0]['license'] = 'Unapproved'
+        path.write_text(json.dumps(manifest))
+    else:
+        (tmp_path / 'VERSION').write_text('0.2.0')
+    with pytest.raises(ValueError, match=message):
+        check_package(tmp_path)

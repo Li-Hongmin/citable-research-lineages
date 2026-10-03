@@ -1,5 +1,6 @@
 """Check the current manual GitHub contribution format, without signing drafts."""
 import argparse
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -48,6 +49,31 @@ def check_package(root, *, reproduce=False):
         if (license_info.get('status') != 'authorized' or not license_info.get('identifier')
                 or not license_info.get('scope')):
             raise ValueError('Missing explicit authorized license metadata: ' + key)
+    manifest_path = root / 'package-manifest.json'
+    if manifest_path.exists():
+        manifest = load(manifest_path)
+        if re.fullmatch(r'[0-9a-f]{40}', manifest.get('crl_reference_commit', '')) is None:
+            raise ValueError('Package reference must be a full commit SHA')
+        if artifact(root, 'VERSION').read_text().strip() != manifest.get('version'):
+            raise ValueError('Package version differs from VERSION')
+        listed = set()
+        for entry in manifest['files']:
+            name = entry['path']
+            if name in listed or name == 'package-manifest.json':
+                raise ValueError('Duplicate or self-referencing manifest file')
+            listed.add(name)
+            path = artifact(root, name)
+            with path.open('rb') as stream:
+                sha = hashlib.file_digest(stream, 'sha256').hexdigest()
+            if sha != entry['sha256'] or path.stat().st_size != entry['bytes']:
+                raise ValueError('Package file hash/size mismatch: ' + name)
+            license_key = 'code_license' if path.suffix == '.py' else 'content_license'
+            if entry.get('license') != rights[license_key]['identifier']:
+                raise ValueError('Package file license mismatch: ' + name)
+        existing = {str(p.relative_to(root)) for p in root.rglob('*') if p.is_file()
+                    and '__pycache__' not in p.parts and p != manifest_path}
+        if listed != existing:
+            raise ValueError('Manifest must cover every package file except itself/runtime cache')
     records_path = root / 'records.draft.json'
     records, duplicates = {}, 0
     reproductions = []
@@ -122,7 +148,7 @@ def check_package(root, *, reproduce=False):
                                   'runtime_python': runtime})
     challenges = sum(r['kind'] == 'CHALLENGE' for r in records.values())
     return {'path': root.name, 'unique_records': len(records), 'duplicate_replays': duplicates,
-            'retained_challenges': challenges, 'reproductions': reproductions,
+            'package_manifest_checked': manifest_path.exists(), 'retained_challenges': challenges, 'reproductions': reproductions,
             'context_status': 'HAS_RETAINED_CHALLENGE' if challenges else 'NO_CHALLENGE_IN_PROVIDED_FILES',
             'scope': 'manual unsigned draft metadata only; no identity/rights/proof verification'}
 
