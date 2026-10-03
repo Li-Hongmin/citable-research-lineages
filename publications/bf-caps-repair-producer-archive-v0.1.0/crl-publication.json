@@ -1,0 +1,140 @@
+{
+  "id": "crl:sha256:7f664eff56b77d763b65fba63133ad7ca62d7e1fd3fc1d1b9b0d533fa5a1c762",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "REVIEW",
+    "problem": "crl:problem:berge-fulkerson",
+    "title": "Complementary caps, challenged certificates and scoped repair archives",
+    "body": "# Complementary caps, challenged certificates and scoped repair archives\n\nThe archive retains the failed 642 S/T substitution and its actual complementary-cap correction, the compatible-pair gap, pulse5 certificate corrections and pulse6 canonical/literal repair restrictions. Required finite-checker input tables and witnesses are included. Historical assertions and run outputs remain unreviewed evidence; no research code was executed for this edition.\n\nThis artifact-check review is inconclusive about mathematical validity. It preserves sources, their documented corrections and their limitations; it does not add a theorem, authenticate all upstream interfaces or supersede the existing RESULT.\n\n- The old 642 allowed-loop S was not the physical cap T=K5−S; its local tables are retained as rejected historical material.\n- Explicit cap colourings do not prove exact-XII support, minimum-host forcing or compatible-pair existence.\n- The pulse3 distance/configuration examples do not certify a universal compatible-pair minimization principle.\n- Pulse5 correction notes and the current frozen certificate coexist; unsaved prepatch bytes are not invented.\n- Pulse6 fixed-C/literal and canonical selectors do not imply arbitrary adjacent-Circle or arbitrary free-completion exclusions.\n\nConfirmed self-owned text and data: CC BY 4.0. Code: Apache-2.0. Human contribution credit: Li Hongmin. AI roles are disclosed in RIGHTS-AND-ATTRIBUTION.json. Archived source or checkpoint permission wording describes a historical state; this edition has current publication authorization.\n",
+    "scope": "Preserve actual-T cap sources, matching/certificate checks and pulse2–6 repair checkpoints with their corrections and fixed-C/canonical boundaries. Artifact-check and dependency inventory; no general host exclusion or Berge-Fulkerson conclusion.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T17:36:01Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:01b35e5c1883eae2eccb6b879b89d44e90f615b3db7089d7328fef89590b5551",
+        "scope": "Preserve actual-T cap sources, matching/certificate checks and pulse2–6 repair checkpoints with their corrections and fixed-C/canonical boundaries. Artifact-check and dependency inventory; no general host exclusion or Berge-Fulkerson conclusion."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Preserve actual-T cap sources, matching/certificate checks and pulse2–6 repair checkpoints with their corrections and fixed-C/canonical boundaries. Artifact-check and dependency inventory; no general host exclusion or Berge-Fulkerson conclusion."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "be72a49deddb72e34f4f2272433b17a85786cfb14e73489887394f31a3a5f2f9",
+        "description": "Inspectable scoped archive artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "DEPENDENCIES.json",
+        "sha256": "46a75625e0aa846b71b3c2b29d4346df08763ce6728905b4c2ca48f0ef05ee0e",
+        "description": "Inspectable scoped archive artifact: DEPENDENCIES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "f24c5cc427adc46bb925181f08a3b0bcd27f19a16b98912e32e1c26a9f51c2de",
+        "description": "Inspectable scoped archive artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Inspectable scoped archive artifact: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Inspectable scoped archive artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "a6bde1b2befa1f13299b44f6d7f00267fc52287bbc6e812e467e679ce12c00f1",
+        "description": "Inspectable scoped archive artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "76e4aa543e4edbd7f674736371429974b55049ea2237faae3d07e3dc38313d96",
+        "description": "Inspectable scoped archive artifact: MATERIALS.zip",
+        "license_declared": "Mixed: CC-BY-4.0 text/data and Apache-2.0 code; see MATERIAL-MANIFEST.json"
+      },
+      {
+        "path": "MIGRATION-STATUS.json",
+        "sha256": "06229aeb456f12b242aae7f6be7ccaf9205e3b441c5ca1b3d0882b11aff31200",
+        "description": "Inspectable scoped archive artifact: MIGRATION-STATUS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "c294210821ce5ba9f2c4e900e033d3c111431742fc99ebda9117e5bfb05676bf",
+        "description": "Inspectable scoped archive artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "5234083fdc7ee56e60f0edf5b052c048bf863aacfcef28803446d7a42f036185",
+        "description": "Inspectable scoped archive artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "88174df1a2dba3cb57eb569061d9bbb5ef1238e97d7d0d48a259ec081a74bee8",
+        "description": "Inspectable scoped archive artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "3c52f473df473200fc620e8ff5752c9891d7a761a1d160153126f6cd30d6a72e",
+        "description": "Inspectable scoped archive artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "5b3fbeefb092c5dcda172ef54093a1151c9dab742867694288f07581cb0bd77a",
+        "description": "Inspectable scoped archive artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "bb2e0dccb50ea1031d789290f4fddefd133ee17e5af47e6d221a802e9e081a10",
+        "description": "Inspectable scoped archive artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Inspectable scoped archive artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "4b411d0da9dabec290bc3a91a0310e3ed40a8536a3f7ba2bc2f370b8145d7216",
+        "description": "Inspectable scoped archive artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ]
+  },
+  "signature": "e8b2e473f3d082635b69345d76947c47bbc6ded9746f75e95e1cc51b0fe6e8c9fc61217e70120a2096081a11dc5bf8a111a6322f5f15a4e582c401b890961109"
+}

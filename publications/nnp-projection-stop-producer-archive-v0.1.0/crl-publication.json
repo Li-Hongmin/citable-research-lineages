@@ -1,0 +1,140 @@
+{
+  "id": "crl:sha256:5e2d32447288c0b7f2c6b2b8722c4c91953f6dd5f5471fd56262218aba3abab5",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "REVIEW",
+    "problem": "crl:problem:p-vs-np",
+    "title": "Finite-field projection sources, corrections and actual-source stopping gates",
+    "body": "# Finite-field projection sources, corrections and actual-source stopping gates\n\nThe archive separates algebraic projection identities and explicitly synthetic canonical toys from actual-source reachability. It retains the product correction H=s(1+rv), pulse6 certificate gates, pulse7 feasibility stopping point and the fact that the reusable lemma was appended after its preceding review. Code input closure is complete; actual upstream source interfaces remain conditional and unbundled.\n\nThis artifact-check review is inconclusive about mathematical validity. It preserves sources, their documented corrections and their limitations; it does not add a theorem, authenticate all upstream interfaces or supersede the existing RESULT.\n\n- Wrong early T=s+rv is preserved in the correction discussion; the corrected product is H=s(1+rv).\n- A nonzero highest coefficient, pointwise density or a freely chosen canonical toy does not prove complete-coordinate survival for an actual RW section.\n- Same-source, public weight and fixed-third-remainder restrictions remain assumptions.\n- Notes 516 and related target-ledger interfaces remain pending; a historical head/max-history reference is not an independently certified endpoint.\n- The pulse7 review predates the appended reusable lemma; this archive does not retroactively authenticate it.\n- Included outputs are historical run artifacts, not new reruns or actual-RW witnesses.\n\nConfirmed self-owned text and data: CC BY 4.0. Code: Apache-2.0. Human contribution credit: Li Hongmin. AI roles are disclosed in RIGHTS-AND-ATTRIBUTION.json. Archived source or checkpoint permission wording describes a historical state; this edition has current publication authorization.\n",
+    "scope": "Preserve pulse2–7 finite-field/projection sources, checker code and historical output, including wrong-H correction and unresolved actual-source certificate gates. Artifact-check only; abstract/toy models are not actual RW witnesses or a P versus NP result.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T17:36:01Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+        "scope": "Preserve pulse2–7 finite-field/projection sources, checker code and historical output, including wrong-H correction and unresolved actual-source certificate gates. Artifact-check only; abstract/toy models are not actual RW witnesses or a P versus NP result."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Preserve pulse2–7 finite-field/projection sources, checker code and historical output, including wrong-H correction and unresolved actual-source certificate gates. Artifact-check only; abstract/toy models are not actual RW witnesses or a P versus NP result."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "617da2766bf6c567b9534aa73d4e344c15f5bfc991c700f8117189b63e232aef",
+        "description": "Inspectable scoped archive artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "DEPENDENCIES.json",
+        "sha256": "2daae5d2b2f3a9008cd9f26f89f8548ff06da0a19e9a3120ae3acadb2b87c623",
+        "description": "Inspectable scoped archive artifact: DEPENDENCIES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "f24c5cc427adc46bb925181f08a3b0bcd27f19a16b98912e32e1c26a9f51c2de",
+        "description": "Inspectable scoped archive artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Inspectable scoped archive artifact: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Inspectable scoped archive artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "12ef298f6d12cfda4ddc421269bfd008099619c9492548d467da30de895f71f4",
+        "description": "Inspectable scoped archive artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "b177302dfb816a9ac66d553b714085d7519d4bf85c58f313d297aa741a3d1068",
+        "description": "Inspectable scoped archive artifact: MATERIALS.zip",
+        "license_declared": "Mixed: CC-BY-4.0 text/data and Apache-2.0 code; see MATERIAL-MANIFEST.json"
+      },
+      {
+        "path": "MIGRATION-STATUS.json",
+        "sha256": "24ac55b0529d79945b88fe3ae9e0170c8ca937bdbc3b19dd50ceb0778d6e0d77",
+        "description": "Inspectable scoped archive artifact: MIGRATION-STATUS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "9be79f2646fd6ca615a91927738982ad13dbce0fff13dbe2133f54c770423025",
+        "description": "Inspectable scoped archive artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "a819f2b7fc5f4c707cde9d0223003aec85bef5a90eefb042d2230abf2b3d4517",
+        "description": "Inspectable scoped archive artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "26a536f544862b15983a5c163b46fb663f1a2ffdef90c52250bb58739b4b86ce",
+        "description": "Inspectable scoped archive artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "3c52f473df473200fc620e8ff5752c9891d7a761a1d160153126f6cd30d6a72e",
+        "description": "Inspectable scoped archive artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "86b41cded2ca5bccd7fc4a6bbbb5d59bc8382e093d74ed085340e04a8f5d3fd4",
+        "description": "Inspectable scoped archive artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "bb2e0dccb50ea1031d789290f4fddefd133ee17e5af47e6d221a802e9e081a10",
+        "description": "Inspectable scoped archive artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Inspectable scoped archive artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "6c2eeb99c693c951c8dc4d8c8f8ae8dfe9dd0ad155947f8f089465018e884bd9",
+        "description": "Inspectable scoped archive artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ]
+  },
+  "signature": "0873c2477541840715653cdc00013d8a459ed77c72398e99abf1acdc3341ff7416715d0dacaae49a3542050e98a9ac17001bbecc834723a1f891dc8617e8000f"
+}

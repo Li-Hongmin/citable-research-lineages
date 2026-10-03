@@ -1,0 +1,117 @@
+{
+  "policy": "Source/code I/O closure is checked; complete historical mathematical premise closure remains pending.",
+  "candidate_reference_edges": [
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "numbered-note-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "176",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "numbered-note-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "410",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "numbered-note-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "458",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/barnette-general-square-splicing-lemma.md",
+      "kind": "numbered-note-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "458",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/barnette-general-square-splicing-lemma.md",
+      "kind": "numbered-note-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "914",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "explicit-numbered-context-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "403",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "explicit-numbered-context-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "404",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "explicit-numbered-context-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "773",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "kind": "explicit-numbered-context-reference",
+      "target": {
+        "kind": "unbundled-numbered-source",
+        "note_number": "914",
+        "status": "pending-context-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    }
+  ],
+  "edge_count": 9,
+  "named_reference_resolution": [
+    {
+      "source": "material/task-4/upstream-independent-review.md",
+      "named_reference": "barnette-general-square-splicing-lemma.md",
+      "bundled_targets": [
+        "material/task-4/barnette-general-square-splicing-lemma.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    }
+  ],
+  "runtime_inputs": [],
+  "local_modules": [],
+  "checker_working_directory": "Not applicable: two Markdown documents; no checker.",
+  "runtime_input_closure": "Not applicable: two Markdown documents; no code/runtime inputs/run-output artifacts.",
+  "bibliography": "Historical literature citations are retained as citations; no third-party full text or endorsement is included.",
+  "actual_source_interface_status": "conditional-and-unbundled",
+  "runtime_dependencies": {
+    "execution": "Not applicable: documents inspected as text; no research program execution.",
+    "package": "Two Markdown source documents; no executable code, runtime inputs or run-output artifacts."
+  }
+}

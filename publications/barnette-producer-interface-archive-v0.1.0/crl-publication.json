@@ -1,0 +1,134 @@
+{
+  "id": "crl:sha256:894c4e41952742bcc08d526e56a3d710534eb3ce006a1ec391974827dc86a577",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "REVIEW",
+    "problem": "crl:problem:barnette",
+    "title": "Frozen Barnette producer texts and conditional application interfaces",
+    "body": "# Frozen Barnette producer texts and conditional application interfaces\n\nThe two producer source hashes match the earlier indexed contribution. The lemma states the disjoint square supports, degree-one/two pattern, terminal count 0/2/4 and connectivity explicitly. The upstream interface review records conditional application assumptions and a hand-described 26-vertex profile example; it does not establish the entire application chain or refute Barnette.\n\nThis artifact-check review is inconclusive about mathematical validity. It preserves sources, their documented corrections and their limitations; it does not add a theorem, authenticate all upstream interfaces or supersede the existing RESULT.\n\n- The Statement/Proof of the square-splicing lemma is self-contained within its stated hypotheses.\n- Notes 176/403/404/410/458/773/914 are unbundled historical application context, not verified public premises.\n- The 26-vertex example concerns an overstrong automatic-profile inference; its graph properties were not independently rerun here.\n- Same-model fresh-context checking is not human or heterogeneous peer acceptance.\n\nConfirmed self-owned text and data: CC BY 4.0. Code: Apache-2.0. Human contribution credit: Li Hongmin. AI roles are disclosed in RIGHTS-AND-ATTRIBUTION.json. Archived source or checkpoint permission wording describes a historical state; this edition has current publication authorization.\n",
+    "scope": "Preserve the two frozen producer sources of the indexed square-splicing result and distinguish its self-contained proof from unclosed application-profile and exterior-seam interfaces. Artifact-check only; no new theorem or independent acceptance.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T17:36:01Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+        "scope": "Preserve the two frozen producer sources of the indexed square-splicing result and distinguish its self-contained proof from unclosed application-profile and exterior-seam interfaces. Artifact-check only; no new theorem or independent acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Preserve the two frozen producer sources of the indexed square-splicing result and distinguish its self-contained proof from unclosed application-profile and exterior-seam interfaces. Artifact-check only; no new theorem or independent acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "de5bd6050ab2e5b26a14744ed59e7a353afff24db792c388ee2fa6ce4fc55b41",
+        "description": "Inspectable scoped archive artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "DEPENDENCIES.json",
+        "sha256": "f32d5aa89217a23b03098f953697a9f82ef13c0009ec4011f991a86e8dab8ecb",
+        "description": "Inspectable scoped archive artifact: DEPENDENCIES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "8848978c35642f903d4180028f0cf0229bddea60dac18ca84bb8cc8072a19393",
+        "description": "Inspectable scoped archive artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Inspectable scoped archive artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "f67d3265568d46338e07947bedaae9f3bc5364af3128b76357b996799541decd",
+        "description": "Inspectable scoped archive artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "c22a88e5005016eff51b3d9fa7e46688f8e6a35ed808361a1a0e1774d91fca98",
+        "description": "Inspectable scoped archive artifact: MATERIALS.zip",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MIGRATION-STATUS.json",
+        "sha256": "e3cc63aa4e14646c4faed81ae0ce24e1ab2d6751e3b23bb691582ab5fb4135f4",
+        "description": "Inspectable scoped archive artifact: MIGRATION-STATUS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "27b9418204820983e71a3cc24b095d346e5961d5c0860745ad8a2cc0a9f1798f",
+        "description": "Inspectable scoped archive artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "3bd17e4c44eca29c1362b783c3129ed6cc2a9c2ee811bf06deb68cd86eba22f9",
+        "description": "Inspectable scoped archive artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "61dd9a65bcad89f0b3d838fb5f74db40ad591f0ae766fd7b9561478b1fee8267",
+        "description": "Inspectable scoped archive artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "9c5d5cb57f3f78175fa7a5181d4fec92a68f501413495f76bcbd72c692334fa3",
+        "description": "Inspectable scoped archive artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "f983bc931c5f2bf45a602f79156ce1df91c641d36f044bcab69935d96d6fd78a",
+        "description": "Inspectable scoped archive artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "d2891dda05570a1c1b7e692547944c8df61eea91bc8555265514f1383bc51f4f",
+        "description": "Inspectable scoped archive artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Inspectable scoped archive artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "e4ba1b9b254ca8d87d013fe4d9bce886051433dd93f2dbd3402549239f9b9586",
+        "description": "Inspectable scoped archive artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ]
+  },
+  "signature": "d58f014c87c0217f991d43ea917b0b5ac8eb7e33def955ee22a9b19babac1b9fec037affa2540e5908d34c3dec67fb634ed54cc9ea34c6ceeeb037a1e57a0608"
+}

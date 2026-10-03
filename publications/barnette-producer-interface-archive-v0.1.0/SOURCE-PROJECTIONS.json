@@ -1,0 +1,38 @@
+{
+  "policy": "Private raw originals retained; public transformations explicitly recorded without private strings.",
+  "projections": [
+    {
+      "path": "material/task-4/upstream-independent-review.md",
+      "original_sha256": "94fb1e489e1f0f05786a196aa6ac7da5d31a4bbf167ef5cebd9d4a201a9071f5",
+      "public_sha256": "63798c3198f5138f677fdd95aa490f378580d663b40f94a8a65ba9c30d077c65",
+      "original_bytes": 7669,
+      "public_bytes": 8034,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-4/barnette-general-square-splicing-lemma.md",
+      "original_sha256": "18d236458f56f47f52a687860a2765ba427aa7df8c13c21dc37107e86e0cbf7a",
+      "public_sha256": "c4735c83da465240c8d643458cd8ca91f6098927c31920533e5a7974e335e974",
+      "original_bytes": 6164,
+      "public_bytes": 6529,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    }
+  ],
+  "changes_to_mathematical_arithmetic": false
+}

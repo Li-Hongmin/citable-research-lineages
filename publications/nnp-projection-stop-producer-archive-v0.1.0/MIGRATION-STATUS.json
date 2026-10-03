@@ -1,0 +1,24 @@
+{
+  "global_four_line_inventory_file_count": 7983,
+  "this_line_inventory_file_count": 1757,
+  "this_archive_material_count": 26,
+  "original_first_batch_core_count": 19,
+  "added_scope_or_reproduction_material_count": 7,
+  "origins": {
+    "task6": 26
+  },
+  "remaining_status": "Staged migration continues; no all-content-completed claim.",
+  "global_four_line_isolated_classes": {
+    "privacy": 126,
+    "third_party_rights": 57,
+    "ownership_unconfirmed": 35
+  },
+  "this_line_isolated_classes": {
+    "privacy-sensitive-hold": 37,
+    "third-party-rights-hold": 27,
+    "ownership-unconfirmed": 31
+  },
+  "pending": "Unscreened historical content, complete mathematical upstream closure, omitted original notes and private/third-party holds.",
+  "private_originals_kept": true,
+  "existing_records_unchanged": true
+}

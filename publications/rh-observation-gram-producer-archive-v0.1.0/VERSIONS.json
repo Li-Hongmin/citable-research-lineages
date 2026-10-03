@@ -1,0 +1,33 @@
+{
+  "edition": "0.1.0-github.1",
+  "all_material_status": "unreviewed-archival-source",
+  "rejected_historical_claims": [],
+  "relations": [
+    {
+      "from": "material/task-7/rh-round4-pointwise-envelope-obstruction.md",
+      "to": "material/task-7/rh-round5-true-convolution-stop.md",
+      "relation": "scope-challenge-not-retraction",
+      "scope": "Round5 imposes real prime-power support and Lambda=mu*log, excluding the earlier Lambda± model as genuine arithmetic while preserving the limited model statement.",
+      "validated_scientific_relation": false
+    },
+    {
+      "from": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "to": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "relation": "uniformity-refinement",
+      "scope": "The uniform absolute-tail discussion does not establish the complete signed fixed-power energy target.",
+      "validated_scientific_relation": false
+    }
+  ],
+  "corrections_and_boundaries": [
+    "Short-sum S must include ordinary mu AND Lambda−1 over the specified starts and prefixes; bibliography alone is not inspection of the original theorem.",
+    "Fixed smooth weights, M=2Y, H and L ranges, nonempty window and fixed/growing gcd constants are carried.",
+    "Paid Fejer localization bounds a root-energy difference, not an unconditional energy-difference saving.",
+    "The complete off-diagonal signed arithmetic Gram target, all cofactors and both parity channels remain unproved.",
+    "Round5 preserves the scope of the earlier non-arithmetic countermodel; Lambda support and Lambda=mu*log exclude it as genuine arithmetic.",
+    "Finite diagnostics and archival run outputs do not certify asymptotics or RH."
+  ],
+  "existing_record": "crl:sha256:900e68c3b88b07d3b25b250500d631afc2ffab56acc01679b63dec314a237d45",
+  "existing_record_unchanged": true,
+  "CRL_relation_policy": "This edition is one REVIEW of the existing RESULT. Internal source relations are archival annotations, not invented CRL IDs or validated revision edges.",
+  "licence_status": "Old pending-permission language is historical; this public edition uses current explicit user authorization."
+}

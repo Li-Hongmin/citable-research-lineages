@@ -1,0 +1,11 @@
+{
+  "reviewed_record": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/barnette-square-splicing-v0.1.0/crl-publication.json",
+  "manifest_jcs_sha256": "07870b0ad745e34400f8237e40e2a617c53a11ec0377d49f683ed27c5f42534b",
+  "target_read": "Exact signed manifest/payload read; ID/signature/JCS matched current discovered index.",
+  "scope": "Preserve the two frozen producer sources of the indexed square-splicing result and distinguish its self-contained proof from unclosed application-profile and exterior-seam interfaces. Artifact-check only; no new theorem or independent acceptance.",
+  "not_a_new_result": true,
+  "source_notes": "Bundled original context is unreviewed; missing/held mathematical premises remain pending rather than established."
+}

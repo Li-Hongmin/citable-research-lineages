@@ -1,0 +1,2205 @@
+{
+  "policy": "Source/code I/O closure is checked; complete historical mathematical premise closure remains pending.",
+  "candidate_reference_edges": [
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "out-of-scope-not-inspected",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-public-minimal-cap-colouring.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web-reference-not-fetched",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse4-four-occurrence-completion.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-numbered-reference",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_c8_phases.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/bf-pulse5-phase-certificate.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_canonical_free.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/bf-pulse6-free-repair-certificate.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_four_completion.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/bf-pulse3-distance-certificate.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_four_completion.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/bf-pulse4-completion-certificate.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/audit-pulse3/check_configuration_gap_certificate.py",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/bf-pulse3-distance-certificate.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_cap_colourings.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/cap-colouring-result.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_carrier_gate.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/carrier-gate-check.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_two_cross.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/two-cross-result.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_two_cross.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/two-cross-witnesses.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/check_new_finite_claim.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/audit/clean_one_cross_certificates.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/check_new_finite_claim.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/audit/blocked_one_cross_matchings.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/check_repair_table.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/check_repair_table.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/validate_parent_witnesses.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit/validate_parent_witnesses.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_parent_corrected_cap.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_parent_corrected_cap.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_support_interfaces.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_true_cap.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing-in-nominated-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse3/check_configuration_gap_certificate.py",
+      "kind": "local-include-or-literal-path-candidate",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/producer/audit-pulse3/configuration-gap-certificate-check.json",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse4/completion-independent-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse5/completion-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_cap_colourings.py",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_support_interfaces.py",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/final-handover-interface-acceptance.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse5/completion-review.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse3/configuration-gap-independent-review.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "kind": "inferred-correction-or-rebuttal-family",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope-inferred-family",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    }
+  ],
+  "edge_count": 90,
+  "named_reference_resolution": [
+    {
+      "source": "material/producer/audit-pulse2/check_parent_corrected_cap.py",
+      "named_reference": "parent-corrected-cap-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/parent-corrected-cap-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_parent_corrected_cap.py",
+      "named_reference": "corrected-cap-two-tables.json",
+      "bundled_targets": [
+        "material/producer/corrected-cap-two-tables.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_support_interfaces.py",
+      "named_reference": "support-interface-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/support-interface-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/check_true_cap.py",
+      "named_reference": "true-cap-colouring-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/true-cap-colouring-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/final-handover-interface-acceptance.md",
+      "named_reference": "bf-public-minimal-cap-colouring.md",
+      "bundled_targets": [
+        "material/producer/bf-public-minimal-cap-colouring.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/final-handover-interface-acceptance.md",
+      "named_reference": "bf-pulse2-interface-handover.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse2-interface-handover.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "check_parent_corrected_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_parent_corrected_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "check_support_interfaces.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_support_interfaces.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "check_true_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_true_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "corrected-cap-two-tables.json",
+      "bundled_targets": [
+        "material/producer/corrected-cap-two-tables.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "parent-corrected-cap-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/parent-corrected-cap-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "support-interface-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/support-interface-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse2/support-interface-review.md",
+      "named_reference": "true-cap-colouring-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/true-cap-colouring-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/check_configuration_gap_certificate.py",
+      "named_reference": "configuration-gap-certificate-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/configuration-gap-certificate-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/configuration-gap-independent-review.md",
+      "named_reference": "check_configuration_gap_certificate.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/check_configuration_gap_certificate.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/configuration-gap-independent-review.md",
+      "named_reference": "configuration-gap-certificate-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/configuration-gap-certificate-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "named_reference": "bf-pulse3-configuration-handover.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-configuration-handover.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "named_reference": "bf-pulse3-defect-and-distance.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-defect-and-distance.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse3/final-packet-acceptance.md",
+      "named_reference": "check_bf_pair_distance.py",
+      "bundled_targets": [
+        "material/producer/check_bf_pair_distance.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/completion-independent-review.md",
+      "named_reference": "cube-fixed-witness-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/cube-fixed-witness-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/completion-independent-review.md",
+      "named_reference": "final-packet-acceptance.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/final-packet-acceptance.md",
+        "material/producer/audit-pulse4/final-packet-acceptance.md",
+        "material/producer/audit-pulse5/final-packet-acceptance.md",
+        "material/producer/audit-pulse6/final-packet-acceptance.md"
+      ],
+      "resolution": "ambiguous",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "bf-pulse4-completion-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-completion-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "bf-pulse4-completion-handover.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-completion-handover.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "bf-pulse4-four-occurrence-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-four-occurrence-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "check_bf_four_completion.py",
+      "bundled_targets": [
+        "material/producer/check_bf_four_completion.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "completion-independent-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/completion-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "cube-fixed-witness-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/cube-fixed-witness-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse4/final-packet-acceptance.md",
+      "named_reference": "two-pole-independent-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/two-pole-independent-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "completion-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse5/completion-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "bf-pulse5-c8-phase-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-c8-phase-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "bf-pulse5-certificate-correction.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-certificate-correction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "bf-pulse5-handover.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-handover.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "bf-pulse5-phase-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-phase-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse5/final-packet-acceptance.md",
+      "named_reference": "check_bf_c8_phases.py",
+      "bundled_targets": [
+        "material/producer/check_bf_c8_phases.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "named_reference": "bf-pulse6-canonical-free-repair.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-canonical-free-repair.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "named_reference": "bf-pulse6-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "named_reference": "bf-pulse6-free-repair-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-free-repair-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "named_reference": "bf-pulse6-handover.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-handover.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/final-packet-acceptance.md",
+      "named_reference": "check_bf_canonical_free.py",
+      "bundled_targets": [
+        "material/producer/check_bf_canonical_free.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "named_reference": "519-the-central-path-prism-forces-every-zero-shore-complement-odd.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "named_reference": "534-the-tight-zero-port-carrier-has-a-unique-antipodal-geometry.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "named_reference": "535-the-tight-six-cut-has-an-exact-literal-singleton-phase-gate.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit-pulse6/review.md",
+      "named_reference": "bf-pulse5-c8-phase-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-c8-phase-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/check_new_finite_claim.py",
+      "named_reference": "blocked_one_cross_matchings.json",
+      "bundled_targets": [
+        "material/producer/audit/blocked_one_cross_matchings.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/check_new_finite_claim.py",
+      "named_reference": "clean_one_cross_certificates.json",
+      "bundled_targets": [
+        "material/producer/audit/clean_one_cross_certificates.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/check_repair_table.py",
+      "named_reference": "blocked_one_cross_matchings.json",
+      "bundled_targets": [
+        "material/producer/audit/blocked_one_cross_matchings.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/check_repair_table.py",
+      "named_reference": "bf-two-cross-checkpoint.md",
+      "bundled_targets": [
+        "material/producer/bf-two-cross-checkpoint.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/validate_parent_witnesses.py",
+      "named_reference": "clean_one_cross_certificates.json",
+      "bundled_targets": [
+        "material/producer/audit/clean_one_cross_certificates.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/audit/validate_parent_witnesses.py",
+      "named_reference": "two-cross-witnesses.json",
+      "bundled_targets": [
+        "material/producer/two-cross-witnesses.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-public-minimal-cap-colouring.md",
+      "named_reference": "check_parent_corrected_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_parent_corrected_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-public-minimal-cap-colouring.md",
+      "named_reference": "check_true_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_true_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-public-minimal-cap-colouring.md",
+      "named_reference": "corrected-cap-two-tables.json",
+      "bundled_targets": [
+        "material/producer/corrected-cap-two-tables.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "check_support_interfaces.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_support_interfaces.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "final-handover-interface-acceptance.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/final-handover-interface-acceptance.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "bf-public-minimal-cap-colouring.md",
+      "bundled_targets": [
+        "material/producer/bf-public-minimal-cap-colouring.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "bf-pulse2-deliverable-sha256.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "bf-pulse2-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "bf-source-paper.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "bf-two-cross-checkpoint.md",
+      "bundled_targets": [
+        "material/producer/bf-two-cross-checkpoint.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "check_parent_corrected_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_parent_corrected_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "check_true_cap.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/check_true_cap.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "corrected-cap-two-tables.json",
+      "bundled_targets": [
+        "material/producer/corrected-cap-two-tables.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "parent-corrected-cap-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/parent-corrected-cap-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "support-interface-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/support-interface-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse2-interface-handover.md",
+      "named_reference": "true-cap-colouring-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse2/true-cap-colouring-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "check_configuration_gap_certificate.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/check_configuration_gap_certificate.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "configuration-gap-independent-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/configuration-gap-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "final-packet-acceptance.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/final-packet-acceptance.md",
+        "material/producer/audit-pulse4/final-packet-acceptance.md",
+        "material/producer/audit-pulse5/final-packet-acceptance.md",
+        "material/producer/audit-pulse6/final-packet-acceptance.md"
+      ],
+      "resolution": "ambiguous",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "bf-pulse3-defect-and-distance.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-defect-and-distance.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "bf-pulse3-deliverable-sha256.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "bf-pulse3-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-configuration-handover.md",
+      "named_reference": "check_bf_pair_distance.py",
+      "bundled_targets": [
+        "material/producer/check_bf_pair_distance.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "named_reference": "check_configuration_gap_certificate.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/check_configuration_gap_certificate.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "named_reference": "configuration-gap-independent-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/configuration-gap-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse3-defect-and-distance.md",
+      "named_reference": "check_bf_pair_distance.py",
+      "bundled_targets": [
+        "material/producer/check_bf_pair_distance.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "completion-independent-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/completion-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "final-packet-acceptance.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/final-packet-acceptance.md",
+        "material/producer/audit-pulse4/final-packet-acceptance.md",
+        "material/producer/audit-pulse5/final-packet-acceptance.md",
+        "material/producer/audit-pulse6/final-packet-acceptance.md"
+      ],
+      "resolution": "ambiguous",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "bf-pulse4-completion-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-completion-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "bf-pulse4-deliverable-sha256.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "bf-pulse4-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "bf-pulse4-four-occurrence-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-four-occurrence-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "check_bf_four_completion.py",
+      "bundled_targets": [
+        "material/producer/check_bf_four_completion.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "cube-fixed-witness-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/cube-fixed-witness-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-completion-handover.md",
+      "named_reference": "two-pole-independent-check.json",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/two-pole-independent-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-four-occurrence-completion.md",
+      "named_reference": "completion-independent-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse4/completion-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-four-occurrence-completion.md",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-four-occurrence-completion.md",
+      "named_reference": "bf-pulse4-completion-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-completion-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse4-four-occurrence-completion.md",
+      "named_reference": "check_bf_four_completion.py",
+      "bundled_targets": [
+        "material/producer/check_bf_four_completion.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "named_reference": "completion-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse5/completion-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "named_reference": "bf-pulse5-certificate-correction.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-certificate-correction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "named_reference": "bf-pulse5-phase-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-phase-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "named_reference": "check_bf_c8_phases.py",
+      "bundled_targets": [
+        "material/producer/check_bf_c8_phases.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-certificate-correction.md",
+      "named_reference": "check_bf_c8_phases.py",
+      "bundled_targets": [
+        "material/producer/check_bf_c8_phases.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "completion-review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse5/completion-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "final-packet-acceptance.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/final-packet-acceptance.md",
+        "material/producer/audit-pulse4/final-packet-acceptance.md",
+        "material/producer/audit-pulse5/final-packet-acceptance.md",
+        "material/producer/audit-pulse6/final-packet-acceptance.md"
+      ],
+      "resolution": "ambiguous",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "bf-pulse5-c8-phase-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-c8-phase-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "bf-pulse5-certificate-correction.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-certificate-correction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "bf-pulse5-deliverable-sha256.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "bf-pulse5-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "bf-pulse5-phase-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-phase-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse5-handover.md",
+      "named_reference": "check_bf_c8_phases.py",
+      "bundled_targets": [
+        "material/producer/check_bf_c8_phases.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "named_reference": "check_bf_canonical_free.py",
+      "bundled_targets": [
+        "material/producer/check_bf_canonical_free.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "named_reference": "review.md",
+      "bundled_targets": [
+        "material/producer/audit-pulse6/review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "named_reference": "bf-pulse6-canonical-free-repair.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-canonical-free-repair.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "named_reference": "bf-pulse6-free-repair-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-free-repair-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-pulse6-handover.md",
+      "named_reference": "check_bf_canonical_free.py",
+      "bundled_targets": [
+        "material/producer/check_bf_canonical_free.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "AGENTS.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_655.py",
+      "bundled_targets": [
+        "material/producer/audit/check_655.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_655_output.json",
+      "bundled_targets": [
+        "material/producer/audit/check_655_output.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_new_finite_claim.py",
+      "bundled_targets": [
+        "material/producer/audit/check_new_finite_claim.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_repair_table.py",
+      "bundled_targets": [
+        "material/producer/audit/check_repair_table.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "clean_one_cross_certificates.json",
+      "bundled_targets": [
+        "material/producer/audit/clean_one_cross_certificates.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "new_finite_claim_result.json",
+      "bundled_targets": [
+        "material/producer/audit/new_finite_claim_result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "parent_witness_validation.json",
+      "bundled_targets": [
+        "material/producer/audit/parent_witness_validation.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "repair_table_result.json",
+      "bundled_targets": [
+        "material/producer/audit/repair_table_result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "validate_parent_witnesses.py",
+      "bundled_targets": [
+        "material/producer/audit/validate_parent_witnesses.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "bf-final-file-check.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "carrier-gate-check.json",
+      "bundled_targets": [
+        "material/producer/carrier-gate-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_carrier_gate.py",
+      "bundled_targets": [
+        "material/producer/check_carrier_gate.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "check_two_cross.py",
+      "bundled_targets": [
+        "material/producer/check_two_cross.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "two-cross-result.json",
+      "bundled_targets": [
+        "material/producer/two-cross-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/bf-two-cross-checkpoint.md",
+      "named_reference": "two-cross-witnesses.json",
+      "bundled_targets": [
+        "material/producer/two-cross-witnesses.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_c8_phases.py",
+      "named_reference": "bf-pulse5-c8-phase-completion.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-c8-phase-completion.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_c8_phases.py",
+      "named_reference": "bf-pulse5-phase-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse5-phase-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_canonical_free.py",
+      "named_reference": "bf-pulse6-free-repair-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse6-free-repair-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_four_completion.py",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_four_completion.py",
+      "named_reference": "bf-pulse4-completion-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse4-completion-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "named_reference": "check_configuration_gap_certificate.py",
+      "bundled_targets": [
+        "material/producer/audit-pulse3/check_configuration_gap_certificate.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "named_reference": "bf-pulse3-defect-and-distance.md",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-defect-and-distance.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_bf_pair_distance.py",
+      "named_reference": "bf-pulse3-distance-certificate.json",
+      "bundled_targets": [
+        "material/producer/bf-pulse3-distance-certificate.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_cap_colourings.py",
+      "named_reference": "cap-colouring-result.json",
+      "bundled_targets": [
+        "material/producer/cap-colouring-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_carrier_gate.py",
+      "named_reference": "carrier-gate-check.json",
+      "bundled_targets": [
+        "material/producer/carrier-gate-check.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_two_cross.py",
+      "named_reference": "two-cross-result.json",
+      "bundled_targets": [
+        "material/producer/two-cross-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/producer/check_two_cross.py",
+      "named_reference": "two-cross-witnesses.json",
+      "bundled_targets": [
+        "material/producer/two-cross-witnesses.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "named_reference": "513-the-last-central-path-forbidden-pair-requires-a-long-route.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "named_reference": "515-two-zero-shore-masks-must-share-the-long-route-e-exit.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "named_reference": "564-case-xiii-rstar-terminal-independence-excludes-an-eight-edge-loop-centre.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "named_reference": "639-no-isolated-one-edge-path-in-a-disconnected-twelve-vertex-exterior.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "named_reference": "641-an-isolated-two-port-vertex-forces-a-nested-case-xiii-cut.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    }
+  ],
+  "runtime_inputs": [
+    {
+      "path": "material/producer/two-cross-witnesses.json",
+      "status": "included-required-input"
+    },
+    {
+      "path": "material/producer/corrected-cap-two-tables.json",
+      "status": "included-required-input"
+    },
+    {
+      "path": "material/producer/audit/blocked_one_cross_matchings.json",
+      "status": "included-required-input"
+    },
+    {
+      "path": "material/producer/audit/clean_one_cross_certificates.json",
+      "status": "included-required-input"
+    },
+    {
+      "path": "material/producer/bf-two-cross-checkpoint.md",
+      "status": "included-required-input"
+    },
+    {
+      "path": "material/producer/bf-pulse3-distance-certificate.json",
+      "status": "included-required-input"
+    }
+  ],
+  "local_modules": [
+    "material/producer/check_two_cross.py",
+    "material/producer/audit-pulse3/check_configuration_gap_certificate.py"
+  ],
+  "checker_working_directory": "Extracted material/producer in a separate mutable working copy; legacy relative-I/O checkers require this cwd.",
+  "runtime_input_closure": "included local code/data inputs; no fresh execution; external library requirements declared",
+  "bibliography": "Historical literature citations are retained as citations; no third-party full text or endorsement is included.",
+  "actual_source_interface_status": "conditional-and-unbundled",
+  "runtime_dependencies": {
+    "execution": "No archived checker executed; included run outputs are historical only.",
+    "python": "Python standard library and bundled check_two_cross / certificate-check modules."
+  }
+}

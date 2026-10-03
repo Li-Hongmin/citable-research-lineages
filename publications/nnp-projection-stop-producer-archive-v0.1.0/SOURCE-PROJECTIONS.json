@@ -1,0 +1,454 @@
+{
+  "policy": "Private raw originals retained; public transformations explicitly recorded without private strings.",
+  "projections": [
+    {
+      "path": "material/task6/rw-pulse3-complete-x-projection.md",
+      "original_sha256": "6fb14534830f5d1fb6be761c94e55973627eb69f770b85f99b0471739b6b5b2e",
+      "public_sha256": "afef3231849e0ae6bd56c00af029a8d5f485c6b6f18b8f9be0bec0034883d059",
+      "original_bytes": 13643,
+      "public_bytes": 14011,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse3-review-record.md",
+      "original_sha256": "0978ca504bea22eb8538d61bb8414e64669b4bd6b9f81dbf69c92f6d42163c8b",
+      "public_sha256": "f1b740e6bba0835490c20f4015ce3676100ed0afaa0d099fa070a3e17ac13bf2",
+      "original_bytes": 2353,
+      "public_bytes": 2721,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse4-review-record.md",
+      "original_sha256": "4d6a28311a12aecdc6e78fd7d11f8baa09aa10e8030f7b78fb14db03f4ee8c7c",
+      "public_sha256": "96c8dbc209707b56ceac547753217817a35d2b86db47486c540977dbe7110594",
+      "original_bytes": 1927,
+      "public_bytes": 2283,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse4-separated-first-spare.md",
+      "original_sha256": "83311c169c0f740575df860b3d37599a1d038cc83842a46c29b8e777a71bd2ac",
+      "public_sha256": "24a88bf40b1c813d045b4792235d447886b45314249ec6247cda4673d3ad21a5",
+      "original_bytes": 12640,
+      "public_bytes": 12996,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse5-complete-first-spare.md",
+      "original_sha256": "1edf6c24ae7d83764379e484fa556ebb5c89e39bbb8cee253f4a6309fffc77c0",
+      "public_sha256": "5a7e02712358a3a1b447e0d0f49597de59bf73c7b2ef9f287e77e955bea4313f",
+      "original_bytes": 10682,
+      "public_bytes": 11041,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse5-review-record.md",
+      "original_sha256": "3586e0afebb42b25922d4543e55bfea4f5607cd6c649d29530a0b7f0b9d27f91",
+      "public_sha256": "7e1222de69bbbdb5aef0172b71612eaccec7f2aa377411f01faabcd0ca4e65c6",
+      "original_bytes": 1826,
+      "public_bytes": 2185,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse6-actual-source-certificate-gates.md",
+      "original_sha256": "a48fa113e6012e90641793a0f620d79db28c6ef7e1b9d063ad7b7d1b6111291a",
+      "public_sha256": "ef509c1365176a84a3fc7728902e9c571f6565174d77406d5455f2d28dfe4897",
+      "original_bytes": 12695,
+      "public_bytes": 13051,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse6-review-record.md",
+      "original_sha256": "8f93f5aab22980afc6c2959af04f8a08fac8f5269e4b27b3f64fc8ec65add4b3",
+      "public_sha256": "392ed1951accb374d5677068e630064dc05913c1154c83da494721abaf9956f2",
+      "original_bytes": 2002,
+      "public_bytes": 2358,
+      "transforms": [
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse7-checkpoint.md",
+      "original_sha256": "8f01612d375e1702bb32fd60783926a3b2a48443c513cc0f9b9675b9b520a7dc",
+      "public_sha256": "9b90435280de543c43786431689c54b7b4f9a3222d783df9e60ce13566b201b5",
+      "original_bytes": 3138,
+      "public_bytes": 3039,
+      "transforms": [
+        {
+          "kind": "omit-private-operational-state-paragraphs",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse7-feasibility-stop.md",
+      "original_sha256": "d41e41e792d35b0566e20c6ec4f2928485af0a9cc0ab18e9525bca8e45de922e",
+      "public_sha256": "fb90367abcf7d9a35066628ea0c2d5b2b61d8ed73594db24566b1e3d4f7c1d7d",
+      "original_bytes": 10615,
+      "public_bytes": 9990,
+      "transforms": [
+        {
+          "kind": "omit-private-operational-state-paragraphs",
+          "count": 2
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse7-review-record.md",
+      "original_sha256": "5eca09d4c01046e0196311e6bc9b3e4ef47b097338bb24386d0460b4d5365e5d",
+      "public_sha256": "33ba54993ad8e3b8d05aad047a3e9bd788ef94c5c5676b9f5de89097046521f6",
+      "original_bytes": 2698,
+      "public_bytes": 3065,
+      "transforms": [
+        {
+          "kind": "review-role-method-without-internal-parameter",
+          "count": 1
+        },
+        {
+          "kind": "remove-private-agent-session-path",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-reusable-projection-lemma.md",
+      "original_sha256": "68a3dd282e63d0ad4a9ad02d13b57ce89c57a70049c87b87bb72441ad693692f",
+      "public_sha256": "d8f3756daa4aec04c53fd5b4a105e28a1908e8ff1b522faad85269646acfb1f7",
+      "original_bytes": 3516,
+      "public_bytes": 3881,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-spare-contraction-candidate.md",
+      "original_sha256": "b3957fd389a19ca7034243d196fa1473e50d4f358ba95c4e7083898bc4291ec8",
+      "public_sha256": "c910b556f50b5da16f881f7dbadda34d8bc2c9e46a0a95733aecd49919f098ca",
+      "original_bytes": 10093,
+      "public_bytes": 10404,
+      "transforms": [
+        {
+          "kind": "local-filesystem-reference-projection",
+          "count": 3
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_actual_kernel_check.c",
+      "original_sha256": "643c7e40f676b0fd491b4f5c706b437a216b91484f1286204ac2360914144ed0",
+      "public_sha256": "ab0da8cf10862eeb273b9ea08bbb39855b6acc0bc87f3292b25d30e695ae9915",
+      "original_bytes": 4589,
+      "public_bytes": 4789,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_f4_toy_check.py",
+      "original_sha256": "005f28822018d8d202fde914affafb1d87bf5e8abb64a8b2ca1924284fa37832",
+      "public_sha256": "06d199fb420c815737e06828bc6274efd2864c259b9954d78be8685e29d9d029",
+      "original_bytes": 2182,
+      "public_bytes": 2379,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_field_modulus_check.py",
+      "original_sha256": "940989061e337be48b067469b0b7b4f2a5159666baab856864369cf7ceda16ff",
+      "public_sha256": "7674953571896938670323270022e32a19a538b58381ebaf2959de6e312dfc55",
+      "original_bytes": 653,
+      "public_bytes": 850,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_spare_check.c",
+      "original_sha256": "d213176e1cda0b96b2acdc712c95e83f38ad28f70cf9052f251a539f8ba8afde",
+      "public_sha256": "f203d48f250444bbcc6b0887c17c49c96d15c5e1fc14b10507b3487bc43bc4b1",
+      "original_bytes": 3960,
+      "public_bytes": 4160,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_spare_projection_check.c",
+      "original_sha256": "2401a4865d88e6a4f24cf7848a93dbb82bdc400f48a140bb86e2b916a360dea6",
+      "public_sha256": "15b2ee46f65199de15dc85e7ae6ba241d132d1d8ed6acaf0e56229c6333cccb0",
+      "original_bytes": 4154,
+      "public_bytes": 4354,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw_xsum_check.c",
+      "original_sha256": "1fa06be8759f781ab93820d5468dde62be67f3f875033cc6788ccb26fdbc6548",
+      "public_sha256": "607864b9fc0423990aec94bd003f880f525b8434b42a847ba72b8377e8da7077",
+      "original_bytes": 1438,
+      "public_bytes": 1638,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-modulus-check-output.txt",
+      "original_sha256": "b5572840a90c8822409d07136db4324e249b416629d0d7d0fb09252c9b36b037",
+      "public_sha256": "b5572840a90c8822409d07136db4324e249b416629d0d7d0fb09252c9b36b037",
+      "original_bytes": 97,
+      "public_bytes": 97,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse2-kernel-check-output.txt",
+      "original_sha256": "e9343b60f02bc9561c633d25b8f10b6a14bb7b87cc567256ff286621fa4e249b",
+      "public_sha256": "e9343b60f02bc9561c633d25b8f10b6a14bb7b87cc567256ff286621fa4e249b",
+      "original_bytes": 352,
+      "public_bytes": 352,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse3-f4-toy-output.txt",
+      "original_sha256": "f936680e5c9b0ecb90616813b9d6bface6cbf1bbbdabf4beadf38466d3f2e12f",
+      "public_sha256": "f936680e5c9b0ecb90616813b9d6bface6cbf1bbbdabf4beadf38466d3f2e12f",
+      "original_bytes": 428,
+      "public_bytes": 428,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-spare-check-output.txt",
+      "original_sha256": "8e9c7d4f52c4ec3edc60ea1110f68584cee787540eea366091c2aad873394da2",
+      "public_sha256": "8e9c7d4f52c4ec3edc60ea1110f68584cee787540eea366091c2aad873394da2",
+      "original_bytes": 371,
+      "public_bytes": 371,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse3-xsum-check-output.txt",
+      "original_sha256": "3c44a32e5ffdb296910e632eb97a06e30bd76b6bbb54c24d9b2258f3b89be6f5",
+      "public_sha256": "3db2effc046dbd57977b57f58c7236ff4272d161ea3f0bf7150fc12260589ef8",
+      "original_bytes": 516,
+      "public_bytes": 518,
+      "transforms": [
+        {
+          "kind": "local-filesystem-reference-projection",
+          "count": 2
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse4-scaling-check-output.txt",
+      "original_sha256": "ef1a958cd1a4da814905a6680554887a77ac3d1eed2cb290fb877a81e59d354e",
+      "public_sha256": "9aceb690409e1c2f987a92d55f54d51ed7266eda78c6b2fcf53e7ef276f84e7e",
+      "original_bytes": 674,
+      "public_bytes": 675,
+      "transforms": [
+        {
+          "kind": "local-filesystem-reference-projection",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task6/rw-pulse4-scaling-check-passed-output.txt",
+      "original_sha256": "3d08ef2e84132a9870abd4f44f012d4d8356edc934312bb35a46a34f1410a7c9",
+      "public_sha256": "d99872007020a951d16aa9bdb33c4a9a1e5ed23a4951a3a968f01e214c0d4c3c",
+      "original_bytes": 588,
+      "public_bytes": 590,
+      "transforms": [
+        {
+          "kind": "local-filesystem-reference-projection",
+          "count": 2
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    }
+  ],
+  "changes_to_mathematical_arithmetic": false
+}

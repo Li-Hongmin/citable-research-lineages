@@ -1,0 +1,637 @@
+{
+  "policy": "Private raw originals retained; public transformations explicitly recorded without private strings.",
+  "projections": [
+    {
+      "path": "material/task-7/rh-commons-minimal-candidate.md",
+      "original_sha256": "99a04beda6a4fcd361cfd1fbd52a6034d93e8980da3f9b8b13cbbb6abec69894",
+      "public_sha256": "716dd4396924a165096beb044af4e5561c3edd34fb97306765a89fe0f2be9052",
+      "original_bytes": 2479,
+      "public_bytes": 2844,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-fresh-review.md",
+      "original_sha256": "0b37c8dae72bcaa20e16fbcf75f8d36790098331bbecc2aec159ee8d8c4a63bc",
+      "public_sha256": "8ca8a34d231700840ce8a244b5b4e25ffb3406124fb8c657660633f5ce902171",
+      "original_bytes": 9087,
+      "public_bytes": 9452,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-handover-2026-10-03.md",
+      "original_sha256": "c2a3b017aefbd604e6b317352f22f7ee2d1b0e5bc92950114b4198edc24af394",
+      "public_sha256": "2d78285675e229e6fe4ed3cd9e43a506ba76a2168f0ab69e0617503ba1790f84",
+      "original_bytes": 7330,
+      "public_bytes": 5379,
+      "transforms": [
+        {
+          "kind": "omit-private-operational-takeover-sections",
+          "count": 1
+        },
+        {
+          "kind": "omit-private-operational-state-paragraphs",
+          "count": 1
+        },
+        {
+          "kind": "review-role-method-without-internal-parameter",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "original_sha256": "1cf50b266a1776848684dc79408d32b5146b47b99170fa20217dff8823b110f1",
+      "public_sha256": "0d6c8bfd5339141b590f28e383e198ec166e8b12b1ee0d6a160cbf753d5acbf0",
+      "original_bytes": 8733,
+      "public_bytes": 9098,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round2-checkpoint.md",
+      "original_sha256": "a829b8a2eaa382f8f38af5c5e36918643805076a4fa5b69e2e0a1b2625de9946",
+      "public_sha256": "8dd5c7fe523774f07c23170b5dab970d2ddf59b7e52f71fe449eb52542d5b0e4",
+      "original_bytes": 4634,
+      "public_bytes": 4999,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round2-independent-review.md",
+      "original_sha256": "65e2281d5ce5161830101045ea078d2f24cb9668b1fb9c785e323d71b7f2d0a9",
+      "public_sha256": "797c5836c32f331b5e66db1a980e66955d49e20c47755b234e3343747677d7d6",
+      "original_bytes": 9067,
+      "public_bytes": 9432,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "original_sha256": "59dae0843a01139005f040044316bb09c7356b82dabc1c00f595635179f302fb",
+      "public_sha256": "77c04981cedd659e66287ff170e7a3723ef468b291e43f30af2eb16f586de455",
+      "original_bytes": 13070,
+      "public_bytes": 13435,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round3-checkpoint.md",
+      "original_sha256": "889179e7f9f8808cd811692b0747a03392740bc820b574ece8672264bb7ec1df",
+      "public_sha256": "40f576c9f61b8af7827d64b83e0f42c2ff7ae9f4e3c3ba06b500de488f0b4500",
+      "original_bytes": 4904,
+      "public_bytes": 5269,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round3-independent-review.md",
+      "original_sha256": "c3e8ab1f418a057858a3b82c3a320e971767fc6783b61255ca1dd680f5f0ff72",
+      "public_sha256": "4cc97bae2c414c7f40b6c1bb05b0cc157885ad569cbc01fe10406beb875ce9c9",
+      "original_bytes": 12499,
+      "public_bytes": 12864,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round3-short-filter-obstruction.md",
+      "original_sha256": "aa41aebdb55a13ac05338db49953a3197d40aa5ec8944b030ec6926e9b0c8bbb",
+      "public_sha256": "4f0a3078854e97fef7378fc41c5298a2c93a16c852f92e83aa5b91e8d8ef19a0",
+      "original_bytes": 15233,
+      "public_bytes": 15598,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round4-checkpoint.md",
+      "original_sha256": "65116d612f6f3cdf611f52666a598e6d2cc09e6926632b75afb36f2d2cf07e03",
+      "public_sha256": "65b61ec9a1cb011e26407eee583d37b2bcaf3eba941a976914f48d42c9398455",
+      "original_bytes": 5096,
+      "public_bytes": 5461,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round4-independent-review.md",
+      "original_sha256": "ec9d75fe534a7f629640ddb0bc4e6c14f93deb1b6d2d6c1dcee3184dafc647d8",
+      "public_sha256": "ece637f22cfbf09be7957fff35d45e3ac6aaeaf1f8aa4f4579d73f27cd9b609b",
+      "original_bytes": 10507,
+      "public_bytes": 10872,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round4-pointwise-envelope-obstruction.md",
+      "original_sha256": "4204bb0d995eee911e11ae792e9a96a288936fb81d6e79cae103a2293f0c0191",
+      "public_sha256": "99c2f63ec75e581330d95ac6bd78938d22a582c2e9f1d26c08a5764d0b644579",
+      "original_bytes": 13707,
+      "public_bytes": 14072,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round5-checkpoint.md",
+      "original_sha256": "e76c05087597e3e33d0859bd88297c1983f77cd6d028384a92d65548502db820",
+      "public_sha256": "5a53b5869b0799179b6fd3e7b007f52e221043f36857a69c5173ecf164daf575",
+      "original_bytes": 4063,
+      "public_bytes": 3893,
+      "transforms": [
+        {
+          "kind": "omit-private-operational-state-paragraphs",
+          "count": 1
+        },
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round5-independent-review.md",
+      "original_sha256": "716db7afc531a40bfeef1ae9c0bbfccab6757e8a326e439198550d5db29fba74",
+      "public_sha256": "9382ce1c69eb296257c3b8d4f745d54dac6f14ff333e140848a5b648bf26a93c",
+      "original_bytes": 8952,
+      "public_bytes": 9317,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round5-open-obligation.md",
+      "original_sha256": "1dcda627b52734d32260eed300207ec9b3b85537255a35f55f913830881d1fed",
+      "public_sha256": "e9ff94b9275daafd7108b1cccf7d397cf8ea4b063f98099be3e93fba635b1fa4",
+      "original_bytes": 4200,
+      "public_bytes": 4565,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round5-true-convolution-stop.md",
+      "original_sha256": "f4821607a1671166d31c67ac32a7968e841cd33d874a7040d812206f40d20ec5",
+      "public_sha256": "a362004f9ab8f3f77cd020c1fb6d47d8e234ddbf8ddbbf71ca25bc4201c3a9eb",
+      "original_bytes": 9964,
+      "public_bytes": 10329,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_round2_verify.py",
+      "original_sha256": "98cf5c5c012c588e9dd199414303825fe089ad6ee0a221fd3b6a79f370b6961d",
+      "public_sha256": "2956376d3ed5aef10490566933bf47611c06631971235023ee0d13bf72991830",
+      "original_bytes": 2079,
+      "public_bytes": 2276,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_round3_verify.py",
+      "original_sha256": "747e212c476545433b739b67b5ffb0f379f29df43fb670f9848d4a498d6843a6",
+      "public_sha256": "ee7b6dd892c848fc6f93d647fe8628e8c93557af64cd183f9dd91c373fd2a694",
+      "original_bytes": 5422,
+      "public_bytes": 5619,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_round4_verify.py",
+      "original_sha256": "82b270ee22b265c5c0385f9ba740e5974948c35f90455f6a4c3e3b0c1feb8126",
+      "public_sha256": "8f4ef8183f3efd8c49fc43ee54596b95549ea4e412412329cc08ba3229713bb6",
+      "original_bytes": 6503,
+      "public_bytes": 6700,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_round5_verify.py",
+      "original_sha256": "aa7bfb46ee9298af14aa46b79ce70e51454b493e6a676ba7dfd23a2ccc8604ca",
+      "public_sha256": "2f58e3e06988b6bbfb656664022b9d83eb12d05c4bfa8e8ccc449f1e86765b18",
+      "original_bytes": 6845,
+      "public_bytes": 7042,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_verify.py",
+      "original_sha256": "3bddd2227407a699dc1f80e8c68bc0d3b600b0716d0a9da3f999c0d39f02e9c0",
+      "public_sha256": "53dbf5afe807aa735cde5453708c2e8ae893a7dbd873c25cd966dfe2ea715aae",
+      "original_bytes": 2701,
+      "public_bytes": 2898,
+      "transforms": [
+        {
+          "kind": "licence-and-historical-checker-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "original_sha256": "7f85bab9540bf468d7a7b174662ab2f501d363cbd17e51a306e7af9c3f9f4409",
+      "public_sha256": "12c73cd59b3b05282e2323772056966275727a33dc338adb963520d50ed34872",
+      "original_bytes": 16351,
+      "public_bytes": 16716,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "original_sha256": "2993a6e2472c34964fafe4e9b201c0f44fe00dc9d93d702a4316a9df9df1968f",
+      "public_sha256": "4ddd3a80e387b95a3f676de2856b2c8ce9707885e020e4361158661e88b6c6c6",
+      "original_bytes": 8767,
+      "public_bytes": 9132,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "original_sha256": "4754ece19b3c70665b9e21617e3f6e853c91d0a47eb753c1110d37e2b2bf18a3",
+      "public_sha256": "1765537af7e140db802ef32c8b3c4ffb0a9c0ca24a50d418f8de8f04accec497",
+      "original_bytes": 4763,
+      "public_bytes": 5128,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "original_sha256": "af861cdd1ed06b648554c0a3fb82940ef2ad21a58bbf51b45039a8040edcc170",
+      "public_sha256": "fdbf71312dec23c6c31f27efe0b33543fa590d988ce7a9aac6d5cac6628f229b",
+      "original_bytes": 7625,
+      "public_bytes": 7990,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "original_sha256": "6d001a1f01393630dac53a2506d77a9f74a269a573cd96e3ca974f64f0738184",
+      "public_sha256": "aecf8696a4b7d9cc702ef16e49c0fb105b24d9552ee7bc973216fba13dad3b24",
+      "original_bytes": 8953,
+      "public_bytes": 9318,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "original_sha256": "941e84d8b524b57a55307947a00357964fb4027ace03e5809202248979428235",
+      "public_sha256": "0c72494dd61faf68bc24d40d92bcbdfeaeea7913a1e356649c3286fa4ece8f2a",
+      "original_bytes": 9770,
+      "public_bytes": 10135,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "original_sha256": "2384d0c6d5cc9ab2d94dfbd3a58d3f0af64c59e0057145445ed113ecb8620b98",
+      "public_sha256": "fecd3c0cde5e93942dc0686df2d03c4f42e77d5987d339c0f90366b843712f47",
+      "original_bytes": 9342,
+      "public_bytes": 9707,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "original_sha256": "ed62cf1cc5f9422a69ac73832a4f6325ef277ed0f202dc75323c96fbf952316d",
+      "public_sha256": "b9384f458802bbd5b75301d1182186cee2c85a7e1ebe70634a57ade83cd38935",
+      "original_bytes": 17924,
+      "public_bytes": 18289,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "original_sha256": "b4abca9683460d234165593d060b0a8c909e4cae5dd2d3b8a05ab602d7aea44b",
+      "public_sha256": "dc696e1f916fa3941ce16b0c48d7d5f3b306b063ee44b77359deb37e5b91a560",
+      "original_bytes": 7259,
+      "public_bytes": 7624,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "original_sha256": "53cbf6b0517b9bc3736a4222a20499a4d8dbaf45f0f685daf502f7613459b29f",
+      "public_sha256": "11c8bf8b3d6617f24a4197f8debbeffccd653d0691a38810c2f3a0f3a1b39a2e",
+      "original_bytes": 17999,
+      "public_bytes": 18364,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "original_sha256": "9bda365018acc7525cf31847f1e0de69d82b8e2b7d74cd40ffe9607e26797a70",
+      "public_sha256": "c0d0e853ebc171418deb0091494062c99f5f280437ed6417f27978676e70865a",
+      "original_bytes": 20349,
+      "public_bytes": 20714,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "original_sha256": "066372667420e31e42e4ca068cebc732f7255130e88a9b4d6692ca93fd7d054f",
+      "public_sha256": "64fd5046d50159c409e2601dd9ec94a9ece3a9342b2512d142b7cf805d409d33",
+      "original_bytes": 6006,
+      "public_bytes": 6371,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "original_sha256": "20c6c46f910859a7b7869c91f4db8512573930783f5fc8491f17a8e8c0545ecd",
+      "public_sha256": "995dce9286745456c7c9dbc4df88d0c70f8fd07b4a91e81324fc456810b5d960",
+      "original_bytes": 9282,
+      "public_bytes": 9647,
+      "transforms": [
+        {
+          "kind": "explicit-archival-status-banner",
+          "count": 1
+        }
+      ],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh_verify_result.json",
+      "original_sha256": "9bc8a38ad29626ca4140364af40e58c2c28ca8d8b1cd8d55aa59aed43ebd9593",
+      "public_sha256": "9bc8a38ad29626ca4140364af40e58c2c28ca8d8b1cd8d55aa59aed43ebd9593",
+      "original_bytes": 1014,
+      "public_bytes": 1014,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round2-verifier-result.json",
+      "original_sha256": "b17e63f4e9e2512ae8cf527b4be7f54e434cf19ab60cade6b7e5a643034919ab",
+      "public_sha256": "b17e63f4e9e2512ae8cf527b4be7f54e434cf19ab60cade6b7e5a643034919ab",
+      "original_bytes": 1308,
+      "public_bytes": 1308,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round3-verifier-result.json",
+      "original_sha256": "f6f1daaf1928467dc0489e776930d5101be478af179cc9e50eb4adb9ee3a95eb",
+      "public_sha256": "f6f1daaf1928467dc0489e776930d5101be478af179cc9e50eb4adb9ee3a95eb",
+      "original_bytes": 2394,
+      "public_bytes": 2394,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round4-verifier-result.json",
+      "original_sha256": "5543f46cf36a03899625df0c059faf81860383edc724ba7a1f377f756f64248b",
+      "public_sha256": "5543f46cf36a03899625df0c059faf81860383edc724ba7a1f377f756f64248b",
+      "original_bytes": 2525,
+      "public_bytes": 2525,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    },
+    {
+      "path": "material/task-7/rh-round5-verifier-result.json",
+      "original_sha256": "6c564366e0f7f842ac469937ecdd4e61e87d0edf83f5bc93db43e8d76a1243b4",
+      "public_sha256": "6c564366e0f7f842ac469937ecdd4e61e87d0edf83f5bc93db43e8d76a1243b4",
+      "original_bytes": 2494,
+      "public_bytes": 2494,
+      "transforms": [],
+      "original_kept_private": true,
+      "arithmetic_changed": false,
+      "historical_status": "unreviewed"
+    }
+  ],
+  "changes_to_mathematical_arithmetic": false
+}

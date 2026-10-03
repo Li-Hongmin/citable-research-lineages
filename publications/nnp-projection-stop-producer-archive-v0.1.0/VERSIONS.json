@@ -1,0 +1,40 @@
+{
+  "edition": "0.1.0-github.1",
+  "all_material_status": "unreviewed-archival-source",
+  "rejected_historical_claims": [],
+  "relations": [
+    {
+      "from": "material/task6/rw-pulse3-review-record.md",
+      "to": "material/task6/rw-pulse3-complete-x-projection.md",
+      "relation": "documents-correction-of-early-review",
+      "scope": "The wrong early T=s+rv is recorded in the pulse3 review analysis; preserve its corrected product H=s(1+rv), without attributing this error to the spare-contraction document.",
+      "validated_scientific_relation": false
+    },
+    {
+      "from": "material/task6/rw-pulse3-complete-x-projection.md",
+      "to": "material/task6/rw-reusable-projection-lemma.md",
+      "relation": "excerpt-not-new-result",
+      "scope": "Reusable lemma is an excerpt of previous projection proofs; its addition postdates the pulse7 review.",
+      "validated_scientific_relation": false
+    },
+    {
+      "from": "material/task6/rw-pulse5-complete-first-spare.md",
+      "to": "material/task6/rw-reusable-projection-lemma.md",
+      "relation": "excerpt-from-algebraic-extension",
+      "scope": "Preserve the pulse5 extension as another source of the reusable excerpt; no new result or retroactive review certification.",
+      "validated_scientific_relation": false
+    }
+  ],
+  "corrections_and_boundaries": [
+    "Wrong early T=s+rv is preserved in the correction discussion; the corrected product is H=s(1+rv).",
+    "A nonzero highest coefficient, pointwise density or a freely chosen canonical toy does not prove complete-coordinate survival for an actual RW section.",
+    "Same-source, public weight and fixed-third-remainder restrictions remain assumptions.",
+    "Notes 516 and related target-ledger interfaces remain pending; a historical head/max-history reference is not an independently certified endpoint.",
+    "The pulse7 review predates the appended reusable lemma; this archive does not retroactively authenticate it.",
+    "Included outputs are historical run artifacts, not new reruns or actual-RW witnesses."
+  ],
+  "existing_record": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+  "existing_record_unchanged": true,
+  "CRL_relation_policy": "This edition is one REVIEW of the existing RESULT. Internal source relations are archival annotations, not invented CRL IDs or validated revision edges.",
+  "licence_status": "Old pending-permission language is historical; this public edition uses current explicit user authorization."
+}

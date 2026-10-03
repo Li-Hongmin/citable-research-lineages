@@ -1,0 +1,1947 @@
+{
+  "policy": "Source/code I/O closure is checked; complete historical mathematical premise closure remains pending.",
+  "candidate_reference_edges": [
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-fresh-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-fresh-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round2-independent-review.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round3-short-filter-obstruction.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round3-short-filter-obstruction.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round3-short-filter-obstruction.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round4-independent-review.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round4-independent-review.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round4-pointwise-envelope-obstruction.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round4-pointwise-envelope-obstruction.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "external-literature-or-web",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round5-open-obligation.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/task-7/rh-round5-true-convolution-stop.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round5-open-obligation.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/task-7/rh-round5-independent-review.md",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task-7/rh-round5-true-convolution-stop.md",
+      "kind": "explicit-numbered-note-reference",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    }
+  ],
+  "edge_count": 113,
+  "named_reference_resolution": [
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-commons-minimal-candidate.md",
+      "bundled_targets": [
+        "material/task-7/rh-commons-minimal-candidate.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-final-snapshot.local.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-original-c-fixed-gcd-draft.md",
+      "bundled_targets": [
+        "material/task-7/rh-original-c-fixed-gcd-draft.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-process-check-denial.local.txt",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-second-snapshot.local.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh-start-snapshot.local.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-handover-2026-10-03.md",
+      "named_reference": "rh_verify_result.json",
+      "bundled_targets": [
+        "material/task-7/rh_verify_result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "named_reference": "rh-fresh-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-fresh-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "named_reference": "rh_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-original-c-fixed-gcd-draft.md",
+      "named_reference": "rh_verify_result.json",
+      "bundled_targets": [
+        "material/task-7/rh_verify_result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-contribution-manifest.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-final-snapshot.local.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-independent-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-round2-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-source-audit.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-summable-gcd-remainder.md",
+      "bundled_targets": [
+        "material/task-7/rh-round2-summable-gcd-remainder.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh-round2-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round2-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-checkpoint.md",
+      "named_reference": "rh_round2_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round2_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-independent-review.md",
+      "named_reference": "rh-original-c-fixed-gcd-draft.md",
+      "bundled_targets": [
+        "material/task-7/rh-original-c-fixed-gcd-draft.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "named_reference": "rh-round2-independent-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-round2-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "named_reference": "rh-round2-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round2-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round2-summable-gcd-remainder.md",
+      "named_reference": "rh_round2_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round2_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-checkpoint.md",
+      "named_reference": "rh-round3-independent-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-round3-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-checkpoint.md",
+      "named_reference": "rh_round3_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round3_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-checkpoint.md",
+      "named_reference": "rh-round3-short-filter-obstruction.md",
+      "bundled_targets": [
+        "material/task-7/rh-round3-short-filter-obstruction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-independent-review.md",
+      "named_reference": "rh-round3-short-filter-obstruction.md",
+      "bundled_targets": [
+        "material/task-7/rh-round3-short-filter-obstruction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-independent-review.md",
+      "named_reference": "rh_round3_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round3_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round3-short-filter-obstruction.md",
+      "named_reference": "rh_round3_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round3_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round4-checkpoint.md",
+      "named_reference": "rh-round4-pointwise-envelope-obstruction.md",
+      "bundled_targets": [
+        "material/task-7/rh-round4-pointwise-envelope-obstruction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round4-checkpoint.md",
+      "named_reference": "rh_round4_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round4_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round4-independent-review.md",
+      "named_reference": "rh-round4-pointwise-envelope-obstruction.md",
+      "bundled_targets": [
+        "material/task-7/rh-round4-pointwise-envelope-obstruction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round4-independent-review.md",
+      "named_reference": "rh-round4-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round4-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round4-independent-review.md",
+      "named_reference": "rh_round4_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round4_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh-round5-independent-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh-round5-open-obligation.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-open-obligation.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh-round5-source-audit.json",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh-round5-true-convolution-stop.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-true-convolution-stop.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh-round5-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round5-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-checkpoint.md",
+      "named_reference": "rh_round5_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round5_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-independent-review.md",
+      "named_reference": "rh-round3-short-filter-obstruction.md",
+      "bundled_targets": [
+        "material/task-7/rh-round3-short-filter-obstruction.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-independent-review.md",
+      "named_reference": "rh-round5-true-convolution-stop.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-true-convolution-stop.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-independent-review.md",
+      "named_reference": "rh-round5-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round5-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-independent-review.md",
+      "named_reference": "rh_round5_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round5_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-open-obligation.md",
+      "named_reference": "rh-round5-independent-review.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-independent-review.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-open-obligation.md",
+      "named_reference": "rh-round5-true-convolution-stop.md",
+      "bundled_targets": [
+        "material/task-7/rh-round5-true-convolution-stop.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-open-obligation.md",
+      "named_reference": "rh_round5_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round5_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh-round5-true-convolution-stop.md",
+      "named_reference": "rh_round5_verify.py",
+      "bundled_targets": [
+        "material/task-7/rh_round5_verify.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh_round3_verify.py",
+      "named_reference": "rh-round3-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round3-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh_round4_verify.py",
+      "named_reference": "rh-round4-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round4-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task-7/rh_round5_verify.py",
+      "named_reference": "rh-round5-verifier-result.json",
+      "bundled_targets": [
+        "material/task-7/rh-round5-verifier-result.json"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "named_reference": "753-high-divisor-k2-gate-is-the-k2-residual-up-to-negligible-low-layer.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "named_reference": "835-all-fixed-power-farey-blocks-have-prime-composite-covariance.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "named_reference": "847-quarter-power-observation-fourier-tail-for-full-k2-residual.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "named_reference": "847-quarter-power-observation-fourier-tail-for-full-k2-residual.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "named_reference": "850-lattice-spacing-pays-the-complete-two-arm-large-gcd-tail.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "named_reference": "869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/882-ordinary-shift-haar-gate-and-fixed-order-leakage.md",
+      "named_reference": "870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/870-adjacent-window-haar-gate-for-the-three-channel-observation-band.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "named_reference": "850-lattice-spacing-pays-the-complete-two-arm-large-gcd-tail.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "850-lattice-spacing-pays-the-complete-two-arm-large-gcd-tail.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "884-uniform-kernel-gram-through-one-observation-length.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "886-centered-three-channel-reduction-for-every-hard-observation-window.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "named_reference": "887-gevrey-observation-weight-localizes-the-arithmetic-gate-to-a-polylog-collar.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "named_reference": "885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "named_reference": "886-centered-three-channel-reduction-for-every-hard-observation-window.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "named_reference": "888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "named_reference": "885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "named_reference": "888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/890-multiscale-mobius-sign-balance-through-the-inner-observation-collar.md",
+      "named_reference": "889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "named_reference": "888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/888-scale-adaptive-observation-weight-gives-a-single-logarithm-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "named_reference": "889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/889-centered-squarefree-profile-removes-nonsquarefree-observation-core.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "named_reference": "885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/885-squarefree-gcd-averaging-leaves-weighted-mobius-main.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "named_reference": "891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "named_reference": "869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/869-three-channel-short-interval-variance-forces-a-zeta-derivative-gate.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/893-separated-prime-squarefree-variance-forces-a-zero-free-strip.md",
+      "named_reference": "891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "named_reference": "849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/849-two-endpoint-observation-fourier-expansion-for-full-k2-residual.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "named_reference": "851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/851-ramachandra-short-sums-give-a-subexponential-quarter-power-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "named_reference": "891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/891-squarefree-parity-arms-cancel-prime-density-on-positive-collar.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "dependencies/rh-original/notes/894-original-observation-coefficient-has-a-positive-high-physical-gcd-tail.md",
+      "named_reference": "892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md",
+      "bundled_targets": [
+        "dependencies/rh-original/notes/892-exact-physical-gcd-strata-of-squarefree-two-arm-gram.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    }
+  ],
+  "runtime_inputs": [],
+  "local_modules": [],
+  "checker_working_directory": "Separate mutable extracted working copy; do not run in the frozen archive.",
+  "runtime_input_closure": "included local code/data inputs; no fresh execution; external library requirements declared",
+  "bibliography": "Historical literature citations are retained as citations; no third-party full text or endorsement is included.",
+  "actual_source_interface_status": "conditional-and-unbundled",
+  "runtime_dependencies": {
+    "execution": "No archived checker executed; included run outputs are historical only.",
+    "python": "Python standard library; round4/5 diagnostics additionally import NumPy."
+  }
+}

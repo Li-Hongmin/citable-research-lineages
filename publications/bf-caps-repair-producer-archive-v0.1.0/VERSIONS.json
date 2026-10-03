@@ -1,0 +1,41 @@
+{
+  "edition": "0.1.0-github.1",
+  "all_material_status": "unreviewed-archival-source",
+  "rejected_historical_claims": [
+    "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md"
+  ],
+  "relations": [
+    {
+      "from": "dependencies/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "to": "material/producer/bf-public-minimal-cap-colouring.md",
+      "relation": "is-challenged-and-corrected-by",
+      "scope": "Corrects the S/T role substitution; the rejected historical claim is not a load-bearing theorem.",
+      "validated_scientific_relation": false
+    },
+    {
+      "from": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "to": "material/producer/bf-pulse5-certificate-correction.md",
+      "relation": "is-corrected-by",
+      "scope": "Retain the documented pulse5 correction. Current certificate bytes are the saved corrected edition, not a fabricated prepatch version.",
+      "validated_scientific_relation": false
+    },
+    {
+      "from": "material/producer/bf-pulse5-c8-phase-completion.md",
+      "to": "material/producer/bf-pulse6-canonical-free-repair.md",
+      "relation": "scope-refinement",
+      "scope": "Later canonical/literal repair is a scoped extension, not a blanket replacement or full host theorem.",
+      "validated_scientific_relation": false
+    }
+  ],
+  "corrections_and_boundaries": [
+    "The old 642 allowed-loop S was not the physical cap T=K5−S; its local tables are retained as rejected historical material.",
+    "Explicit cap colourings do not prove exact-XII support, minimum-host forcing or compatible-pair existence.",
+    "The pulse3 distance/configuration examples do not certify a universal compatible-pair minimization principle.",
+    "Pulse5 correction notes and the current frozen certificate coexist; unsaved prepatch bytes are not invented.",
+    "Pulse6 fixed-C/literal and canonical selectors do not imply arbitrary adjacent-Circle or arbitrary free-completion exclusions."
+  ],
+  "existing_record": "crl:sha256:01b35e5c1883eae2eccb6b879b89d44e90f615b3db7089d7328fef89590b5551",
+  "existing_record_unchanged": true,
+  "CRL_relation_policy": "This edition is one REVIEW of the existing RESULT. Internal source relations are archival annotations, not invented CRL IDs or validated revision edges.",
+  "licence_status": "Old pending-permission language is historical; this public edition uses current explicit user authorization."
+}

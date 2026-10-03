@@ -1,0 +1,31 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "material/task-4/upstream-independent-review.md",
+      "bytes": 8034,
+      "sha256": "63798c3198f5138f677fdd95aa490f378580d663b40f94a8a65ba9c30d077c65",
+      "license_declared": "CC-BY-4.0",
+      "kind": "research-checkpoint",
+      "scientific_validity": "unreviewed",
+      "prior_source_sha256": "94fb1e489e1f0f05786a196aa6ac7da5d31a4bbf167ef5cebd9d4a201a9071f5",
+      "previously_used_scientific_content": true
+    },
+    {
+      "path": "material/task-4/barnette-general-square-splicing-lemma.md",
+      "bytes": 6529,
+      "sha256": "c4735c83da465240c8d643458cd8ca91f6098927c31920533e5a7974e335e974",
+      "license_declared": "CC-BY-4.0",
+      "kind": "research-checkpoint",
+      "scientific_validity": "unreviewed",
+      "prior_source_sha256": "18d236458f56f47f52a687860a2765ba427aa7df8c13c21dc37107e86e0cbf7a",
+      "previously_used_scientific_content": true
+    }
+  ],
+  "member_count": 2,
+  "uncompressed_bytes": 14563,
+  "archive": "MATERIALS.zip",
+  "zip_sha256": "c22a88e5005016eff51b3d9fa7e46688f8e6a35ed808361a1a0e1774d91fca98",
+  "scientific_validity": "not-assessed",
+  "contains_third_party_full_text": false
+}

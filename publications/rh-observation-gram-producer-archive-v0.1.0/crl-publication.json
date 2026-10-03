@@ -1,0 +1,140 @@
+{
+  "id": "crl:sha256:755abc750b913642570e0a6f6784cfefcd62e9f5c1f7fe1bf705a68ee20ab95c",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "REVIEW",
+    "problem": "crl:problem:riemann-hypothesis",
+    "title": "Observation and Gram route archives with arithmetic-scope challenges",
+    "body": "# Observation and Gram route archives with arithmetic-scope challenges\n\nThe archive retains the original three-channel coefficients, conditional ordinary mu and Lambda-minus-one prefix input, fixed versus growing gcd distinctions and finite short-filter argument. Round4 non-arithmetic Lambda models remain in their stated scope; round5 explains why the genuine convolution structure excludes those toys, without retracting the limited round4 proposition or proving H5.\n\nThis artifact-check review is inconclusive about mathematical validity. It preserves sources, their documented corrections and their limitations; it does not add a theorem, authenticate all upstream interfaces or supersede the existing RESULT.\n\n- Short-sum S must include ordinary mu AND Lambda−1 over the specified starts and prefixes; bibliography alone is not inspection of the original theorem.\n- Fixed smooth weights, M=2Y, H and L ranges, nonempty window and fixed/growing gcd constants are carried.\n- Paid Fejer localization bounds a root-energy difference, not an unconditional energy-difference saving.\n- The complete off-diagonal signed arithmetic Gram target, all cofactors and both parity channels remain unproved.\n- Round5 preserves the scope of the earlier non-arithmetic countermodel; Lambda support and Lambda=mu*log exclude it as genuine arithmetic.\n- Finite diagnostics and archival run outputs do not certify asymptotics or RH.\n\nConfirmed self-owned text and data: CC BY 4.0. Code: Apache-2.0. Human contribution credit: Li Hongmin. AI roles are disclosed in RIGHTS-AND-ATTRIBUTION.json. Archived source or checkpoint permission wording describes a historical state; this edition has current publication authorization.\n",
+    "scope": "Preserve original observation/gcd context and round1–5 sources, code and historical diagnostics, with short-filter assumptions, non-arithmetic countermodel boundary and open signed Gram target. Artifact-check only; no arithmetic fixed-power bound or RH solution.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T17:36:01Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:900e68c3b88b07d3b25b250500d631afc2ffab56acc01679b63dec314a237d45",
+        "scope": "Preserve original observation/gcd context and round1–5 sources, code and historical diagnostics, with short-filter assumptions, non-arithmetic countermodel boundary and open signed Gram target. Artifact-check only; no arithmetic fixed-power bound or RH solution."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Preserve original observation/gcd context and round1–5 sources, code and historical diagnostics, with short-filter assumptions, non-arithmetic countermodel boundary and open signed Gram target. Artifact-check only; no arithmetic fixed-power bound or RH solution."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "4bae63cb2e4ade9de43f7ad6684a4609613da687beb82021dd4aaa350b29e736",
+        "description": "Inspectable scoped archive artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "DEPENDENCIES.json",
+        "sha256": "d56411be28502b52155cc7b9937fcdda529095645c75586e6d64139238270701",
+        "description": "Inspectable scoped archive artifact: DEPENDENCIES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "f24c5cc427adc46bb925181f08a3b0bcd27f19a16b98912e32e1c26a9f51c2de",
+        "description": "Inspectable scoped archive artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Inspectable scoped archive artifact: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Inspectable scoped archive artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "6cc2322c02bb37c0ac5ab1296a5efff647bee88c539944eb7e427158134acf24",
+        "description": "Inspectable scoped archive artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "0eef6d3380f7955dc25fd4951d0bc4456045c4596927b703e390cb7fee5ab997",
+        "description": "Inspectable scoped archive artifact: MATERIALS.zip",
+        "license_declared": "Mixed: CC-BY-4.0 text/data and Apache-2.0 code; see MATERIAL-MANIFEST.json"
+      },
+      {
+        "path": "MIGRATION-STATUS.json",
+        "sha256": "5ae0ae65d192e8c44457547df635b40269904257c8ea45d969d8764410363abd",
+        "description": "Inspectable scoped archive artifact: MIGRATION-STATUS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "4be1fefaa4f1de53f21de848d7887987d238eeeb787eecf266b900b1f0a7ff41",
+        "description": "Inspectable scoped archive artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "a95344378c42203d97214e00e47c47482e4da8ac4341468c73a9c01ebd25fd75",
+        "description": "Inspectable scoped archive artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "12286eb397b80ec0af1c00cfefc97ed91843057fb047e319d76fe61ce7695689",
+        "description": "Inspectable scoped archive artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "3c52f473df473200fc620e8ff5752c9891d7a761a1d160153126f6cd30d6a72e",
+        "description": "Inspectable scoped archive artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "5287d5aaffb6b01dbbf42c8183c61ea7d3e867a23fcc1608008b5923a34e04de",
+        "description": "Inspectable scoped archive artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "bb2e0dccb50ea1031d789290f4fddefd133ee17e5af47e6d221a802e9e081a10",
+        "description": "Inspectable scoped archive artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Inspectable scoped archive artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "64f8ae5bccd7506970f41c096f958c80a65e198c12782d959da6f48f20afb5b1",
+        "description": "Inspectable scoped archive artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ]
+  },
+  "signature": "48154b36fc195af3aff1f490b5a74e25943f064840c80c0102dcc9d313eae0f7f6342f014bd81947698a5cfa5529a6d9f612b3392a6bfb0963b84616a50e040f"
+}

@@ -1,0 +1,24 @@
+{
+  "edition": "0.1.0-github.1",
+  "all_material_status": "unreviewed-archival-source",
+  "rejected_historical_claims": [],
+  "relations": [
+    {
+      "from": "material/task-4/barnette-general-square-splicing-lemma.md",
+      "to": "material/task-4/upstream-independent-review.md",
+      "relation": "interface-clarification",
+      "scope": "The general terminal interface supplements the earlier restricted tree-switch usage; root2/B alone does not force all application profiles.",
+      "validated_scientific_relation": false
+    }
+  ],
+  "corrections_and_boundaries": [
+    "The Statement/Proof of the square-splicing lemma is self-contained within its stated hypotheses.",
+    "Notes 176/403/404/410/458/773/914 are unbundled historical application context, not verified public premises.",
+    "The 26-vertex example concerns an overstrong automatic-profile inference; its graph properties were not independently rerun here.",
+    "Same-model fresh-context checking is not human or heterogeneous peer acceptance."
+  ],
+  "existing_record": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+  "existing_record_unchanged": true,
+  "CRL_relation_policy": "This edition is one REVIEW of the existing RESULT. Internal source relations are archival annotations, not invented CRL IDs or validated revision edges.",
+  "licence_status": "Old pending-permission language is historical; this public edition uses current explicit user authorization."
+}

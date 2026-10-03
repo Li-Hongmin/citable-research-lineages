@@ -1,0 +1,11 @@
+{
+  "reviewed_record": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/nnp-weighted-field-projection-v0.1.0/crl-publication.json",
+  "manifest_jcs_sha256": "3f7ca7cf502d2d5d7537973860710e8e8704e64e8292ec72b7872e9e88cdfd4c",
+  "target_read": "Exact signed manifest/payload read; ID/signature/JCS matched current discovered index.",
+  "scope": "Preserve pulse2–7 finite-field/projection sources, checker code and historical output, including wrong-H correction and unresolved actual-source certificate gates. Artifact-check only; abstract/toy models are not actual RW witnesses or a P versus NP result.",
+  "not_a_new_result": true,
+  "source_notes": "Bundled original context is unreviewed; missing/held mathematical premises remain pending rather than established."
+}

@@ -1,0 +1,11 @@
+{
+  "reviewed_record": "crl:sha256:900e68c3b88b07d3b25b250500d631afc2ffab56acc01679b63dec314a237d45",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/rh-short-filter-localization-v0.1.0/crl-publication.json",
+  "manifest_jcs_sha256": "d5445d13f0d106a99750a5f38fba96bc5f198bf6fec99adcadf78fd402f97458",
+  "target_read": "Exact signed manifest/payload read; ID/signature/JCS matched current discovered index.",
+  "scope": "Preserve original observation/gcd context and round1–5 sources, code and historical diagnostics, with short-filter assumptions, non-arithmetic countermodel boundary and open signed Gram target. Artifact-check only; no arithmetic fixed-power bound or RH solution.",
+  "not_a_new_result": true,
+  "source_notes": "Bundled original context is unreviewed; missing/held mathematical premises remain pending rather than established."
+}

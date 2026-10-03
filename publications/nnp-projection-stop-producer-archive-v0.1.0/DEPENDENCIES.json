@@ -1,0 +1,384 @@
+{
+  "policy": "Source/code I/O closure is checked; complete historical mathematical premise closure remains pending.",
+  "candidate_reference_edges": [
+    {
+      "source": "material/task6/rw-pulse3-complete-x-projection.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw-pulse5-complete-first-spare.md",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw-spare-contraction-candidate.md",
+      "kind": "explicit-numbered-note-reference-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw-spare-contraction-candidate.md",
+      "kind": "explicit-numbered-note-reference-candidate",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "in-scope",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw_actual_kernel_check.c",
+      "kind": "local-include-or-path",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/task6/rw_spare_check.c",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw_spare_check.c",
+      "kind": "markdown-link",
+      "target": {
+        "kind": "unbundled-reference",
+        "resolution_class": "missing",
+        "status": "pending-not-relied-on-as-established"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw_spare_projection_check.c",
+      "kind": "local-include-or-path",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/task6/rw_spare_check.c",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    },
+    {
+      "source": "material/task6/rw_xsum_check.c",
+      "kind": "local-include-or-path",
+      "target": {
+        "kind": "bundled-source",
+        "path": "material/task6/rw_spare_check.c",
+        "status": "unreviewed-source-not-validated-premise"
+      },
+      "scientific_premise_status": "unreviewed"
+    }
+  ],
+  "edge_count": 8,
+  "named_reference_resolution": [
+    {
+      "source": "material/task6/rw-pulse3-complete-x-projection.md",
+      "named_reference": "rw_f4_toy_check.py",
+      "bundled_targets": [
+        "material/task6/rw_f4_toy_check.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse3-complete-x-projection.md",
+      "named_reference": "rw_xsum_check.c",
+      "bundled_targets": [
+        "material/task6/rw_xsum_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse3-review-record.md",
+      "named_reference": "rw-pulse3-complete-x-projection.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse3-complete-x-projection.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-review-record.md",
+      "named_reference": "rw-pulse4-separated-first-spare.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse4-separated-first-spare.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-separated-first-spare.md",
+      "named_reference": "rw-pulse4-scaling-check-output.txt",
+      "bundled_targets": [
+        "material/task6/rw-pulse4-scaling-check-output.txt"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-separated-first-spare.md",
+      "named_reference": "rw-pulse4-scaling-check-passed-output.txt",
+      "bundled_targets": [
+        "material/task6/rw-pulse4-scaling-check-passed-output.txt"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-separated-first-spare.md",
+      "named_reference": "rw_spare_projection_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_projection_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse6-review-record.md",
+      "named_reference": "rw-pulse6-actual-source-certificate-gates.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse6-actual-source-certificate-gates.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse7-checkpoint.md",
+      "named_reference": "rw-pulse7-feasibility-stop.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse7-feasibility-stop.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse7-checkpoint.md",
+      "named_reference": "rw-pulse7-review-record.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse7-review-record.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse7-feasibility-stop.md",
+      "named_reference": "621-actual-highest-paired-source-coefficients-survive-a-common-spare-first-digit-2026-10-03.md",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse7-feasibility-stop.md",
+      "named_reference": "rw-reusable-projection-lemma.md",
+      "bundled_targets": [
+        "material/task6/rw-reusable-projection-lemma.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse7-review-record.md",
+      "named_reference": "rw-reusable-projection-lemma.md",
+      "bundled_targets": [
+        "material/task6/rw-reusable-projection-lemma.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw-pulse3-complete-x-projection.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse3-complete-x-projection.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw-pulse3-review-record.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse3-review-record.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw-pulse3-xsum-check-output.txt",
+      "bundled_targets": [
+        "material/task6/rw-pulse3-xsum-check-output.txt"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw-pulse5-complete-first-spare.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse5-complete-first-spare.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw-pulse5-review-record.md",
+      "bundled_targets": [
+        "material/task6/rw-pulse5-review-record.md"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-reusable-projection-lemma.md",
+      "named_reference": "rw_xsum_check.c",
+      "bundled_targets": [
+        "material/task6/rw_xsum_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-spare-contraction-candidate.md",
+      "named_reference": "rw_field_modulus_check.py",
+      "bundled_targets": [
+        "material/task6/rw_field_modulus_check.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-spare-contraction-candidate.md",
+      "named_reference": "rw_spare_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_actual_kernel_check.c",
+      "named_reference": "rw_spare_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_spare_check.c",
+      "named_reference": "stdint.h",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_spare_check.c",
+      "named_reference": "stdio.h",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_spare_check.c",
+      "named_reference": "stdlib.h",
+      "bundled_targets": [],
+      "resolution": "not-bundled-historical-context-or-output",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_spare_projection_check.c",
+      "named_reference": "rw_spare_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw_xsum_check.c",
+      "named_reference": "rw_spare_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse3-f4-toy-output.txt",
+      "named_reference": "rw_f4_toy_check.py",
+      "bundled_targets": [
+        "material/task6/rw_f4_toy_check.py"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse3-xsum-check-output.txt",
+      "named_reference": "rw_xsum_check.c",
+      "bundled_targets": [
+        "material/task6/rw_xsum_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-scaling-check-output.txt",
+      "named_reference": "rw_actual_kernel_check.c",
+      "bundled_targets": [
+        "material/task6/rw_actual_kernel_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-scaling-check-output.txt",
+      "named_reference": "rw_spare_projection_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_projection_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    },
+    {
+      "source": "material/task6/rw-pulse4-scaling-check-passed-output.txt",
+      "named_reference": "rw_spare_projection_check.c",
+      "bundled_targets": [
+        "material/task6/rw_spare_projection_check.c"
+      ],
+      "resolution": "bundled",
+      "premise_status": "unreviewed-not-assumed-established"
+    }
+  ],
+  "runtime_inputs": [
+    {
+      "path": "material/task6/rw_spare_check.c",
+      "status": "included-local-C-include"
+    }
+  ],
+  "local_modules": [],
+  "checker_working_directory": "Separate mutable extracted working copy; do not run in the frozen archive.",
+  "runtime_input_closure": "included local code/data inputs; no fresh execution; external library requirements declared",
+  "bibliography": "Historical literature citations are retained as citations; no third-party full text or endorsement is included.",
+  "actual_source_interface_status": "conditional-and-unbundled",
+  "runtime_dependencies": {
+    "execution": "No archived checker executed; included run outputs are historical only.",
+    "python": "Built-in Python only for the two archived diagnostics.",
+    "C": "Standard C headers and bundled rw_spare_check.c includes."
+  }
+}
