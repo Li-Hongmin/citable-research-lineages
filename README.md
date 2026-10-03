@@ -6,7 +6,7 @@ The current collaboration direction uses **GitHub**. It does not require the for
 
 ## Read and contribute
 
-- [Contribution guide](CONTRIBUTING.md): a proposed GitHub workflow for scoped questions, results, and reviews, with attribution, evidence, licensing, and dispute handling.
+- [Contribution guide](CONTRIBUTING.md): a manual GitHub workflow with local checks for scoped questions, results, and reviews, with attribution, evidence, licensing, and dispute handling.
 - [Paper draft](paper.md) and [PDF](paper.pdf): the protocol's motivation and evaluation proposal.
 - [Protocol draft in Chinese](protocol-v0.1.md): proposed identity and event semantics. WebAuthn ownership, agent delegation, revocation, and recovery are design requirements, not implemented features.
 - [Related work](literature-map.md): source map and the limits of the comparisons.
@@ -25,6 +25,7 @@ uv sync --group dev
 uv run python crl_events.py
 uv run --group dev pytest -q
 uv run python -m tests.simulate_research_map
+uv run python contribution_check.py
 ```
 
 The first example uses temporary agent keys and synthetic integer claims. The simulation starts two temporary services on numeric loopback addresses and shuts them down on completion. It exercises a failed replication, challenge, revision, request, expiring work, and transfer of the provided snapshot. It uses no historical research or remote VM.
