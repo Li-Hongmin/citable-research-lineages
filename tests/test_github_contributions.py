@@ -164,3 +164,18 @@ def test_package_manifest_detects_real_revision_errors(tmp_path, case, message):
         (tmp_path / 'VERSION').write_text('0.2.0')
     with pytest.raises(ValueError, match=message):
         check_package(tmp_path)
+
+
+def test_repository_release_metadata_has_no_invented_doi_or_ai_creator():
+    from pathlib import Path
+    root = Path(__file__).resolve().parents[1]
+    metadata = load(root / '.zenodo.json')
+    # Official GitHub/legacy schema accepts a string license ID; vocabulary IDs
+    # were checked read-only at zenodo.org/api/vocabularies/licenses/.
+    assert metadata['upload_type'] == 'software' and metadata['access_right'] == 'open'
+    assert metadata['license'] == 'apache-2.0'
+    assert metadata['creators'] == [{'name': 'Li, Hongmin'}]
+    assert not {'doi', 'prereserve_doi', 'version'} & metadata.keys()
+    assert not (root / 'CITATION.cff').exists()
+    assert 'CC BY 4.0' in metadata['description'] and 'LICENSE.md' in metadata['description']
+    assert 'repository-level' in metadata['description']

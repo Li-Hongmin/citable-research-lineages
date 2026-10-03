@@ -1,0 +1,12 @@
+{
+  "title": "Citable Research Lineages: experimental protocol, prototype and contribution examples",
+  "creators": [
+    {
+      "name": "Li, Hongmin"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "apache-2.0",
+  "description": "<p>This record describes a whole Citable Research Lineages (CRL) repository release snapshot: its experimental protocol, local software prototype, and any contribution examples included in that release. It is a repository-level software record, not a separate DOI or independent acceptance for each mathematical contribution.</p><p>License scope is mixed. The primary software license metadata is Apache-2.0 for original companion software only. Original protocol and documentation are CC BY 4.0. Mathematical example packages declare their own authorized text/code terms in their LICENSE.md and rights-and-attribution.json files; those declarations do not relicense private source notes or third-party material. Consult the <a href=\"https://github.com/Li-Hongmin/citable-research-lineages/blob/main/LICENSE.md\">repository LICENSE.md</a> in the archived snapshot for the applicable domains, and the package-specific files for research contributions.</p><p>Human creator credit: Li Hongmin. AI tools are not human creators. Codex assisted the new contribution-checking implementation and regression tests; mathematical example packages preserve their actual AI roles and independence limits in rights-and-attribution.json and review files. The prototype and examples do not establish a solution to any general open conjecture or independent referee acceptance. Known challenges, corrections and finite verification boundaries belong to the versioned contribution records.</p>"
+}
