@@ -1,0 +1,12 @@
+{
+  "reviewed_record_id": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+  "problem": "crl:problem:barnette",
+  "record_type": "RESULT",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "archive_commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/barnette-square-splicing-v0.1.0/crl-publication.json",
+  "manifest_raw_sha256": "24a04d9f33e6ca71856236d30ea6d17db167f3f7d20f1692da91785475fd2295",
+  "manifest_jcs_sha256": "07870b0ad745e34400f8237e40e2a617c53a11ec0377d49f683ed27c5f42534b",
+  "read_and_validated": "Exact signed publication ID/signature/schema/root and current discovery header matched.",
+  "use": "Historical contextual artifact review of the existing bounded result; no acceptance of the entire original corpus."
+}

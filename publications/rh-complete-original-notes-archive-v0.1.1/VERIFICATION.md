@@ -1,0 +1,3 @@
+# Artifact verification
+
+Preexisting source hashes match the frozen inventory, with stable size/mtime during read. Any earlier metadata-only mathematical-identity false-hold explicitly marked in the manifest has its first positive body-screen hash fixed in this edition and unchanged baseline metadata; it is not a claim of an earlier byte hash. Complete bodies are preserved with explicit reference projections and a status banner. Public member hashes, sizes, ZIP CRC/names and declared artifacts must be rechecked before signing. No original research code, proof checker or inference was run. This is not proof verification.

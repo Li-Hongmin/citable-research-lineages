@@ -1,0 +1,134 @@
+{
+  "id": "crl:sha256:5d3ae52d7af3c288689b5759e732b7cc7f79d8f9c9a82c78bf3af664d91316d4",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "type": "REVIEW",
+    "problem": "crl:problem:barnette",
+    "title": "Barnette complete original note bodies and failure-route archive",
+    "body": "# Barnette complete original note bodies and failure-route archive\n\nThis archive preserves 913 complete original Markdown note bodies. Original notes preserve square-splicing, cycle/port, carrier, matching and application-profile routes. These historical drafts include claims, failed routes and corrections; the corpus does not establish Barnette or close the profile/exterior-seam interfaces.\n\nThis REVIEW is an inconclusive artifact check of scope, attribution, source-byte preservation and historical context around the existing indexed RESULT. It does not independently verify the note corpus, certify a full conjecture proof, or submit each old theorem claim as a new RESULT.\n\nEvery mathematical paragraph is retained. Only filesystem/coordination references are projected and an archival status banner is added; SOURCE-PROJECTIONS.json fixes both original and public hashes. Raw originals remain private. Historical pending permission wording is superseded by current authorization for this edition.\n\nLi Hongmin is the authorized human contributor. Original drafting/checks were AI assisted; exact source-model identity is not independently reconstructed. Codex performed inventory, archival review and packaging. No human or heterogeneous mathematical acceptance is claimed. Own original note text: CC BY 4.0; short attributed third-party quotations retain their source rights.\n",
+    "scope": "Archive the 913 complete current original note bodies and their failed/corrected routes as historical context to the indexed result; artifact-check only, no corpus-wide mathematical acceptance.",
+    "created_at": "2026-10-03T18:26:26Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+        "scope": "Archive the 913 complete current original note bodies and their failed/corrected routes as historical context to the indexed result; artifact-check only, no corpus-wide mathematical acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Archive the 913 complete current original note bodies and their failed/corrected routes as historical context to the indexed result; artifact-check only, no corpus-wide mathematical acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "9b15e88f659808ac76967f9f6867216e3a71ce91756442964742d79cf736b927",
+        "description": "Complete-note archival artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "DEPENDENCIES.json",
+        "sha256": "6b52dbf70fd819c242efd6ca6902da80d4b18ddffb5b28d96426684bd019cea7",
+        "description": "Complete-note archival artifact: DEPENDENCIES.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "e1fdf1145e1a385f64f88b234fae9586e315aff0f7949341b6bac625876e917d",
+        "description": "Complete-note archival artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Complete-note archival artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "01ae62b8dbf92b2757ebf0ff3dc6d09522cbb54407a4e766d4717d55eaba0686",
+        "description": "Complete-note archival artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "2a06800f142056d4f627e44ff6dd9d593d6ec25490e0bcc9e4e591b3b474d042",
+        "description": "Complete-note archival artifact: MATERIALS.zip",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "MIGRATION-STATUS.json",
+        "sha256": "39a004c4ee04486387b3a34f4c2f260de33ccd1cbdee8f279e3b5b54ae6f4673",
+        "description": "Complete-note archival artifact: MIGRATION-STATUS.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "README.md",
+        "sha256": "71e23f94008fd93090c7702a7374adf3f50c064c152e62655b6474b4bcef98b8",
+        "description": "Complete-note archival artifact: README.md",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "6868b6f41ba5fa799312816b2d0a3ba867044cdb70c8b137065a51dede4b598c",
+        "description": "Complete-note archival artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "50c1aa785c72c4d36de92eeb8d8a01daa5bfcd233d5b4508f8c0ea02ad5b8bb9",
+        "description": "Complete-note archival artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "185ea3a446fed98aed51f2d93b570bffddcd564a7beb5204e59ee1b907ccaee3",
+        "description": "Complete-note archival artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "59e3d7eb2b2a32e446864b99bcf34646b20ab51269405e0954755cb491f0d388",
+        "description": "Complete-note archival artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "f647fe44f4fbfed38f7f91bd27433d377852096c34a1c3d85c7987aa843cbe0e",
+        "description": "Complete-note archival artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "c7edb1be575c6381cb7bf233a0a748642ce2a4a1250d884793938d5303b17be0",
+        "description": "Complete-note archival artifact: VERSION",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "5ae1dd5ad068822a878c9fa134fbff46854b80c4c29a9e23cc5b0e796a143e9a",
+        "description": "Complete-note archival artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0 for own original contribution; cited third-party quotations retain source rights"
+      }
+    ]
+  },
+  "signature": "2ec0d16a7731676ddd64402505dd50ce3da0a092c688b54dd89f1c553049b67569e8f785a2aca7a193795d355ddf7cd4dbd3220b6c2df56ef554d27531decc0c"
+}

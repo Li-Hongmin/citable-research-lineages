@@ -1,0 +1,19 @@
+{
+  "human_contributor": "Li Hongmin",
+  "human_role": "User-authorized contribution credit, preservation and publication coordination; no independent human proof review claimed.",
+  "AI_roles": {
+    "source_research": "AI-assisted mathematical drafting, recorded checking; exact named model identity is not independently reconstructed.",
+    "source_reviews": "Automated same-model/fresh-context or separately implemented checks within their documented scope; no heterogeneous/human acceptance implied.",
+    "public_edition": "Codex inventory, read-only archival review, privacy projection, scope/version ledger, packaging and authorized identity signing."
+  },
+  "rights_holder_declaration": "Li Hongmin authorizes publication and licensing of the confirmed user-controlled original four-line material and disclosed AI-assisted derivatives; no third-party rights are granted.",
+  "authorization": "Existing explicit user/parent grant for own original text CC BY 4.0, code Apache-2.0, Li Hongmin credit and disclosed AI roles.",
+  "body_and_original_text_data_license": "CC-BY-4.0",
+  "code_license": null,
+  "per_material_licenses": "MATERIAL-MANIFEST.json; own original note text CC-BY-4.0; attributed third-party quotations retain source rights",
+  "excluded": "Private coordination/session/process details, credentials, third-party full text, unknown ownership and unscreened historical blobs.",
+  "historical_pending_language": "Superseded by current authorization for this edition; retained source text does not alter present licence declarations.",
+  "scientific_validity": "not-assessed",
+  "review_independence": "No human or heterogeneous scientific acceptance.",
+  "quotation_exception": "The user grant licenses only the original contribution, not third-party quoted words. Existing short attributed citations remain explicitly outside that grant; no third-party full text is bundled."
+}

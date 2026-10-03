@@ -1,0 +1,3289 @@
+{
+  "edition": "0.1.1-github.1",
+  "version_method": "One complete current body per original path, fixed by source SHA256; distinct paths/failed routes and duplicate aliases remain distinct entries.",
+  "old_git_versions": "Older Git-only body versions have not been migrated in this edition; history metadata inventory is not publication.",
+  "correction_policy": "Keep historical wrong/rejected bodies. Keyword roles are archival hints, not a scientific judgment or fabricated CRL revision edge.",
+  "known_limits": "Original notes preserve local matching/cap, compatible-pair and host/certificate routes. Note 642 contains the rejected allowed-loop S versus physical-cap T role substitution. Retaining its complete text is not acceptance; corrected actual-T material and fixed-C/canonical boundaries remain as previously documented.",
+  "source_versions": [
+    {
+      "path": "original/unit/notes/000-cutover-2026-08-23.md",
+      "source_sha256": "5497d29b4888d86a1957cbcfd46a14dcfdda26610d39f54bcb7120423b6e3be7",
+      "current_head_blob": "7be4d04af39e4eee649446f5538ae7b25fee56e2"
+    },
+    {
+      "path": "original/unit/notes/001-pentagon-selection-as-matching-holonomy.md",
+      "source_sha256": "a71f3e04021ec6aaafddf17ee094ce8830ac8321dd669f047fbb4611015fe60f",
+      "current_head_blob": "32a007c615ac19d4c5b79b36e4a8d482428c101a"
+    },
+    {
+      "path": "original/unit/notes/002-kempe-transport-and-the-order-eleven-bound.md",
+      "source_sha256": "c351d9b582ff3557e5e88506c5ea11723d38236c08197bcf2e536fbfd2233e70",
+      "current_head_blob": "e83121cad19745fee6a8c28c52e039b068d7030a"
+    },
+    {
+      "path": "original/unit/notes/003-canonical-kempe-transport-does-not-detect-pentagon-selection.md",
+      "source_sha256": "90ddbbef5e8c119bdad14d99ce443341550f2091b30c3254d76c3e6fc9c64d51",
+      "current_head_blob": "83b77e57b5b90d2e9efbec2d73168d28f1f34d29"
+    },
+    {
+      "path": "original/unit/notes/004-the-unique-two-edge-obstruction-and-boolean-fibres.md",
+      "source_sha256": "c4866137943754f35b226270c278d131887a2e1b6e8cc4949d7f0911a009d725",
+      "current_head_blob": "b0d135d0e6f194ce21348415d4c79ee9546bbd79"
+    },
+    {
+      "path": "original/unit/notes/005-pentagon-selection-is-false-and-a-weaker-transversal-survives.md",
+      "source_sha256": "8e7c462f059de27894a3fdfd8ce822456a6254c433d93937effb2a32d28033ae",
+      "current_head_blob": "03bd3877286e1291998876c2c59ed738aa5f5fd8"
+    },
+    {
+      "path": "original/unit/notes/006-boolean-kempe-cocycles-do-not-force-capacity-two.md",
+      "source_sha256": "1622c47424e36318e4c10af7c95869d088b2fe0aa29aff8d15904a5443737e76",
+      "current_head_blob": "374b7b0b8d6dbb1144b61f2dce26063099801833"
+    },
+    {
+      "path": "original/unit/notes/007-independent-certificate-for-the-thirteen-vertex-pole.md",
+      "source_sha256": "ec1230c8e4898d6748f86aeb772801110c4e7df59da3fb1b1ca5ae1bc242dd90",
+      "current_head_blob": "a70a848cab8392916836ce1ce2826678d31d4411"
+    },
+    {
+      "path": "original/unit/notes/008-local-order-fifteen-neighbourhood-and-triangle-stability.md",
+      "source_sha256": "e1dd98aff14159ae0f77b0f258c9f3dc2edc66ab4ed25b3f2e64931fdf3eb45c",
+      "current_head_blob": "804790136673d6f74e72ed7407120ddab525e284"
+    },
+    {
+      "path": "original/unit/notes/009-the-c10-blocker-is-polyhedrally-realizable-but-not-closed.md",
+      "source_sha256": "ea7f08887c66ee323b215df7d5554ad457de5c3cf1f0e2ce835fd3f26ee69d12",
+      "current_head_blob": "534fa283b640d2123c5451a62cd3de6949ad61a7"
+    },
+    {
+      "path": "original/unit/notes/010-minimal-counterexamples-have-no-reducible-triangle-or-square.md",
+      "source_sha256": "0851b6d1a0c0b60cc64c6d201915a9ad8044f94a0d2566a4e853e3579fe6fddf",
+      "current_head_blob": "187c22eb3f6c804fecdd482938ab5fb1ec80c59a"
+    },
+    {
+      "path": "original/unit/notes/011-iterated-and-doubled-tait-routing-still-do-not-exclude-case-xii.md",
+      "source_sha256": "453ab1b0043b1cd86911a9c57972f5e57f2edfdff928fc2193b84f92c04152d8",
+      "current_head_blob": "a965fa4df868bfe47a8eb919f532f10e6283b0b6"
+    },
+    {
+      "path": "original/unit/notes/012-half-integral-selector-and-the-petersen-parity-boundary.md",
+      "source_sha256": "4f148fc071833a8d561e0ec3c59ee5028ae398634e35fe249c78ab816ce7bb91",
+      "current_head_blob": "77847aef7052ef364d4d6b585a2e525d087e2257"
+    },
+    {
+      "path": "original/unit/notes/013-single-alternating-cycle-repairs-all-small-bad-c10-windows.md",
+      "source_sha256": "3d83331872f4056432c63570efdb366f59c2304d16a4f63858a70e90a7c01b54",
+      "current_head_blob": "455dd198674a96ad2c03242cc6d491c5bdc55cc6"
+    },
+    {
+      "path": "original/unit/notes/014-square-obstructions-in-a-minimum-counterexample.md",
+      "source_sha256": "26a6906db52325b1399c4ea5d089be52f262124f214a205db17241f93210d22b",
+      "current_head_blob": "c85abbef2d4eec222d6bf10b7d475117e5e7484f"
+    },
+    {
+      "path": "original/unit/notes/015-st-exchange-connectivity-would-exclude-case-xii.md",
+      "source_sha256": "ea45e0786f50496aa1c20c9326ed5aa2cc192ac8ffce13232ce84eefe0dcf99c",
+      "current_head_blob": "cf903f1e7a9a78078e3ff25d298043a25bc2575e"
+    },
+    {
+      "path": "original/unit/notes/016-terminal-free-square-clusters-in-a-minimum-counterexample.md",
+      "source_sha256": "3f69c90ff1de5c5bb16a66b6fb6b685a0d138df6ed77ef67bc94e8ec4da349e1",
+      "current_head_blob": "2d10ce5f44de0c1895b4063255214cff178f1188"
+    },
+    {
+      "path": "original/unit/notes/017-local-route-parity-does-not-prove-st-exchange-connectivity.md",
+      "source_sha256": "b34a96f1051033d95c4d5b51f2bcd7a8dd03ff9aded25445b9b402bba0d545a5",
+      "current_head_blob": "186fa3ea75aabc0202bfb8dd7ec77ca669fed319"
+    },
+    {
+      "path": "original/unit/notes/018-odd-half-support-cycles-occur-in-pairs-and-order-fifteen-is-sharp.md",
+      "source_sha256": "4e8d68eeb61a8c38b73f5339bd3a49390d08b010f15096936c42dc0ccdcacd36",
+      "current_head_blob": "6bb07bec401ccbe0ac6412fb22f15661b986fdca"
+    },
+    {
+      "path": "original/unit/notes/019-case-xii-minimality-and-bf-reduction-applicability-boundary.md",
+      "source_sha256": "e6961ff3cca0c729f0797e63e133356a869d7c10b679a86a5abffc0c26cf4050",
+      "current_head_blob": "14f4dccf406aa818cf520280a6c480278c652499"
+    },
+    {
+      "path": "original/unit/notes/020-exact-s-allows-odd-half-support-cycles.md",
+      "source_sha256": "05790eb5d2cf11afe8d36ee5f6736f1aaa0914f139d5f2e735b2c69339f3e66e",
+      "current_head_blob": "911264ab15766b7fa2c1cd5ba473fb04edf106bd"
+    },
+    {
+      "path": "original/unit/notes/021-integer-completion-loads-do-not-prove-st-exchange-connectivity.md",
+      "source_sha256": "5d693f71c8d6b37b50791d6bc1c916d110b80b7c3a1303b299b0fdb3b926b79b",
+      "current_head_blob": "ea9d737adb65a1a6f433cbc0f4813844f1fe4bf5"
+    },
+    {
+      "path": "original/unit/notes/022-terminal-tree-reductions-stop-at-bf-forced-intersecting-edge-pairs.md",
+      "source_sha256": "66e297aef85551100689299b57f534d10df84dc2d58b38e3c390f6e6d8eeefd1",
+      "current_head_blob": "3dec9bc3dbdb477da2021f1f8814a35dd34a2200"
+    },
+    {
+      "path": "original/unit/notes/023-fixed-q-paired-defect-capacity-rounding.md",
+      "source_sha256": "0dc5a821f79b144120da859ea7b2738ec7aa4b0e6b7799e0d1e5ca64ec06a029",
+      "current_head_blob": "03713304212423652bec4b8d05a4fdc0a660a047"
+    },
+    {
+      "path": "original/unit/notes/024-common-cubic-incidence-does-not-force-an-unsafe-route-without-exact-s.md",
+      "source_sha256": "d5023f683154d050306193298431ab0bf554aa359d35f25ee318fbc1733a4983",
+      "current_head_blob": "46894c5ecc00ec1540e33ea3ad169295b0bffddd"
+    },
+    {
+      "path": "original/unit/notes/025-the-all-ss-seed-cannot-reach-exact-s-in-one-two-edge-insertion.md",
+      "source_sha256": "66c75ee29cbcd0e5759b676832771e580b4fec9ddf15c92e447862921109f6d9",
+      "current_head_blob": "10b07de908e67282dc46376aeb06a6c728470cd6"
+    },
+    {
+      "path": "original/unit/notes/026-two-forced-path-windows-are-realizable-before-full-exact-s-closure.md",
+      "source_sha256": "e9e313792ea694e0e7c596b0751d40a4f6831a30795390e1c6630d48dbdf44ab",
+      "current_head_blob": "13c26312a52fcd6962d2460172ba539fdad55e58"
+    },
+    {
+      "path": "original/unit/notes/027-fixed-q-capacity-rounding-holds-for-all-exact-s-poles-through-order-thirteen.md",
+      "source_sha256": "bf9c719c46ea33ad81eda73f0519c4e9f7da2cbb62b94979a3b8b84000369795",
+      "current_head_blob": "58a1c5bd6c4f62a3444b5e9d4a7fa96d79442609"
+    },
+    {
+      "path": "original/unit/notes/028-bf-edge-pair-flexibility-fails-without-case-xii-separation.md",
+      "source_sha256": "b91dc9585c36f15f463f86468a14d0982395e10ddc883b6660861c1d6d9b89a6",
+      "current_head_blob": "485c9a7241588b212a70f9da3bd47e3f8c77982a"
+    },
+    {
+      "path": "original/unit/notes/029-girth-five-port-separation-does-not-force-bf-edge-pair-flexibility.md",
+      "source_sha256": "b007634e28e59da97322fe60dbe3d656825c5dfc4162963b5d62b212fd059f5d",
+      "current_head_blob": "37cedf46921c546ed5cba5891f5d4e48f2610148"
+    },
+    {
+      "path": "original/unit/notes/030-fixed-q-capacity-rounding-fails-at-order-seventeen.md",
+      "source_sha256": "dd3c9363de4e9a116c448e9dec9f8f6a7c2f928693beeb78c516be60fbb04406",
+      "current_head_blob": "c652a33ce0e851a1d5745e91390e63fdf835fd1e"
+    },
+    {
+      "path": "original/unit/notes/031-the-two-window-seed-cannot-reach-exact-s-in-one-insertion.md",
+      "source_sha256": "1501b437a53cd7bdf3ba6cb71a58dafa9759fdda6853cbb7cb3cc74ab342c9d1",
+      "current_head_blob": "a9aec0238e67962a06b6a047f1a8ee9be9a0e8ce"
+    },
+    {
+      "path": "original/unit/notes/032-the-order-twelve-forced-pair-has-no-case-xii-terminal-placement.md",
+      "source_sha256": "96388d511c13bb73d4866061be9c9256b0180c8a8838d1cc6e65fe235a3b2e67",
+      "current_head_blob": "2b63762d70945f0b87e8f094050abd1a035f4461"
+    },
+    {
+      "path": "original/unit/notes/033-the-order-seventeen-fixed-q-obstruction-has-a-single-cycle-variable-q-repair.md",
+      "source_sha256": "38a77a94691f129190ddb11a4f712ea214d2dcc20a7cef7e1aaeba6068d04f62",
+      "current_head_blob": "b0e40e6926281a0314919509e69c29cbdfcb4782"
+    },
+    {
+      "path": "original/unit/notes/034-no-order-fourteen-terminal-tree-placement-survives-both-smoothings.md",
+      "source_sha256": "16296e61dca86ae980a009c09cdb4512abd17a9898585d6c4c6e5fac8ebc824a",
+      "current_head_blob": "c56bbc6ddd85d6e4df39477041f9ed01ae8882ab"
+    },
+    {
+      "path": "original/unit/notes/035-radius-one-variable-q-rounding-holds-on-the-first-173-seed-children.md",
+      "source_sha256": "8804d49d5e1c05bbf3e4eaa4f3588d60725eb95bb2f96e87378958bee02c375b",
+      "current_head_blob": "fb8f81be5b2e5c48003e3101189794d9d666fb1f"
+    },
+    {
+      "path": "original/unit/notes/036-pair-component-closure-does-not-force-a-t-state-in-the-two-window-pole.md",
+      "source_sha256": "aa85a70258dedb907a61cf1ff3529a90f1a69216457a2f9071eadfd6d074efc5",
+      "current_head_blob": "ca858c527bd073aec4ebf37e59685096e00476ce"
+    },
+    {
+      "path": "original/unit/notes/037-bichromatic-path-exchange-repairs-doubled-tait-paired-smoothings.md",
+      "source_sha256": "ccbe0c77adee99bd240c38d7bafcfedc390a7f9a2a1dfe2e92b5760342abc971",
+      "current_head_blob": "65a386640a5db75d237013b0087dc40649cc9d22"
+    },
+    {
+      "path": "original/unit/notes/038-arbitrary-bf-covers-do-not-inherit-the-paired-smoothing-exchange.md",
+      "source_sha256": "19b9dcd811e0b14b8af9e0c9f2a77d8fe0156fd9557aebe71e80ad1baf7a13a8",
+      "current_head_blob": "a73d486790a399036732f43b9e7425ed073e70d9"
+    },
+    {
+      "path": "original/unit/notes/039-double-role-cycle-rounding-needs-endpoint-routing.md",
+      "source_sha256": "6ec0145d885a839adac7dd38fe81a002981a7bfdd7cb62d33bebefccb312102b",
+      "current_head_blob": "8f69bde2a6372cc3885655d435ea94b78dd84a0b"
+    },
+    {
+      "path": "original/unit/notes/040-one-cycle-tait-transitions-are-companion-external-linkages.md",
+      "source_sha256": "ea51c5972d9056bae8fdad718be710f9cbcf278ebb0c4dfd8331daa1ed0bfa94",
+      "current_head_blob": "9a7a0659c9777b8c8d393e64c583012284554c4e"
+    },
+    {
+      "path": "original/unit/notes/041-the-complete-seed-one-step-family-has-radius-one-rounding.md",
+      "source_sha256": "66246456231c9c78173071dc18507091857d23d560c8d1fc3110f41cb9a0b0a8",
+      "current_head_blob": "45a6db4c75121d399fb824f728715f4b58aaee4b"
+    },
+    {
+      "path": "original/unit/notes/042-global-common-pm-incidence-does-not-force-a-case-xii-section.md",
+      "source_sha256": "044eebfe4b2d0188114223593b9a4405f5f008492c004dae098cc486b8718c51",
+      "current_head_blob": "01b9b7f6030f77dac150c4e2a6c7cfe01e2b5958"
+    },
+    {
+      "path": "original/unit/notes/043-four-cell-singleton-intersection-forces-a-cover.md",
+      "source_sha256": "aa9eda9230177a6101705497ff43254f7003b9350ea9bd5f768266dca048f048",
+      "current_head_blob": "01b8b5ad6c27d8d303444368fe19a469b1ae5c42"
+    },
+    {
+      "path": "original/unit/notes/044-girth-five-tait-empty-boundary-is-not-enough.md",
+      "source_sha256": "52ff04b44d9c456d4ad2695c715337fac5f8d2161e9bbabc76330bce5f93f9a7",
+      "current_head_blob": "2b0af3ccdc362ece9380c6902d42aca42f6c9c2f"
+    },
+    {
+      "path": "original/unit/notes/045-two-pole-edge-replacements-cannot-filter-bf-support.md",
+      "source_sha256": "c2c4ddaaa19776d8e088e3547f91d49576d2f661f43210ba54d112e72091bb4f",
+      "current_head_blob": "dff66e1ca0b5c2054fa6ff10e493c75324f5313e"
+    },
+    {
+      "path": "original/unit/notes/046-coherent-kempe-routing-excludes-three-mmt-cases.md",
+      "source_sha256": "6a8a31e47f79b5d673014f7355cbefdefcd7b4225626a9ab9572acb42aea7c47",
+      "current_head_blob": "a466f064a4d03dc90185b08ae2516315fb2d008e"
+    },
+    {
+      "path": "original/unit/notes/047-d5-completions-transfer-to-disjoint-ss-fibres.md",
+      "source_sha256": "cf34e7fb3c2532768846c80f924dbb9f169347beb49305c99bb7f8ba5f77c190",
+      "current_head_blob": "5212cb06553b832dcb3bb916cd1af1571d6ce77f"
+    },
+    {
+      "path": "original/unit/notes/048-global-kempe-action-excludes-case-i.md",
+      "source_sha256": "ca52ef91fd70e14bfdfdc1efa105dc60cb4bc199381d41852455e709ef093543",
+      "current_head_blob": "e64518be29176e623c6947360e220dd840066e94"
+    },
+    {
+      "path": "original/unit/notes/049-global-kempe-action-excludes-case-ii.md",
+      "source_sha256": "2560b6d25d3792db799c41ecce56da582632a8e6b8da00dffd2f5059af112045",
+      "current_head_blob": "5ff240c8d87d5e693a6e51538abf97fcd0ffe5c8"
+    },
+    {
+      "path": "original/unit/notes/050-global-kempe-action-does-not-distinguish-case-iv.md",
+      "source_sha256": "c460c5088193b415c3ea79942e236590bd9d8e3ecc5799cf6bc657bfd31fc9c5",
+      "current_head_blob": "164673e78ee333db5b56673e05cb858a5725018d"
+    },
+    {
+      "path": "original/unit/notes/051-global-kempe-action-excludes-case-v.md",
+      "source_sha256": "4dddb58a637bb4a515b4b6dcd08f1ed69ed34cf11391afcc82abce9f0be05173",
+      "current_head_blob": "4f43edd676d25e4af0d5142dbc577fb49422b8dc"
+    },
+    {
+      "path": "original/unit/notes/052-global-kempe-action-excludes-case-vii.md",
+      "source_sha256": "ca91dc38e48532c63bce69fea1dd7d1ff10adb80df5e17956556eae4f665daed",
+      "current_head_blob": "645dd36fd9b5d0416ade45634690e2850d31fa82"
+    },
+    {
+      "path": "original/unit/notes/053-global-kempe-action-excludes-case-viii.md",
+      "source_sha256": "f62b18bdc355dfbd6aff9fb1559812b1dd0243aef34aedc6c69525ab81acfc3d",
+      "current_head_blob": "7359323452c2ca09c3d4008144a92e5269c13578"
+    },
+    {
+      "path": "original/unit/notes/054-global-kempe-action-excludes-case-x.md",
+      "source_sha256": "59dcb10fe6d61b781f81f57a0e6fc2bb538c558533c583653d8e3c952c6f4f44",
+      "current_head_blob": "20a6edc76759a93fc399e8c798bf129db40b5124"
+    },
+    {
+      "path": "original/unit/notes/055-half-load-column-saturation-and-case-xii-compression.md",
+      "source_sha256": "db6861b2c5e2ed82965c351a2b16021a4552e713406b3031dec2a54fda7b564c",
+      "current_head_blob": "2b0cb0ecdd275811cf2f59befd549a05171447ea"
+    },
+    {
+      "path": "original/unit/notes/056-overlap-repetition-forces-nonsingleton-singleton-fibres.md",
+      "source_sha256": "99963ec4a67e95e1d65aa58205b5aacdf6941ac7ce8f2357a74e6133c7e9af0e",
+      "current_head_blob": "ef57215dc4f25cea2a7047dbf7da92bccb7cdd03"
+    },
+    {
+      "path": "original/unit/notes/057-overlap-cells-transport-singleton-fibres-into-d5.md",
+      "source_sha256": "64e8770df03f3d0027302d6754173a56f316c8625afcbfa7a2065f6d6c28d310",
+      "current_head_blob": "14f75d778f6c2fa6928a8a85cb9d74477551fb43"
+    },
+    {
+      "path": "original/unit/notes/058-row-transports-do-not-force-a-four-column-section.md",
+      "source_sha256": "aa51656303808700301a9cadb3077818d5a1f46123a55dc74412ad96ed516f19",
+      "current_head_blob": "5aa159d4d35205ac041e3c53aba58b20613e0f8f"
+    },
+    {
+      "path": "original/unit/notes/059-high-connectivity-gate-is-a-separate-five-regular-problem.md",
+      "source_sha256": "8a112d0d364b2f0a73bb2bdbdfa151b52ef5378739d71ed0d6be0e75353d547a",
+      "current_head_blob": "bdab11a53ea1b307877639512d150682e672f853"
+    },
+    {
+      "path": "original/unit/notes/060-loop-to-column-carriers-in-residual-cases.md",
+      "source_sha256": "1f37cc5dab5db4e0bb7bf7a6e89709387adc3e1f7c95c3e02519190f506c41f7",
+      "current_head_blob": "6bf2438000d0ba55d99a3fc587c07adbb31f44a4"
+    },
+    {
+      "path": "original/unit/notes/061-cross-column-helly-gate.md",
+      "source_sha256": "9bcf6cb2397ef9fe36b92977c90694fd84f3489167cda5c076fcb8ac0b433e14",
+      "current_head_blob": "c259a2d2fbee3b2e7ec0183a59ca9b1450573ca0"
+    },
+    {
+      "path": "original/unit/notes/062-canonical-transport-holonomy-not-involution.md",
+      "source_sha256": "bb7a70cf5a49a223ae3e01f4f085ea09de7dbf65bc004a73940619bfd79bfe3d",
+      "current_head_blob": "f7128dcc4e16dd772e45005d6364435c01ac5c8c"
+    },
+    {
+      "path": "original/unit/notes/063-nondeterministic-pentagon-selection-survives-holonomy.md",
+      "source_sha256": "3a696d4dc7920d3599de4ec66793126d1b85515bf330e6571336e2f464040bba",
+      "current_head_blob": "8114bff86c9a93eaadb14499c39c51c55c9e2f5e"
+    },
+    {
+      "path": "original/unit/notes/064-farkas-blocker-remaining-interface.md",
+      "source_sha256": "ecce454e89d949ce28fd7c4a7b989c97a5754089d1b205152b61f2d3d58ac6c7",
+      "current_head_blob": "6276858da7c9ee969cda04a2a21d800c4ff29e77"
+    },
+    {
+      "path": "original/unit/notes/065-two-layer-rounding-gate.md",
+      "source_sha256": "5cf6e3ea55585e89958903b11bb991357a6e5903132ebdf0a7f6f8f94fb7e8b8",
+      "current_head_blob": "4ee5f67a4c41739e2f4f5e61be65564cbe94e9a1"
+    },
+    {
+      "path": "original/unit/notes/066-exact-s-exchange-graphs-not-median.md",
+      "source_sha256": "49c9974c71aa036a136c2491657327098e1b0586158f72b4b8bd0cdc3e8af262",
+      "current_head_blob": "417d9ebf1ff201d85dcae0c21e52156171a4f552"
+    },
+    {
+      "path": "original/unit/notes/067-adjacent-blocker-vertex-boundary.md",
+      "source_sha256": "81cccc3204ed5bf0e9f7029bac70c9b577ff2d0972528bb54e5056144b9fe527",
+      "current_head_blob": "b88356c5bb4adde21d1abcc508fdf61eb36ecd01"
+    },
+    {
+      "path": "original/unit/notes/068-ambient-exchange-saturation-boundary.md",
+      "source_sha256": "c63b5328a1fcfade72c53a3a756ff29c7aa14bb3428356cf527af22023174648",
+      "current_head_blob": "a6267003fe661ab30cebc6fac9cbc69683dfb361"
+    },
+    {
+      "path": "original/unit/notes/069-balanced-six-pole-certificate.md",
+      "source_sha256": "5fa93b6fb84a9272215e2b93189cc43ac2e996008a9f3e43145bdf82a63b276f",
+      "current_head_blob": "949d573d631cb05c6deace0e353092c0c10534ee"
+    },
+    {
+      "path": "original/unit/notes/070-four-pivot-rows-and-cubicity-do-not-force-a-residual-selector.md",
+      "source_sha256": "9bf24440944f5cae27108a8d0aed0cd930552179d17e43f55d31980a8113991f",
+      "current_head_blob": "c6c091e943cc9dd3cf28f617531ba481ec5c0095"
+    },
+    {
+      "path": "original/unit/notes/071-girth-five-does-not-force-a-failed-pivot-residual-selector.md",
+      "source_sha256": "8bd1218f456b8667b259feaffc52aa445995c888b614c763808b2e6929845aee",
+      "current_head_blob": "9a36185d633d6270a705274f0c419ba840300d5e"
+    },
+    {
+      "path": "original/unit/notes/072-uniform-perfect-matching-order-does-not-force-the-six-singleton-covering-design.md",
+      "source_sha256": "3ec4d40ecf973af901743fe7492f85acc8f8463508d94aad4a1a976fa17be75b",
+      "current_head_blob": "e42a7b7faddf287866b4976303a8cf8ff5ad547a"
+    },
+    {
+      "path": "original/unit/notes/073-local-trivalent-incidence-does-not-force-the-six-singleton-gate.md",
+      "source_sha256": "85f217c1bfc3c5e3647d79cfb73e2ae95f903064fc4bdbbb948caa2f81ffcffa",
+      "current_head_blob": "16cbdb6a11c561303ca4b847437a4bfb7c5b57f5"
+    },
+    {
+      "path": "original/unit/notes/074-three-distinct-extensions-require-four-witness-reuse-rows.md",
+      "source_sha256": "ef4cca282d1c484e31b444583b0c48d9166c69173303961cb1c62301cd37ec3f",
+      "current_head_blob": "3c1ec6c0673565b7899eb4bdf6094c370f7ea956"
+    },
+    {
+      "path": "original/unit/notes/075-fixed-row-paired-switch-connectivity-fails.md",
+      "source_sha256": "071542b9c5df74ee48fa344858c949418cd41b94c40533fdfadf459f94e17b0f",
+      "current_head_blob": "3212f61a4a90d44bd0166980a6930d20fbaf0d70"
+    },
+    {
+      "path": "original/unit/notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md",
+      "source_sha256": "39b05264ae2235951a62d952f1670c98b82a0830dab9fb1299d66e076522fdd5",
+      "current_head_blob": "0b6da1464343c137ae4af316347998680ec59b9e"
+    },
+    {
+      "path": "original/unit/notes/077-one-k33-factor-cannot-block-all-three-repeated-star-targets.md",
+      "source_sha256": "68f3513f9bc52208996652ca36870812cf8ac7fa7ff51b3478701dc72e507440",
+      "current_head_blob": "21ca389c2ad829e13eeef55b0d5f9284146a3b20"
+    },
+    {
+      "path": "original/unit/notes/078-residual-degree-two-criterion-for-two-triple-completion.md",
+      "source_sha256": "e596770bca35e25d4315d709b85427320ff42dd37a775dd4e12e6d5e4b488748",
+      "current_head_blob": "65813e9dd51ac6ac1e73a8efafc6fe0740143468"
+    },
+    {
+      "path": "original/unit/notes/079-k33-two-sums-destroy-failed-star-nonoverload-gates.md",
+      "source_sha256": "f0e9826b128c1600a6a6db233a1579e2667c560f6f4111787fc638a2776d743b",
+      "current_head_blob": "8f40ce7f1bfc1c4a324e9ed3c0063db39840ad28"
+    },
+    {
+      "path": "original/unit/notes/080-girth-five-and-terminal-tree-two-cuts-do-not-force-nonoverload.md",
+      "source_sha256": "163d11e0c5884901c12e1067ef0a61269058c377a8c8368b0cf36426aca76eb0",
+      "current_head_blob": "7203c28c74deec7b10098e51a259ff465c79766a"
+    },
+    {
+      "path": "original/unit/notes/081-selected-perfect-matching-negative-support-does-not-force-nonoverload.md",
+      "source_sha256": "02ee3084dacf0839b80c13619e3f1a9125aee8b4a466df51afc3fb210eede80a",
+      "current_head_blob": "22e6aa9d475919b9540e43feadf52f64e0f4518b"
+    },
+    {
+      "path": "original/unit/notes/082-two-paired-splices-have-an-exact-phase-intersection-criterion.md",
+      "source_sha256": "57b66cc5fe909c706ae85686ec170168a51289502f87d096ab436d12d5bc3408",
+      "current_head_blob": "e44a2ec2514d286b74d692fbc384a8aa52c50915"
+    },
+    {
+      "path": "original/unit/notes/083-cyclic-five-connectivity-does-not-force-one-row-companion-alignment.md",
+      "source_sha256": "858ff7742b0161edb344c08ce6b3c33a1862ba93b400b0e5bf5937bbc6f46218",
+      "current_head_blob": "fb63791bb7bc01f7b11a220d64e89521574dd809"
+    },
+    {
+      "path": "original/unit/notes/084-minimal-empty-companion-intersections-and-the-no-a-double-hit-criterion.md",
+      "source_sha256": "d1e1adb11afb1041270717b8e8ab0081fa3cf6aaab522e3d869f4a758f0687bb",
+      "current_head_blob": "f7d0dc440eef97996aa3b8c3bbea80e85c594a96"
+    },
+    {
+      "path": "original/unit/notes/085-common-binary-incidence-does-not-force-a-two-step-carrier-section.md",
+      "source_sha256": "dc41d9413bd351d4575b23b2247bd6116af7a0760c6f3d62cae4fe7ff65740da",
+      "current_head_blob": "064b9f5739a60705da4075e7c529a408e1208280"
+    },
+    {
+      "path": "original/unit/notes/086-exact-forty-makes-class-fixed-edges-exclusive-but-does-not-remove-them.md",
+      "source_sha256": "2bffb3bb99a1e17ab38d9f66a010d0a1c9c67eb8e268f7262a01e3fc773ac3f4",
+      "current_head_blob": "b49eb52b3a7672f8c2ae19c23a618409b39127df"
+    },
+    {
+      "path": "original/unit/notes/087-carrier-entry-is-residual-parity-and-is-not-forced-by-global-class-flexibility.md",
+      "source_sha256": "4d8dc9ac8d331001f06f7de1a139593871c89bb24c940972ecb09bf7d1ca03f8",
+      "current_head_blob": "b719655846b27ae702581b71e0c61f025bb2c664"
+    },
+    {
+      "path": "original/unit/notes/088-full-perfect-matching-closure-does-not-force-global-avoider-carrier-entry.md",
+      "source_sha256": "bf9093679ffb18b216fc7f55e8f284d051684e0d6cacd61d91b1e8911bce0ec0",
+      "current_head_blob": "14d7e442454241317a3383646a0983ec4a359c33"
+    },
+    {
+      "path": "original/unit/notes/089-girth-five-single-carrier-saturation-does-not-force-fibre-flexibility.md",
+      "source_sha256": "7dd4cdebbcd2e28b8441bf71bacb7b38503f364a07f00bb92b1f52e865a2ab47",
+      "current_head_blob": "c58983e7001c993938544b386e5222db61c86607"
+    },
+    {
+      "path": "original/unit/notes/090-alternating-chain-replacement-preserves-boundary-support-but-not-two-splice-alignment.md",
+      "source_sha256": "a95fcecf9d5ce95481f65b89241d1018a4d1e9cfc33e02013ee10670c5d6bd03",
+      "current_head_blob": "00bf0f292e9397c57a63f5a17084ad04086a193c"
+    },
+    {
+      "path": "original/unit/notes/091-dependent-two-splice-gate-splits-into-sign-feasibility-and-four-row-sections.md",
+      "source_sha256": "a2b3a2d6156e20dd4ac669e5dce60523a47861747a930249d63fd2c46000729b",
+      "current_head_blob": "8213aa3000d07e7e0442d34ad74672514c8862d6"
+    },
+    {
+      "path": "original/unit/notes/092-one-pivot-quadratic-factorization-does-not-force-an-anchored-two-splice-fibre.md",
+      "source_sha256": "c26f626b42c7802cb67c3bb4d6bb022532e4e30ecb62aab0848e8fcf8e32b85e",
+      "current_head_blob": "9f41f242acba746e664f5fba28c04461881c45ce"
+    },
+    {
+      "path": "original/unit/notes/093-all-carrier-colourings-reduce-first-splice-to-four-projection-tests.md",
+      "source_sha256": "eb8894039f7511b984a7b97cdc64a3e84210c71751e4142cf956bdfe3e361e70",
+      "current_head_blob": "6cd2386f5e803a307ab418936ef7004177309429"
+    },
+    {
+      "path": "original/unit/notes/094-a-common-class-three-residual-transfers-between-anchored-carriers.md",
+      "source_sha256": "1da46e83d9b1cdba2219ce1f81e43dd6a2040560f3cb457545fd70efaef96908",
+      "current_head_blob": "10c4e434fa1cba3bd3e447ef344910c414291d12"
+    },
+    {
+      "path": "original/unit/notes/095-repeated-star-mixed-quartet-nonoverload-is-a-fibre-avoidance-condition.md",
+      "source_sha256": "cb78ea5b8b720153f7571a5b3a1d83dedd0096f686d52fceb534bae414450fac",
+      "current_head_blob": "f892dec3e0e20f872e9a4b6e71dbe0eaf8e78866"
+    },
+    {
+      "path": "original/unit/notes/096-a-real-common-carrier-does-not-force-a-or-tt.md",
+      "source_sha256": "c5ce64b670849936b80602193947ff30238e07055fa25c439bc7091bd11ff2f2",
+      "current_head_blob": "237784f43d1a2493d08181e282ac3deb5afab3f3"
+    },
+    {
+      "path": "original/unit/notes/097-a-k33-owner-phase-rectangle-blocks-local-fibre-avoidance.md",
+      "source_sha256": "131732cef39021183d3c8309424b35549920c9817e7cffe300038606752a335e",
+      "current_head_blob": "5f58aee3202d70b83dc260c377fe089b41ef1874"
+    },
+    {
+      "path": "original/unit/notes/098-exact-no-tt-terminal-pairings-do-not-break-the-k33-owner-rectangle.md",
+      "source_sha256": "8cd2832ed31a2c09c40872b17170f2bf715f2a880b696f5a1f1b896b8999ea84",
+      "current_head_blob": "53495a38bc79ac8a8f269dd2068dbea04499f62d"
+    },
+    {
+      "path": "original/unit/notes/099-three-edge-colourable-two-sums-preserve-dependent-splice-fibres.md",
+      "source_sha256": "51c82557e59bb49c35e9b2ac5a4213f365d1bd0ff0b8ee263739288fea59e424",
+      "current_head_blob": "a45ef931d51b726c514066a099d3e92b25edf067"
+    },
+    {
+      "path": "original/unit/notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md",
+      "source_sha256": "04b73bab03734c03866ca3a1db4e000b2e15d900d23a9aa9870244710cd88d94",
+      "current_head_blob": "42f69b929922ac475dab2e324414136ca7dc0e5c"
+    },
+    {
+      "path": "original/unit/notes/101-pointwise-bc-reuse-and-local-trivalence-do-not-force-an-anchored-quadratic.md",
+      "source_sha256": "0684efa1dd26af07809ebf6b3352f5bef932102ab69ec3314e3f28f862f2a68e",
+      "current_head_blob": "2c3ba9d88dbdf7104aea4a17a8151a334c16672b"
+    },
+    {
+      "path": "original/unit/notes/102-global-pairing-does-not-force-an-anchored-quadratic-but-closure-creates-an-a-cover.md",
+      "source_sha256": "d5402b2be7e218beca24232b16e2ec9a78387dbce445bd42c2e691ef01e4e1fa",
+      "current_head_blob": "a0de8ba29fe777ec0a52b70db79ab2472acfc843"
+    },
+    {
+      "path": "original/unit/notes/103-bf-covered-two-sums-preserve-support-and-single-fibre-existence.md",
+      "source_sha256": "d55322f0d827b4b018f623907bfd36c4ff379be9d732918e81eb44b19118f4b3",
+      "current_head_blob": "e9d597cf130e195ee4019fd1865922b7c214ffca"
+    },
+    {
+      "path": "original/unit/notes/104-exact-negative-support-reduces-first-splice-failures-to-four-cross-carrier-leakages.md",
+      "source_sha256": "6eaac491091f2cc9dbfc7552f174826cf18bda6fb2395c21f7f41d345bf9e639",
+      "current_head_blob": "dcdfffbdd5f3965082c2cfef0c00aabc877c49db"
+    },
+    {
+      "path": "original/unit/notes/105-the-thirteen-vertex-pole-has-no-common-literal-pivot-configuration.md",
+      "source_sha256": "2fcbc83f4c28024e9e9abf03109198fc9c11f50f43b66c358b7b26a77787edec",
+      "current_head_blob": "d0cd0c12d98b0bb49127af5c3ef726856c48164d"
+    },
+    {
+      "path": "original/unit/notes/106-common-k-domination-forces-a-full-perfect-matching-completion.md",
+      "source_sha256": "e6f1b416fe58849c01b39022879cbe637b5cb63bd53ad2fb463c68ea6d04ac4c",
+      "current_head_blob": "d377241e6e7f75e91fefa7a8ba0ae34ac0e11a27"
+    },
+    {
+      "path": "original/unit/notes/107-fixed-row-switches-do-not-preserve-the-shared-witness-context.md",
+      "source_sha256": "6dfcfd812c38092c8cd02ca3d0594be2d974d18c212949f2d00a550939aa81e6",
+      "current_head_blob": "50ad9c6cbf02c6506a492dc46923ddf9a8bebf50"
+    },
+    {
+      "path": "original/unit/notes/109-perfect-matching-polytope-exchanges-do-not-force-the-shared-witness-intersection.md",
+      "source_sha256": "a38dde69d0fcc9ced2e72348873c7ad886d02270ab0ac3bd51471f8e2092b201",
+      "current_head_blob": "72d9b671d2099893f4015c606b86259e6a931fcc"
+    },
+    {
+      "path": "original/unit/notes/110-fano-five-line-rooted-orbits.md",
+      "source_sha256": "3a4de067d063602d5dd52b7ec0f34fbc9e5b92e74714cd56f1cd7d7779682c17",
+      "current_head_blob": "17e98281e69ff65240b31975a530549414d42a57"
+    },
+    {
+      "path": "original/unit/notes/111-fixed-fano-colorings-can-block-two-sums.md",
+      "source_sha256": "935b0dc870420fd01a22edcfaea79fbb11b9502b206069ff520764b2fd57e4c4",
+      "current_head_blob": "3348cdd0a6b2802d2c907a76f8a28993fbf9daaf"
+    },
+    {
+      "path": "original/unit/notes/112-fixed-fano-colorings-can-block-three-sums.md",
+      "source_sha256": "18f19d56decdeb234e4172dbf19e77e92f4ac8a0457a8e11feb4b84b07294f60",
+      "current_head_blob": "d10694ceb2b805601e3347e9da1589cad070817d"
+    },
+    {
+      "path": "original/unit/notes/113-one-line-factors-preserve-fano-five-line-sums.md",
+      "source_sha256": "173aa4506982a3fd3140dbd9e33c416d99121051391b7a1c0975af1b59d6fc62",
+      "current_head_blob": "9e36f628ced0f2afb3ab77b2567ad642ef3e8dbd"
+    },
+    {
+      "path": "original/unit/notes/114-fano-sum-exact-boundary-support-reduction.md",
+      "source_sha256": "6b6013c4e6e59f99a547dfcbe95c2ad709d646dc96b56e4d663decc506131aaa",
+      "current_head_blob": "bfd95c898593c5d9534bf8aaafb8d5d3799a0e56"
+    },
+    {
+      "path": "original/unit/notes/115-fano-five-lines-budget-verdict.md",
+      "source_sha256": "f695ee244a1adea69b3127859efebb040b417a8f048dcd72f07471563d6b1075",
+      "current_head_blob": "51614058e071cfbeef783258d9b6725fe0881d94"
+    },
+    {
+      "path": "original/unit/notes/116-alias-preserving-factor-obstruction-to-the-case-xii-rectangle.md",
+      "source_sha256": "784b3b017a27599667542796479a1383363a8d28c2763dbf380f3dc54e0887b7",
+      "current_head_blob": "1e5ba5eaca4c5c898e5ffd0e57d2cfb31e794a12"
+    },
+    {
+      "path": "original/unit/notes/117-existential-case-xii-rectangle-transfers-through-colourable-two-sums.md",
+      "source_sha256": "2faeb322f3c32577e605e871aaad8a055af63a7cd6690730ded2ed1cb1f5fc8d",
+      "current_head_blob": "2183a557d8120a3cfa6f5167ce9ba76aa075ef33"
+    },
+    {
+      "path": "original/unit/notes/118-common-bc-case-xii-seed-survives-all-bf-covered-two-sums.md",
+      "source_sha256": "93fe9c55241ea1847875ada60e3484d7132b775f915dd91b6bc8b54de3f1240f",
+      "current_head_blob": "8e41dd8f64b5a96255e5d87cb6a4a6d17266c298"
+    },
+    {
+      "path": "original/unit/notes/120-t-paired-terminal-tree-two-cuts-are-forbidden-in-exact-case-xii.md",
+      "source_sha256": "551fd44806f7500fa05042b4bf9f9be2c3e5c8abcae567feb03dc403c263aede",
+      "current_head_blob": "823313525b3b82af8bdde8f4dc569dc19b1d93d7"
+    },
+    {
+      "path": "original/unit/notes/121-two-disjoint-s-terminal-edges-obstruct-every-case-xii-rectangle-target.md",
+      "source_sha256": "941bc295095c3fcb75a3015b6bad988d92388d9d2b1cc8f4a6a27e87c1057a59",
+      "current_head_blob": "113143c5dd3ca4847efd8a07939697dae9adb8b1"
+    },
+    {
+      "path": "original/unit/notes/122-disjoint-s-terminal-edges-force-forbidden-all-terminal-bf-cover.md",
+      "source_sha256": "84e512e471d42c4b765e32d016f91f8a8f66574f540f38864808bf20ca5eb104",
+      "current_head_blob": "78ce8a79958ee3e194ebe5146069b01b613c3be0"
+    },
+    {
+      "path": "original/unit/notes/123-exact-case-xii-terminal-vertices-are-independent.md",
+      "source_sha256": "8cd0546ed0b8f6cc914987f5de61cbc8ba4c79bcf0fa25f06ac739461d97c599",
+      "current_head_blob": "7bd6c268e4cef63a29c8768674718e5618ebd8ce"
+    },
+    {
+      "path": "original/unit/notes/124-bipartite-five-pole-boundary-parity-and-note-075-correction.md",
+      "source_sha256": "6c14567be70217fc23fa2fb81eaae51279d5b31c1db219b20ca40e80db433adb",
+      "current_head_blob": "81bf92ec1d554cc98425c93edaf37bbaabc6b103"
+    },
+    {
+      "path": "original/unit/notes/125-no-single-edge-bipartization-in-exact-case-xii.md",
+      "source_sha256": "7521791c103233eb07106ff2726445594f75f16791c5a14be26d1f1848ff5751",
+      "current_head_blob": "c04da0822e74e49fc5d5fcf9724eb5969bff8605"
+    },
+    {
+      "path": "original/unit/notes/126-adjacent-two-edge-bipartization-is-impossible-in-case-xii.md",
+      "source_sha256": "04f340ab8aa6d99a6e9a0745f3884c5cc81c6e0c20d63da364325a6cf6db639b",
+      "current_head_blob": "62787c110a936b82e5bfb98bafbd6cb40409fc22"
+    },
+    {
+      "path": "original/unit/notes/127-two-edge-bipartization-profiles-and-tait-blockers.md",
+      "source_sha256": "fe3473a41f56310cf3888da2ce05f4222d3ee3629364b86758316c400caf310b",
+      "current_head_blob": "e807cd30ddb9517498f87a5adb8043958519abf3"
+    },
+    {
+      "path": "original/unit/notes/128-mixed-side-unique-companion-can-fail-the-full-cycle-phase.md",
+      "source_sha256": "1caeea1cdf0a029bd92c3e7253f30776de8ca00e8c887100f6476bfa34d6b4eb",
+      "current_head_blob": "309d0a617736a47df1879eef78bf131cdfdb5fe9"
+    },
+    {
+      "path": "original/unit/notes/129-exact-negative-support-transfers-a-class-four-matching-inside-the-right-seed-row.md",
+      "source_sha256": "07afb4ed933911ab65f0e0fe619d54945e088640ae94640f301cf03461ac67d1",
+      "current_head_blob": "363fec6ee2dc9b1597f56a8f31e214dabb0bac1e"
+    },
+    {
+      "path": "original/unit/notes/130-the-mixed-side-right-row-exceptional-class-three-forces-an-s-tait-state.md",
+      "source_sha256": "b730a23dad3108c3ceeb9cc29399566ef1016cfc160f4ab8d2298b530c9923fe",
+      "current_head_blob": "5da1cd4e9a3e48168fac0eb9c8bc0012df6abebd"
+    },
+    {
+      "path": "original/unit/notes/131-cross-half-triple-switch-reduces-the-common-bc-seed-to-a-terminal-path.md",
+      "source_sha256": "fe0604ed5f652c934ac567f40758549a3cb3e4bd6d3eb738bb8f7b653f8f0c48",
+      "current_head_blob": "16ec92a50b30481d04a61f25bd3992a6928f7f15"
+    },
+    {
+      "path": "original/unit/notes/132-mixed-side-right-cell-forces-an-s-tait-colouring.md",
+      "source_sha256": "7a7d903cf7ac9ff3be3072bdddb23923df1a4eda1c1a21d8c257f53370570784",
+      "current_head_blob": "179f7962923c27fb9d978d84308b7115b46f3b92"
+    },
+    {
+      "path": "original/unit/notes/133-same-side-five-zero-carrier-orientations-balance-bc-projections.md",
+      "source_sha256": "5d01227dbba3eabe9597c9ce3569753b9b94d14b481c15e2b492af5869f32269",
+      "current_head_blob": "15cd371a9bda4547551863b7ee83965a02c6457f"
+    },
+    {
+      "path": "original/unit/notes/134-mixed-side-left-cell-forces-profiled-s-tait-and-balanced-seed-projections.md",
+      "source_sha256": "b4e986ad4f6faf533dd9a37222c132ac9bfa687c627c981ccedde77ac5e41693",
+      "current_head_blob": "b98fd5baadc81cd09e9de94f0c04898da530d0d6"
+    },
+    {
+      "path": "original/unit/notes/135-a-hot-class-four-right-row-forces-the-bad-cross-half-terminal-pairing.md",
+      "source_sha256": "3d7fc27d079751f40106d2cabbad0990cd67d3163704e1c9cc181b1f3eced9b1",
+      "current_head_blob": "3e55e5d4fafd1a7b795341562e45bba8bb97eb46"
+    },
+    {
+      "path": "original/unit/notes/136-the-cross-half-five-to-two-path-also-gives-a-common-bc-seed.md",
+      "source_sha256": "a265f09fd9b6c8f871deb36f3a0ccf0f864ed1c55f879340acad31be91b76575",
+      "current_head_blob": "01716acd7b77e7a473d11344d3cf384cdbb4a805"
+    },
+    {
+      "path": "original/unit/notes/137-no-seed-requires-a-pairing-changing-cycle-and-has-a-closed-right-fibre.md",
+      "source_sha256": "50bb1e7dbb37c2b475fec4dfa5de19ea2ca0694e04babc00354dd8bafd456875",
+      "current_head_blob": "166e5ec5b28ac31f6562e7626384f6520f8920cb"
+    },
+    {
+      "path": "original/unit/notes/138-pairing-change-forces-an-unalignable-cycle-with-a-three-edge-owner-certificate.md",
+      "source_sha256": "a5a94d514d0780355e3dc94bc59b47866cfdf286d8c14c7bb5a1b85ec8eb50e9",
+      "current_head_blob": "fb9a153d53cb4f301973c0d526b8077017135f60"
+    },
+    {
+      "path": "original/unit/notes/139-overlap-bf-rows-force-distinct-common-singleton-matchings.md",
+      "source_sha256": "33844053ab052905971b672a01a9d2120f343057640db5a61b775d9f7b5aee62",
+      "current_head_blob": "068f3c60c7e843f5a33e03ec0d539a408ee27c18"
+    },
+    {
+      "path": "original/unit/notes/140-disjoint-singleton-phase-has-a-unique-critical-six-cycle-owner-pattern.md",
+      "source_sha256": "eb68136b6ed248b8e346ed74f71b3a5c32a3ab975481e3496ff7fcff43b52312",
+      "current_head_blob": "2e01eb32f32723392709933b459aa4edaf7b9bb0"
+    },
+    {
+      "path": "original/unit/notes/141-a-disjoint-critical-hexagon-is-a-five-edge-carrier-detour.md",
+      "source_sha256": "332b67b02d54d1aa384e5433ba055a0856318045fb07709ccdf3a734c9471ae8",
+      "current_head_blob": "3eeb50eaec287cbfd07ccfccb54fd62faa38af8c"
+    },
+    {
+      "path": "original/unit/notes/142-overlap-rows-force-four-singleton-phase-junctions.md",
+      "source_sha256": "2d61ec0bc750f122a7e1ee0fb23b2ad0919a6830cfdfd054c5d1c1a54de440c3",
+      "current_head_blob": "4dc2e10c661ae8d1a309b18ffcfa06d6287b6130"
+    },
+    {
+      "path": "original/unit/notes/143-four-junction-phase-concentration-and-the-fixed-b-carrier-path-gate.md",
+      "source_sha256": "35977b303c3ce08b3cc4453ef14b55d44825bfb8aea5fc97d2e295675dd02006",
+      "current_head_blob": "c94a86d8c1eede95a923410b9fdeea14d82ebfdf"
+    },
+    {
+      "path": "original/unit/notes/144-fixed-singleton-phase-cube-has-two-terminal-pairing-gates.md",
+      "source_sha256": "6f13f0acbc0f371e9056154163268dc568a0ec105e9649cfeab6c2e26d5ee2a9",
+      "current_head_blob": "87be1a25ff213473fb2fb7534a73076021aff9db"
+    },
+    {
+      "path": "original/unit/notes/145-negative-tait-states-force-mixed-owner-edges-on-one-phase-cycle.md",
+      "source_sha256": "b432cfcfcfd96e85c634779a3726e568626bb8d840c47a88ea916e0d1dca9875",
+      "current_head_blob": "f46a2b46e9a4c3b7070a4ec9245df1e9bd24b040"
+    },
+    {
+      "path": "original/unit/notes/146-short-aligned-diamond-forces-a-three-owner-tait-defect-cycle.md",
+      "source_sha256": "25c3c55f6d63f85d7e8e49b7353e9a6df03b1f32525e0242cc33375bc4163582",
+      "current_head_blob": "581a602db83a607f5d1b80dfee867b71b33cb23c"
+    },
+    {
+      "path": "original/unit/notes/147-short-diamond-phase-switch-preserves-the-first-terminal-pairing.md",
+      "source_sha256": "d9a170bdb8d986a6c2a9db3a9bf7750ea74405273035921459f35956d9e0ee0a",
+      "current_head_blob": "ce7a2dc6c7f73e0626943fe06a1198b3b27a70ce"
+    },
+    {
+      "path": "original/unit/notes/148-short-diamond-core-cycles-cannot-change-the-five-terminal-pairing.md",
+      "source_sha256": "fcc057dc1d3dd090a8dc717215ef8decbfa61a083cee82f0f0aa4173aa0560f2",
+      "current_head_blob": "ae16de53e068064acd1d357caabc0cbcc8062372"
+    },
+    {
+      "path": "original/unit/notes/149-both-singleton-phases-of-a-short-diamond-have-state-thirtyfive-tait-completions.md",
+      "source_sha256": "4c06a4c5668e91c3ba2b2e4935f8f7ebd28df571c12c45ba4bba5edbfff21c68",
+      "current_head_blob": "a19182cbf1c86c01ce2b6ce141f8ff690150a78e"
+    },
+    {
+      "path": "original/unit/notes/150-short-diamond-tait-anchors-force-an-external-critical-phase-edge.md",
+      "source_sha256": "173f9057ff32cac95613eb92f6ecf06e6ed63a2b4103fa23b9ad660d605386c0",
+      "current_head_blob": "aaa09d917762998633398ef4db29d4335f1dfc08"
+    },
+    {
+      "path": "original/unit/notes/151-five-right-row-junctions-leave-only-common-singleton-critical-edges.md",
+      "source_sha256": "62418ceb53ccdc712e3ac39934027a2650986808c725d03fbf32dce2a688eb1d",
+      "current_head_blob": "b4f2066ce7cd51c18286559a7c8d365d2adff910"
+    },
+    {
+      "path": "original/unit/notes/152-reverse-class-four-gate-excludes-crossed-short-diamonds.md",
+      "source_sha256": "6cddcefd7562502375ed7330ac0033037184dbdf190d1c5a90319498d3f46cd3",
+      "current_head_blob": "547a9adb9ef98223f3a6fc14bc21dc82f8fff701"
+    },
+    {
+      "path": "original/unit/notes/153-two-proper-common-arm-exits-and-a-neutral-three-hit-cubic-gadget.md",
+      "source_sha256": "3341f3b527d81a8ea6ab55adbf173aae1e43496419b860390f2d182fa814e77c",
+      "current_head_blob": "686cddd156f2ddba9117ff9c9db163e08564590d"
+    },
+    {
+      "path": "original/unit/notes/154-a-nineteen-vertex-diamond-has-two-open-tait-routes-through-the-chord-side-edge.md",
+      "source_sha256": "5a85c6b0451b3fc3b7bbafe7d402c93e30d9e970b20fbf80c762ec4fae375ffe",
+      "current_head_blob": "7d2b8ec4e8e4d3a9d02c668aa710494416964b97"
+    },
+    {
+      "path": "original/unit/notes/155-a-tait-closed-cycle-exposes-forbidden-state-fifteen-after-both-direct-gates-pass.md",
+      "source_sha256": "561ceb4d8422a3d4ba552b183df137a1dbc14ac041892512a4f5c4170ed575fa",
+      "current_head_blob": "6e56d92b2ca0a68e21471d3d2f4c1a0312575287"
+    },
+    {
+      "path": "original/unit/notes/156-a-girth-five-pole-keeps-two-hamilton-tait-routes-but-fails-another-colour-phase.md",
+      "source_sha256": "b07dab91bec85cce475fdf5a1a0bbd22aa0e0f3d96c7b9dedb64f845522fb180",
+      "current_head_blob": "619b90b3e78e405fed45013055cee5fede0e9225"
+    },
+    {
+      "path": "original/unit/notes/157-marked-core-perfect-matchings-are-deletion-matchings-and-exclude-marked-stars.md",
+      "source_sha256": "036d13bdd417bdddffeee5854b3a544875bd88ec3a8b4b4f228c4c42f9583748",
+      "current_head_blob": "3852dd588b6750533591777e6c34888ce5ffaf97"
+    },
+    {
+      "path": "original/unit/notes/158-a-permuted-pentagonal-belt-bf-lifts-a-five-cycle.md",
+      "source_sha256": "c5b83996ae9e7505f3cb964a037521a856c7a759563bb9a81393ed8d7f2f38a4",
+      "current_head_blob": "462c86747338c7b7487de17a770f1dac18620868"
+    },
+    {
+      "path": "original/unit/notes/159-a-four-marked-square-belt-bf-lifts-an-adapted-five-cycle.md",
+      "source_sha256": "0f67d3c36aaa1b55134abbd9e11d6fc3ae957a84e5927ef8d1d8b11113360302",
+      "current_head_blob": "c733f0045bc88855da7f016f5d13fc3d14a2a5f1"
+    },
+    {
+      "path": "original/unit/notes/160-a-three-marked-triangle-belt-bf-lifts-an-adapted-five-cycle.md",
+      "source_sha256": "167dec373beb5bad58525c434ed1db90e585c1df5dc6bf31a24555568a6b4ca3",
+      "current_head_blob": "ee16b96cff89f19d7ab8d979f8e0ec49266cdfb9"
+    },
+    {
+      "path": "original/unit/notes/161-disconnected-unmarked-core-has-a-five-cut-or-a-two-vertex-four-cut.md",
+      "source_sha256": "14914992aac4389a40686df297f21a64bfd78415f3e95618d11f63f20ce5446a",
+      "current_head_blob": "e97e48ed2b898fff71e60cd0dd90b9f1d017ba04"
+    },
+    {
+      "path": "original/unit/notes/162-four-crossing-two-vertex-belt-bf-lifts-a-five-cycle.md",
+      "source_sha256": "88ae7a7ae70716eca9ff1d5275d9dcfaf9020a0ae1da612bf33c958c3178df71",
+      "current_head_blob": "88320b1a42593e2f7ed401ab25d7a3c5482afad8"
+    },
+    {
+      "path": "original/unit/notes/163-five-cut-perfect-matching-closure-composes-shore-bf-relations.md",
+      "source_sha256": "3525b318ce01ef17492adca244492c0b02cac631fbf2d899e513fdf140661038",
+      "current_head_blob": "6e6afec96cfd689e13dc56eb057b15540e01c2c9"
+    },
+    {
+      "path": "original/unit/notes/164-disjoint-shore-pairs-exclude-a-pentagon-rstar-five-cut.md",
+      "source_sha256": "d0d4c06ce451ed98ce3a9ab5a78b8d92b0415e957bdd0f91e108ef9851c42390",
+      "current_head_blob": "85560d3b6b0956fbc106770d6f17f580a21180ad"
+    },
+    {
+      "path": "original/unit/notes/165-case-xiii-shore-compositions-exclude-the-disconnected-core.md",
+      "source_sha256": "9cb59c7ca0175cdcb562d8b236b28f532bdc38fbe3b5b40d9a21872926e72b9e",
+      "current_head_blob": "81e84599e7bdd73ad91bb8e99bd078033ee485c3"
+    },
+    {
+      "path": "original/unit/notes/166-tutte-barrier-mark-quota-and-one-vertex-profiles.md",
+      "source_sha256": "305dfa781e6057a06ae072a05e511ba93e037429b610e0e8d7065ffdfa42c5dc",
+      "current_head_blob": "be0e5d9c0274ef34732e526f6ad497f613c0d1d0"
+    },
+    {
+      "path": "original/unit/notes/167-all-terminal-bf-completion-is-a-petersen-walk-labelling.md",
+      "source_sha256": "03496970d8cc2cd907d7365185c9911eef96f420116564d06dc72a672409c801",
+      "current_head_blob": "1ee5af6756f3b2a59baa5ac3db6debc975879b53"
+    },
+    {
+      "path": "original/unit/notes/168-fixed-singleton-profiles-exclude-two-tutte-barrier-shapes.md",
+      "source_sha256": "2887f1c3dc1ffaaf9f3154a4dd0de398dbf9c9816be0eb29993ea44e1f05141a",
+      "current_head_blob": "4eb95b8e57e41bb71a990301fed08fa30973de0e"
+    },
+    {
+      "path": "original/unit/notes/169-minimal-tutte-barrier-has-three-odd-shore-profiles.md",
+      "source_sha256": "df7969f384573f9ee0d97462f6bb335889f1241b63878ace5eabc90f53076597",
+      "current_head_blob": "9597b745e58cdb7882e8bacea5f93925de4f1c77"
+    },
+    {
+      "path": "original/unit/notes/170-two-five-cut-barrier-shores-have-flexible-three-hit-singletons.md",
+      "source_sha256": "abb12d146dac5e4860fd1ba2ae6ffd97c0d670034a9f2b3a7e8b76d5b253094c",
+      "current_head_blob": "6fe23f36cf46aa01f9017c13b158596d88644730"
+    },
+    {
+      "path": "original/unit/notes/171-five-vertex-tree-barrier-shores-force-a-two-edge-bipartization.md",
+      "source_sha256": "e24cb849581082e84c00edc77cfef75f0842d282d74492066d5fd781b2d9d981",
+      "current_head_blob": "6ac0562a0e210774d104b54c5045347fefccc3fa"
+    },
+    {
+      "path": "original/unit/notes/172-one-vertex-two-shore-connector-has-one-overlap-gate.md",
+      "source_sha256": "4dddd970cc7a8bca6440afae61e7a92c05fcd4a5de46d7e4da84523e09a36b49",
+      "current_head_blob": "50d5ee41243b54f8fe0ca1a58b9b7a649e7aaff0"
+    },
+    {
+      "path": "original/unit/notes/173-two-pentagon-shores-make-the-one-vertex-host-tait-colourable.md",
+      "source_sha256": "6ad3e89820f01afb06a6f796212442a64bb290fce990932b936ceb3273409908",
+      "current_head_blob": "5375e7f1056a6f6ba7b47b774232e43c395494ab"
+    },
+    {
+      "path": "original/unit/notes/174-the-one-vertex-two-five-cut-barrier-is-impossible.md",
+      "source_sha256": "64a0189a1403f889933a366046462dd669e7a2f8ae37fbae7189a548194f2c24",
+      "current_head_blob": "c273b95ee1c2c1d1f10c6873c6059dca08c35cb9"
+    },
+    {
+      "path": "original/unit/notes/175-the-422-exterior-connector-excludes-only-the-all-terminal-type.md",
+      "source_sha256": "a8a3b77696ddc0175d44ac38f543f0b811e522e2709308513e81a0f814ccbb69",
+      "current_head_blob": "dcc1a935627c5616206398b74db3e7b814fa8f25"
+    },
+    {
+      "path": "original/unit/notes/176-petersen-realizes-the-422-tait-state-boundary.md",
+      "source_sha256": "f4ebf66ba4f923dc94a9733919f5215fcbcc5748e905ed9ff8716149faed36ec",
+      "current_head_blob": "6b54a6e74c30aacf6145b3efb8e55e13b09de167"
+    },
+    {
+      "path": "original/unit/notes/177-tree-five-cut-bf-disjointness-locks-opposite-tait-triangles.md",
+      "source_sha256": "5ba9e233ae68e15863840b929d27c8d25607b144ccdfceb4bd09f6282e026b32",
+      "current_head_blob": "56ef5afcf0108e25596d1d2a5b3dfe352cf301bc"
+    },
+    {
+      "path": "original/unit/notes/178-the-two-five-cut-barrier-exclusion-confuses-the-core-with-the-minimum-host.md",
+      "source_sha256": "4789cf381d2bb0fefe0cd0e02dd890c1708c6912ad01a8a817ac8c4647d1c2ad",
+      "current_head_blob": "9852b396407c0d233a2d34170dc3bcc6dbbd713e"
+    },
+    {
+      "path": "original/unit/notes/179-a-colourable-two-shore-core-opens-to-a-tait-colourable-five-pole.md",
+      "source_sha256": "765aa8e72f34fbcc0e45c4c824a2c932d871ca71cecc368089889c7d7f943193",
+      "current_head_blob": "c926a94817778eaeee03d449acd5acccece3fba0"
+    },
+    {
+      "path": "original/unit/notes/180-two-pentagon-case-xii-forces-one-relative-port-order.md",
+      "source_sha256": "ab529f6e9ff1c2c6970538b04e924be16d848619e25d658103b7de95c45fef44",
+      "current_head_blob": "a9c375f097e35ca5697e5c4299d207d8ce9b96cf"
+    },
+    {
+      "path": "original/unit/notes/181-two-pentagon-shores-force-a-forbidden-case-xii-bf-pair.md",
+      "source_sha256": "e4b44b1bbbff135da527421f0038984ac61c0d5e857e1fac707d905d2466b600",
+      "current_head_blob": "2815d47ef1f5e1a990a6746d2cc25e1674a6f1ba"
+    },
+    {
+      "path": "original/unit/notes/182-a-seven-vertex-theta-cannot-be-a-case-xiii-shore.md",
+      "source_sha256": "395c5181bd224dbe6ee1113effb0298e8edefca1894669d709fef08804de7968",
+      "current_head_blob": "a890161cbf0a020be5bbe355e8c043c27fce63e4"
+    },
+    {
+      "path": "original/unit/notes/183-a-shared-pair-tait-shore-and-a-loop-universal-shore-force-seven-loops.md",
+      "source_sha256": "a29712c0a0ac2893c2ea5d31b89e0a985db57402f027687a4f906db8c0763d3b",
+      "current_head_blob": "acc356151e59c3c1745f50fb3b56a8be38f37e27"
+    },
+    {
+      "path": "original/unit/notes/184-a-fixed-shared-tait-pair-transports-three-rstar-pairs.md",
+      "source_sha256": "7e7c47239b75d34b850524f1f84dfcab5246610adabadbc578130717b838e9e0",
+      "current_head_blob": "0c2bcb46457d6f4d04a6297bbf7048328c9ee504"
+    },
+    {
+      "path": "original/unit/notes/185-the-centered-tree-rstar-path-forces-a-forbidden-bf-pair.md",
+      "source_sha256": "92b2af9a504dfd9cd53ae0d4de1035d17abe66bbdfcd2a743c38320e70ea5b9a",
+      "current_head_blob": "b82ef24938f91f7ed7e13fcabb35d7445b85804b"
+    },
+    {
+      "path": "original/unit/notes/186-the-opposite-end-centered-tree-rstar-path-is-impossible.md",
+      "source_sha256": "351a029338149b434f40f9f7742bccdf9db80b41428f3abc4dc11521e5aadb39",
+      "current_head_blob": "1140fce64bce8701f17bdc689979555fbe66e1e8"
+    },
+    {
+      "path": "original/unit/notes/187-the-tree-rstar-adjacent-special-ports-are-impossible.md",
+      "source_sha256": "ceaac2bd03b93e8b06ec9d9095f0c9c32b17013b27305131144a7359da9c0125",
+      "current_head_blob": "a02c94026a59c9c478120a17828cdfe6e325d6df"
+    },
+    {
+      "path": "original/unit/notes/188-the-tree-rstar-two-five-cut-profile-is-impossible.md",
+      "source_sha256": "83ce337777e93b142b1e77738c4e3033cb6f7a3f1aecd6dbe42d79505ba0d91c",
+      "current_head_blob": "9c2bd8ebf43c63f3cae507cec7c61f6bbceb2850"
+    },
+    {
+      "path": "original/unit/notes/189-a-pentagon-rstar-two-five-cut-requires-adjacent-special-ports.md",
+      "source_sha256": "1369effe9a69436d385723b4da22d9b813a53a3438f4f30d3771f962b98f02f2",
+      "current_head_blob": "152b11a9d94d07eb4add191c286ec8a46869de42"
+    },
+    {
+      "path": "original/unit/notes/190-the-pentagon-rstar-two-five-cut-profile-is-impossible.md",
+      "source_sha256": "144c90904939d9ec0a4089ff9e0af43282588bd4c8605b9b96dbbdf05966a69b",
+      "current_head_blob": "f5947cce0e972690ceff318c6a4f79afa406e2f4"
+    },
+    {
+      "path": "original/unit/notes/191-a-disjoint-shore-pair-excludes-rstar-except-one-lstar-centre-port.md",
+      "source_sha256": "cb4b4aa664a4722c9eade8a1681c86e99f474faa4c492390b81542827bbb02ba",
+      "current_head_blob": "d216a397d10a11d3ac534e3ba06036039c1a257b"
+    },
+    {
+      "path": "original/unit/notes/192-a-loop-universal-shore-excludes-rstar-in-the-one-vertex-connector.md",
+      "source_sha256": "0cb07a2c954d7d8420008220b395370b02d10dfcd09b4b2daa489ed6ac065227",
+      "current_head_blob": "5d2bf9a277e3b07e6d48dfc9e74d1028120996a5"
+    },
+    {
+      "path": "original/unit/notes/193-two-rstar-shores-force-a-forbidden-loop-in-the-one-vertex-connector.md",
+      "source_sha256": "798438c758b91e665b67ffa16822b89dcc9c9fd27e9bb268160e868c62a52fc4",
+      "current_head_blob": "a425f5fcc34843a8aede73193471a6b68281cd24"
+    },
+    {
+      "path": "original/unit/notes/194-triple-boundary-states-of-the-422-pole-are-vertex-deletion-matchings.md",
+      "source_sha256": "78571e4e6402cc87b9c9c4b2960897d45b1136ab3a4395384acd9c9aff55a883",
+      "current_head_blob": "81c420a0952522ae1940b11c8e07005131089b67"
+    },
+    {
+      "path": "original/unit/notes/195-a-thirteen-vertex-422-pole-has-all-triples-and-a-bf-row-without-the-h-deletion.md",
+      "source_sha256": "54f112bae6dc5dcc4b195a91c141eb40225f5fc3572ba6714fdc596896ccf244",
+      "current_head_blob": "30006c42039da1de0f18c237881f77626c16aa1e"
+    },
+    {
+      "path": "original/unit/notes/196-an-unexposable-fork-mark-forces-its-e-pair-into-the-case-xii-allowed-cycle.md",
+      "source_sha256": "510ee83af53be85a288caadd964db9c8951b199be7904805de13b96c9a0622b0",
+      "current_head_blob": "5c468669cfaeaeff91eff866a14a6c3921fcb216"
+    },
+    {
+      "path": "original/unit/notes/197-a-saturated-s-carrier-cannot-double-the-h-edge-in-the-422-profile.md",
+      "source_sha256": "6b3260bce96ab04fadf6e0a5aabb6971f0c3c544a35839eddf03a98c17741652",
+      "current_head_blob": "419ad286aac82cd9aa88aeda2467820922616c88"
+    },
+    {
+      "path": "original/unit/notes/198-the-de-ab-disjoint-row-fixes-its-fork-owner-and-splits-the-h-load.md",
+      "source_sha256": "f4823012bb5b3d14d39b902b41c1d5b36395ee4960109bb17ccd4e30f43c0d25",
+      "current_head_blob": "ad968facce1832cec178d36fee1b36bb92c94594"
+    },
+    {
+      "path": "original/unit/notes/199-two-formal-zero-h-loads-for-the-de-pc-seed.md",
+      "source_sha256": "73607455f357f6f91f4a975b101095d65a230b43cee78e1ac69ce02adddb25c8",
+      "current_head_blob": "829b9d46299228ee668b8157b2d43d95463bcb54"
+    },
+    {
+      "path": "original/unit/notes/200-two-kempe-switches-balance-the-422-exterior-connector.md",
+      "source_sha256": "6bba4a7d200d4b3d9379685ea8582be5e33936671652bd38c5c7d61fa4c9e2d1",
+      "current_head_blob": "fb3ff94b330cd06e0614fd389f6a3b7b3cf2b677"
+    },
+    {
+      "path": "original/unit/notes/201-the-surviving-422-shore-must-have-an-unmarked-odd-cycle.md",
+      "source_sha256": "4c4ccfc8d2d96c0343fcc1a60a9c4dc40b9d0cc4a99cff67405bab2a30ba1d4b",
+      "current_head_blob": "ae8004a6e6f9863ce613b757c2530aa5530224be"
+    },
+    {
+      "path": "original/unit/notes/202-the-cross-row-e-singleton-is-a-three-deletion-matching.md",
+      "source_sha256": "78cede5b6e814d7ea2cca9af2d453816e2e67bc1eb21a8e451e58bd13c7d368c",
+      "current_head_blob": "a9e4ec8b87062e522e163e4c6575f4945ba53b48"
+    },
+    {
+      "path": "original/unit/notes/203-a-cross-triple-switch-excludes-the-422-case-xii-profile.md",
+      "source_sha256": "5ce341c0de71d241b26521d35d71cc4ebef84a6ec4c1f3ccdc389c976f460c0f",
+      "current_head_blob": "7a83dc11a2ffcc2373055744a16652537ebf8c43"
+    },
+    {
+      "path": "original/unit/notes/204-the-two-vertex-one-five-cut-barrier-has-a-unique-exterior-connector.md",
+      "source_sha256": "d14bae967d3f794831870dc4de2074dd04de2051d85d617ad21796b15dcbf008",
+      "current_head_blob": "a1cbd8f36d8e8be5474e434faaab5a4d3c10f114"
+    },
+    {
+      "path": "original/unit/notes/205-triple-states-of-the-two-vertex-five-cut-connector-are-shore-deletions.md",
+      "source_sha256": "921081d7040604007eec0d296e207db8a01afe89d96625c8b06c9814b5be5f7c",
+      "current_head_blob": "fc30afb8603f10f9a451fb201fa88ab6035c8f1c"
+    },
+    {
+      "path": "original/unit/notes/206-the-central-rim-e-neighbour-placement-is-impossible-in-the-two-vertex-connector.md",
+      "source_sha256": "4b4a625ff22b4ea5819eceaf51586ec42c294e57970b0e5f427870b8a1b67a33",
+      "current_head_blob": "c9024eb7335d671710c12afa812032744b0e1d08"
+    },
+    {
+      "path": "original/unit/notes/207-the-central-private-e-neighbour-placements-are-impossible-in-the-two-vertex-connector.md",
+      "source_sha256": "aaf5ae87d74502df0e041b6585b4a4dba82acd423444592e43861f7f5a997fc2",
+      "current_head_blob": "39c6f297694ccd290791e25e386a6c9b7b9a1bdf"
+    },
+    {
+      "path": "original/unit/notes/208-only-a-private-rim-e-neighbour-pair-remains-in-the-two-vertex-connector.md",
+      "source_sha256": "4c49ce2530d3001a6a7c72a96952f03c7055f2f2a7f7285035daefe84f54df47",
+      "current_head_blob": "004f29abd244f9cba5508e2f9afff024f8b02785"
+    },
+    {
+      "path": "original/unit/notes/209-a-five-cut-barrier-shore-cannot-have-lstar-support.md",
+      "source_sha256": "76df610e6eebb8b1ba5530b8e6abafb796b4c0622071006b062c2e65773140d2",
+      "current_head_blob": "32fe613a27ca694400f3548a7f72e7ef914fa73c"
+    },
+    {
+      "path": "original/unit/notes/210-two-star-rectangles-restrict-the-rstar-im-connector.md",
+      "source_sha256": "7c13af4be15f7e38612214866f4e29ef07794664ef71679be09bdee7914ae9f7",
+      "current_head_blob": "b4929e570d3c9a7e042d43c9b5f0dd0f196f0508"
+    },
+    {
+      "path": "original/unit/notes/211-the-seven-cut-complement-has-only-one-and-three-port-matchings.md",
+      "source_sha256": "68056fe14d7e21d906daeb13570d904b7b3261641d9e13fe44c71bb28b31ce83",
+      "current_head_blob": "9045e1e6dd9962f6937e202b031424476b60aab6"
+    },
+    {
+      "path": "original/unit/notes/212-a-four-leaf-star-rectangle-excludes-rstar-rstar-in-im.md",
+      "source_sha256": "6a4d26bdea1cf582ee6551629cb8ffe751329a23c8dd8814ad5ee03f1aeac67d",
+      "current_head_blob": "2d58c12ba8a5cf3ba878f4a2a80f9eeaa95e6f2a"
+    },
+    {
+      "path": "original/unit/notes/213-three-star-rectangles-exclude-two-rstar-shores-in-ir.md",
+      "source_sha256": "d4572474ffc54ceaa01843bb254ffb58e705cc17ad195aefd05abbb5d3c73c92",
+      "current_head_blob": "fa56e1d4f55a3a6025be06377962e8578a095d0f"
+    },
+    {
+      "path": "original/unit/notes/214-three-star-rectangles-exclude-two-rstar-shores-in-iib.md",
+      "source_sha256": "03b3d5de6547896099e29391fbd27a3ebdeb8b316a7f411588382c0d2a123439",
+      "current_head_blob": "188f4da02376347c5ca416b1c5e86ef3c36fdceb"
+    },
+    {
+      "path": "original/unit/notes/215-an-alternative-five-cut-excludes-the-iia-two-shore-quotient.md",
+      "source_sha256": "2fbd3c4867cae3aaba890768512bc4c38ddc3e0d4470b36ccf4bfa87707d149b",
+      "current_head_blob": "8be77341088b9a1514e4f32866a58a50b0edde99"
+    },
+    {
+      "path": "original/unit/notes/216-a-tree-rstar-im-shore-forces-a-single-minority-port-placement.md",
+      "source_sha256": "aefd51a7c69b5426a085ee13c7a208cfc303cf1e3add710baee06c0f98782d90",
+      "current_head_blob": "553d2e58666198dace985c29963cfda0c9bd6b6a"
+    },
+    {
+      "path": "original/unit/notes/217-the-first-tree-rstar-im-end-partition-is-impossible.md",
+      "source_sha256": "b4b2075f32116977584a249d3ca8cc671027a7003c34cae7085f9e3f1f7dfd51",
+      "current_head_blob": "5bdcd8063cfcf3afb43cab7e2d0ceb7aa2581cef"
+    },
+    {
+      "path": "original/unit/notes/218-a-four-loop-rectangle-excludes-an-opposite-tree-rstar-colour-pattern.md",
+      "source_sha256": "6d9b1dd0ad803256f0ee52882efbd5504aaca562879d086a1f662e183a21e882",
+      "current_head_blob": "48f845342e76a71f1a89c93ebc988a91f20e3ea4"
+    },
+    {
+      "path": "original/unit/notes/219-two-shared-colour-transitions-are-impossible-in-opposite-tree-rstar-im.md",
+      "source_sha256": "198f3a0d3b81dd1c699d750b18970de03f2a878140e6b5c99dd4f7a74025fb5b",
+      "current_head_blob": "3a7f5c65e00d737e221fdf1ed86668dea91ed8c1"
+    },
+    {
+      "path": "original/unit/notes/220-the-two-rstar-private-ports-agree-at-the-direct-mark.md",
+      "source_sha256": "912f01824fd8a6debe3d12fa4b3ffc8012863ad3c346298255d6190fc50e9cf3",
+      "current_head_blob": "b85dfe9184429829bc3a8e91a130d9e48510c9b0"
+    },
+    {
+      "path": "original/unit/notes/221-a-shared-z-star-forces-an-outer-xz-loop-in-im.md",
+      "source_sha256": "d8334319177c27714b33bb7ede6a853aafde3d710fc6ed43c2e953adfa22b2ff",
+      "current_head_blob": "cff96c3c4b4154a34c75dbc506afd696ba4cbd66"
+    },
+    {
+      "path": "original/unit/notes/222-a-yq-u2z-row-forces-the-forbidden-yq-pz-pair.md",
+      "source_sha256": "0d13d055e0868a620b88c4c1786b737a3ba872df7e87965d302ccf56179c4979",
+      "current_head_blob": "474011be58d8a310e037de646de15b4a074b1d22"
+    },
+    {
+      "path": "original/unit/notes/223-a-yq-u1y-row-forces-the-forbidden-yq-xz-pair.md",
+      "source_sha256": "e67137bad90bf51ed14da02e9fe9d49235574e2f1725e1c764e19b40a7db5512",
+      "current_head_blob": "18b74189d5c1f8f0b59263dae64779293ec0361a"
+    },
+    {
+      "path": "original/unit/notes/224-the-im-tree-rstar-shore-pair-is-impossible.md",
+      "source_sha256": "1053e4ee6d358acf8807f56b5e1093412013fa7ccda35b87111a2652f3c22ea7",
+      "current_head_blob": "24370a9e0ac0001d81931182643b65b71f30e0b5"
+    },
+    {
+      "path": "original/unit/notes/225-a-tree-pentagon-im-shore-cannot-have-the-two-shared-u1-neighbours.md",
+      "source_sha256": "bb0e40052a38c494ac05d860913dbf75ac86e8171b2ba6c8db78e1a286d2ccf8",
+      "current_head_blob": "59145ec17ecbdce237c646a490f3cea0e9493246"
+    },
+    {
+      "path": "original/unit/notes/226-published-order-thirty-six-bf-bound-raises-exact-case-xii-poles-to-thirty-three.md",
+      "source_sha256": "d8408d25290214e7c963124c1ff13dfaefb66b07aaff65a27e47e935db25d8a5",
+      "current_head_blob": "71fac91fe14ba0f7b1924ea686ce1a997549482e"
+    },
+    {
+      "path": "original/unit/notes/227-bridge-peeling-and-the-unique-minimal-incompatible-cap.md",
+      "source_sha256": "ec6b49bb07f2a4bf5a389c548a2849c79d3738e61f01dee6a4e940ac5b81ed95",
+      "current_head_blob": "6f499a1f5d237037bec20bf6162e8ed5e2bcea86"
+    },
+    {
+      "path": "original/unit/notes/228-all-terminal-completion-by-chord-colours-and-cycle-loads.md",
+      "source_sha256": "e875ad6e8c8ba1f5ea60e877aee99c61ce2972b010d033abd0a49ce1ff0d80f9",
+      "current_head_blob": "34b8de509fc44d8ef990ca56a8cb1a98b411c027"
+    },
+    {
+      "path": "original/unit/notes/229-an-all-pentagonal-case-xii-matching-requires-order-forty-five.md",
+      "source_sha256": "736027d2aaef47465351727c1cde95ed5805e660010db4f9a17e08b7e08737ca",
+      "current_head_blob": "69620f0d3c454a94587eee9d6f3c132cd0f247b4"
+    },
+    {
+      "path": "original/unit/notes/230-one-internal-mark-barrier-shore-has-a-rank-free-six-port-quota.md",
+      "source_sha256": "6715e773734d38cad6a527bb7de37a7e58430eec18f91f4f25b758171c3bb6a6",
+      "current_head_blob": "047a3201d502a815935fdbecc3fd6d3ac2404dd1"
+    },
+    {
+      "path": "original/unit/notes/231-the-first-private-rim-order-is-impossible-in-the-two-vertex-connector.md",
+      "source_sha256": "9ce810c6115cd8156c062ec3e415256c163b4f2ea9ee74cb1342dcd396abb91a",
+      "current_head_blob": "3e10c91d716193bda5d8a0cdc308241e70d9a3fd"
+    },
+    {
+      "path": "original/unit/notes/232-the-two-vertex-one-five-cut-barrier-cannot-have-exact-case-xii-support.md",
+      "source_sha256": "c30fa51996a341849259dac08de59a0a1babf0c4e84b5b9f2078777f65b153fd",
+      "current_head_blob": "995b297877230c66d17af1197275f8131f246185"
+    },
+    {
+      "path": "original/unit/notes/233-minimal-barrier-forces-strict-hall-on-the-one-shore-exterior.md",
+      "source_sha256": "dfcdce64055ccd553f6cf021a2aea8f4d9a8d5172952c7679e812e75f5027eef",
+      "current_head_blob": "8fc920060e79a92da56df56628acc12579ef5ee4"
+    },
+    {
+      "path": "original/unit/notes/234-three-exterior-graphs-for-the-first-surviving-one-shore-barrier.md",
+      "source_sha256": "6ff34416835c65de00e041f4c779a026b8bbdb0f790b756b0aa87bd5cb26dd4d",
+      "current_head_blob": "b4cbe95316b7e7d86e40e1c9b04adc8456562959"
+    },
+    {
+      "path": "original/unit/notes/235-the-claw-connector-excludes-the-two-endpoint-e-neighbours.md",
+      "source_sha256": "03516b35948456276ba0124ee99f874c04a5fb102e3f217414c414cc96d5fd39",
+      "current_head_blob": "414b7a31015a540548a67850ec69186d832cb72d"
+    },
+    {
+      "path": "original/unit/notes/236-girth-five-leaves-four-marked-exterior-quotients-at-the-first-barrier.md",
+      "source_sha256": "8a340e2ab9c26ea86cd957435db06e820391b50fe4000d01a95691769d15ce1f",
+      "current_head_blob": "3fb49c7574f0ba66008eff0761b10476d6f5ba0a"
+    },
+    {
+      "path": "original/unit/notes/237-the-cycle-leaf-connector-excludes-the-two-cycle-shore-e-neighbours.md",
+      "source_sha256": "56a8c7289f610a607423feeca8cc2cca557f27f3e2650672ad6cf876d42d5de4",
+      "current_head_blob": "03098f72df4123d2cf85f8b5f8845f00ced0ec59"
+    },
+    {
+      "path": "original/unit/notes/238-the-two-path-quotients-exclude-their-shore-mark-pair-at-e.md",
+      "source_sha256": "568a83bce5e64e99d9de242ade7facfdc5a7e43cda6508e0bda5f178bd144e10",
+      "current_head_blob": "083bbcbfd312efd5f3146d6376097a6e3c7a4b05"
+    },
+    {
+      "path": "original/unit/notes/239-the-pendant-mark-loop-has-a-unit-exterior-or-a-mixed-half.md",
+      "source_sha256": "c633c43bb7707a1b7214c55385bb4737d3c02073644262b2e8ccedc41cd922cd",
+      "current_head_blob": "0bd4e51263bf68e129fa1a6bc614d60f52222073"
+    },
+    {
+      "path": "original/unit/notes/240-a-six-cycle-cross-switch-forces-four-pure-carriers-in-the-pendant-loop.md",
+      "source_sha256": "9b7e313e20ac03c73cceda1e35a56e7751b544ec70b81573d64bf42a7ffdbf21",
+      "current_head_blob": "e76398b5bb23deb63b999272cc63332c6677f30f"
+    },
+    {
+      "path": "original/unit/notes/241-the-pendant-loop-cannot-use-the-doubled-singleton-phase.md",
+      "source_sha256": "fe2548493a52d71ded65632691cea32f79130bd159f13d16651ff490ca8e618f",
+      "current_head_blob": "092ec445923f320dbb63c85824cbb28a194057d8"
+    },
+    {
+      "path": "original/unit/notes/242-the-first-one-shore-barrier-needs-an-exterior-cross-mark-next-to-e.md",
+      "source_sha256": "28a0ae3b6a2c3e3d864a194de5a3cd3d6e55728dbdb17ca17a47bc60695f145f",
+      "current_head_blob": "3a9d59c974884fdb5712e58346a971170d3f768b"
+    },
+    {
+      "path": "original/unit/notes/243-the-cycle-leaf-one-shore-quotient-is-impossible.md",
+      "source_sha256": "4d78231ab39a19436011c32bac30747de354503c87bfacfbc867804ccbdc8396",
+      "current_head_blob": "786ce40d5a5f62d87606fcc34b85dd06e21e2db5"
+    },
+    {
+      "path": "original/unit/notes/244-every-shore-mark-must-neighbour-the-internal-mark.md",
+      "source_sha256": "fa780e6c04415e2731fef1b91cbf6244f18b15dff7b348529b61c77050b4a43e",
+      "current_head_blob": "1d51d03febea67592b31e1980c2ce557d476c90b"
+    },
+    {
+      "path": "original/unit/notes/245-six-exterior-graphs-at-the-four-vertex-one-shore-barrier.md",
+      "source_sha256": "46a488cf811f934d0b38e58588e6321d569e2dd2fbc509b663d227c327ec7613",
+      "current_head_blob": "574b5be39f83e663238d1894a8e581f7834f6bb3"
+    },
+    {
+      "path": "original/unit/notes/246-the-two-shore-marks-need-distinct-singleton-endpoints.md",
+      "source_sha256": "741f378d8ae1fe063509207b5156a7969fc38ae7df3ed966b5b1e8776df0e3a1",
+      "current_head_blob": "2b2a913f0b9a097461d5d9ccc1e78f76b8477c75"
+    },
+    {
+      "path": "original/unit/notes/247-the-second-leaf-six-cycle-has-one-marking-and-one-triple-switch.md",
+      "source_sha256": "93c28c69e3f544f039124db5c1b4b0cb53eec220210253a58514d48a89629219",
+      "current_head_blob": "65730d822b0fde3ccfa59e295dedfd07e1cc8b18"
+    },
+    {
+      "path": "original/unit/notes/248-the-second-leaf-six-cycle-forces-an-overloaded-ec-row.md",
+      "source_sha256": "95133a048425254c9154ee4ef5e37c495331f325c1d7a8ec91687c63052388fb",
+      "current_head_blob": "e404bbe61c5b6cd8421655f8f2c5fdf21af8f4d3"
+    },
+    {
+      "path": "original/unit/notes/249-the-first-leaf-six-cycle-has-three-surviving-markings.md",
+      "source_sha256": "57903416a7bcbe47b94424c32e0e3e0fb216b813739f06f9ac504c72923fc6a0",
+      "current_head_blob": "d1583579f5e5495b9fcc32c6036095010695d2fa"
+    },
+    {
+      "path": "original/unit/notes/250-the-first-leaf-d-marking-forces-a-doubled-cross-half.md",
+      "source_sha256": "f147b2f1036dac856a666a451e39f3d16c6c6a0dbdcff161a46d70cafaa17e02",
+      "current_head_blob": "d3174d4d9a187daf6f093c1bbc3b7fef216078aa"
+    },
+    {
+      "path": "original/unit/notes/251-the-first-leaf-c-marking-has-a-forbidden-six-cycle-switch.md",
+      "source_sha256": "6c7522247a3f7ad1d1eb430125045f41817abc9c128fc0c980998cc5833293d5",
+      "current_head_blob": "34b647e2fae7e84088fa35303bbc7710ad143f8c"
+    },
+    {
+      "path": "original/unit/notes/252-the-first-leaf-b-marking-has-a-real-cross-row.md",
+      "source_sha256": "c3d88f59103d3482948b4cafcbe6dead9a134e36c95cd0ebfd8cf9e2dd32ad51",
+      "current_head_blob": "814aae5c230fe13f4c7e6431d36605d2a1bb0543"
+    },
+    {
+      "path": "original/unit/notes/253-two-shared-a-cross-rows-pin-the-first-leaf-b-exterior.md",
+      "source_sha256": "af115993aff74769e809b331f948fdf133def1f70814d16fa5034080cf8191e7",
+      "current_head_blob": "8b010b277957d5a889780c55f138a84a890fbef3"
+    },
+    {
+      "path": "original/unit/notes/254-the-b-cross-rows-require-shore-cycle-intersections.md",
+      "source_sha256": "0aa869f6166ed46b0aa1e5ec93aaac15919b1d67ee0574bb9cb45cf4df9b23e0",
+      "current_head_blob": "fd144a5b59a29ec31aabb0655393784ab84076f4"
+    },
+    {
+      "path": "original/unit/notes/255-seven-shore-port-states-do-not-supply-the-second-b-cross-row.md",
+      "source_sha256": "9e84fa870f23591827e426c14068127298edcf0aefb1300d13dd173b35aa2fba",
+      "current_head_blob": "894ae788004fff0db9fec3e1ca3856af1d4d3fd4"
+    },
+    {
+      "path": "original/unit/notes/256-the-first-leaf-b-exterior-forces-a-forbidden-eb-ad-row.md",
+      "source_sha256": "529cb3b18a5a24d804cb092712cfeaa029a9dbd00469a4eeeecc687318f11ff0",
+      "current_head_blob": "bd5b6f04e213c379a9815820b98ec482cef2ad54"
+    },
+    {
+      "path": "original/unit/notes/257-the-four-cycle-leaf-exterior-forces-a-forbidden-eb-ad-row.md",
+      "source_sha256": "18a4048cca1f679f4c596650acc156228d444368e7c381032415494f2d17d1cb",
+      "current_head_blob": "5914337fda55b809f2fd7f6e850ce981fd745a57"
+    },
+    {
+      "path": "original/unit/notes/258-the-paw-exterior-forces-a-forbidden-eb-ad-row.md",
+      "source_sha256": "841b529f9ce254bd2297e5b9f63b65dbb07208a1296c98a9e571f0a4826bfdee",
+      "current_head_blob": "ff07b66a7b1ade7adeecdf01dd5eea2302fd6fde"
+    },
+    {
+      "path": "original/unit/notes/259-the-fork-triangle-exterior-has-one-mixed-cross-row.md",
+      "source_sha256": "41253e5a4ec146fc439d675e145e27cbeea7f6f9f822d3f6cdd858a344479bcb",
+      "current_head_blob": "1178c949a2b4f26cbdbb2a582f867d6fafc89449"
+    },
+    {
+      "path": "original/unit/notes/260-the-mixed-fork-row-has-a-forbidden-ec-ab-shore-splice.md",
+      "source_sha256": "a3116c20279d7b1503e888a676f0641f33ac6f42afc8f95726847fb50d7aa959",
+      "current_head_blob": "a12cce0e023e3250f0f5df73bb17d30d642ff258"
+    },
+    {
+      "path": "original/unit/notes/261-the-fork-triangle-marking-is-impossible-for-the-long-leaf-neighbour.md",
+      "source_sha256": "630eed3023c9fb46c57077ed2af68fdf8b43b32c8b643cf399be613eda2f507a",
+      "current_head_blob": "34c66a8ac44bfac54cee646dbe298495976f91ca"
+    },
+    {
+      "path": "original/unit/notes/262-the-short-leaf-fork-shared-neighbour-has-no-pure-half.md",
+      "source_sha256": "55a0b438c4e6e2a770a3526f874204028a4105f337f4eee0285db1a5a945b74d",
+      "current_head_blob": "02d7f957b71d0b207118e2d5a618dbabb1554de6"
+    },
+    {
+      "path": "original/unit/notes/263-the-long-leaf-fork-shared-neighbour-has-no-pure-half.md",
+      "source_sha256": "7eaec1c7e2b9afe93d5889c57098242e4b60fc33b266ccc9e9a51f83d2ff18cf",
+      "current_head_blob": "929ad7ea083e81dc8cac3e3ee0141c793a7090bd"
+    },
+    {
+      "path": "original/unit/notes/264-the-four-vertex-fork-exterior-is-impossible.md",
+      "source_sha256": "dd726e510d1b9aba7cfb901b5b503e36c61c45abd836a553887936584c60b009",
+      "current_head_blob": "5a1b8cfce6ffe3a96a83bdda479129e9c2951e06"
+    },
+    {
+      "path": "original/unit/notes/265-the-endpoint-path-marking-with-an-end-to-end-cross-mark-is-impossible.md",
+      "source_sha256": "8f596e299c641fc965de6f76085d3eb8bb9622cdfdab483b1cfd72aa77b79a1c",
+      "current_head_blob": "4637d804ab248073d809a723398afe0624d4a26a"
+    },
+    {
+      "path": "original/unit/notes/266-both-endpoint-path-markings-are-impossible.md",
+      "source_sha256": "7343246b1a272d443347d5c468d3db1641186cdbcce71009513363a7464f670f",
+      "current_head_blob": "137bf7fafe0df40fadcfeba9d2e9296cb685a4dd"
+    },
+    {
+      "path": "original/unit/notes/267-the-near-end-path-marking-excludes-the-ad-neighbour.md",
+      "source_sha256": "516a0aa960cf9a1165e7834f765eef58d252c2fdc8651f9efce3d049398aadb2",
+      "current_head_blob": "548a1b54686eb9ce26506c7b56b3c4f573a0f02f"
+    },
+    {
+      "path": "original/unit/notes/268-the-near-end-path-ce-neighbour-overloads-the-eb-row.md",
+      "source_sha256": "50722099f84a97c423aac2ca04f9088f42ec896148a94b467bd5d1445c8044c2",
+      "current_head_blob": "0b3bd3bb6f6edf3d8aa7bb673a58dcc434e625d0"
+    },
+    {
+      "path": "original/unit/notes/269-the-near-end-path-ae-neighbour-overloads-the-ed-row.md",
+      "source_sha256": "643c6a85d4bdf2d1b4ca703d70ce6a2a6c3b1c0001be36f5a024332f3cc87285",
+      "current_head_blob": "7a2d03382264a54dd1bea24a3f858196b2fe313a"
+    },
+    {
+      "path": "original/unit/notes/270-the-central-path-side-neighbours-overload-cross-rows.md",
+      "source_sha256": "525eed36613b0e74863262ffe35a02d2671829180123a874d706c761097cd1c1",
+      "current_head_blob": "4bbdf0c0f126b903f592abe59afc180af8119a99"
+    },
+    {
+      "path": "original/unit/notes/271-the-central-path-row-requires-two-distinct-shore-masks.md",
+      "source_sha256": "2ac273f7a972f1bcc7c09f7dd68cf40dcb0fbffd463111ceb07c93b7dc6c9738",
+      "current_head_blob": "040517e1a7b45b87593526e6570d331b78cdc4d6"
+    },
+    {
+      "path": "original/unit/notes/272-the-two-central-path-cross-rows-share-one-pure-exterior.md",
+      "source_sha256": "c31dd3ba80bf3843ce4c08dbabbb1a4838984e3446055385bb85640c85d96471",
+      "current_head_blob": "9d50046ecdb31575b5318eb872603ab1c74e60a7"
+    },
+    {
+      "path": "original/unit/notes/273-central-path-transfer-is-a-four-slot-load-intersection.md",
+      "source_sha256": "779d9412ddbc7f0c8f7b524b08c335eaa2340c74d7b3ec5cc476297a797d2b56",
+      "current_head_blob": "0c8e4a56eeac028d06e35e0d3524d08fbe3191d7"
+    },
+    {
+      "path": "original/unit/notes/274-singleton-cycle-interaction-controls-central-path-transfer.md",
+      "source_sha256": "87f237156b53c168ef70eb7c5237c84ffb401fd13a61938a9043de0ee50ac5c2",
+      "current_head_blob": "6d959871e3f9b88945a345aff26fe5a1954f155b"
+    },
+    {
+      "path": "original/unit/notes/275-bf-covered-two-sums-preserve-central-path-load-overlap.md",
+      "source_sha256": "1dc66bf5606e5961c608c6cd6fe61ff34f43c135326f9f3625889c12ba11175d",
+      "current_head_blob": "ffcdcb9d54911fc65ea4cd0ae2b2ed4207470cc2"
+    },
+    {
+      "path": "original/unit/notes/276-the-two-central-path-rows-force-an-odd-shore-cycle.md",
+      "source_sha256": "4a3119d07aeac5015f2d737146408e551d95bd1611cd8b5167b2bfa22e8fbf8c",
+      "current_head_blob": "b4a06decb445363a34de61a451bf69af64230b15"
+    },
+    {
+      "path": "original/unit/notes/277-the-central-path-rows-force-an-unmarked-odd-shore-cycle.md",
+      "source_sha256": "df9558d037a6e831e93128172b286fd0991b17edcd42654a4090c0dad1883298",
+      "current_head_blob": "3cf6fcea2df9c2b92823ce2c5014427ca4e271f8"
+    },
+    {
+      "path": "original/unit/notes/278-one-edge-near-bipartite-central-shores-have-a-fixed-slot-profile.md",
+      "source_sha256": "a1256db3dc41dc4901def27ce481aac322e25af1004dabcdbd94a3a76df6bb27",
+      "current_head_blob": "7c246f1120a60844f4beeff88d88b9b3887c063f"
+    },
+    {
+      "path": "original/unit/notes/279-forbidden-triples-restrict-one-edge-near-bipartite-central-shores.md",
+      "source_sha256": "49cdc0d2b5406749773e75b89f6f7199cda23b01a038dfb47ae1ae88844e68e2",
+      "current_head_blob": "920b5e1fd46f62964d2e6d068dd372f721ce51e2"
+    },
+    {
+      "path": "original/unit/notes/280-fixed-carrier-orientation-excludes-the-central-e-minority-placement.md",
+      "source_sha256": "3ef7c131bbe5f9c9f6a32ef886b5080e9ac8e43ce96c326cebfe31bb59c01c53",
+      "current_head_blob": "13e079df75528315686299503666384598930f21"
+    },
+    {
+      "path": "original/unit/notes/281-the-central-six-port-shore-has-no-single-edge-odd-cycle-transversal.md",
+      "source_sha256": "d7f412e549eb57ead60294842d6d0086b8998138da44202423c76f2c5be42e56",
+      "current_head_blob": "f95ce8a37458284cd7de6d0480d06b3f5c1d59bc"
+    },
+    {
+      "path": "original/unit/notes/282-unmarked-near-bipartite-central-cores-have-only-two-cut-profiles.md",
+      "source_sha256": "cf60a3833fe67953905b1a84c70520de810c10db4f63aa606a6777946f24938b",
+      "current_head_blob": "ca3c3aa503f036450e8fa8f74f80b3f05adf3afc"
+    },
+    {
+      "path": "original/unit/notes/283-three-two-core-profile-fixes-row-slots-and-blocks-some-zero-port-masks.md",
+      "source_sha256": "08bac1a2fcfda5e4ce3df2966f87bbebbf26aff018ac826d7ac1734e3e092c2e",
+      "current_head_blob": "54fdf774aafaaee7e70dc6d7f10440eb0cb3916b"
+    },
+    {
+      "path": "original/unit/notes/284-a-surviving-zero-port-mask-forces-an-s-tait-state.md",
+      "source_sha256": "2e4840975ae572b7885af99f0804b311cf75c3229578c38ccb5d2e0b10b8ab2f",
+      "current_head_blob": "3ea9a23474cf0583aa3a8b09d1080fafe4598e15"
+    },
+    {
+      "path": "original/unit/notes/285-any-second-zero-port-profile-forces-s-tait-in-the-three-two-core.md",
+      "source_sha256": "a936d5c1b0049ee72937a7e537f2148914cfc5c2e3635efdd3532b7f49142e2b",
+      "current_head_blob": "48167e85254d193e85e9933a9a2f7afaed0f49d6"
+    },
+    {
+      "path": "original/unit/notes/286-two-b-side-ports-in-the-three-two-core-force-s-tait.md",
+      "source_sha256": "01e6912b197c3aa822e465d45e5678656a33e0dde442315016a56568b4b47ae8",
+      "current_head_blob": "0bb80c9b1295cd22ff0e06902131dd3511f74c24"
+    },
+    {
+      "path": "original/unit/notes/287-unmarked-near-bipartite-central-cores-force-s-tait.md",
+      "source_sha256": "f5e5805333ae2ffd49e034f2f61080baf27e742a8b9d17c175e5de0618c2a69f",
+      "current_head_blob": "011025d6ffab8ff756ab835a02a00db4a85fea2a"
+    },
+    {
+      "path": "original/unit/notes/288-the-one-b-port-near-bipartite-core-profile-is-not-exact-case-xii.md",
+      "source_sha256": "51bdc84aa431663a03813f8d66536669a4aa5c29fa74eedfe64c14fa96257b3b",
+      "current_head_blob": "6f7c9f5662747a04e60518f03eed19ccb73414a3"
+    },
+    {
+      "path": "original/unit/notes/289-the-remaining-near-bipartite-core-has-an-empty-r-r-two-port-fibre.md",
+      "source_sha256": "763c7aa8e9dd4eac455f072c59d33569b7576ebf6abd65b7357eb582343646ca",
+      "current_head_blob": "92ba86730a7a494547e84bc49d5fc837e6f84eab"
+    },
+    {
+      "path": "original/unit/notes/290-two-port-closure-separates-the-remaining-three-two-row-loads.md",
+      "source_sha256": "7d9743472e84bcb569188d9c19fa2ba56857f34fab6f303c8b5c0fb2b2a9e149",
+      "current_head_blob": "bb6cdc3f01808f5b3445d0aaa6d5719d6ba34780"
+    },
+    {
+      "path": "original/unit/notes/291-cross-slot-singleton-switches-prune-two-vertex-hall-barriers.md",
+      "source_sha256": "e274db674cf782239c5310261364ff55cb327e88c704cb97173b2d164acd8beb",
+      "current_head_blob": "abb2576a51e3bab324208da9ff9fa1acfd1f0387"
+    },
+    {
+      "path": "original/unit/notes/292-a-seven-vertex-theta-excludes-the-last-two-port-hall-tree.md",
+      "source_sha256": "a99ffbb249d11c2ab672756667b84ce2e71345b23584cf49f050805bd9b7d8c1",
+      "current_head_blob": "63aba1c728b2ca983124b29b4886a94bbfa25d85"
+    },
+    {
+      "path": "original/unit/notes/293-a-zero-port-switch-excludes-the-centered-one-port-hall-tree.md",
+      "source_sha256": "f0a382946868469bf013220d5ef00c2db08e4dcb5ed919c755f953629e6556b3",
+      "current_head_blob": "926ea22b94a44a001e109b0f675fd406937c77f7"
+    },
+    {
+      "path": "original/unit/notes/294-a-singleton-b-mask-excludes-the-last-non-i-one-port-hall-tree.md",
+      "source_sha256": "340bf2ef15f6d758870748e8858cbeeea6801152111184710ae87ffc5567f2d3",
+      "current_head_blob": "e499ac08bf9a627fcb2ca9541497242078da64ef"
+    },
+    {
+      "path": "original/unit/notes/295-four-mixed-fibres-reduce-the-one-port-hall-tree-to-two-orientations.md",
+      "source_sha256": "cca932509bd3e6c34b7d7aedbbf344c8d68b7549872d6c5a7e4d490c7840dc13",
+      "current_head_blob": "bfabc99bc3fe5bb8b9cb4013b5aa77cb8e3bfe18"
+    },
+    {
+      "path": "original/unit/notes/296-four-port-zero-port-switch-excludes-the-last-four-edge-hall-tree.md",
+      "source_sha256": "7d6b6199e65b7c0fa20fc09663d04fd45dd0ad45a18d04bf6c91d2dde4d8b2db",
+      "current_head_blob": "e53734b575eba29e409029738b001e73e8d157a3"
+    },
+    {
+      "path": "original/unit/notes/297-the-right-central-ad-row-survives-the-exterior-route-check.md",
+      "source_sha256": "df750fa45dc6c3b4eebb93a88e50a93d1601fb5457382ad07899e592baba1ad1",
+      "current_head_blob": "3c39a264709db20bd2f8f63a3e1820c2693c4999"
+    },
+    {
+      "path": "original/unit/notes/298-the-right-central-ad-row-forces-s-tait-in-the-three-two-near-bipartite-core.md",
+      "source_sha256": "0af60c123829495c6bbdf43d1807ad1d7506288ae8691687daa5893a08670023",
+      "current_head_blob": "075b4a8e2c08d73d4957103984d254195cebb8ad"
+    },
+    {
+      "path": "original/unit/notes/299-two-singleton-c-masks-exclude-the-right-ad-h-side-and-one-b-port-profiles.md",
+      "source_sha256": "696b0804b11e732e6e069611eb16154401de88329ed05869e2ec56a849c740df",
+      "current_head_blob": "9094383e04abcdcd520a4674ed6fcb9270db486e"
+    },
+    {
+      "path": "original/unit/notes/300-two-forbidden-ej-completions-trap-the-marked-edge-in-an-internal-odd-cycle.md",
+      "source_sha256": "9083238e5d9ca1980c1efa49f6c4e0e09983c825f3741fa5d07fb53fe3a7f6e6",
+      "current_head_blob": "9904649a8007b7338763a882b19885bb3f666d01"
+    },
+    {
+      "path": "original/unit/notes/301-the-left-ac-row-excludes-ij-and-separates-two-ej-exchange-routes.md",
+      "source_sha256": "5b1b8a0cbd3aad3da944344ce279eb87c4379676ff2abe8d799277c9a5751fce",
+      "current_head_blob": "ae6daad0e17f9892b4920c52a8105cc0cbe47c46"
+    },
+    {
+      "path": "original/unit/notes/302-the-right-zero-port-matching-forces-both-left-ad-opposite-fibres.md",
+      "source_sha256": "7d089dd7942ffd8e8aa686cbf0eaf872ad130ef69a3067972ea1a9612e8d8efb",
+      "current_head_blob": "d351ea74dd4ee2c1737c67887e5ab4499abbb70b"
+    },
+    {
+      "path": "original/unit/notes/303-two-forbidden-ed-completions-trap-the-marked-edge-in-an-internal-odd-cycle.md",
+      "source_sha256": "7be80020d83837f300165be576c92bcd2391dfd91146e5d544f9d0190abca2bf",
+      "current_head_blob": "d06d68ecac671d1a56a7ae32bbf933b239013b1c"
+    },
+    {
+      "path": "original/unit/notes/304-the-two-marked-return-cycles-leave-a-tight-hall-corridor.md",
+      "source_sha256": "dc4233007b526a7375e0a5aea099518b9a25230a18bbe7400fd3cd60eb948e3f",
+      "current_head_blob": "bc02dc37c51d3c2bad62d34a0d4e1c77050b95af"
+    },
+    {
+      "path": "original/unit/notes/305-every-tight-hall-corridor-must-contain-the-i-port-base.md",
+      "source_sha256": "c702dfa3354fc5ccedb489f230bbd8e07dc6dcf334a1b9a464d1b834874bc1e0",
+      "current_head_blob": "38390fbe5f54c90453b7285acd2750f481ff7384"
+    },
+    {
+      "path": "original/unit/notes/306-both-i-and-h-bases-belong-to-every-dj-hall-witness.md",
+      "source_sha256": "ea88470c0cb321b648cd915bf789634015fe362861a215c1a788d7c267982fb9",
+      "current_head_blob": "d8c00ff8e1e728bee5332b4497d86fda0fb103f4"
+    },
+    {
+      "path": "original/unit/notes/307-the-right-ad-row-has-no-three-two-near-bipartite-dj-profile.md",
+      "source_sha256": "ae897bdecbf00b030b516163c052aa98c30cc1f48a1cc7e861d4cf7eb79e1186",
+      "current_head_blob": "5cf0e083128a5550ac7863303598c85d6d402f96"
+    },
+    {
+      "path": "original/unit/notes/308-two-left-rows-force-the-second-zero-port-profile.md",
+      "source_sha256": "0c7e4c28761b007c6ce75c2251d739d58fffa277210002c390f5d76655b0b1e2",
+      "current_head_blob": "3aed96ff69a537acf4d07ccd32aefe12e3faec9b"
+    },
+    {
+      "path": "original/unit/notes/309-the-allowed-ea-cd-switch-forces-the-opposite-right-row-route.md",
+      "source_sha256": "0ba99030844e5880b72dc7047ea7257a56b7f0a97392ec9e5854176af79f0e8b",
+      "current_head_blob": "04baea66a6bfdf357683893a668d72d35fb6fcb4"
+    },
+    {
+      "path": "original/unit/notes/310-the-right-row-excludes-the-h-based-singleton-hall-block.md",
+      "source_sha256": "6b8527aded249304284bcc59668d1d1074498035287d9bdfdb9a769147e7f273",
+      "current_head_blob": "be7a26e8b0f6bf174558cf6f71f2021891a6f381"
+    },
+    {
+      "path": "original/unit/notes/311-a-six-cut-hall-block-with-one-b-port-needs-five-b-vertices.md",
+      "source_sha256": "d419e49f7f12ac2ad8bebcb7c80bf917c0a4d57d81f859b4af37d9a5cb832f7b",
+      "current_head_blob": "2bb5d4c16c05489c431311f38eabc46636c4bc68"
+    },
+    {
+      "path": "original/unit/notes/312-the-right-row-excludes-the-two-point-six-cut-hall-block.md",
+      "source_sha256": "9ba5d0f67710c450754dedeb37025fc3843928d624abffc6724cb624378d466c",
+      "current_head_blob": "bf91803f01fbff1ef5c942f92c2c23739a949202"
+    },
+    {
+      "path": "original/unit/notes/313-the-first-six-cut-hall-cycle-restricts-the-j-port.md",
+      "source_sha256": "147b0bf3faa52ca03f8777f8d4875958c25e8034e01a2899e1bd4e4e67253982",
+      "current_head_blob": "fa3fb62eb54d754bef438ed4b75dc41fd6d2cc5d"
+    },
+    {
+      "path": "original/unit/notes/314-zero-port-hexagon-flip-excludes-the-a-v0-j-placement.md",
+      "source_sha256": "608497c6edd675d85ba04de804f0d529e7fbc38a5c966a506c16bc3f4efdf776",
+      "current_head_blob": "78bc706ba01c3dd0ac3d959b843c673d12e45228"
+    },
+    {
+      "path": "original/unit/notes/315-no-three-vertex-six-cut-hall-block-in-the-right-dj-branch.md",
+      "source_sha256": "9645ff344848779c548dc552db1d09e9e133f9bb438396a290319f66db5cc31a",
+      "current_head_blob": "d7be5723944148076dead7b5203576ed58bbf438"
+    },
+    {
+      "path": "original/unit/notes/316-zero-port-phase-closure-restricts-the-four-vertex-hall-block.md",
+      "source_sha256": "3ab26d68b2105b6d3e5ca418e98726e39bbec71f2751f8cc9e916de6c4848dbc",
+      "current_head_blob": "6f29c89cb11de9ba8a24a72dbd17d5276506a63b"
+    },
+    {
+      "path": "original/unit/notes/317-complement-transfer-excludes-the-a-s-four-vertex-hall-placement.md",
+      "source_sha256": "8869d278808a46e60070cd08184a683526f6bc81798c59c9a432eebc23783e6f",
+      "current_head_blob": "6e9f4fa1d14945b3abe06d419118cfb3235e924c"
+    },
+    {
+      "path": "original/unit/notes/318-complement-transfer-excludes-the-t-port-four-vertex-hall-placement.md",
+      "source_sha256": "6b6d0807d67e43ebe311f691b788de3c65975902f63a4e5bc1fb91497a4b68b1",
+      "current_head_blob": "1eb1f3fb8fc845fce388d4a0d11ad57336822d04"
+    },
+    {
+      "path": "original/unit/notes/319-no-four-vertex-six-cut-hall-block-in-the-right-dj-branch.md",
+      "source_sha256": "fcd2ecef4e1c8729b78168d6dd2527859126fd4cf20d61b3144c8adcf4a023bc",
+      "current_head_blob": "1a18fa68545927de5a026892c9794dd61daa9442"
+    },
+    {
+      "path": "original/unit/notes/320-five-vertex-six-cut-hall-design-and-zero-port-phase-gate.md",
+      "source_sha256": "84bfe5187cde985974ed674ab8294905945e91b6c2f53e847565039e3821ab4f",
+      "current_head_blob": "0240a1e21bb0e9ab29e77563f4597dd787dec22b"
+    },
+    {
+      "path": "original/unit/notes/321-five-vertex-zero-port-closure-forces-the-d-edge-and-hj-pair.md",
+      "source_sha256": "b41e62dc49474fde997819abfac67c65388880d411c1cfea493a18c828c3278f",
+      "current_head_blob": "7d56773e3b94380ea9dce292ec381d024b393412"
+    },
+    {
+      "path": "original/unit/notes/322-the-remaining-f-based-five-block-fixes-the-left-hj-phase.md",
+      "source_sha256": "7b820e9a4addc04c312ba9a33e431ef095274488d6ef2c69705d7443d5e6caa1",
+      "current_head_blob": "ba7df73168c133bf94f31e1860f17f1267431e1b"
+    },
+    {
+      "path": "original/unit/notes/323-no-u-based-five-block-in-the-right-dj-branch.md",
+      "source_sha256": "1abbcbd5b6275db51a33c0c5697efb4d27ba4b5c0545db320dad6c56c4eaa68d",
+      "current_head_blob": "64b596e2144e3dbdd3d12c5a9178939817cee23c"
+    },
+    {
+      "path": "original/unit/notes/324-no-side-j-five-block-with-a-central-d-edge.md",
+      "source_sha256": "96dd6906c8be5152b38c840f0bc3bd314cb1f2af7808c44ecac74242deef6689",
+      "current_head_blob": "164da2f0db9ae7b34657a6d2d6f718bf98bbc489"
+    },
+    {
+      "path": "original/unit/notes/325-no-central-j-five-block-with-a-central-d-edge.md",
+      "source_sha256": "6da59cc206a0460c4b5a409d4c63cc19c4c78ee4357fa53278b36d2375fe6071",
+      "current_head_blob": "1fe5bf82557917cec4d09d0e640cedeace07b81a"
+    },
+    {
+      "path": "original/unit/notes/326-cross-row-hj-switch-excludes-the-last-five-vertex-hall-block.md",
+      "source_sha256": "dc5ffef35b4b23ade29eba5ac5f6ef335c8eaa5d2e41eadf613ec887c8a4edc0",
+      "current_head_blob": "7eac825736c7e6770f2e15987d1f607507324eee"
+    },
+    {
+      "path": "original/unit/notes/327-the-other-five-vertex-six-cut-hall-allocation-has-no-zero-port-fibre.md",
+      "source_sha256": "8d659e23d30da9bbd90785f005f656e1235aba7dab2bde28ccc735d19fdb018e",
+      "current_head_blob": "3aee1d2eb0316424505db36870a680dd5c824079"
+    },
+    {
+      "path": "original/unit/notes/328-the-second-zero-port-profile-forbids-the-dj-port-collision.md",
+      "source_sha256": "76ef6b1bd68f18bb6cab2ca080c9e6721ac59136336d108ae416e234b423f249",
+      "current_head_blob": "a1a6a1cd719be0b3a35c8e3d69ab59bc8a269bbe"
+    },
+    {
+      "path": "original/unit/notes/329-the-two-cross-row-four-port-cycles-share-their-exterior-paths.md",
+      "source_sha256": "292c7ba82238166da0a60b80b7045b3ca1be652778299f18af8d767bd88b7dee",
+      "current_head_blob": "747fb202b0ea72402006b2f19164b62b758c4d43"
+    },
+    {
+      "path": "original/unit/notes/330-marked-end-collision-gives-a-conditional-shore-transversal.md",
+      "source_sha256": "536b80f9b48cecf4905abafb930d7dbdb13a9d7bc9a97515529e3f26fcd1bbc2",
+      "current_head_blob": "378f1365716946bdda7bf9e2c6a34666df3c70cf"
+    },
+    {
+      "path": "original/unit/notes/331-the-right-pure-path-excludes-the-dj-near-bipartite-core.md",
+      "source_sha256": "a6759e73165a15a85ab5b80485b4716541b8086d790606522bf5ab04a9d39f98",
+      "current_head_blob": "2cc2081ea1f6633ece459fc6e331d95cd46833c7"
+    },
+    {
+      "path": "original/unit/notes/332-the-right-pure-aj-switch-excludes-the-four-one-core-profile.md",
+      "source_sha256": "4d87a91c738aa83c1e03119e1ba08940c9c9b5fb22d42cdb237d5173a61af166",
+      "current_head_blob": "4680e48036557e3f97154648a6d7010972db4458"
+    },
+    {
+      "path": "original/unit/notes/333-the-mark-cannot-lie-opposite-the-exceptional-edge-in-a-near-bipartite-core.md",
+      "source_sha256": "c83cb43e6df9482225571f45cfb8ef2ed87e4cf9212e73db5b53f238cb19329f",
+      "current_head_blob": "dff766a5da0b4beff50c366580b37b9cd01da599"
+    },
+    {
+      "path": "original/unit/notes/334-the-five-same-side-near-bipartite-placements-fail.md",
+      "source_sha256": "5d40ac0680352a3ae4fde869491f05a2ac77f424664239a763255f1c6c06f99a",
+      "current_head_blob": "814ba4884c6b1b626a6758afc1d86fd98b23102f"
+    },
+    {
+      "path": "original/unit/notes/335-the-genuine-two-rows-force-an-odd-unmarked-core.md",
+      "source_sha256": "71b75e1a7f8b90789c702369f71166c72ef89047993e3a2b6c439a479dbb8148",
+      "current_head_blob": "e6ea3eb2ea4ce18f62f78209fb607c8135663c9d"
+    },
+    {
+      "path": "original/unit/notes/336-the-unmarked-core-has-cycle-rank-at-least-three-in-a-cyclic-five-host.md",
+      "source_sha256": "b21fed581931bedafd1fd65dc2201b1c08b8b67c0d55868014c39b84b2494900",
+      "current_head_blob": "41cd64f442efb1829367ffc7c1b95003fd6cbe3f"
+    },
+    {
+      "path": "original/unit/notes/337-rank-three-core-kernels-and-the-two-port-cyclic-five-gate.md",
+      "source_sha256": "cc10b6ea71a61b5797b718093d6f1d47b408cd2d907245f7a90ae14f2d77e5ab",
+      "current_head_blob": "399282f3ce4b7b3b42e3879f7cacfaddf1ea01d4"
+    },
+    {
+      "path": "original/unit/notes/338-the-central-core-has-rank-at-least-seven-and-an-internal-cyclic-cut-budget.md",
+      "source_sha256": "1828277123f2db779583d4ce9af30d2b78c009906f7dc8458bac0d61076e7521",
+      "current_head_blob": "e4546bb316d49eb8306af111df3817d551ffad61"
+    },
+    {
+      "path": "original/unit/notes/339-the-genuine-right-row-forces-an-internal-pure-load-circulation.md",
+      "source_sha256": "9c087108ef0375364392aa5e87b007385a6debe800820a11ee213d531ba232c6",
+      "current_head_blob": "8d962ad97f8c17dcd1ee252198538c055eb97167"
+    },
+    {
+      "path": "original/unit/notes/340-the-eb-cell-needs-a-port-defect-or-a-second-zero-port-matching.md",
+      "source_sha256": "acd216311c47d635560b9f63e607079d5a1d32c57b3c7c7b19ddf8e1011f9209",
+      "current_head_blob": "67abb3963a46f57a49d9b1dbe972fd576cd00e7a"
+    },
+    {
+      "path": "original/unit/notes/341-the-eb-row-forces-distinct-zero-port-shore-matchings.md",
+      "source_sha256": "fb30b29d629a5b2131362e76738739706df70eccf51226b0db04bcdb9c043953",
+      "current_head_blob": "465b890e19fcbae7ba5b888a2adbb862f48a39e9"
+    },
+    {
+      "path": "original/unit/notes/342-the-eb-row-creates-two-exterior-pure-load-fibres.md",
+      "source_sha256": "9256537b93159dd9abd01c63255bacc1811be1fe0bb14fe0e35c60a07d3833f4",
+      "current_head_blob": "2de451e186a8200775252a8f976d30cd3f3e5840"
+    },
+    {
+      "path": "original/unit/notes/343-a-shared-pure-load-reuses-one-singleton-across-two-disjoint-cells.md",
+      "source_sha256": "59bc071bc027ca00e8dce73e74267ed8eabd3764d6e9e328854825d36b6673b2",
+      "current_head_blob": "43d9545bec23c1d4142218394d1b446f5952614f"
+    },
+    {
+      "path": "original/unit/notes/344-a-fixed-singleton-load-has-an-exact-two-state-fibre.md",
+      "source_sha256": "dd0b1aafd20830a10450ffccf6d0c4a34b385f7abe542aa14cbdd6b6562c6f40",
+      "current_head_blob": "6f97cfc9f895b78036359572e94fe7d3cc5986a8"
+    },
+    {
+      "path": "original/unit/notes/346-pure-phase-saturation-fixes-the-opposite-e-path-endpoint.md",
+      "source_sha256": "95bb775b47a5117bf17453e3311bdaefea5f61e2c7271bd2948f0a1f14dbeefc",
+      "current_head_blob": "695ef604db7114218bb32545dd79292080d0c2e7"
+    },
+    {
+      "path": "original/unit/notes/347-a-right-eb-row-forces-a-c-bridge-after-one-exterior-switch.md",
+      "source_sha256": "c723ba38317d5831f67abc073cf50f5653116adbac1d2426c66411e7d0fc124d",
+      "current_head_blob": "21b3ea95a99b32c4089558e0f290902767fb23dc"
+    },
+    {
+      "path": "original/unit/notes/348-left-no-bridge-rows-force-a-spanning-e-b-exchange-path.md",
+      "source_sha256": "f7399f36c8cfd3495b87fba2ce5ed103e726a1b42926793e9abc02a422943496",
+      "current_head_blob": "533bb9595bb5dda8ef78cf98c4b7f4fbe190255a"
+    },
+    {
+      "path": "original/unit/notes/351-the-right-aj-bridge-forces-an-a-d-e-triple-hit-at-i.md",
+      "source_sha256": "a6ad5d80a030328ff0285cdda008fd900966c6957747f01640068c6fe0ee2a2f",
+      "current_head_blob": "6e190845619a3c3aedef06fd8993fe4c5a97e0ef"
+    },
+    {
+      "path": "original/unit/notes/352-every-singleton-a-matching-hits-the-right-bridge-d-e-pair.md",
+      "source_sha256": "f66b74575fcbc7886d338329eeaf9cd25f3b5ae9228f1a981a4eb5cf173e53ba",
+      "current_head_blob": "a5579ef295060c5b50e5d4cb09b84f558643225c"
+    },
+    {
+      "path": "original/unit/notes/353-every-central-path-eb-row-has-a-direct-c-bridge.md",
+      "source_sha256": "07e63f683502b25bdfeb74b1d0feb829297e7f369c6f5a980494ac0fd673ec70",
+      "current_head_blob": "ebb16061ac61d15879489f8860cc4b83352648e7"
+    },
+    {
+      "path": "original/unit/notes/354-the-right-eb-row-forces-a-forbidden-double-t-completion.md",
+      "source_sha256": "c63587228c9599f9613a4fdfa0dcb963352001079f7d4f7da39d38c1b69d137b",
+      "current_head_blob": "62efaa98241a8857c3b3526581cd9b119f6dde24"
+    },
+    {
+      "path": "original/unit/notes/355-the-left-eb-row-locks-a-four-port-shore-pairing.md",
+      "source_sha256": "ae1610cb349185fce3637affdfecc08c2e4492a12a47a124b9ea6d359166ca3c",
+      "current_head_blob": "7ef791f12e44e130dde49117fcf30a5b137bc2c5"
+    },
+    {
+      "path": "original/unit/notes/356-the-left-eb-row-also-forces-a-forbidden-u-a-completion.md",
+      "source_sha256": "921364972bfd83c3f00edabfcf76f8a1199eb48184c0d82462ae70b3a1a37263",
+      "current_head_blob": "11315f465a67abbcf7e7451dfb163249b24e0b25"
+    },
+    {
+      "path": "original/unit/notes/357-a-left-central-ac-row-does-not-fix-the-pentagon-order.md",
+      "source_sha256": "4de1202e479217d2f1c6742ccefd312b93c8df366f049caef19eca340ff446d5",
+      "current_head_blob": "b0a9ac961ea69377b87a1fd0f2e87fe6b3853807"
+    },
+    {
+      "path": "original/unit/notes/358-the-five-vertex-tree-exterior-has-two-root-zero-port-fibres.md",
+      "source_sha256": "5ba1ab1a5fe61f077c3161d7eda269219bdd2e559918f63b172a38a90f33a8e8",
+      "current_head_blob": "a1d2326f5ed5c5dd6cb904ff3238ce66c364913c"
+    },
+    {
+      "path": "original/unit/notes/359-two-root-parity-gate-and-k33-sharpness.md",
+      "source_sha256": "2e88a3584fcb63e80b2a76ba9f9597c9907b0ff0d5da018e77c44bdd1e6dfd00",
+      "current_head_blob": "9a207882a2a28256bc47bf4b4522ac9b2c825b30"
+    },
+    {
+      "path": "original/unit/notes/360-k33-double-star-exact-case-xii-forces-distinct-zero-port-shore-matchings.md",
+      "source_sha256": "79fa923e0b53e9c065f6cf2516b09c19e489f6ba64c29f6b77224b97e84e7fab",
+      "current_head_blob": "0423fcea03193578fec915daa7d70cf4d8f05358"
+    },
+    {
+      "path": "original/unit/notes/361-a-two-edge-defect-gate-and-a-mixed-double-star-bf-loop.md",
+      "source_sha256": "9e49f199f6aadedadc5dbe6cba69ecf58bdaa43e1edcd57c0956140e983ad9f6",
+      "current_head_blob": "24505f123c1b32998615d222a34635d2498dd058"
+    },
+    {
+      "path": "original/unit/notes/362-diagonal-case-xii-cross-row-locks-root-singletons-to-tree-edges.md",
+      "source_sha256": "258e64adc1da9635d3f6d55ad870be9f8abf33e51d08fbccc45d7cc948609ecf",
+      "current_head_blob": "7dcda8d848d303fd59a16324e5a9edc534d4ade8"
+    },
+    {
+      "path": "original/unit/notes/363-diagonal-double-star-exact-case-xii-fails-by-two-exterior-switches.md",
+      "source_sha256": "d613c29fe984897d59d38466a5d6a0ae7ca5ab0755209ed133e518f75372579b",
+      "current_head_blob": "6ddecf9f3f8211bc1b7e697d2c5741ccb139544a"
+    },
+    {
+      "path": "original/unit/notes/364-adjacent-double-star-cross-row-has-one-crossed-shore-gate.md",
+      "source_sha256": "ce8f34e2f697ed5252612856f47611509d8c35d2b8e71a74f70699d855d49ba0",
+      "current_head_blob": "45a5b2c08ed8b7ac606a157f66c1d620910c8f7b"
+    },
+    {
+      "path": "original/unit/notes/365-the-crossed-double-star-ac-row-has-a-second-unique-shore-gate.md",
+      "source_sha256": "f1cae4701235b90f66fb28dfe3da9656abc7179fbec86580704a52d04c8ca72d",
+      "current_head_blob": "43fc96da8037ef69808fb9ba9756dd043f8396c4"
+    },
+    {
+      "path": "original/unit/notes/366-two-crossed-double-star-rows-have-complementary-exteriors.md",
+      "source_sha256": "43d114dc1ae24c9c78699ef12a3bee9daacd7178109f15d3172580b9bcce952d",
+      "current_head_blob": "c94f39b2aaa9db2c1388b1d3ebd5a14755f45d86"
+    },
+    {
+      "path": "original/unit/notes/367-the-crossed-double-star-row-switches-to-a-forbidden-ab-loop.md",
+      "source_sha256": "98520841901db3f93dd96cec19784f2fbb142eef95c2cd622ecec4a911ace756",
+      "current_head_blob": "759652335014c123974f495b187656d056501659"
+    },
+    {
+      "path": "original/unit/notes/368-the-crossed-k33-marked-path-has-no-case-xii-row.md",
+      "source_sha256": "1e59cd11119f91fffb8677c0573fd64f47f56df9191db0db69ca918db04fb1f0",
+      "current_head_blob": "593a4ce18a5c7cfce1440e56cbe6cbd2f45d91e6"
+    },
+    {
+      "path": "original/unit/notes/369-the-parallel-k33-marked-path-also-has-no-case-xii-row.md",
+      "source_sha256": "bac56fd6f0d3c57edf8a1a0700cc2cd47891752003cfac6606b5fa0c91f5ed49",
+      "current_head_blob": "197972c3786e91e3486b18877d857a50d6ed161e"
+    },
+    {
+      "path": "original/unit/notes/370-the-middle-marked-pair-excludes-both-case-xii-pentagons.md",
+      "source_sha256": "183a5a4caf512a3d41fcff611c6d13de4253b0b3dd6c4cd1d7dea030016038d9",
+      "current_head_blob": "7829a14cbc5a81904af5af3ad87a38bfd84c5760"
+    },
+    {
+      "path": "original/unit/notes/371-the-separated-marked-pairs-leave-only-the-path-ends.md",
+      "source_sha256": "ad54e03828d770965cfeb13a1694b01a9e53cddc4ba24a37e55d7ea40ff6b910",
+      "current_head_blob": "a8712afbd06273166007136090df1b8d5cd165ea"
+    },
+    {
+      "path": "original/unit/notes/372-the-k33-marked-path-has-no-exact-case-xii-pentagon.md",
+      "source_sha256": "39f03980b283835fcb54ac5d8397af24881f578222758f5217b147f30308291e",
+      "current_head_blob": "6d4ee4fc8250642e4472efe6933a7e5a5e92c0f1"
+    },
+    {
+      "path": "original/unit/notes/373-the-hamilton-k33-end-pair-row-cannot-root-at-x.md",
+      "source_sha256": "55f04459570a376c6d973bc4ac89978dbbaccc634631f4f1631a3ba4660d3411",
+      "current_head_blob": "55ce3d64ce0484a5c56423d1fff9eaeba9964bf0"
+    },
+    {
+      "path": "original/unit/notes/374-hamilton-k33-separated-d-pairs-have-no-case-xii-row.md",
+      "source_sha256": "32674fce7bf518f34b7c128451fd45106e251715cf65b608c36a7c31e17648ce",
+      "current_head_blob": "d2d805465b577aa82e50562c06a829c585460288"
+    },
+    {
+      "path": "original/unit/notes/375-hamilton-k33-bd-neighbours-fail-by-a-second-exterior-switch.md",
+      "source_sha256": "1457cfca7701b193259667c24d281cdc271ead894bf49adf8b6e69c11de90ece",
+      "current_head_blob": "6f24a04f8761da00e400056a2cf2f3c754102c0b"
+    },
+    {
+      "path": "original/unit/notes/376-hamilton-k33-adjacent-ab-row-cannot-root-at-x.md",
+      "source_sha256": "11f59887eb6bb880678c63b2c651a87365e5078ca9bfed5ad39f8f343d5a476f",
+      "current_head_blob": "89955cde8336d4d064da577d9d6e6daf4715237f"
+    },
+    {
+      "path": "original/unit/notes/377-hamilton-k33-adjacent-ab-pair-has-no-case-xii-row.md",
+      "source_sha256": "44813feda87288975423590db38c7be07355c10d222c780ae41f66117ccea9e4",
+      "current_head_blob": "77d8a1c03e2f3fc730b2ffa02f731ef21b1ef316"
+    },
+    {
+      "path": "original/unit/notes/378-hamilton-k33-forbidden-eb-ed-states-force-an-odd-shore-cycle.md",
+      "source_sha256": "5aa23e5a1186061e920795379540a7de86f364bc7c6cf533c01d1dc8ed029a22",
+      "current_head_blob": "649b341f5b718c54fc5962fcc71a5d04b7749909"
+    },
+    {
+      "path": "original/unit/notes/379-a-hamilton-ea-eb-row-excludes-two-root-pairs.md",
+      "source_sha256": "7639e643716bf782ba1ec56c4a66d0afbed7d54e4b782424fca1c6c93f64874c",
+      "current_head_blob": "912b98d1049e7af91232af9750ca1a07d3fbcbe3"
+    },
+    {
+      "path": "original/unit/notes/380-a-real-hamilton-ea-eb-row-survives-the-two-immediate-switches.md",
+      "source_sha256": "bf6a3915e783f29bdeffe93d0b69c71a616736d2d457f9bb2bb4299e383bc754",
+      "current_head_blob": "54d583ecd8ddafd0cdedcdf49eb853f9926278df"
+    },
+    {
+      "path": "original/unit/notes/381-petersen-shore-replacement-preserves-full-bf-support-and-forces-odd-cycles.md",
+      "source_sha256": "02c75ed394c0f3347e76a9f4ad10c33ab4d9c8903c72b094145a0d61304f2f2d",
+      "current_head_blob": "ac70e4aa525f2a5dd919a52fc85fa5226cb1edc3"
+    },
+    {
+      "path": "original/unit/notes/382-the-hamilton-s-t-root-pair-fails-the-two-e-path-tests.md",
+      "source_sha256": "1fee93db9a5d2d8b7bf041b1185062fa2cca5af10738a623010f47186559d6b7",
+      "current_head_blob": "4bf171ca6057445fd1b48351ec21f30079fd6638"
+    },
+    {
+      "path": "original/unit/notes/383-the-remaining-hamilton-s1-row-forces-a-long-route-and-two-p4-e-matches.md",
+      "source_sha256": "0befdd09a9584f690659789e151c46049fc86fe5ef0f9616aac99faa594672da",
+      "current_head_blob": "396842cc66dba38edfc858a249fb20c1280f7901"
+    },
+    {
+      "path": "original/unit/notes/384-seven-shore-port-signatures-for-the-last-hamilton-s1-row.md",
+      "source_sha256": "55dc04b55c0ec09caf17aa33b13c78609bf4f7550985c31d6587c2acca6d34dd",
+      "current_head_blob": "e318a20a2df176d13d1d17d5754fe1ed8c13caf5"
+    },
+    {
+      "path": "original/unit/notes/385-every-last-hamilton-k33-s1-row-recompletes-to-a-forbidden-eb-loop.md",
+      "source_sha256": "7c6dd6b0cce8a1a32a64ceaeec58f9d876310ff6750aa4ba117765218b494305",
+      "current_head_blob": "d89cf04c585970e859a037989c9962db3bd4b160"
+    },
+    {
+      "path": "original/unit/notes/386-three-spoke-prism-parity-gate-and-two-spoke-counterexample.md",
+      "source_sha256": "1d8f82d5eb5b5d181c660cda3b0b6936ec51e26f33dc63ec79ff236ddaf7f6d0",
+      "current_head_blob": "9388a8b3a4a3ed12ab297a8a17d4137ea13a5e7a"
+    },
+    {
+      "path": "original/unit/notes/387-two-spoke-prism-zero-port-signatures-force-an-alternating-forbidden-pair.md",
+      "source_sha256": "5639a94187023ff3e9a03b96cdd236c2ac1c3d3afe4b5dd8d309204435a89fa9",
+      "current_head_blob": "497400c09d2e53b62f7ec49d0787b933df535ee6"
+    },
+    {
+      "path": "original/unit/notes/388-two-exceptional-prism-fibres-have-a-marked-half-recompletion-obstruction.md",
+      "source_sha256": "65f1d689ddb18da1c968b124b4f40979cc222487255ff7da555672c55abb593b",
+      "current_head_blob": "6b9a1c34b3fe95ef5d1ddd7a17c4236761f9cecb"
+    },
+    {
+      "path": "original/unit/notes/389-mixed-e-rows-need-two-zero-port-shore-matchings-in-two-spoke-prism.md",
+      "source_sha256": "4ee561d7199d1a26145d0d2608bab42cfbae5a0f5be79151ed18614f2ff75d11",
+      "current_head_blob": "74d6560a5f3f88d1e0181e33bf99538d5b26fee3"
+    },
+    {
+      "path": "original/unit/notes/390-mixed-prism-e-rows-require-a-port-active-zero-port-cycle.md",
+      "source_sha256": "b86d023aa3eda8e71ca8bad567a31866115c99e6075ee5e725d7fd261a9c0746",
+      "current_head_blob": "6b61922b710ce56e6c516d5effce54e6642ee022"
+    },
+    {
+      "path": "original/unit/notes/391-short-odd-prism-path-forces-an-opposite-root-and-a-common-singleton.md",
+      "source_sha256": "8520fe124198dd81c954a8d0a639873887929ced4604298f1c28275d3cc17806",
+      "current_head_blob": "75c9fcc4189c86d228a20c8516ba6979616c8214"
+    },
+    {
+      "path": "original/unit/notes/392-a-short-prism-path-flip-can-preserve-both-forbidden-signatures.md",
+      "source_sha256": "01358c080273a6e939d2a2b4f13fae21f9248f838347432300720d954afc67d2",
+      "current_head_blob": "91d0129caa5e262c1888706c6ea6a78ac755ad92"
+    },
+    {
+      "path": "original/unit/notes/393-a-real-mixed-prism-row-attains-the-short-path-two-path-gate.md",
+      "source_sha256": "09ed5feb9b0de58b4e6b8ff39a78e672754e62c3eb4b4bc9f44909708b56722a",
+      "current_head_blob": "f01b0ba79faba0aef0ef8d010e4b1b5e3bacd057"
+    },
+    {
+      "path": "original/unit/notes/394-a-mixed-prism-row-forces-an-ac-bc-escape-and-attains-it.md",
+      "source_sha256": "089d9d22db23e14d57900d4c1385571015ffcbccf25fb15915bd8437d66f18fb",
+      "current_head_blob": "18ea1d13792c1e19570909a91d39f0c5fdaa29e7"
+    },
+    {
+      "path": "original/unit/notes/395-the-mixed-prism-e-singletons-have-an-exact-three-port-selector.md",
+      "source_sha256": "364aeb7a090da4cc639a998755ce5c690e082f74d586480bf8be0a3ac52b2294",
+      "current_head_blob": "e70da0bbd57dc6131feed485ceb636bb812aefc2"
+    },
+    {
+      "path": "original/unit/notes/396-the-mixed-prism-root-pair-has-one-pentagon-and-two-exterior-masks.md",
+      "source_sha256": "85e6558705435ead26c5964899ca088e9b887ef42acfc17e7d040f1529b0dc18",
+      "current_head_blob": "05ba7a9c614aac130bfb3eb65be7da482944e0e3"
+    },
+    {
+      "path": "original/unit/notes/397-a-real-mixed-prism-row-satisfies-both-e-port-selectors.md",
+      "source_sha256": "51edd31e6b6cfae74ea678dcfaa7553b58539fc158df25f2e74c3fb2ffd56dce",
+      "current_head_blob": "d65decf5c3ce9150e51a5a9d849d0ecd5ebe3398"
+    },
+    {
+      "path": "original/unit/notes/398-two-cross-switches-force-a-second-shore-quartet.md",
+      "source_sha256": "14794460ecf773f79205c21e3084730d7bbddc1f6c6f024fd3fa755809930106",
+      "current_head_blob": "25c71bd78c598d9fe8503c245653f64022dd89b1"
+    },
+    {
+      "path": "original/unit/notes/399-the-direct-mixed-prism-root-pair-is-impossible-at-all-shore-orders.md",
+      "source_sha256": "dbde78b3c0bd004f3561eb1b46b44cc57b2bd5666aaf1cb089f9a5f2d41cf27e",
+      "current_head_blob": "ac1cb7e57b2c658f9459944841e833383188e002"
+    },
+    {
+      "path": "original/unit/notes/400-the-opposite-mixed-prism-row-has-two-direct-escape-roots.md",
+      "source_sha256": "7f91756a2f7fccfe2967ab6e674788317b92748d74db147bb6c3fb9331e94d43",
+      "current_head_blob": "a3fa6a3c61d912efe801c3bc53c579b40e38be2d"
+    },
+    {
+      "path": "original/unit/notes/401-the-opposite-prism-c-route-is-impossible-at-all-shore-orders.md",
+      "source_sha256": "dfd546b4ce2d5352e1e727f3238494a07193c329aefd7c59b60a46b7fe3ddf1f",
+      "current_head_blob": "458cf548fdbb922f6b36f5a7a3d49531764ea8d1"
+    },
+    {
+      "path": "original/unit/notes/402-the-opposite-direct-mixed-prism-root-pair-is-impossible.md",
+      "source_sha256": "18e924d7af8838745d1f10ee1c3f59694286995ec536c5a349d8e30f23e16178",
+      "current_head_blob": "47c8cdafc7342eccf00338f884608db00b1bad6e"
+    },
+    {
+      "path": "original/unit/notes/403-all-four-direct-mixed-prism-root-pairs-are-impossible.md",
+      "source_sha256": "e55a698ebccf5ddd6964416389680f9a8616539d291fc48f23c174df1654aba8",
+      "current_head_blob": "30ad361fb8db1ec6ba3cd3cc56f1ac0cf10d03cc"
+    },
+    {
+      "path": "original/unit/notes/404-a-direct-forbidden-prism-root-cannot-enter-any-mixed-e-row.md",
+      "source_sha256": "df55829b3baccc832d6f6b337526e7f0410218c7139af555cf1affb9362180ea",
+      "current_head_blob": "233898425509af928da1e539c17dc219093ba0b4"
+    },
+    {
+      "path": "original/unit/notes/405-the-indirect-ab-and-bc-b-prism-root-pair-is-impossible.md",
+      "source_sha256": "6ef34036ef25fb53e9d7cfc031cac6fb764c0df8d62ead452ac9c9e7377c61f9",
+      "current_head_blob": "1d36633f52addcdc7c6310c607ebc22c506bff74"
+    },
+    {
+      "path": "original/unit/notes/406-the-remaining-ab-bc-mixed-row-has-one-pentagon-and-an-e-p5-gate.md",
+      "source_sha256": "a7d2c982e9fe28c6104c9ba6c4c1100278f01a29c8741cb2513e43b21f5fe70e",
+      "current_head_blob": "dc6cccba224cc7a9a45db111a4fb98fff80cf846"
+    },
+    {
+      "path": "original/unit/notes/407-the-last-ab-bc-prism-row-forces-a-double-forbidden-completion.md",
+      "source_sha256": "f6eeda2ce1de8eb1c9dc12dfdad4a1f6c6a6e1c7d85d9cbc6dde9ed02602372c",
+      "current_head_blob": "52d9fbe1cdb77181f5bade2cfa8fce16f67e41f5"
+    },
+    {
+      "path": "original/unit/notes/408-the-swapped-bc-ab-prism-root-pair-is-impossible.md",
+      "source_sha256": "9e75df4e9dff2071711881c24e088d61e75a8370de58751f6c9a91127d49f2be",
+      "current_head_blob": "86696f9692190369bfbd234b1b5cd932f612d95c"
+    },
+    {
+      "path": "original/unit/notes/409-the-direct-bc-and-ab-a-prism-root-pair-is-impossible.md",
+      "source_sha256": "e2f55cc6762606c750e17e2ff65b4ed5fe7584fd3ffbed27c2bbae9dcae689a5",
+      "current_head_blob": "6ccbc4e6b312b3694e9b47d8678368ebd0fa5276"
+    },
+    {
+      "path": "original/unit/notes/410-the-direct-bc-prism-root-cannot-enter-a-mixed-e-row.md",
+      "source_sha256": "c2dbc71902b60c96fc4230f0f0dba73d30bf4274e7fccf58d97d4898e1afd200",
+      "current_head_blob": "a756434ff9326166714057d07c65cfdd34bff18e"
+    },
+    {
+      "path": "original/unit/notes/411-the-indirect-bc-and-ab-b-prism-root-pair-is-impossible.md",
+      "source_sha256": "9538bb16a811358915aa497ef768b30b9a91f1e6eb40444ddc4c490b2d14c856",
+      "current_head_blob": "26aaa1a0156e8fcc7d045cdf348b560a67e6f634"
+    },
+    {
+      "path": "original/unit/notes/412-the-last-bc-ab-prism-root-pair-is-impossible.md",
+      "source_sha256": "a273dcd274808eb31f559cf8dbf27366b31f742547de9633e4aa0a996ffa8bdd",
+      "current_head_blob": "1dfa02ec9fa04707e6a9a8b6b33e7d323e64d806"
+    },
+    {
+      "path": "original/unit/notes/413-two-spoke-prism-exact-case-xii-requires-odd-zero-port-complements.md",
+      "source_sha256": "e42bf80c0221d494322d726cdd9c14ebf6f9dbd9f35856dcc8b34106d9c8c92e",
+      "current_head_blob": "c2459ffd7e7697a0ff2352019293d86df34775ff"
+    },
+    {
+      "path": "original/unit/notes/414-an-adjacent-prism-forbidden-pair-excludes-the-indirect-bc-direct-ab-row.md",
+      "source_sha256": "bb38c343cccc2413badc30b80ae8c4797caf131f673bed536e924daf74cb1634",
+      "current_head_blob": "2797a5b69ad097ee1cce584df3f068a5c626d42e"
+    },
+    {
+      "path": "original/unit/notes/415-the-adjacent-bc-cc-second-direct-root-has-one-real-exterior-boundary.md",
+      "source_sha256": "3dc985b3ea96ffc2a7af09cf1369a92381a1ca12c2a16f23f91a9b6b252d570d",
+      "current_head_blob": "850a0cd60c78746553e720cbf451f9f1312c313f"
+    },
+    {
+      "path": "original/unit/notes/416-adjacent-bc-cc-indirect-bc-and-ab-roots-are-impossible.md",
+      "source_sha256": "7d596e6be868235bc86d131ddb18d45b0732ffac35080a4dc7a7237dfa8bddbe",
+      "current_head_blob": "267a8208feb6d35d73d6d2464f8c956e13b919bd"
+    },
+    {
+      "path": "original/unit/notes/417-adjacent-bc-cc-last-mixed-root-excludes-one-pentagon.md",
+      "source_sha256": "292d7bc0e6c78e58353bcf6131260adc19e9d209faf8f96d921cd077054ddc78",
+      "current_head_blob": "1ddf8d8c76fc78b4f600a15686fc954d682f5f8d"
+    },
+    {
+      "path": "original/unit/notes/418-the-surviving-prism-row-has-a-sharp-k-e-path-condition.md",
+      "source_sha256": "b25f1da00e7aa6cbe53e72a911b2ef88b4765176021204375a2c34254cf2440b",
+      "current_head_blob": "f6e6265204e623674ec5ac44fb86c72b8aed1e76"
+    },
+    {
+      "path": "original/unit/notes/419-an-exterior-reslotting-excludes-the-last-adjacent-prism-row.md",
+      "source_sha256": "7a6db25ec169cba0e6829071a7de3aaee426b6fefa72c0cab62f63ed7f9e18ca",
+      "current_head_blob": "0d6e6087277a8e6e32fa474a96bb9008c2df5c5b"
+    },
+    {
+      "path": "original/unit/notes/420-the-direct-cc-root-cannot-enter-a-mixed-row-when-ab-and-bc-are-forbidden.md",
+      "source_sha256": "53cd505b3e59714295da4c1a81b828360e316d0dfc9b8915e7eb19687dfc4227",
+      "current_head_blob": "8a2a30e8c2593dbf8ced2d9f4cafd6118b2e52a1"
+    },
+    {
+      "path": "original/unit/notes/421-the-ab-bc-forbidden-pair-has-no-prism-mixed-cell.md",
+      "source_sha256": "d7d5b3b2f3f55e99a995cba580a333cca0f2f0ec77599fc0de1d6bd00a16361f",
+      "current_head_blob": "b539ecf670844f44fddf774c7c16bfafae306fbc"
+    },
+    {
+      "path": "original/unit/notes/422-the-ac-ab-forbidden-pair-has-no-prism-mixed-cell.md",
+      "source_sha256": "bc1c2fe2345edf0605412af0883f66a1dd7e28b1c704a3ad69da8645eb55f171",
+      "current_head_blob": "048bf70df71346b810892deab246cc2d79ff9ded"
+    },
+    {
+      "path": "original/unit/notes/423-no-exact-case-xii-pole-has-the-marked-two-spoke-prism-exterior.md",
+      "source_sha256": "05acdbf090ee1b33e733f7357189b978445b05b85636ba5018e11c8565caad68",
+      "current_head_blob": "d083f79b8ebe923bb2ac6b82b43a2b3fc4338e12"
+    },
+    {
+      "path": "original/unit/notes/424-the-other-two-spoke-prism-excludes-the-ac-ab-forbidden-pair.md",
+      "source_sha256": "0e331cce8bbf783906dcc2c0d1f71d2010e63b62d0ca19759949bc33e46279eb",
+      "current_head_blob": "02387b8fff57d8b9a1b15c8de6fbc960b82f0ce2"
+    },
+    {
+      "path": "original/unit/notes/425-the-other-two-spoke-prism-excludes-the-ac-cc-forbidden-pair.md",
+      "source_sha256": "1aae8bd85c49876899ffad791b0a508ff82bfe9497d74298bbfd9f8d8fa6da21",
+      "current_head_blob": "cc80289b1e64f709fe43e78f8139d4f2b47661c2"
+    },
+    {
+      "path": "original/unit/notes/426-the-other-two-spoke-prism-excludes-the-bottom-edge-forbidden-pair.md",
+      "source_sha256": "a0a929b1ebb14573481f416560ada40b958f8b2e94d137f6dc22cb48ddd047b8",
+      "current_head_blob": "2eab766a39d79ff89b23aef05e75e43658e672cf"
+    },
+    {
+      "path": "original/unit/notes/427-the-other-two-spoke-prism-excludes-the-top-bottom-diagonal-pair.md",
+      "source_sha256": "ad815783d36c4a55afee924b0bad83f275cf99f867031cb937343aeacf3a11a1",
+      "current_head_blob": "861d7327c72be6b2119d2a082255f79a65530034"
+    },
+    {
+      "path": "original/unit/notes/428-the-other-two-spoke-prism-excludes-the-cc-bottom-ac-pair.md",
+      "source_sha256": "0519081d5ef3b648f13c48ffd225d4c487c1268bf848cad13f4e0a51472b1eb1",
+      "current_head_blob": "0c17a67689ed371beed512bb02adeac1a6815fa9"
+    },
+    {
+      "path": "original/unit/notes/429-no-exact-case-xii-pole-has-the-other-marked-two-spoke-prism-exterior.md",
+      "source_sha256": "c12af3048bde8786a2bbcc0b6cad3f92dbfb7fb309b73f5cd777354573103dbc",
+      "current_head_blob": "768f9e19858533e80040fbcb4c519fd636b079d6"
+    },
+    {
+      "path": "original/unit/notes/430-the-hamilton-two-spoke-prism-has-two-clean-shore-signatures.md",
+      "source_sha256": "695a46e805dc4dec79ca224ce85b8342e4748330176f3b4c5335a0dcb2883989",
+      "current_head_blob": "a1139b51bc7992e41e7a3f50f03ad6efef6c03d5"
+    },
+    {
+      "path": "original/unit/notes/431-the-hamilton-prism-excludes-the-ab-cc-forbidden-pair.md",
+      "source_sha256": "73ccb9f3218b8600bc86735a6f75d32eabaf5ce397fb44fa9e7ba99c72f9af0d",
+      "current_head_blob": "ec5242c2b0d8f6bc54da4e42bb2696a82afff611"
+    },
+    {
+      "path": "original/unit/notes/432-the-hamilton-prism-excludes-the-cc-ab-forbidden-pair.md",
+      "source_sha256": "2f78a5bea928384fbfdfdfde2e33f649e2628c4c6dce3b8d690eb8d7c35db651",
+      "current_head_blob": "5615a91b62545d6cabf312d84d52c36746af443d"
+    },
+    {
+      "path": "original/unit/notes/433-the-last-clean-hamilton-prism-pair-has-one-allowed-root-and-two-marked-masks.md",
+      "source_sha256": "f09718b96cf4deaae0806f85b1836d14d131b4b380f932f8f010f18ab417c2b4",
+      "current_head_blob": "f4cc612a5a9e4472a7fcf3510fe1a11ae51438c8"
+    },
+    {
+      "path": "original/unit/notes/434-the-last-clean-hamilton-prism-row-cannot-root-its-forbidden-ab-triple-at-b.md",
+      "source_sha256": "05cb4e43f3171f22fa7c7ec3fa5d77d5d8c9c2aa75b0e65d48fb9bedd13ef921",
+      "current_head_blob": "405a7ecb1159c02d88411756ca0a184d125b042c"
+    },
+    {
+      "path": "original/unit/notes/435-the-last-clean-hamilton-prism-forbidden-pair-has-no-case-xii-row.md",
+      "source_sha256": "e8b67b6814dbe3e5bc92bbd2b949aa40689e604feb19b254aa3af303ca344cd8",
+      "current_head_blob": "8bf829ed52ff39dec2d681eeeac8bcbdef2dd1f1"
+    },
+    {
+      "path": "original/unit/notes/436-the-hamilton-prism-excludes-one-x-w-forbidden-pentagon.md",
+      "source_sha256": "d4b18a669a4e8d07f57fa23aefd2b42fae9a10617c2c8a39d7e8dd10bf2f78eb",
+      "current_head_blob": "89847ebee9f60e0d0693cd28d960b525db99e3ce"
+    },
+    {
+      "path": "original/unit/notes/437-the-surviving-hamilton-x-w-row-has-both-forbidden-loops.md",
+      "source_sha256": "83012d5c00abcf7d73e8dadac968c44121804750b877f842dee6c2ad9b8c81a6",
+      "current_head_blob": "961e12063c50a2e8623b33dc061647c23f29606c"
+    },
+    {
+      "path": "original/unit/notes/438-the-hamilton-cc-ac-forbidden-pair-has-only-two-long-row-masks.md",
+      "source_sha256": "6be08071df7012f105010fd666c4116ca4781fbfef50a6e954bd6e72988a7b2a",
+      "current_head_blob": "e5dc41f4b4838aa403a39be2c2b3dd846abfa06a"
+    },
+    {
+      "path": "original/unit/notes/439-both-hamilton-cc-ac-row-masks-recomplete-to-the-forbidden-ey-loop.md",
+      "source_sha256": "950708cd90261404d8b119c597b84ceaa2e4784d4320c8bb6c64dff484e9fc3d",
+      "current_head_blob": "3ecf80b0a948461f868613616a905a20893b61fe"
+    },
+    {
+      "path": "original/unit/notes/440-the-surviving-hamilton-x-w-rows-all-recomplete-to-forbidden-support.md",
+      "source_sha256": "430a47dabd14061f21cd0bf59182aa2a34448f75daa997270cfe3ccab7ac554f",
+      "current_head_blob": "fc92abd11440a7e784bacf99e64c1aef3eab1aa1"
+    },
+    {
+      "path": "original/unit/notes/441-the-last-hamilton-prism-forbidden-pair-has-no-exact-case-xii-support.md",
+      "source_sha256": "29206c298664ad6b898cc421fbb02278d849e5d259c37f0855301b75e3b4bce6",
+      "current_head_blob": "d7628afe4bbdd0463a2b1b4512a4c6917fccd00b"
+    },
+    {
+      "path": "original/unit/notes/442-the-three-spoke-prism-excludes-the-top-opposite-bottom-forbidden-pair.md",
+      "source_sha256": "96a329323a66ed41f9d1678abcf48463f17258f4285e596c1705a54ba9115ab3",
+      "current_head_blob": "4d2501c557de7e2b64eee2b06597720317b9ee44"
+    },
+    {
+      "path": "original/unit/notes/443-the-three-spoke-prism-excludes-top-and-adjacent-bottom-forbidden-pairs.md",
+      "source_sha256": "bb303a0c9ed2b14a0e51f8f232548ac6039f7e1fb9b0028958bc1376defe2725",
+      "current_head_blob": "f1ea18730e88cd76be41c31df22b24af74b61516"
+    },
+    {
+      "path": "original/unit/notes/444-the-three-spoke-prism-excludes-the-two-adjacent-bottom-forbidden-labels.md",
+      "source_sha256": "6d5eec80d435a6cfbe11ab4e13672cb520c13f658a8dc3c931b3ccc902abc78c",
+      "current_head_blob": "6abe6b2b947400312db0bd0d848cbe7d7a82cc7e"
+    },
+    {
+      "path": "original/unit/notes/445-all-six-forbidden-pairs-are-excluded-on-the-three-spoke-top-path-prism.md",
+      "source_sha256": "38ec499635440b98d5bb165518cac9b5411b1887c57c0705334334c25729fdc8",
+      "current_head_blob": "8b9dd030c45d665b0a5e886a9e5bb686d98264ab"
+    },
+    {
+      "path": "original/unit/notes/446-the-hamilton-three-spoke-forbidden-pair-has-twelve-marked-switch-signatures.md",
+      "source_sha256": "9e94ddb37347f19df50f2d87042b64049f371884b5d07ca4300db210acd532c1",
+      "current_head_blob": "1762ddeabbb2321f870b476c81600f85bfd90c21"
+    },
+    {
+      "path": "original/unit/notes/447-the-first-hamilton-three-spoke-signature-forces-a-forbidden-loop.md",
+      "source_sha256": "a2bd4393e4a48e7713891bd687468e12aa2421816b79600da6efa7d2de002d62",
+      "current_head_blob": "82acc13d6ee6191837fb88b3cb354dbdb38fe915"
+    },
+    {
+      "path": "original/unit/notes/448-the-second-hamilton-three-spoke-signature-forces-a-forbidden-row.md",
+      "source_sha256": "c6055ee0ca04d83485ccfa107426386671bd32e988cfd37251e9c91e661d026e",
+      "current_head_blob": "a525a67bd57e8a311e23632b4d128bcc5092d9f4"
+    },
+    {
+      "path": "original/unit/notes/449-the-short-y-to-z-hamilton-signatures-force-forbidden-completions.md",
+      "source_sha256": "c283881ae70ffa89f18d94219213c17d3de1e2fb0b7fefab3d7a7d5f191148bc",
+      "current_head_blob": "e124926f31f6c8c5afe448521fef53812c8c29aa"
+    },
+    {
+      "path": "original/unit/notes/450-the-direct-y-to-z-hamilton-signature-forces-a-forbidden-row.md",
+      "source_sha256": "bc66970e1663e4faa29bafa15842b0d555f9b80f7da884aed7bf635880621540",
+      "current_head_blob": "4c339cb5dc91e1bf4277d59a2323be5d216f6551"
+    },
+    {
+      "path": "original/unit/notes/451-two-end-port-phases-force-forbidden-rows-in-the-hamilton-prism.md",
+      "source_sha256": "f97a42b27b43aafa5f16b16245c8fc4c08f2f2bdd4fb6dd0abb539e2039ef56b",
+      "current_head_blob": "365dd87b3b1899182eb70e0c185bf943b293fb1e"
+    },
+    {
+      "path": "original/unit/notes/452-a-real-crossed-port-row-has-both-forbidden-hamilton-loops.md",
+      "source_sha256": "f00ececa6829b350ba4f2a5cec5f2792cff57523fec784d8272e390d8a9d0ee1",
+      "current_head_blob": "64e4f3c1a1e5f38e9dc171e8ea0da7e1f93aead3"
+    },
+    {
+      "path": "original/unit/notes/453-the-crossed-hamilton-port-row-forces-a-forbidden-loop.md",
+      "source_sha256": "dc0b67be7e030c272e608b341a1be1310ce23b28e80e66dccd9427a176f985d8",
+      "current_head_blob": "3576b0fb7c7589d22926cf192780147a9923fc79"
+    },
+    {
+      "path": "original/unit/notes/454-fifth-line-hamilton-rows-leave-two-labelled-port-phases.md",
+      "source_sha256": "a170c6b10d8cac2816078afeff9b81e4375d264ec4ddda97d3b69adca4da3e92",
+      "current_head_blob": "19c8627461bf1f9986888255ca118bb9043efb84"
+    },
+    {
+      "path": "original/unit/notes/455-sixth-line-hamilton-rows-leave-four-labelled-port-profiles.md",
+      "source_sha256": "1f1c9b2c7769d3f5497046dcd5a0db2bd341ba0ab661d67d97ec9c0eea57d9bf",
+      "current_head_blob": "6817ae6adf87fdc24bb85c139f0d322d89e3f593"
+    },
+    {
+      "path": "original/unit/notes/456-five-residual-hamilton-port-profiles-have-real-bf-rows.md",
+      "source_sha256": "f1e2e98217a40cec445a1a7ac6b8871fb5faedbd57a72a6847ef3e0a267b9842",
+      "current_head_blob": "d41db26ce7cd09429bb1e60257691520e1aafeb4"
+    },
+    {
+      "path": "original/unit/notes/457-the-last-five-hamilton-port-profiles-force-a-forbidden-double-triple.md",
+      "source_sha256": "cdfe05cc524af47e1cdb56efe331a133962577b0427d016c5e4164ff6313972b",
+      "current_head_blob": "177ade362eece9996b863c31d8deec09457181dd"
+    },
+    {
+      "path": "original/unit/notes/458-the-y-z-forbidden-hamilton-pair-has-five-tree-signatures.md",
+      "source_sha256": "a3c614603d902787758e5a4a14eab8e576cbd7c63e8ee8bbc32b39dbe1ffd259",
+      "current_head_blob": "188a4acc4fff850d755f5cdc55b5af7b368aea14"
+    },
+    {
+      "path": "original/unit/notes/459-two-diagonal-y-z-hamilton-rows-are-real-but-have-forbidden-loops.md",
+      "source_sha256": "bdd71860c57b83b1be13cab5af69d9c1cad678192ec82a3309ef6bf533266a65",
+      "current_head_blob": "f5bb21d941859f485e5aa714153a6bc17be64dc5"
+    },
+    {
+      "path": "original/unit/notes/460-both-diagonal-y-z-hamilton-rows-force-a-forbidden-double-triple.md",
+      "source_sha256": "ce5a3474785d7da169665a73c9bff8f095ab31663621851ea22fab403e7f8938",
+      "current_head_blob": "2778766102703eced982a125f616bf138547ed00"
+    },
+    {
+      "path": "original/unit/notes/461-the-y-z-forbidden-hamilton-pair-forces-a-forbidden-recompletion.md",
+      "source_sha256": "b514c900bacf46dc5f00eeb7ef23854a9a32a5b1f6e9585f4ff6c53b04265547",
+      "current_head_blob": "c3bb52520c35382f0c013d36399f3e6ff6c8aa04"
+    },
+    {
+      "path": "original/unit/notes/462-the-x-y-forbidden-hamilton-row-has-only-the-common-endpoint-switch.md",
+      "source_sha256": "4d5e0f41f6421ee35f47a2ba1ca3915e53ef0992e059701ac975389836cd34d8",
+      "current_head_blob": "856ad46a849eeb301bc85f2780ec01bb4f65ae6e"
+    },
+    {
+      "path": "original/unit/notes/463-a-real-common-endpoint-x-y-hamilton-row-has-a-forbidden-loop.md",
+      "source_sha256": "ed2e2ed1cf60fc6b3c59eb7c949dfbfa36727469814d27fd080889ea1595f29f",
+      "current_head_blob": "b75cbbe5eedc3b835170ff771fa91cc26169d920"
+    },
+    {
+      "path": "original/unit/notes/464-the-real-x-y-row-has-only-case-xii-allowed-types-with-fixed-shore-masks.md",
+      "source_sha256": "a7cb6053cd3675eb78b7cc29c89e5e59cf21bbf7c58e431bdea5925a57656022",
+      "current_head_blob": "283d198c48615f6659a78110a237f2286bbb4e5d"
+    },
+    {
+      "path": "original/unit/notes/465-the-real-x-y-row-has-a-forbidden-loop-using-only-three-old-shore-masks.md",
+      "source_sha256": "74548320c687216a9ed18c97109c32fa07bcb73240a892c20a2ad208d3b2542f",
+      "current_head_blob": "db529e1607b8faba7f5ac861359111458027e205"
+    },
+    {
+      "path": "original/unit/notes/466-the-x-z-forbidden-hamilton-row-must-root-at-y5.md",
+      "source_sha256": "c0e12ce9c97ddf86c5e08e477f37e983b3b091c42d1eae4c98abc08744a250bd",
+      "current_head_blob": "0b84186fd272569664898743714684ff3797de1c"
+    },
+    {
+      "path": "original/unit/notes/467-the-x-z-hamilton-b1-row-forces-a-forbidden-ex-loop.md",
+      "source_sha256": "4334997fdd3f0ddb3740dfb04995cffe25ea8933b11196824e46a8c91859e373",
+      "current_head_blob": "6e27581a1cef5f1709b0be66358f5c558476d327"
+    },
+    {
+      "path": "original/unit/notes/468-the-x-z-hamilton-b2-row-forces-a-forbidden-double-triple.md",
+      "source_sha256": "cc7e4b11db12d9a00ff24d2a8b7bbc88d0742a008628ddc4a239b2cf573ac6c1",
+      "current_head_blob": "1ce085dd5a441d78dc28c67a03ef09c4193748b9"
+    },
+    {
+      "path": "original/unit/notes/469-the-x-z-hamilton-b3-row-also-forces-forbidden-full-support.md",
+      "source_sha256": "0d796effad44c0d89bee71da34fb6f48c6f4acb4c58a79d49c06a7fa371731a7",
+      "current_head_blob": "15452403175adced694121d688d1df930d51db71"
+    },
+    {
+      "path": "original/unit/notes/470-two-x-z-hamilton-c-signatures-force-the-forbidden-double-triple.md",
+      "source_sha256": "94e3e39ea62ca7de2c6088455721858196f0d3bab06988842698854d48e52414",
+      "current_head_blob": "937e47df160c1b64fcda0927ef9aef2fed8cfe37"
+    },
+    {
+      "path": "original/unit/notes/471-the-x-z-hamilton-c4-row-always-recompletes-to-forbidden-support.md",
+      "source_sha256": "823770a8df0f8ee272cf9b5293d32e2134e9ce242f73adcd2b016d4b58e159de",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/472-the-x-z-hamilton-c5-row-forces-forbidden-full-support.md",
+      "source_sha256": "870b9f7c0555b7fad6998316713cff244b365365118668f2c1eefcd320626108",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/473-the-x-z-hamilton-c6-row-forces-a-forbidden-double-triple.md",
+      "source_sha256": "3871f9e91284f6bf365e762a5e25dac4c3d633573b9b73d55579c5a8e4207d4b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/474-the-x-z-hamilton-c7-row-forces-a-forbidden-double-triple.md",
+      "source_sha256": "d125105826e51c3a7a1d133b0afc0d47afd5bc0ed391b84e519c79616f3811a2",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/475-the-last-x-z-hamilton-c3-row-forces-forbidden-full-support.md",
+      "source_sha256": "0a0c0d6decb8799e2e85108711a22f94ba60cad562157475233a773df8d0d1c2",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/476-the-adjacent-forbidden-hamilton-x4-root-has-four-k-signatures.md",
+      "source_sha256": "c271c5e4fddbdd1b61dee5b2a3cea7d64501c040143b12cb3034f5ab0426f0bf",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/477-a-real-d4-adjacent-hamilton-row-has-a-forbidden-cross-mask-loop.md",
+      "source_sha256": "177a501627537cf225312d9a73eadc4a551d66be089169d2589fc8c7205508cc",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/478-eight-d4-phases-force-ey-and-four-require-cross-mask-closure.md",
+      "source_sha256": "5dfd7d0292f85319af401f00aa8a93812514827e397f9f7039859c23e9516e53",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/479-ten-d2-hamilton-phases-force-forbidden-rows-and-six-need-cross-port-closure.md",
+      "source_sha256": "6215f50e1c2edd6ed29f1268e34b3657bb8cfbc0352be51df7ad8aa5579721d3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/480-cross-balanced-shore-colours-force-the-zero-port-masks-to-coincide.md",
+      "source_sha256": "2706ca0e1a3dd5d92503ab8f7137df823046f67f461385df0db5f3a1af2246d1",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/481-the-two-old-signature-class-iv-loops-have-unique-exteriors-and-one-mask-switch-gates.md",
+      "source_sha256": "8a2dd45eef707d8c5f8d59e01cc2a74f44181b9181c48afbe5aa3e2ee90da279",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/482-the-p1-p3-alternating-path-is-the-exact-paired-singleton-closure-gate.md",
+      "source_sha256": "2f5fc1ecaf58cfcdca72610f699f3ad3e79b1804d56115691cb1e5f746b46ed0",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/483-fixed-zero-class-iv-two-mask-closure-is-path-or-disjointness.md",
+      "source_sha256": "e8a5f6966bb79a3a55f0aba0a7f655fde68583b6103a0aa80397478578aa440c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/484-a-doubled-singleton-and-two-retained-masks-complete-the-changed-zero-row.md",
+      "source_sha256": "54cb28992946bc1b990ae8fce1821fe20a0592bf2c46dbc81e2212d2ff74be33",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/485-odd-zero-forces-distinct-forbidden-loop-masks-and-leaves-one-two-mask-gate.md",
+      "source_sha256": "612354771269ff228d28f14487d7b27613be174536615543994c4a9f134b1a4d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/486-cross-signature-two-mask-switches-in-the-hamilton-class-iv-row.md",
+      "source_sha256": "6871fc67e509cfd6edabb576e7621873db03db7f4bab6f3bebdac19f11bc9720",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/487-an-odd-zero-class-iv-pole-avoids-all-eight-two-mask-path-gates.md",
+      "source_sha256": "0e48c8f5d89004d9460dccf4dee3972aa1ef47795598bcccf2b16b7e55ae2579",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/488-a-local-two-root-switch-excludes-the-adjacent-hamilton-pair.md",
+      "source_sha256": "7195ca92b25dacdc5d0a36837f20c3f74519f6dfefefc70f0ac80a0b0a8e1fe4",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/489-k33-hamilton-adjacent-allowed-pair-has-one-long-root-signature.md",
+      "source_sha256": "ebb707183795defff5d523c607a0d0a93a86ff1880714cd253fcc66576f0b6b1",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/490-the-k33-long-row-forces-one-pentagon-and-shore-e-paths.md",
+      "source_sha256": "073db2aa0de7037797519f51b7d5cb1cd526fea5342d214a5b6a922a5a01e180",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/491-the-crossed-k33-shore-paths-have-a-real-row-with-forbidden-full-support.md",
+      "source_sha256": "985100df98a2a99e29e4365a6d592ec4970b9f75bfc47ed98972b60897fe6851",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/492-the-first-k33-long-signature-recompletes-to-a-forbidden-ew-loop.md",
+      "source_sha256": "9cc1fda43369b145ce0c1b55ba0e46590388acb21be14ceef66270ef8afdc253",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/493-the-second-k33-long-signature-recompletes-to-forbidden-ez-ew.md",
+      "source_sha256": "d7a254b118745527a8b99e83ab2aba189411f6bcdee9f53b1d3b916ff8f19f93",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/494-the-last-two-k33-long-signatures-also-force-forbidden-ew-loops.md",
+      "source_sha256": "3e9f78ade91c659802c6b2a7e1457b34817c8369052e215190d3ecd529f7a2f9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/495-the-x-y-forbidden-k33-hamilton-row-has-eleven-necessary-z-w-route-signatures.md",
+      "source_sha256": "9820b149f81dc28088a2c23a5c0fb01c76e1498fabf98a6a74b1134d0aae8d17",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/496-the-x-y-forbidden-hamilton-k33-pair-fails-an-x-arm-transfer.md",
+      "source_sha256": "9325442aca608bb570c38f92f8cca1e6793f0d814df2cd2faf8e2ac399639fca",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/497-the-one-spoke-prism-double-star-excludes-the-x-y-forbidden-pair.md",
+      "source_sha256": "9640106f722dbcb5043be21d871e7f765bfab6d7d2245db1b966d49aa9d683d8",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/498-the-one-spoke-prism-double-star-excludes-the-z-w-forbidden-pair.md",
+      "source_sha256": "709d37903d6c5f08490786d38eb04870ef43f2f339ab22d443a05acac925c8bc",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/499-the-one-spoke-prism-double-star-excludes-the-mixed-forbidden-pair.md",
+      "source_sha256": "cc4dbcb11f6004b3036c2906db843df83afa355f5fa270ae751e696c95377023",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/500-the-unbalanced-one-spoke-prism-excludes-one-mixed-forbidden-pair.md",
+      "source_sha256": "c00ab45d496c2678a1fce35a20126486cb39037a749dacb5f254e2fe526deac9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/501-the-unbalanced-x-y-forbidden-row-has-five-long-route-signatures.md",
+      "source_sha256": "6c0d3a36bf0e459d56dabc85c9e94a47ca57fcd6733e6a4b3b13eeb7e04497c3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/502-a-real-unbalanced-prism-row-passes-both-transfers-but-has-a-forbidden-loop.md",
+      "source_sha256": "0d237a57bc0aadf8eb5638716efe72cb60d9db71a13a9ff9f736b1e4dd6f1b94",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/503-the-unbalanced-x-y-forbidden-pair-recompletes-in-all-five-signatures.md",
+      "source_sha256": "d060612c6b76856790c736f7ec36d2b0517a1bc4331476f6251cc48dd90f6cb1",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/504-the-unbalanced-prism-excludes-the-z-w-forbidden-pair.md",
+      "source_sha256": "ff9fce7532ed9b908b6bea1c768ea36c08e5974308c160987258232316b0d363",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/505-the-unbalanced-prism-excludes-the-y-z-forbidden-pair.md",
+      "source_sha256": "6c6a67deeba9e62f191d035e630ae2eb242f2b00e15812b8762545023c2c0054",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/506-the-unbalanced-y-w-forbidden-pair-closes-at-one-shore-mask-template.md",
+      "source_sha256": "a3fd92086536f3431fff2a415ab9ae22a22f490b468df231bfc612d9559c25e6",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/507-the-last-unbalanced-forbidden-pair-has-only-two-terminal-routes.md",
+      "source_sha256": "b10f958c9efd23d7913f527a4475e6b9a4df82f56508af1cea6b555965ff6bce",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/508-the-last-unbalanced-pair-cannot-use-the-a-to-b-long-route.md",
+      "source_sha256": "b77105c1e7df00a54422c82a0cc8ab5ebd4f1c924e7a76e2cf1927e78d2b9e12",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/509-no-exact-case-xii-pole-has-the-unbalanced-one-spoke-prism-tree.md",
+      "source_sha256": "56d4962e942d9e5e6caa1e7f60297c3ef65d48ca041889516d41023b19d0dcce",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/510-the-one-spoke-prism-central-path-excludes-the-outer-pair.md",
+      "source_sha256": "dc3bc1ee198b594db67dc73dd0561d8043407f03fbb121ffb09c791a18a20755",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/511-the-central-path-prism-excludes-the-adjacent-outer-forbidden-pairs.md",
+      "source_sha256": "ad8b8e0b24f6e6816306771b272527438730d53dae60ad4be90565fa33ad6258",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/512-the-central-path-prism-excludes-the-two-middle-outer-forbidden-pairs.md",
+      "source_sha256": "674dd527ff38389883101f3cb51e10cced03a073f55d27580813832cd0b1722c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/513-the-last-central-path-forbidden-pair-requires-a-long-route.md",
+      "source_sha256": "c21eac428084cf1c8307fa6f1bbf6a7f8e296e9aa1e1087e0aab9996220827f5",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/514-a-real-central-path-long-row-passes-transfers-but-leaks-after-a-shore-cycle-switch.md",
+      "source_sha256": "ff57c9a6939f5cb6a7de17d2f94d7c9d7cf32cc6833017011118afceac39532b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/515-two-zero-shore-masks-must-share-the-long-route-e-exit.md",
+      "source_sha256": "5008d626d5312d560314371861e335905c08d04c9b8c34ae2f74c80f796b3e6c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/516-a-girth-five-shore-satisfies-all-four-long-route-exits-but-has-a-forbidden-tait-loop.md",
+      "source_sha256": "d0f4678f8a9d923998fb6a7aa3b9a3ed2fb66220e07062c9f79e6b8615eb5d68",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/517-an-odd-zero-tait-empty-pole-still-passes-all-four-long-route-exits.md",
+      "source_sha256": "45c3deed32dc4f14928e0a793988ca09afe7c74150b2f7417ac176f99cfb49b3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/518-a-shared-zero-shore-mask-forces-a-forbidden-loop-in-both-long-route-signatures.md",
+      "source_sha256": "c05e937c841401ab8a8ec4b15e9ce9b57e5017f39e6db5ee39ec302eeba17812",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/519-the-central-path-prism-forces-every-zero-shore-complement-odd.md",
+      "source_sha256": "741cacff32e8b626e55db747f02e3abedfbb2ca15fd6c1340363d18422b3d69e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/520-every-one-spoke-b-c-zero-shore-mask-needs-an-odd-complement.md",
+      "source_sha256": "dc6feedbe839c781af094affac2ef8906eaf2e817e0895946cadb40711d9dff6",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/521-a-six-edge-zero-mask-difference-needs-chorded-nine-cycles.md",
+      "source_sha256": "379cae7d2d4c6584559aaf820b8a6d3632d20d924bc10952379a26d3ca15521b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/522-two-odd-zero-complements-require-an-eight-edge-mask-difference.md",
+      "source_sha256": "31d6c370033f3a4c25d406929cd3f6d6d0bea2c7ff9006560b894358854dc797",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/523-an-eight-edge-zero-mask-row-has-zero-or-two-difference-to-port-paths.md",
+      "source_sha256": "f14126f9e7e3b7de6350743fae3c0fa8932500ab71e348227752a987cc520240",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/524-a-petersen-two-pole-realizes-the-zero-port-eight-cycle-branch.md",
+      "source_sha256": "3705185a64c8d12a555a58e35981c7f5bf45d0bebc0f29b0dc1c3ead4846cd2d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/525-eight-cycle-odd-blockers-need-six-or-three-host-attachments.md",
+      "source_sha256": "ce952b7a304265ca8b703378ccb3bd7626af64a7dca76d7cfe595cacea42bbe5",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/526-tight-eight-cycle-carriers-have-a-five-cut-loop-or-a-six-cut-matching-rectangle.md",
+      "source_sha256": "4ad93ab1bca93c81ba93498dd8aceeae451a234bcf91dfe41d070f897265ebab",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/527-thirteen-vertex-three-common-edge-carriers-need-antipodal-paths.md",
+      "source_sha256": "078253219b88e93a76bdac2db936204690135285e8a11bf72030d96878901e69",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/528-thirteen-vertex-three-common-edge-carriers-have-six-tait-states.md",
+      "source_sha256": "5f6e5523ad9f33f378af09abc6ca1a87217cd9c561ed94ea29a37f5857e20c98",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/529-the-fifteen-vertex-one-eight-one-carrier-misses-a-case-xiii-loop.md",
+      "source_sha256": "ff4dec878af1d416ac9268026ba02e8b5283f5347b10e28921c27679e0b5325c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/530-the-fifteen-vertex-one-six-three-long-chord-forces-six-tait-states.md",
+      "source_sha256": "373855ea795b44a206570092178f30b7284c6bc63af6cf07e5d8063a206d0d4a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/531-all-fifteen-vertex-one-six-three-carriers-fail-case-xiii.md",
+      "source_sha256": "eb0262eb213a9b7ea33d46a7695eae5fffaf366e62b1e91f6d76bae954aa4757",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/532-all-fifteen-vertex-one-two-seven-carriers-fail-case-xiii.md",
+      "source_sha256": "fae60cd2a862eaad85c05dd38d1f2c8889d202e6bbb1c7e8c2217085d7db04d8",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/533-tight-zero-port-six-cuts-have-two-length-three-and-two-length-two-paths.md",
+      "source_sha256": "a16d77b90d5b7abfef76798a311b2068a7027b9a421e0800b7c18f9a99bfac39",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/534-the-tight-zero-port-carrier-has-a-unique-antipodal-geometry.md",
+      "source_sha256": "9f0d02efff042110c00dfd4003de69554e94d9e61256ed8839ab40ad460404ae",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/535-the-tight-six-cut-has-an-exact-literal-singleton-phase-gate.md",
+      "source_sha256": "6220fededa580c72fc09f9470504b922493351fb1542eaa067e9253b8dbbba34",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/536-the-tight-six-cut-has-a-complete-local-singleton-fibre.md",
+      "source_sha256": "d31cf74c32b7232d010274f1fc0ae6f80474317f1406cdfd451f325b8b9d8287",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/537-two-port-singletons-force-a-two-cut-zero-mask-on-the-tight-carrier.md",
+      "source_sha256": "a848b4ca4f054032adf5bc361e6671b69f7b2cec39b6c15c924ab86e5f20a22a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/538-two-two-port-singletons-can-miss-the-designated-tight-six-cut-mask.md",
+      "source_sha256": "dd72b4207d41c3c8a3bd407564dca363ab722ac9419e83331d9cfe30e68a22e7",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/539-a-six-vertex-tight-carrier-exterior-cannot-survive-exact-case-xii-in-a-minimum-host.md",
+      "source_sha256": "50caadca71278dea2eae86e9980ee1fa55c4e748dbd9b9de0ec683aed0aa851c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/540-eight-vertex-tight-carrier-exteriors-force-a-forbidden-zero-complement.md",
+      "source_sha256": "bae5a43259cc30a268dc431c784eff3604f71760f4e5089686e7891e1cb08138",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/541-cyclic-five-connectivity-bounds-every-exterior-alternating-path-and-cycle.md",
+      "source_sha256": "a2245eeaee60b9973cdcd4ceab27fc4468b5b316d28e849da4a5c3744bffb01c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/542-nonexceptional-two-cut-masks-need-two-exterior-routes-or-an-odd-blocker.md",
+      "source_sha256": "e4c08dbe046f978c6cc6ab217f5d305012ba5a2b0b5656cfdae4d07ea171c378",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/543-ten-vertex-exterior-odd-blockers-have-two-pentagon-attachment-shapes.md",
+      "source_sha256": "bdf6be5407db04a52a4bae06dba6f6088ba72091261fbdb599edcbf1ad4b5fbc",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/544-ten-vertex-pentagon-blockers-force-a-clean-nonexceptional-mask.md",
+      "source_sha256": "11d3ce1888a7971a04654a220a06655c81f9a2f06c35e5272837857f6175610b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/545-the-three-two-two-ten-vertex-exterior-fails-exact-case-xii.md",
+      "source_sha256": "269a301afd6e4763a8fa1559ea1b0a674aa16b07895fea4e4e2af4853755581a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/546-both-long-even-no-two-port-ten-vertex-profiles-fail-case-xii.md",
+      "source_sha256": "f0c1fe97ada8449d15e3d5f064ad16321efe9e3ea85daa621b9679976f7595c0",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/547-a-two-port-extra-cannot-support-a-length-six-ten-vertex-exterior.md",
+      "source_sha256": "024dbb128fd5ae6fea146ad5492c1e71fec661c4367da7defa921a047f09af74",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/548-no-length-six-ten-vertex-exterior-survives-exact-case-xii.md",
+      "source_sha256": "7b40e22119e7c7ae7f9be359fc3b16fb5b718a8d3732b38dfbb381c3e63bf258",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/549-a-two-port-extra-fails-both-five-two-ten-vertex-profiles.md",
+      "source_sha256": "353fb2adf253470bce47d21360bc858c81948433c846f4bee79d6ba7dde73c8f",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/550-no-five-two-ten-vertex-exterior-survives-exact-case-xii.md",
+      "source_sha256": "6133a18b3c3bb3f69fe8db867d23bbdd93f99743cdff32a5e3be43734e0beca3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/551-no-ten-vertex-tight-carrier-exterior-survives-exact-case-xii.md",
+      "source_sha256": "fe077275573fbdd07b1fd18a3a9e8f3880b1544afad93fa283fc931307440cb9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/552-the-first-twelve-vertex-exterior-cycle-has-three-cross-spokes.md",
+      "source_sha256": "53e20f233bad02a29acbd1b452cc6a08c84a34dc69f530d81b6e6cd5b0a4f28f",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/553-no-twelve-vertex-tight-carrier-six-cycle-survives-exact-case-xii.md",
+      "source_sha256": "defdd3dc8a7457a0c3dedd399fc822637fb6df6170504c6a3d1557a1e40a7b5c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/554-twelve-vertex-path-exteriors-have-a-cycle-and-three-escape-signatures.md",
+      "source_sha256": "4cc7bb216ed3914838fc8004f1683913e2f2e7159fc8ec2200f555481cd80c4b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/555-the-five-two-two-triangle-exterior-fails-exact-case-xii.md",
+      "source_sha256": "323a2914f14585a32ccf14b96fa0926d56f6ba3989711afc7213db3061b53529",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/556-no-terminal-endpoint-twelve-cycle-survives-the-tight-carrier.md",
+      "source_sha256": "ef09e95eb26ced33348ca461960962ba62065158743c5cb8d3e2dd880010b19e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/557-the-one-four-four-triangle-exterior-fails-exact-case-xii.md",
+      "source_sha256": "a71e8816b7aadf0b2a906c7e26b35ccc3d526bf460b64db28cb9515bfe0c8e88",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/558-the-one-two-six-triangle-exterior-fails-exact-case-xii.md",
+      "source_sha256": "d0a60799f4c19b219d34bbd5a219264787400ae92ca8797414d1fa2303e8c64a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/559-adjacent-short-extras-close-the-three-two-four-triangle-exterior.md",
+      "source_sha256": "95a86a8b196a135b787d22e6c974df482473e032c5ef2bcd5fd3945947819ef5",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/560-internal-long-extras-close-the-endpoint-short-three-two-four-exterior.md",
+      "source_sha256": "d99e4b1a1b4dc5179223982d4602d733560e7c7693ae0175072ef9ea5ced8795",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/561-no-twelve-vertex-tight-carrier-triangle-exterior-survives.md",
+      "source_sha256": "d43c4db88320a08798508c6e003bbf09e554833d0b4eb24eab7ff7e0885aba3e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/562-bridge-leaf-paths-force-a-short-length-or-a-case-xiii-five-cut.md",
+      "source_sha256": "43c1a2b266262f3a9be7571f067cd48550dfde09d4b292fb00502607b3a530aa",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/563-case-xiii-lstar-has-only-one-possible-terminal-adjacency.md",
+      "source_sha256": "f100dec7895f0d9ac8a49c1786c8cacbb5ec1621fe51b6b12ce5734c2d7eb50d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/564-case-xiii-rstar-terminal-independence-excludes-an-eight-edge-loop-centre.md",
+      "source_sha256": "d8786e6337d8221c6b04186b752db93c69d7a216cc9a86ec7f9f87e59ac0abab",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/565-a-one-four-four-doubled-edge-exterior-fails-exact-case-xii.md",
+      "source_sha256": "f402cd650451b33ac1a3d549e666ad6f756ed81482b443501cdcdb62427d2445",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/566-no-four-edge-bridge-leaf-in-a-doubled-edge-exterior.md",
+      "source_sha256": "c558ee233ca5f3083cd23bfa5917a4be34da39b581373702cd9d0efb8fcc7a50",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/567-a-four-edge-loop-centre-with-a-four-edge-leaf-fails-exact-case-xii.md",
+      "source_sha256": "6812222974cfeb5653a8861e20f357cb397ac06e7c7021a19bfbde4c02c80473",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/568-no-four-edge-bridge-leaf-in-a-connected-twelve-vertex-exterior.md",
+      "source_sha256": "e06751bb8d3a33f6361c7e5d928c49dbb35f1faad5187e388f9f27e15487ec2b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/569-the-one-six-two-doubled-edge-exterior-fails-exact-case-xii.md",
+      "source_sha256": "d03af3df9dc310c488bba41cbe4fc3261e69904f9c48070ce4a4999f37d956f5",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/570-the-five-two-two-doubled-edge-exterior-fails-exact-case-xii.md",
+      "source_sha256": "fb0b3f4a8942b73dd79ba045aa009b5da4cd63198c0b259b4958784b4c24ea9b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/571-no-two-edge-bridge-leaf-in-a-doubled-edge-exterior.md",
+      "source_sha256": "aa1a9c6a68af7fceeeca1d461f7805208066bcf4f6e84c997ad056b46f37318c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/572-a-three-edge-bridge-leaf-on-the-two-edge-core-path-fails-case-xii.md",
+      "source_sha256": "756e072186b82164baf88a8abc9707a938e463e1e6cc71eeed62a4ac95d00c02",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/573-no-three-edge-bridge-leaf-in-a-doubled-edge-exterior.md",
+      "source_sha256": "423e1dac03d6d933b0fb7fb4900d7832514791a8bafa989139856eb82f5901d8",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/574-the-end-bridge-two-six-one-doubled-edge-exterior-fails-case-xii.md",
+      "source_sha256": "4510952fd2cb244530b73eab4ecae52ca8199fdf0fc519471fc8a1ce3e0e4658",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/575-the-central-bridge-two-six-one-doubled-edge-exterior-fails-case-xii.md",
+      "source_sha256": "bbf080a7b6dc82ae7e97d02810926bbd6d7b15f06a533e4dcdfe63500724cd59",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/576-no-one-edge-leaf-in-the-two-six-doubled-edge-exterior.md",
+      "source_sha256": "c5454b8e6635fb05a5f9a9da4cf6441f89618c8b494d44dd161848b72fa69959",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/577-same-parity-or-odd-bridge-four-four-one-exteriors-fail-case-xii.md",
+      "source_sha256": "e636ce062cb50d77a527d26cf0a1fe55ae8a47864a79afdd9478e5316291d21b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/578-no-positive-bridge-leaf-in-a-doubled-edge-exterior.md",
+      "source_sha256": "5967ebac1e221f0f29bf9e3bee7c75d0cd16e8dadb4657f219bed5ee8901b191",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/579-all-odd-extras-fail-in-a-one-eight-zero-doubled-edge-exterior.md",
+      "source_sha256": "61a89082d225122168acf0e3b2550566e83cf349ae22c67ee7b233aa3ee0c7f6",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/580-all-even-extras-fail-in-a-one-eight-zero-doubled-edge-exterior.md",
+      "source_sha256": "6f0bc752bc7fca9b36aa4740bfa9bf73bf7b7de27e8ca5e9e2bfaaffb65f1b2a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/581-one-even-two-odd-extras-fail-in-a-one-eight-zero-doubled-edge-exterior.md",
+      "source_sha256": "d2c1578e3c6f643d69c104ea9fccfa9b7e00cccf80d47859c7fb7bf0baeb0fff",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/582-no-one-eight-zero-doubled-edge-exterior-survives-exact-case-xii.md",
+      "source_sha256": "51786bba389f78ad257f2766ca6366a82bf2ef4a436f5eec5f0d145416e89242",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/583-a-seven-two-zero-end-bridge-fails-and-the-central-bridge-has-three-masks.md",
+      "source_sha256": "67757e1d13e41d3fe170360016cbf78118302415c0c8515692f35b5a2f231f96",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/584-no-seven-two-zero-bridge-on-the-two-edge-path-survives.md",
+      "source_sha256": "bb18fbdb67801c623ca9827f9f53ee35a7cdfd1d2109a0a720bc8e2ca0ef6d67",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/585-no-end-adjacent-bridge-with-the-near-two-edge-path-double.md",
+      "source_sha256": "6578b861e9c7b077a2d1215aacf7dda2a62984af9698a2bd3510e07f33858bb3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/586-the-tight-carrier-four-cut-gate-excludes-four-neighbor-seven-two-zero-bridges.md",
+      "source_sha256": "8ee986d11561f3af85811fbe92dbdd630edc0445ea965d0e09d9cd125d21e00e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/587-no-short-carrier-leg-at-the-centre-of-the-two-edge-path.md",
+      "source_sha256": "b06829102c454953ad953213330bcff7a661557476da8ef1155ec04fd92e8d12",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/588-no-endpoint-double-on-the-seven-edge-path-with-a-central-q-leg.md",
+      "source_sha256": "70b75197f5d9373da44b7f9ed34869f7b80ecb61a83875928af7bc77f5f8d1d3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/589-no-adjacent-doubles-on-the-seven-edge-path-with-a-central-q-leg.md",
+      "source_sha256": "a75dc8313986e564875de06f7909d02efbeea1323dc65f2b31e7cba221c9c363",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/590-no-central-q-leg-in-a-seven-two-zero-doubled-edge-exterior.md",
+      "source_sha256": "285b40e177af6703a9929bcefc8563af6679f70ef2a1dcb4dc627b61ae367174",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/591-no-near-endpoint-double-with-an-end-q-leg.md",
+      "source_sha256": "68d3f365afe88a107ab81693bba73654a068e351b870f86726cec830c688c8a2",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/592-no-endpoint-double-with-an-end-q-leg.md",
+      "source_sha256": "60d3e34378da9a1a0ad44e0b43ea0ea8225c3f735cc412ab23304ad1a16b3db7",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/593-no-adjacent-p-doubles-with-an-end-q-leg.md",
+      "source_sha256": "89d62de539400a2e84d9a8ede909fa5b2bc9aa3721b58f72bdd1df1c14ce2948",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/594-no-distance-two-p-doubles-with-an-end-q-leg.md",
+      "source_sha256": "f214f3c4d853c8e5a19b66324e488c9a931685bd30ef50224d8d5d7d5262c71b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/595-no-seven-two-zero-doubled-edge-exterior-survives-exact-case-xii.md",
+      "source_sha256": "93ae69c186087ceca042272488a0cbdb23568bf3f31b1389c78c969891a31b6b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/596-no-two-odd-double-endpoints-in-a-three-six-zero-bridge-on-the-short-path.md",
+      "source_sha256": "2165dc43653ee29eb03988b15f2d850f8bb0486f4e84deee86670a7f0cb2373c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/597-no-two-even-double-endpoints-in-a-three-six-zero-bridge-on-the-short-path.md",
+      "source_sha256": "dceda34d290aa572dfdef3f2c42c6b3635ca33fc775cc75410af746131a74468",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/598-no-three-six-zero-bridge-on-the-short-path-survives-exact-case-xii.md",
+      "source_sha256": "6b0aad2d20287656e0274d50a50d06e2c5d016101c5a8572d3f29347837113b4",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/599-end-bridge-three-six-zero-has-only-two-core-double-pairs-and-oriented-outer-exceptions.md",
+      "source_sha256": "e70a8329637c4e24c6e44e7eeb5b91990c1e2b880126db1aa7d83974444781a9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/600-no-end-bridge-in-a-three-six-zero-doubled-edge-exterior.md",
+      "source_sha256": "f350a4d2cca11b65f12973a2dc08f6048007ef66a2ddab3328e0614f7e53c935",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/601-internal-three-six-zero-bridge-requires-adjacent-long-path-legs.md",
+      "source_sha256": "73c80914e9474ccba89afe0b8021ee84816f45ba89d24d6503ca6e554665ce81",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/602-no-two-paired-leg-blocks-around-a-central-three-six-zero-bridge.md",
+      "source_sha256": "55009eed6a52b73bea5ded8c31ec53bd533c7e2663f8ccd6a986d840bea6ef80",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/603-no-three-consecutive-six-path-legs-around-a-central-three-six-zero-bridge.md",
+      "source_sha256": "4b1558505a6ce35d73898fd6e0f169632ad5656dc1729286a09daa25632313d6",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/604-no-central-bridge-in-a-three-six-zero-doubled-edge-exterior.md",
+      "source_sha256": "32975041592e73af7e9dd236efe303defafd7b59b6875a3bb9e3bf3526c0ecaf",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/605-no-endpoint-double-next-to-a-near-end-three-six-zero-bridge.md",
+      "source_sha256": "fadcd09c9c76b30a60f92718bb589ef791ee92c97d8d0cfe72cf81df09b2e86e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/606-no-near-end-bridge-in-a-three-six-zero-doubled-edge-exterior.md",
+      "source_sha256": "7c0f9363b5d17d4412a7391a374af4d941c920f8acf23dc6671def4964bd0d71",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/607-no-far-endpoint-double-with-a-one-step-internal-three-six-zero-bridge.md",
+      "source_sha256": "e68b7c12e4284019aab471e62c19604c7f2d526590a18f997abaa77168f43112",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/608-no-near-bridge-double-with-a-one-step-internal-three-six-zero-bridge.md",
+      "source_sha256": "0b24fb695240c596a6fb70686ac54c9c7189a258b2443cd9927b4fdb6e69281e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/609-no-three-six-zero-doubled-edge-exterior-survives-exact-case-xii.md",
+      "source_sha256": "b10592bf5eef9e610dc34b9d6310c216171cfa95bf42a4aef1b3cbc7ae7f73d5",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/610-no-odd-paired-doubles-with-a-five-path-bridge-in-five-four-zero.md",
+      "source_sha256": "dd0a37756c26ea1c646f1776e806ee8a916559897ed15b8bd9f2f45d7816852d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/611-no-three-consecutive-four-path-legs-with-a-five-path-bridge.md",
+      "source_sha256": "ff9f5c228d89bb6cb71737d203b46a9ffc8f9ffedadf1da273bdb2dc5307335b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/612-no-five-path-bridge-in-a-five-four-zero-doubled-edge-exterior.md",
+      "source_sha256": "7d021972376b02edc1a6b7f6d627aef3d86c9dae2f0235898096c4dc78812d80",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/613-adjacent-four-path-legs-exclude-a-four-path-bridge-in-five-four-zero.md",
+      "source_sha256": "0e0b6739dda078cb8bd07704971078c8def707ad7eda423c4fbcef9b3289a947",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/614-no-end-bridge-on-the-four-path-in-five-four-zero.md",
+      "source_sha256": "e8036e0e0df52b04acc6b0cf46fc720e9e8e201b2f8a5655216e8854f9774b42",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/615-no-central-bridge-on-the-four-path-in-five-four-zero.md",
+      "source_sha256": "1101b712d44a9ce1d9ebbcb43fd0dc0da9b6a4ae6095327975826e42d772c291",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/616-no-doubled-edge-plus-bridge-twelve-vertex-exterior-survives-exact-case-xii.md",
+      "source_sha256": "065878ee8fee0f261313be55f0644a32a4e52025006c6d0c9d50e224d7bc52a4",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/617-no-four-three-two-central-loop-twelve-vertex-exterior.md",
+      "source_sha256": "97aca98a18593aa62e51a42c1212aa4e815f05282176da0ee1ca1f7c7b9357ba",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/618-no-five-two-two-central-loop-twelve-vertex-exterior.md",
+      "source_sha256": "bbc39dcea6354af0196d373c1e3395640c9b4ee2d74f57af9136e1e32b306031",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/619-no-one-six-two-central-loop-twelve-vertex-exterior.md",
+      "source_sha256": "819ab1c9a8cd13ed700c6361307c48e709e6a8e62b67c5a323ec1bc05e2aebf0",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/620-middle-two-edge-or-end-zero-bridge-seven-two-zero-central-loop.md",
+      "source_sha256": "2787fb0aaa89d018755fb1893bf2e8ffe5c8863a2bb08f5d67ff27adaf43454b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/621-no-seven-two-zero-central-loop-twelve-vertex-exterior.md",
+      "source_sha256": "7d9b2e17a361879e89a426243abbd66c923e4d6d75d2b8c21b617a90493ed95a",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/622-interior-three-edge-leaf-forces-an-odd-bridge-and-non-even-crossing-chord.md",
+      "source_sha256": "c6260c71acc82408df3bd2a10b582edd49e318bbadac556a93a463c2bccbd24d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/623-no-near-end-zero-leaf-bridge-in-a-three-six-zero-central-loop.md",
+      "source_sha256": "34af27baf5e586b33286f97c00b9127edb026481ca9cfa668270c158c4ad49f2",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/624-no-even-zero-leaf-bridge-in-a-three-six-zero-central-loop.md",
+      "source_sha256": "b7bcbaa275cf731a45770b552f6d1519872b1625e20dffea6cf22627c2aea29d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/625-no-central-loop-twelve-vertex-exterior-survives-exact-case-xii.md",
+      "source_sha256": "0599feeaa13926032a8971a16b8cdba703be9bcec0fcce8772ea8e595f06f355",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/626-a-six-edge-end-loop-forces-two-rstar-bridge-geometries.md",
+      "source_sha256": "5a6f288b6305aa5d3b1f7a5282f68b2a28aa4f15e7fd067751451a53ea12e08c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/627-no-six-edge-end-loop-twelve-vertex-exterior.md",
+      "source_sha256": "17e765659f061444c59433d5a221afa49b381b2cc1b83695d594cebb20605ae8",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/628-no-three-four-two-end-loop-twelve-vertex-exterior.md",
+      "source_sha256": "dd76c023de18485844cdc9c7fc8fdcfd8fdc8727d64d6f2183afc13bf2f3e56d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/629-no-five-two-two-end-loop-twelve-vertex-exterior.md",
+      "source_sha256": "6a1220f3eb7b76df5c450a657f20e89129c8652143e4891a5f2e0b766791a7b1",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/630-no-four-edge-end-loop-twelve-vertex-exterior.md",
+      "source_sha256": "898b4402b7e57deec1655c93e80329dbe05fc70c313d3f660ab0380ab21b762b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/631-no-connected-twelve-vertex-tight-carrier-exterior-survives.md",
+      "source_sha256": "9326c3f762f668717af1cb7392b660e97f31b1230b6293981768ab47010dbf15",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/632-an-isolated-one-chord-path-cannot-survive-in-a-disconnected-twelve-vertex-exterior.md",
+      "source_sha256": "adc15f4bf7bdabc5df1951fc859b519c7957fb968d99a519f5ab6a1bf2c8f290",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/633-multiple-private-chords-cannot-survive-in-a-disconnected-twelve-vertex-exterior.md",
+      "source_sha256": "ffe853884cdc530fad5c5634a872624ff9f51d25d328ab31c4481716b7259d8f",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/634-no-two-edge-isolated-path-in-a-disconnected-twelve-vertex-exterior.md",
+      "source_sha256": "574b12124e342c4c622f700aef63368a9a3b1b7232d5df3748ac00d1535daaec",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/635-no-saturated-even-port-path-in-a-tight-carrier-exterior.md",
+      "source_sha256": "c294e07f88944d38ea714972ad109ed3549cdd16394595a1219d5c95a6646f9e",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/636-one-cross-six-two-exterior-with-an-isolated-edge-fails-case-xii.md",
+      "source_sha256": "162cd7ace5d1b0a5b5490a21920411db7597960b0fc00d4adbdd33a297038d50",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/637-three-cross-six-two-exterior-with-an-isolated-edge-fails-case-xii.md",
+      "source_sha256": "d9a613e2852bfdb14f92a5eb35766f6abd022b1d7edbf98fb6e9c9ed9abebea8",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/638-no-isolated-edge-six-two-exterior-survives-exact-case-xii.md",
+      "source_sha256": "62ffeafe6321349b9988417358940048d26803711ce15638987e02528f49a04d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/639-no-isolated-one-edge-path-in-a-disconnected-twelve-vertex-exterior.md",
+      "source_sha256": "d76df9ea587acea0fcb1c6a961a6191a561a5642a49f0b415355a022d5ff5d83",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/640-one-cross-three-six-exterior-with-an-isolated-two-port-vertex-fails-case-xii.md",
+      "source_sha256": "efb5356d1185cc8f0178b0a196fa924115ac5c6a2c1aee6b88f1b9b4c8eb396b",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/641-an-isolated-two-port-vertex-forces-a-nested-case-xiii-cut.md",
+      "source_sha256": "0c5daae2d4c5377267c290ce02869d220aef3c07cd648a73f73e45f66a7fe1f9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/642-an-isolated-cd-two-port-vertex-cannot-support-exact-case-xii.md",
+      "source_sha256": "dd470aa676476ae68e0a88773824872367b93a26ae9e2f48b0eb62448a0c9781",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/643-no-three-cross-three-six-isolated-ab-exterior.md",
+      "source_sha256": "33d59848843c0927dcb2dc527535b843bbdbc7176e9f872b369b4ea482229694",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/644-no-two-cross-three-six-isolated-ab-exterior.md",
+      "source_sha256": "e10da3474fc5bf5f922debb6f08da17507a50bfddf0a6526442c4a15c9ef7691",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/645-no-three-cross-five-four-isolated-ab-exterior.md",
+      "source_sha256": "cce591788745f0d7337c7ab03243362153b21e36f46cd8142f421bc67c0281c9",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/646-no-two-cross-five-four-isolated-ab-exterior.md",
+      "source_sha256": "5fdeec69a055e181cce60377628e5fb13c31177baa05598cb70c0cf01b884f56",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/647-no-three-cross-seven-two-isolated-ab-exterior.md",
+      "source_sha256": "996231a1275077bda20950d839fb61877b06b601fea47970fbaca7b00488f82c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/648-no-two-cross-seven-two-isolated-ab-exterior.md",
+      "source_sha256": "b4bd0ece2905953de9bfddc14656dd402d339e4ff7c03eb7e561989e53260ca4",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/649-no-isolated-zero-length-twelve-vertex-tight-carrier-exterior.md",
+      "source_sha256": "5e542d17fbd50da276aa0e82a46d2b5350942977e2828619d3a531cb95a2f1f3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/650-two-endpoint-legs-close-at-most-one-cross-isolated-ab-exteriors.md",
+      "source_sha256": "4a23af39990eef45218d5b668411cbf6f3639f2cdd253bb21c0d3e098980d75c",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/651-a-one-cross-nine-two-exterior-forces-an-internal-pentagon-blocker.md",
+      "source_sha256": "deb9b803b5521a3dfcc1e406d4375f7638e5669b1cb062853f3cca0c4ef44498",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/652-two-chord-pentagons-cannot-block-the-one-cross-nine-two-exterior.md",
+      "source_sha256": "02e098f98456c9bee3abf0f455e919c83b45124535bfcb945d983d59407bd6fa",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/653-no-one-cross-nine-two-isolated-ab-exterior.md",
+      "source_sha256": "543a19f89bfb28e66a60979c526c80d885f9db61ac5f758c9e3b2bec75ad4751",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/655-bipartite-long-paths-exclude-two-cross-two-edge-exteriors.md",
+      "source_sha256": "1a5942d705b539040c833a5483e8e005e85b60b02994d64b2f8b6891d1449b8d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/108-residual-completion-identities-do-not-force-the-target-phase.md",
+      "source_sha256": "3aedabd3b33132b7885595602b9705a0ac96c489cc5c90885ed51adbd74188dc",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/119-petersen-two-sums-have-a-sharp-multirow-identity-colouring-gate.md",
+      "source_sha256": "c289bd79e0bedc5f12144886d5ca6f73f7b810715155dea2a23a542bd53a4bb3",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/345-the-two-identity-bridge-has-an-exact-third-matching-gate.md",
+      "source_sha256": "a79f6dd32a2b03856e4feea88341f21c8b9347a42078baae5a8715829a9504ff",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/349-pure-pentagon-load-makes-the-third-identity-parity-automatic.md",
+      "source_sha256": "548a2f87fa12b86674c48b477f7e4988bf7ea3b9b18e53ffa16fea59235e6aaa",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/350-the-right-bridge-third-identity-is-an-aj-shore-fibre.md",
+      "source_sha256": "ac19a85486f2eca55b7eb9e338eaf16b4c25f1cf85046ad1c5624c08e4dd1d9d",
+      "current_head_blob": null
+    },
+    {
+      "path": "original/unit/notes/654-an-alternating-switch-parity-identity-for-two-edge-exteriors.md",
+      "source_sha256": "42cac2d8b98b4bf1c3c6a0b40859f3ba8bf4737801ab476d82b70e4571855f7f",
+      "current_head_blob": null
+    }
+  ]
+}

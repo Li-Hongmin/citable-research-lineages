@@ -1,0 +1,17 @@
+{
+  "original_note_bodies_in_this_batch": 656,
+  "all_line_inventory_files": 1658,
+  "remaining_line_inventory_entries_outside_this_batch": 1002,
+  "newly_screened_note_exclusion_counts": {},
+  "previous_metadata_only_note_holds_remaining": 0,
+  "same_sources_in_previous_producer_archive": 1,
+  "first_positive_screen_math_identity_false_holds": 6,
+  "remaining_scope": [
+    "non-note original proofs/code/data/scratch",
+    "sealed producer rounds not in earlier batch",
+    "older Git-only note body versions",
+    "precisely held privacy/third-party/container materials"
+  ],
+  "historical_results_not_counted_again": true,
+  "scientific_validity": "not-assessed"
+}
