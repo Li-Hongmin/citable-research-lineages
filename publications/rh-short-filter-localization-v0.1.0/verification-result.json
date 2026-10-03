@@ -1,0 +1,79 @@
+{
+  "python": "3.14.7",
+  "purpose": "Small finite floating-point diagnostics; proof uses polynomial algebra and analytic Fejer bounds",
+  "cases": [
+    {
+      "M": 16,
+      "F": [
+        3,
+        4,
+        12,
+        13
+      ],
+      "s": 4,
+      "short_filter_span": 4,
+      "counterexample_band_energy": 2.7776862023391366e-29,
+      "counterexample_filter_energy": 1.0550527081665457,
+      "parseval_absolute_error": 1.1102230246251565e-15,
+      "real_polynomial_imaginary_residual": 1.1102230246251565e-16,
+      "sharp_span": 13,
+      "sharp_complement_multiplier_max": 2.0833682322163483e-14,
+      "sharp_active_multiplier_min": 3.9999999999999862,
+      "sharp_energy_identity_error": 6.439293542825908e-14,
+      "verdict": "PASS"
+    },
+    {
+      "M": 24,
+      "F": [
+        4,
+        5,
+        6,
+        18,
+        19,
+        20
+      ],
+      "s": 6,
+      "short_filter_span": 6,
+      "counterexample_band_energy": 8.931347388750718e-29,
+      "counterexample_filter_energy": 8.259855185569268,
+      "parseval_absolute_error": 0.0,
+      "real_polynomial_imaginary_residual": 2.0539125955565396e-15,
+      "sharp_span": 19,
+      "sharp_complement_multiplier_max": 4.687064200644282e-14,
+      "sharp_active_multiplier_min": 2.8941714587697285,
+      "sharp_energy_identity_error": 1.7763568394002505e-13,
+      "verdict": "PASS"
+    }
+  ],
+  "fejer_cases": [
+    {
+      "M": 64,
+      "H": 5,
+      "K": 20,
+      "filter_span": 39,
+      "kernel_mass": 0.999999999999999,
+      "discrete_first_moment": 0.025834423090915024,
+      "multiplier_uniform_error": 0.2414197112770119,
+      "lipschitz_first_moment_bound": 0.6688155942535295,
+      "discrete_fejer_identity_residual": 1.320946574640818e-14,
+      "sqrt_energy_difference": 0.10215102638243662,
+      "parseval_triangle_bound": 0.16875667848543047,
+      "verdict": "PASS"
+    },
+    {
+      "M": 128,
+      "H": 8,
+      "K": 40,
+      "filter_span": 79,
+      "kernel_mass": 0.9999999999999982,
+      "discrete_first_moment": 0.01467381782675787,
+      "multiplier_uniform_error": 0.15442639865971897,
+      "lipschitz_first_moment_bound": 0.46956217045625215,
+      "discrete_fejer_identity_residual": 2.958346525392634e-14,
+      "sqrt_energy_difference": 0.09959799917881451,
+      "parseval_triangle_bound": 0.10939635012124355,
+      "verdict": "PASS"
+    }
+  ],
+  "overall": "PASS"
+}

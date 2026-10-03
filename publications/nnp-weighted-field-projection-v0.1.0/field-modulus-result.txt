@@ -1,0 +1,3 @@
+Rabin gcd index 6 = 1
+Rabin gcd index 9 = 1
+Rabin x^(2^18) == x; irreducible polynomial verified

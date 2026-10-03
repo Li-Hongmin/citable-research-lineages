@@ -1,0 +1,125 @@
+{
+  "id": "crl:sha256:01b35e5c1883eae2eccb6b879b89d44e90f615b3db7089d7328fef89590b5551",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "RESULT",
+    "problem": "crl:problem:berge-fulkerson",
+    "title": "A common six-port colouring for two actual complementary pentagon caps",
+    "body": "# A common six-port colouring for two complementary pentagon caps\n\nA self-contained explicit finite colouring lemma. Authorized human contribution credit: Li Hongmin; AI derivation and same-model review are disclosed separately. No novelty or external scientific acceptance claim.\n\n## Statement\n\nStart with the path 1–2–3–4–5–6. Subdivide its edge i(i+1) at u_i for i=1,...,5, and attach a dangling edge p_i at u_i. Subdivide the four other edges X=13, Y=25, Z=46, W=16 at t_X,t_Y,t_Z,t_W. Add five new vertices b_e,b_X,b_Y,b_Z,b_W. Join t_M to b_M for M=X,Y,Z,W, and attach a dangling edge e at b_e.\n\nFor either cycle S_1=e–X–Y–W–Z–e or S_2=e–X–W–Y–Z–e on these five labels, join the b vertices along the complementary cycle T_i=K_5−S_i. Explicitly,\n\nT_1=e–Y–Z–X–W–e, and T_2=e–Y–X–Z–W–e.\n\nEach resulting cubic six-pole has a proper three-edge-colouring with boundary signature\n\n(e,p_1,p_2,p_3,p_4,p_5)=(1,2,2,1,3,3).\n\nConsequently, removing any two dangling edges whose positions are one in {e,p_1,p_2,p_3} and one in {p_4,p_5}, joining their incident vertices to one new vertex d, and adding a new dangling edge at d, gives a three-edge-colourable cubic five-pole. This statement concerns these explicit fixed graphs, with no assumption about BF support, minimum counterexamples, or general cubic graphs.\n\n## Explicit proof\n\nThe following table gives the colours on the two halves of each subdivided core edge in the displayed endpoint order. At its subdivision vertex the third edge receives the unique colour absent from the two halves.\n\n| Core edge | T_1 halves | T_2 halves |\n|---|---|---|\n|u_1:12|1,3|1,3|\n|u_2:23|1,3|1,3|\n|u_3:34|2,3|2,3|\n|u_4:45|1,2|2,1|\n|u_5:56|1,2|2,1|\n|t_X:13|2,1|2,1|\n|t_Y:25|2,3|2,3|\n|t_Z:46|2,3|1,3|\n|t_W:16|3,1|3,2|\n\nColour the cap edges in their stated cycle order as follows:\n\n| Physical cap | Successive edge colours |\n|---|---|\n|T_1=e–Y–Z–X–W–e|2,3,2,1,3|\n|T_2=e–Y–X–Z–W–e|3,2,1,3,2|\n\nGive e colour 1. At each original vertex 1,...,6 the three half-edge colours are 1,2,3. At every u_i or t_M the third colour is defined to complete that set. At the four b_M vertices, its spoke colour and its two cap-edge colours are distinct; at b_e its two cap-edge colours are 2,3. Thus all twenty internal vertices see exactly 1,2,3, proving a proper colouring. The five u_i third colours are 2,2,1,3,3, yielding the displayed six-port signature.\n\nFor the joining operation, its two retained edge colours are distinct: the first is 1 or 2 and the second is 3. Keep these colours, colour the new dangling edge by the remaining colour, and keep every other edge unchanged. All three colours occur at d, and its neighbours retain their original incident colours. This proves the consequence for all eight permitted joins and both caps without a case-by-case search.\n\n## Why the cap distinction matters\n\nIn a cubic five-pole's BF boundary notation, [ij] denotes a type with two colours missing the same pair of positions i,j; it is a loop in the auxiliary support graph. A physical pentagon has such ordinary loops on its adjacent terminal pairs. For the complementary Case-XII side, the allowed ordinary loops lie on the complementary cycle instead. The cycle of allowed ordinary loops therefore must not be substituted for the physical cap cycle. The distinction follows from Definition 4.1, Figure 5 and Appendix XII of Máčajová, Mazzuoccolo and Tabarelli, *Cycle separating cuts in possible counterexamples to the cycle double cover and the Berge–Fulkerson conjectures*, Ars Mathematica Contemporanea 26 (2026), #P2.03, [DOI](https://doi.org/10.26493/1855-3974.3409.c13).\n\nThis explicit colouring lemma repairs that possible substitution at the fixed prism fragment. It does not independently certify any pole's exact BF support, force this fragment in a minimum counterexample, or resolve Berge–Fulkerson.\n\n## Reproduction and review boundary\n\nThe proof is the two displayed tables and the vertex-wise colour check. `corrected-cap-two-tables.json` records every proper and dangling edge with its colour. `verify_caps.py` reconstructs the two graphs, verifies T_i=K_5−S_i, checks all twenty vertex partitions, confirms the common signature, and checks each of the eight joins.\n\nReproduce in this package with `python3 -B verify_caps.py` or `python3 -B -O verify_caps.py`; the certificate is at the top level. The standard-library checker prints JSON to stdout and never writes the frozen package. Its explicit runtime checks remain active under optimization. This verification does not call the colouring search or depend on the private BF project.\n\nThe producer reported an additional separately implemented check of all sixteen joined five-poles; that unselected search program is not a dependency or artifact of this package. This is supporting finite verification, not necessary for the explicit table proof. A fresh-context reviewer used the same model as the derivation agent; this is not independent human scientific acceptance or an independent-model external review. Novelty beyond this local correction has not been claimed or assessed. There is no counterexample to the stated colouring lemma; the failed earlier proof attempt used the wrong physical cap.\n\n\n## Retained correction and later boundary\n\nThe rejected earlier local attempt substituted the allowed-loop cycle S for the physical complementary pentagon T=K5−S. Its 642-labelled colouring certificate is not evidence for this result. The displayed actual-T tables replace that attempt. The later compatible-pair distance example shows that minimizing arbitrary actual matching pairs does not preserve BF cooccurrence; it is not needed by this explicit colouring lemma. General exact-XII support, minimum-host configuration forcing, and a guarantee that a permitted pair attains difference eight remain outside the result. Neither this package nor the later example is a BF counterexample.\n\n\nHuman contribution credit: Li Hongmin; actual Codex research/coordinator and same-model review roles are disclosed in rights-and-attribution.json. Original text CC BY 4.0; code where present Apache-2.0. Scientific validity remains not-assessed.\n",
+    "scope": "Two fixed 20-internal-vertex six-poles, physical cap complements, common signature (1,2,2,1,3,3), eight joins per cap. Repairs S/T substitution. No exact-support certification, minimum-host profile forcing or general Berge-Fulkerson conclusion.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; actual Codex derivation, review and packaging roles disclosed. No independent human proof/referee acceptance claim."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed Codex assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T15:19:55Z",
+    "basis_snapshot": "sha256:0ba5c383f6b88101e05948cd4f1ddb868f5402cd26d2d915a73c358c25f29bf7",
+    "rights": {
+      "rights_holder_statement": "Authorized selected new original mathematical text and disclosed code derivatives; private original proofs and third-party works excluded and not relicensed. Actual human/AI roles disclosed.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "addresses",
+        "target": "crl:problem:berge-fulkerson",
+        "scope": "Two fixed 20-internal-vertex six-poles, physical cap complements, common signature (1,2,2,1,3,3), eight joins per cap. Repairs S/T substitution. No exact-support certification, minimum-host profile forcing or general Berge-Fulkerson conclusion."
+      }
+    ],
+    "artifacts": [
+      {
+        "path": "LICENSE.md",
+        "sha256": "9ab3e3ff9bc06b7ece128334466914ff2f6c2eab3985cd7da934b27bc9da7aa7",
+        "description": "Scoped contribution artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Scoped contribution artifact: LICENSES/Apache-2.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Scoped contribution artifact: LICENSES/CC-BY-4.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "QUESTION.md",
+        "sha256": "ea16db98ae6d67ef6a95090ed4bbea038bbde7f37ef4ec8b7a19527263b93d4e",
+        "description": "Scoped contribution artifact: QUESTION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "89e90909ecb9afba0f4064f49812083489a279e5b16f37af5b711d477a2ae483",
+        "description": "Scoped contribution artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "9d0507e155b61976cda064bd0a14bb76d92204f5542efe4fbf0716d91f7e65b5",
+        "description": "Scoped contribution artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RESULT.md",
+        "sha256": "80a597d4e3269a5a61122359809a018b1a53e0f06c618a2cafd8e495412341c7",
+        "description": "Scoped contribution artifact: RESULT.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "2e69ea76cf8c29d1d3f616cec48d0ddf834cbacc73c39dad1a8f55f5c7d01582",
+        "description": "Scoped contribution artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "3eeb7f5f5815f8c2954fe50c698de030d33d9dae73a813e127232db40bf82352",
+        "description": "Scoped contribution artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Scoped contribution artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "corrected-cap-two-tables.json",
+        "sha256": "63f50f76288670daa95de0816f903828ea9499dd07c6860b5b105efe784c1916",
+        "description": "Scoped contribution artifact: corrected-cap-two-tables.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "rights-and-attribution.json",
+        "sha256": "526e3b135c5c5d0157473b63cf7d9fb12e6428f2cd6e3c1ab70b98118023b4c1",
+        "description": "Scoped contribution artifact: rights-and-attribution.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "verification-result.json",
+        "sha256": "def81d3aadfaa7b46bc6092906a0091ffd411ee900608e02cbe11fea984fc96a",
+        "description": "Scoped contribution artifact: verification-result.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "verify_caps.py",
+        "sha256": "11e7c5d8628bea79e0e9ce7c7ae2f3ff2f94933f175399a9ffa257106c4f91f9",
+        "description": "Scoped contribution artifact: verify_caps.py",
+        "license_declared": "Apache-2.0"
+      }
+    ],
+    "result_kind": "lemma",
+    "answer_scope": "partial"
+  },
+  "signature": "5a5eade86eeb6c9bb19385d818c2f76b8f5a9bf481a2a27d7ac14bc282bd8c31943c5e76026547020529c6f98b0b083f2385b548107908b2958a30d2624da605"
+}

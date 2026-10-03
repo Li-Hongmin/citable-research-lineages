@@ -1,0 +1,17 @@
+{
+  "human_contributor": "Li Hongmin",
+  "human_credit_scope": "authorized contribution credit and publication coordination; no independent human proof/referee claim",
+  "new_material_permission": "trusted user13:51 and parent latest continuous-submission approval; selected new self-contained materials only",
+  "ai_roles": {
+    "research": "Codex producer derived the selected lemma/certificates",
+    "producer_review": "same-model fresh-context Codex review within the recorded scope",
+    "coordinator": "selected and narrowed claims, checked cited content/assumptions, prepared edition and optimized-safe verifier derivatives, signed with authorized identity"
+  },
+  "content_license": "CC-BY-4.0",
+  "code_license": null,
+  "code_artifacts": [],
+  "excluded": "original private project proofs/histories, third-party PDFs or extracted text, internal process/thread/path metadata",
+  "license_scope": "new selected original content and disclosed checker derivatives only; no source-project or third-party relicense",
+  "scientific_validity": "not-assessed",
+  "review_independence": "same model; not heterogeneous or human acceptance"
+}

@@ -1,0 +1,4 @@
+PASS k=0 label=14090: seven full-X basis sums=1; off-grid correction only first basis
+PASS k=1 label=14090: seven full-X basis sums=0; off-grid correction only first basis
+PASS k=73951 label=14090: seven full-X basis sums=222249; off-grid correction only first basis
+Formal linear identity only; no actual-source reachability or coefficient independence is certified.

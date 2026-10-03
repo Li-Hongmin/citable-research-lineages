@@ -1,0 +1,64 @@
+{
+  "root": "crl:problem:p-vs-np",
+  "frozen_producer_sources": [
+    {
+      "artifact": "rw-pulse3-complete-x-projection.md",
+      "sha256": "6fb14534830f5d1fb6be761c94e55973627eb69f770b85f99b0471739b6b5b2e",
+      "bytes": 13643,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw-pulse3-review-record.md",
+      "sha256": "0978ca504bea22eb8538d61bb8414e64669b4bd6b9f81dbf69c92f6d42163c8b",
+      "bytes": 2353,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw-pulse3-delivery-manifest.json",
+      "sha256": "848729a62fc246567f2e5e83b44e8f0a6c9b287a94329a0e77e646188d31221c",
+      "bytes": 7510,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw_xsum_check.c",
+      "sha256": "1fa06be8759f781ab93820d5468dde62be67f3f875033cc6788ccb26fdbc6548",
+      "bytes": 1438,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw_spare_check.c",
+      "sha256": "d213176e1cda0b96b2acdc712c95e83f38ad28f70cf9052f251a539f8ba8afde",
+      "bytes": 3960,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw_f4_toy_check.py",
+      "sha256": "005f28822018d8d202fde914affafb1d87bf5e8abb64a8b2ca1924284fa37832",
+      "bytes": 2182,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rw_field_modulus_check.py",
+      "sha256": "940989061e337be48b067469b0b7b4f2a5159666baab856864369cf7ceda16ff",
+      "bytes": 653,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    }
+  ],
+  "signed_dependencies": [],
+  "citation_boundary": "Only explicit self-contained statements and carried assumptions are used. Local source hashes are lineage, not public proof availability. No fake CRL relation targets or author endorsement.",
+  "selected_from_rounds": "one substantial self-contained result package per line; not one object per pulse or checkpoint"
+}

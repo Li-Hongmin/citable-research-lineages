@@ -1,0 +1,4 @@
+PASS u=16: V1 moments=(1,0,1,1), O moments=(1,omega,0,1); c=(1,omega,0,omega^2), P0(1)=P5(1)=0, cT!=0
+PASS u=64: V1 moments=(1,0,1,1), O moments=(1,omega,0,1); c=(1,omega,0,omega^2), P0(1)=P5(1)=0, cT!=0
+PASS u=256: V1 moments=(1,0,1,1), O moments=(1,omega,0,1); c=(1,omega,0,omega^2), P0(1)=P5(1)=0, cT!=0
+Canonical Boolean-grid toy only; no actual-source reachability claimed.

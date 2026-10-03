@@ -1,0 +1,40 @@
+{
+  "root": "crl:problem:riemann-hypothesis",
+  "frozen_producer_sources": [
+    {
+      "artifact": "rh-round3-short-filter-obstruction.md",
+      "sha256": "aa41aebdb55a13ac05338db49953a3197d40aa5ec8944b030ec6926e9b0c8bbb",
+      "bytes": 15233,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rh-round3-independent-review.md",
+      "sha256": "c3e8ab1f418a057858a3b82c3a320e971767fc6783b61255ca1dd680f5f0ff72",
+      "bytes": 12499,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rh-round3-contribution-manifest.json",
+      "sha256": "dc784607b15572d4c1dab23d23a6470ac0f2530f3baadd41a120cf71d7741bc4",
+      "bytes": 2623,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "rh_round3_verify.py",
+      "sha256": "747e212c476545433b739b67b5ffb0f379f29df43fb670f9848d4a498d6843a6",
+      "bytes": 5422,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    }
+  ],
+  "signed_dependencies": [],
+  "citation_boundary": "Only explicit self-contained statements and carried assumptions are used. Local source hashes are lineage, not public proof availability. No fake CRL relation targets or author endorsement.",
+  "selected_from_rounds": "one substantial self-contained result package per line; not one object per pulse or checkpoint"
+}

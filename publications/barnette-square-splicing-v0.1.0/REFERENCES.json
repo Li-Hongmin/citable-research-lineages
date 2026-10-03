@@ -1,0 +1,32 @@
+{
+  "root": "crl:problem:barnette",
+  "frozen_producer_sources": [
+    {
+      "artifact": "barnette-general-square-splicing-lemma.md",
+      "sha256": "18d236458f56f47f52a687860a2765ba427aa7df8c13c21dc37107e86e0cbf7a",
+      "bytes": 6164,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "upstream-independent-review.md",
+      "sha256": "94fb1e489e1f0f05786a196aa6ac7da5d31a4bbf167ef5cebd9d4a201a9071f5",
+      "bytes": 7669,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "barnette-round2-version-manifest.json",
+      "sha256": "b9a305d20b3c0ad6451478d0b935091ab1a65596a53a3f328a3f2e0fb6dcc3a6",
+      "bytes": 6704,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    }
+  ],
+  "signed_dependencies": [],
+  "citation_boundary": "Only explicit self-contained statements and carried assumptions are used. Local source hashes are lineage, not public proof availability. No fake CRL relation targets or author endorsement.",
+  "selected_from_rounds": "one substantial self-contained result package per line; not one object per pulse or checkpoint"
+}

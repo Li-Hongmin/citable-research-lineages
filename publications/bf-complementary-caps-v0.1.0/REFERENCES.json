@@ -1,0 +1,69 @@
+{
+  "root": "crl:problem:berge-fulkerson",
+  "frozen_producer_sources": [
+    {
+      "artifact": "bf-public-minimal-cap-colouring.md",
+      "sha256": "09068ef303fe99727d5b3f14d81c4701b418bacf153a0dc6f59bc0e539d6cc08",
+      "bytes": 5518,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "corrected-cap-two-tables.json",
+      "sha256": "63f50f76288670daa95de0816f903828ea9499dd07c6860b5b105efe784c1916",
+      "bytes": 4422,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "audit-pulse2/check_parent_corrected_cap.py",
+      "sha256": "3f90bf23f4a85bf13ffcb6a0db2a32afd48265b8946d6fd23243bbfeb8738817",
+      "bytes": 1844,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "audit-pulse2/final-handover-interface-acceptance.md",
+      "sha256": "6647f973f902c8bf80f7ed5c5e7a4326e1c621aa5ade53b83bbfb559494917a0",
+      "bytes": 7915,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    },
+    {
+      "artifact": "bf-pulse2-deliverable-sha256.txt",
+      "sha256": "0e735e2c4bb62804dbbbaf3e6d7c3e51e22a05ccdd7cf114862d632b8f0b9ad7",
+      "bytes": 1134,
+      "edition": "frozen producer artifact inspected locally on 2026-10-03",
+      "availability": "unpublished producer lineage; no public archive link asserted",
+      "use": "selected newly authored statement/proof or its review/checker; private original project proofs and coordination manifests are not included"
+    }
+  ],
+  "signed_dependencies": [],
+  "citation_boundary": "Only explicit self-contained statements and carried assumptions are used. Local source hashes are lineage, not public proof availability. No fake CRL relation targets or author endorsement.",
+  "selected_from_rounds": "one substantial self-contained result package per line; not one object per pulse or checkpoint",
+  "literature": [
+    {
+      "authors": [
+        "Edita Máčajová",
+        "Giuseppe Mazzuoccolo",
+        "Gloria Tabarelli"
+      ],
+      "title": "Cycle separating cuts in possible counterexamples to the cycle double cover and the Berge-Fulkerson conjectures",
+      "edition": "Ars Mathematica Contemporanea 26 (2026), #P2.03",
+      "doi": "10.26493/1855-3974.3409.c13",
+      "url": "https://doi.org/10.26493/1855-3974.3409.c13",
+      "inspected_passages": [
+        "Definition 4.1 and type [ij] notation, pp.9–10",
+        "Figure 5 and ordered physical pentagon, pp.12–13",
+        "Appendix Case XII L* list, p.21"
+      ],
+      "role": "notation and local cap/support distinction only; table proof does not use exhaustive minimum-counterexample classification",
+      "inspection": "coordinator read the locally available published-paper text passages; original paper/extract not included",
+      "local_extraction_sha256": "d0d4ae756435bae87f698f81ab817d28d94b1259796f2d1ad1efbc9c1ccaa943"
+    }
+  ]
+}

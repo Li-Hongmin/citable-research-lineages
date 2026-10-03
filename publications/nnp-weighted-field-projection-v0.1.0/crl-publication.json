@@ -1,0 +1,149 @@
+{
+  "id": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "type": "RESULT",
+    "problem": "crl:problem:p-vs-np",
+    "title": "Weighted finite-field projections can cancel despite a nonzero highest coefficient",
+    "body": "# Weighted finite-field projections and a canonical cancellation toy\n\n## Objects and exact projection\n\nLet u=2^mu>=8, K=GF(u), F=GF(u^6), Q=u^6,\nM=1+u+u^2+u^3+u^4+u^5, U_4=u+u^2+u^3+u^4, B=4U_4 and kappa=4u^5.\nDefine L_b(Z)=1+(Z+b)^(u-1) for b in K. For a_o in K^times set s=1+X^(u-1), ell=1+(X+a_o)^(u-1), and v=X^(u-1).\nFor arbitrary fixed coefficients k, a, b, c_0,c_2,c_kappa,c_T in F define the ordinary, denominator-cleared polynomial\n\n    W(X)=(1+k v^4)^(U_4) {\n       a[c_0 s^(4M)+c_2 s^(4M-2)ell^2+c_kappa s^(4M-kappa)ell^kappa+c_T s^(4M-kappa-2)ell^(kappa+2)]\n       +b v^kappa[c_0 s^(4M)+c_2 s^(4M-2)ell^2+c_T s^(4M-kappa-2)ell^(kappa+2)] }.\n\nPut P_0(z)=c_0+c_2z^2+c_kappa z^kappa+c_T z^(kappa+2) and P_5(z)=c_0+c_2z^2+c_T z^(kappa+2).\nThen\n\n    sum_(X in F) W(X)=(1+k)^(U_4)[a P_0(1)+b P_5(1)].\n\nThe off-grid sum over F\\K adds a c_0 to this expression in characteristic two: only X=0 contributes on the grid. These two sums must not be conflated. The weights include s^2; forgetting this factor gives a different projection. Every coefficient is held fixed while X varies. Arbitrary coefficients are permitted for this algebraic identity, not as arbitrary advice in an actual RW application.\n\n## General mixed moment and proof\n\n\nScale X=a_o x. Since a_o^(u-1)=1, this is a bijection of F preserving v, and it sends ell to L_1(x), s to L_0(x). It suffices to prove the identity for a_o=1. In this section only, X denotes this normalized variable.\n\nTake the unique fourth root r of k, and define the **product**\n\\[\nH=s(1+rv)=1+(1+r)v+rv^2.\n\\]\nThen deg H<=2u-2, [X^(u-1)]H=1+r, and\n\\[\nH^B=s^B(1+kv^4)^{U_4}.\n\\]\nThe product is essential: replacing H by s+rv drops a factor and is incorrect.\n\nFor arbitrary polynomials L,H,R of degree at most 2u-2, define\n\\[\n\\lambda=[X^{2u-2}]L,\\quad \\nu=[X^{2u-3}]L,\\quad\nh=[X^{u-1}]H,\\quad a_R=[X^{u-1}]R,\\quad b_R=[X^{3u/2-1}]R.\n\\]\nThe following general moment is valid:\n\\[\n\\sum_{X\\in F} L(X)^2H(X)^B R(X)^\\kappa\n=h^B(\\lambda^2 a_R^\\kappa+\\nu^2 b_R^\\kappa).                           \\tag{7}\n\\]\n\nTo prove it, the summand has degree at most\n\\[\n4(u-1)+2B(u-1)+2\\kappa(u-1)=8Q-4u-4<8(Q-1).\n\\]\nEvery exponent is even. Full-field power summation in characteristic two keeps only positive multiples of Q-1; hence the only possibilities are 2(Q-1), 4(Q-1), 6(Q-1). The constant term sums to Q=0.\n\nAll exponents in H^B R^kappa are divisible by 4u, whereas deg L^2<=4u-4. The residue for 2(Q-1) is 4u-2, outside this range. The other two residues are 4u-4 and 4u-6, selecting the coefficients lambda^2 and nu^2 of L^2 respectively.\n\nFor the 4(Q-1) case, removing low exponent 4u-4 and dividing by 4u leaves target u^5-1. Write the four H factors as H^(4u), H^(4u^2), H^(4u^3), H^(4u^4), followed by R^(4u^5). The target's five base-u digits are all u-1. At its lowest digit a selected H exponent lies in [0,2u-2]. Congruence to u-1 forces precisely u-1; the alternative 2u-1 is unavailable. There is no carry. Repeat through the lower four positions, and the R exponent is u-1. The product coefficient is h^B a_R^kappa.\n\nFor 6(Q-1), removing 4u-6 and dividing by 4u gives (3/2)u^5-1. Its lower four digits are again u-1 and its top digit is 3u/2-1. The same no-carry argument gives h^B b_R^kappa. Adding the two terms proves (7).\n\nFor a_o=1,\n\\[\ns=1+X^{u-1},\\qquad\n\\ell=X+X^2+\\cdots+X^{u-1}.\n\\]\nThe relevant boundary coefficients are:\n\n| L | lambda | nu |\n|---|---:|---:|\n| s^2 | 1 | 0 |\n| s ell | 1 | 1 |\n\n| R | a_R | b_R |\n|---|---:|---:|\n| s | 1 | 0 |\n| ell | 1 | 0 |\n| s v | 1 | 0 |\n| ell v | 0 | 1 |\n\nIndeed s ell has coefficient one at every power 1 through 2u-2. The seven terms of W correspond, in order, to\n\\[\n(L,R)=(s^2,s),(s\\ell,s),(s^2,\\ell),(s\\ell,\\ell),\n       (s^2,sv),(s\\ell,sv),(s\\ell,\\ell v).\n\\]\nFormula (7) makes every one of their sums equal h^B. Finally\n\\[\nh^B=(1+r)^{4U_4}=(1+k)^{U_4}.\n\\]\nCollecting the same c_j coefficients proves the full-field identity. The direct grid evaluation above proves the off-grid correction. This proof includes the public s^2 weight and does not assume that an unweighted sum has the same value.\n\n\n## Canonical Boolean-grid toy\n\nA stronger toy than a freely prescribed coefficient list obeys the canonical paired source form. Assume mu is even and at least four, so K contains F4. Choose omega with omega^2+omega+1=0, take endpoint labels p=0,q=1, and let\n\\[\nV_0=0,\\qquad V_1=L_0,\\qquad O=L_\\omega.\n\\]\nAll three sections have Boolean grid values and degree below u; O(p)=O(q)=0, and V_1+V_0 has endpoint difference one.\n\nFor a section T define its four moments\n\\[\na_T=[Z^{u-1}]T,\\quad\ng_T=[Z^{2u-3}]L_0T,\\quad\nh_T=T(0)+T(1),\\quad\nt_T=[Z^{3u/2-1}](L_0+L_1)T.\n\\]\nThe moments of V_1 are (1,0,1,1), and those of O are (1,omega,0,1). To verify the last entry directly, L_0+L_1 has all coefficients one in degrees 0 through u-2, while [Z^j]L_omega=omega^(u-1-j) for j>0. The relevant convolution is\n\\[\nt_O=\\sum_{e=0}^{u/2-2}\\omega^e=1:\n\\]\nu=4^m makes the last exponent divisible by three and each full triple has sum zero.\n\nDefine the following paired canonical coefficient model by its displayed moments; the finite counterexample below is about this explicit algebraic model:\n\\[\n\\begin{aligned}\nc_0&=\\sum_i(a_i^2h_i^{B+\\kappa}+g_i^2h_i^Bt_i^\\kappa),\\\\\nc_2&=a_O^2\\sum_i h_i^{B+\\kappa}+g_O^2\\sum_i h_i^Bt_i^\\kappa,\\\\\nc_\\kappa&=t_O^\\kappa\\sum_i g_i^2h_i^B,\\\\\nc_T&=g_O^2t_O^\\kappa(h_1^B+h_0^B).\n\\end{aligned}\n\\]\nSubstitution gives\n\\[\n(c_0,c_2,c_\\kappa,c_T)=(1,\\omega,0,\\omega^2),\\qquad\nP_0=P_5=1+\\omega z^2+\\omega^2 z^{\\kappa+2}.\n\\]\nHence c_T!=0 but P_0(1)=P_5(1)=0. The weighted seven-basis sum vanishes for this coefficient model, for every fixed background satisfying the displayed polynomial interface.\n\n\n## Exact application boundary\n\nThis is a theorem of finite-field polynomial algebra and an explicitly synthetic canonical example. A nonzero highest coefficient alone does not imply nonzero complete-coordinate average. It does not exhibit an actual reachable RW cancellation or prove an actual-source survival theorem, an efficient evaluator, the complete JK response, or P versus NP.\n\nAn application must supply the same actual source sections and keep the same permitted third remainder and all other coefficients fixed while X varies. The public-weight identity must also hold; the theorem does not establish the original route/checker chain. There is a further conditional obstruction to using this entire singleton toy as an actual section: if an actual source difference has hard-suffix grid support equal to a specified word with at least two nonzero positions, through a nonzero ledger multiplier, it cannot equal the one-point grid-supported difference L_p. This comparison requires equality of the entire canonical section, not matching only moments or one endpoint pair. No actual source is certified here to meet these premises, and other vanishing projections are not excluded.\n\nThe review's initial substitution H=s+rv was wrong and was corrected to H=s(1+rv). That correction, the s-squared public weight and the off-grid distinction are retained. The two finite checkers test formal polynomial bases and synthetic F4 sections only. Novelty and external scientific acceptance are not claimed.\n\n\nHuman contribution credit: Li Hongmin; actual Codex research/coordinator and same-model review roles are disclosed in rights-and-attribution.json. Original text CC BY 4.0; code where present Apache-2.0. Scientific validity remains not-assessed.\n",
+    "scope": "Self-contained degree-bounded finite-field mixed moment and seven-basis weighted projection, distinct full/off-grid sums, and explicitly synthetic canonical F4 cancellation. Actual RW use remains conditional on same-source/public-weight/fixed-remainder inputs; no reachable counterexample or NP result.",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; actual Codex derivation, review and packaging roles disclosed. No independent human proof/referee acceptance claim."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed Codex assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "created_at": "2026-10-03T15:19:55Z",
+    "basis_snapshot": "sha256:0ba5c383f6b88101e05948cd4f1ddb868f5402cd26d2d915a73c358c25f29bf7",
+    "rights": {
+      "rights_holder_statement": "Authorized selected new original mathematical text and disclosed code derivatives; private original proofs and third-party works excluded and not relicensed. Actual human/AI roles disclosed.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "relations": [
+      {
+        "type": "addresses",
+        "target": "crl:problem:p-vs-np",
+        "scope": "Self-contained degree-bounded finite-field mixed moment and seven-basis weighted projection, distinct full/off-grid sums, and explicitly synthetic canonical F4 cancellation. Actual RW use remains conditional on same-source/public-weight/fixed-remainder inputs; no reachable counterexample or NP result."
+      }
+    ],
+    "artifacts": [
+      {
+        "path": "LICENSE.md",
+        "sha256": "9ab3e3ff9bc06b7ece128334466914ff2f6c2eab3985cd7da934b27bc9da7aa7",
+        "description": "Scoped contribution artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Scoped contribution artifact: LICENSES/Apache-2.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Scoped contribution artifact: LICENSES/CC-BY-4.0.txt",
+        "license_declared": "Official license text"
+      },
+      {
+        "path": "QUESTION.md",
+        "sha256": "1578b13a5cd15192274c985f4a2da4a45fe88ee96f7362fea781b0783b3291c0",
+        "description": "Scoped contribution artifact: QUESTION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "README.md",
+        "sha256": "6f686d0b81af4569ca49d1cbf3a329dfd80866d678393e61f9b0a54c4675f9e1",
+        "description": "Scoped contribution artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "5d038806fdc428ecb23b20ea6cf96a57a384d83cdecda3a4f340e6d147488e93",
+        "description": "Scoped contribution artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RESULT.md",
+        "sha256": "d259674059d40240d42769a469c6a96db69497a6f35a521dd2770c3092a9e01f",
+        "description": "Scoped contribution artifact: RESULT.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "c71ab72ee6a4b2671109b3f6012df98f833168cc49c45a3bf557d37b8884b185",
+        "description": "Scoped contribution artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "3eeb7f5f5815f8c2954fe50c698de030d33d9dae73a813e127232db40bf82352",
+        "description": "Scoped contribution artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Scoped contribution artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "f4-toy-result.txt",
+        "sha256": "ab4bf0a21efb2df5c7b135722184ac96f056190c97d67df8e723086ffd3e593e",
+        "description": "Scoped contribution artifact: f4-toy-result.txt",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "field-modulus-result.txt",
+        "sha256": "b5572840a90c8822409d07136db4324e249b416629d0d7d0fb09252c9b36b037",
+        "description": "Scoped contribution artifact: field-modulus-result.txt",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "field_arithmetic.h",
+        "sha256": "09f15a5a4bcdf79adf3e84896985b0ad5a19f1f45f3b8241a21dcb71cd6bec39",
+        "description": "Scoped contribution artifact: field_arithmetic.h",
+        "license_declared": "Apache-2.0"
+      },
+      {
+        "path": "rights-and-attribution.json",
+        "sha256": "0697b50dd12ebbd8596215f320a6f8591eb717128e62276635eab0953364e3c3",
+        "description": "Scoped contribution artifact: rights-and-attribution.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "verify_f4_toy.py",
+        "sha256": "49a56731329aee15925f8f64ee839d722712feb4b4087869cce83f8aa45cafae",
+        "description": "Scoped contribution artifact: verify_f4_toy.py",
+        "license_declared": "Apache-2.0"
+      },
+      {
+        "path": "verify_field_modulus.py",
+        "sha256": "2520597d7ab3c48647d8d56b222738ac9c454ed6d34309288f99c85176497ce1",
+        "description": "Scoped contribution artifact: verify_field_modulus.py",
+        "license_declared": "Apache-2.0"
+      },
+      {
+        "path": "verify_xsum.c",
+        "sha256": "4abb5393fd75aa1b1ddad1d03b358a0bbd84b4c32e3803ec0e5ac3d7a7e4a161",
+        "description": "Scoped contribution artifact: verify_xsum.c",
+        "license_declared": "Apache-2.0"
+      },
+      {
+        "path": "xsum-result.txt",
+        "sha256": "c265560a7d2f1a8a7009391b63e17bc6b44ba7f99cc84e00c61125e5837116f7",
+        "description": "Scoped contribution artifact: xsum-result.txt",
+        "license_declared": "CC-BY-4.0"
+      }
+    ],
+    "result_kind": "lemma",
+    "answer_scope": "partial"
+  },
+  "signature": "cec2741490bede7afdc511f92a87cc4ecadb7f50368002e04499bb0aa599382aa1b9d9f05e80f57de72bff9666aa62acdaf0a665b29d371a0ef0570c39b12f0f"
+}
