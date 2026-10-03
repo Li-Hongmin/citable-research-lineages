@@ -1,0 +1,134 @@
+{
+  "id": "crl:sha256:5370d83d37044c3006ca7f44114b119983f6fad8a5bf62de03b7483ad32db277",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "type": "REVIEW",
+    "problem": "crl:problem:p-vs-np",
+    "title": "MCSP and THR2 original generator fixture and certificate-gap archive",
+    "body": "# MCSP and THR2 original generator fixture and certificate-gap archive\n\n87 exact original files, including 57 code sources. This artifact-check REVIEW preserves source/input provenance and records the precise reproduction boundaries around the existing indexed RESULT. It is inconclusive about mathematical validity; no research code was executed.\n\nMCSP/THR2 generators, local modules, expected fixtures and historical checksum records are preserved. MCSP928 lacks its three original JSON inputs. Three SAT bundles lack their 26 compressed certificates in this public edition, totaling150385201bytes; four exceed8MiB. A generator workflow is not preservation of absent historical inputs. Expected fixtures and printed checks are not observed new runs. These materials do not certify actual RW witnesses or resolve P versus NP.\n\nRaw code, fixtures, checksum-bound specifications, JSON prefixes/tails and expected records are preserved without banners or reformatting. Scientific and licence declarations live in sidecars. A file named certificate, a stored PASS or a published algorithm is not new independent proof acceptance.\n\nLi Hongmin is the authorized human contributor; original drafting/checking was AI-assisted, with source-model identity not independently reconstructed. Codex performed static archival review and packaging. Own code Apache-2.0; original text/data CC BY 4.0; cited third-party passages retain source rights.\n",
+    "scope": "Static archival artifact review of original source/input availability, localmodule/fixture closure and bounded historical checks; no fresh research execution or conjecture proof acceptance.",
+    "created_at": "2026-10-03T19:04:50Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+        "scope": "Static archival artifact review of original source/input availability, localmodule/fixture closure and bounded historical checks; no fresh research execution or conjecture proof acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Static archival artifact review of original source/input availability, localmodule/fixture closure and bounded historical checks; no fresh research execution or conjecture proof acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "081fda4d95e22980f5bb6d43635e29ec1c3a9acb280bb1f0009fb3b9b575e255",
+        "description": "Inspectable exact-source archival artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "35864b490cf34e08018711dceb2eedb55348b79e218c2ceeb7a2486218aa5040",
+        "description": "Inspectable exact-source archival artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Inspectable exact-source archival artifact: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Inspectable exact-source archival artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "fb0a7448436e7e6c8db297935b5c5c3fadd8c6012b49437bce0fd8a6894677a4",
+        "description": "Inspectable exact-source archival artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "fe36b75180df378b1783f71a24f5edf8671ad77d32ae6a9cd78d9c11757a3568",
+        "description": "Inspectable exact-source archival artifact: MATERIALS.zip",
+        "license_declared": "Mixed Apache-2.0 code and CC-BY-4.0 own text/data; citations retain source rights"
+      },
+      {
+        "path": "README.md",
+        "sha256": "cbd42a1be5acc3c2d88905db34c86b98c8ef792f330003831f9321c0b6b40d3d",
+        "description": "Inspectable exact-source archival artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "bb99bd42024537d5acde403ee1d9ff76b8a746b17c4dce687e63df299b873067",
+        "description": "Inspectable exact-source archival artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REPRODUCIBILITY.json",
+        "sha256": "ed5e414f7070771b961d0ab24502ce31e514d3ca88ac2f2af90b8709b9b53775",
+        "description": "Inspectable exact-source archival artifact: REPRODUCIBILITY.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "01fb10461307bd656beaa998cd559d4953b7d2f896657bf291218132aaa64435",
+        "description": "Inspectable exact-source archival artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "c5b4601def104d8d5ebf9efc081c489f96e62b5b66c9b7c673b8785303475a7f",
+        "description": "Inspectable exact-source archival artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "a98636284bf9683ab2b5f9ee5d273228e85732e278fd4efce92fa9ba3c9d63a4",
+        "description": "Inspectable exact-source archival artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "8f2a31ebb732bbc821e61aa0f6e54e2c81c75495453792d87af96759ed3a3ae2",
+        "description": "Inspectable exact-source archival artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Inspectable exact-source archival artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "sha256": "b638037870e9ec9683bdc2ff6a4c02a6b106113d4ea20f22332c9512d22cdd64",
+        "description": "Inspectable exact-source archival artifact: VERSIONS.json",
+        "license_declared": "CC-BY-4.0"
+      }
+    ]
+  },
+  "signature": "1f0f4b8d00e171611302e0dd5b4c73ea1c31bd8a1071a222004769e9dddbe389f412e472400963336b22e985a930ce5f9edbbe80f5e2c547f51199817479ac09"
+}

@@ -1,0 +1,11 @@
+{
+  "reviewed_record_id": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+  "root": "crl:problem:p-vs-np",
+  "record_type": "RESULT",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "archive_commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/nnp-weighted-field-projection-v0.1.0/crl-publication.json",
+  "manifest_raw_sha256": "c9aa47bde408bae343dc104d10537318db098c900290b8d73b0a7670c7e5bed7",
+  "manifest_jcs_sha256": "3f7ca7cf502d2d5d7537973860710e8e8704e64e8292ec72b7872e9e88cdfd4c",
+  "source": "Exact anonymous raw download bytes and signed JCS, not connector-rendered JSON."
+}

@@ -1,0 +1,88 @@
+{
+  "groups": [
+    {
+      "name": "global anchor and finite Q",
+      "files": 4,
+      "inputs": "embedded parameters; no data file",
+      "runtime": "python-flint; precision200 for anchor",
+      "import_location": "From original/rh-original, PYTHONPATH=computations locates actual q_value in verify_q_reverse_poisson_failure.py; no stub/math change",
+      "limits": "Q finitecore default a.0625 tau540.375 radius5 step.0001 digits35; unboundedtails remain separate."
+    },
+    {
+      "name": "critical product fibre",
+      "files": 1,
+      "runtime": "Python stdlib",
+      "inputs": "embedded seed20260812 sizes8/32/128",
+      "limits": "Floating complex arithmetic/tolerance1e-12, not rational exact certificate."
+    },
+    {
+      "name": "finite identities and windows",
+      "files": 9,
+      "runtime": "Python stdlib; qfold additionally SymPy",
+      "localmodule": "diagnose_finite_window_escape imports included verify_optimal_finite_column_filter",
+      "newfirsthash": "Six mathematical identity path falseholds first positively screened; unchanged metadata baseline, no earlier rawhash claim.",
+      "limits": "Window diagnostic converts to floats; finite/default parameter scopes only."
+    },
+    {
+      "name": "conditional Lambda outer model",
+      "files": 2,
+      "runtime": "NumPy",
+      "input": "no file input; output path is locator only",
+      "default_parameters": {
+        "T": [
+          80,
+          120,
+          200,
+          320
+        ],
+        "lambda": 0.999,
+        "bins": 4,
+        "quad": 24
+      },
+      "historical_json_parameters": {
+        "T": [
+          80,
+          120,
+          200,
+          320,
+          500,
+          800,
+          1200
+        ],
+        "lambda": 0.999,
+        "bins": 4
+      },
+      "historical_unrecorded": [
+        "quad",
+        "full actual command"
+      ],
+      "limits": "physical_Q explicitly undefined, conditionalouter model only."
+    },
+    {
+      "name": "K1/A2 Mellin",
+      "files": 5,
+      "runtime": "recorded python-flint==0.9.0",
+      "inputs": "embedded; no localmodule/data",
+      "historical_stdout_logs": 2,
+      "historical_claims": "bits192; sigma[1/2,1] and[0,1],tau[0,75],616vertices,unresolved0,winding0; not newly checked.",
+      "limits": "Defaults are recorded source parameters; do not replace actual log scope with guessed invocation."
+    },
+    {
+      "name": "J common-zero historical box",
+      "files": 4,
+      "runtime": "recorded python-flint==0.9.0; requirements.txt is envrecord notpiprequirements",
+      "inputs": "embedded/environment parameters",
+      "historical_stdout_logs": 1,
+      "source_default_T_MAX": 50,
+      "historical_T_MAX": 41,
+      "historical_claims": "ARB_PREC120,NQUAD512,SIG_STEP.02,T_STEP.02,WORKERS28,51250boxes,unresolved0,exit0; not fresh verification.",
+      "original_checksum_cross_package_note": "Note758 already in originalnotes archive; originalsha ledger retained but not claimed fully replayable as a whole inside this ZIP."
+    }
+  ],
+  "outside_batch": [
+    "B historical rerun stdout log absent",
+    "9NPZ+2ZIP/1996988bytes remain containers hold; no decoding/allow_pickle execution",
+    "Actual process/privacy mixed notes483 and CURRENT_STATUS_M2R held"
+  ],
+  "observed_expected": "Only four actual old output files (Lambda JSON,K1 two logs,J one log) are included; their numeric claims remain historical reports. Missingstdout is not reconstructed."
+}

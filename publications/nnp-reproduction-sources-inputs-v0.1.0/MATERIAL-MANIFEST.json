@@ -1,0 +1,880 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/mcsp-unit/computations/bundles/exposed-column-rank-count/exposed_column_rank_counter.cpp",
+      "sha256": "cd03c6df5f5fbc41bc4967b39886c4f958cdd398c858d67a45c08dadd6818e24",
+      "bytes": 10174,
+      "prior_source_sha256": "cd03c6df5f5fbc41bc4967b39886c4f958cdd398c858d67a45c08dadd6818e24",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/computations/bundles/n5-mixed-three-target-prethinning-counterexample/verify.py",
+      "sha256": "9bbae20dfde7f49f4af3f2b5725a4fa2082828128afde77bd6723fba20653aa0",
+      "bytes": 3406,
+      "prior_source_sha256": "9bbae20dfde7f49f4af3f2b5725a4fa2082828128afde77bd6723fba20653aa0",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/notes/verify-917-q4-q8.py",
+      "sha256": "147af1522bfefc88ebcd033dc0550a7dbbc3fb95fca9391731532758a0341c9e",
+      "bytes": 3552,
+      "prior_source_sha256": "147af1522bfefc88ebcd033dc0550a7dbbc3fb95fca9391731532758a0341c9e",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/dimension_potential_lp.py",
+      "sha256": "82e7f5da870e6da26b0263345a1a077b8e57e1b3c2584ab5b51fea312336ff85",
+      "bytes": 2979,
+      "prior_source_sha256": "82e7f5da870e6da26b0263345a1a077b8e57e1b3c2584ab5b51fea312336ff85",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/enumerate_parity_kw_cp.py",
+      "sha256": "fbb53b3f6260f07b50e8dca25d576890cd67cdea7712823f8beb810544f093c6",
+      "bytes": 4460,
+      "prior_source_sha256": "fbb53b3f6260f07b50e8dca25d576890cd67cdea7712823f8beb810544f093c6",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exact_row_star_candidate_space.py",
+      "sha256": "227f2236f2e5f769c2a1f4709c5cf20025788c4d2c90891c264dbd837e3dbb83",
+      "bytes": 3201,
+      "prior_source_sha256": "227f2236f2e5f769c2a1f4709c5cf20025788c4d2c90891c264dbd837e3dbb83",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exact_row_star_mixed_mass.py",
+      "sha256": "be506c8693c8f8b9d29f9f4e2408063a12d11ca68d83ff83987cfc1ac71bbfda",
+      "bytes": 5744,
+      "prior_source_sha256": "be506c8693c8f8b9d29f9f4e2408063a12d11ca68d83ff83987cfc1ac71bbfda",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exhaustive_n5_note063_support.py",
+      "sha256": "14ab7048d0497c18025cc1a22372466a6f53dd4774bc0631e09ef62715794903",
+      "bytes": 4316,
+      "prior_source_sha256": "14ab7048d0497c18025cc1a22372466a6f53dd4774bc0631e09ef62715794903",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/random_row_star_prethin_search.py",
+      "sha256": "24715a0e221bde99e94da10c393caee4436874aaaa28476d64564f496e1798e4",
+      "bytes": 3575,
+      "prior_source_sha256": "24715a0e221bde99e94da10c393caee4436874aaaa28476d64564f496e1798e4",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/rs_small_character.py",
+      "sha256": "ea8637a7b0f1f5d820919d679c710cb0573f52af1e61e01ef2b750b02c78c305",
+      "bytes": 4805,
+      "prior_source_sha256": "ea8637a7b0f1f5d820919d679c710cb0573f52af1e61e01ef2b750b02c78c305",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_fano_minimal.cpp",
+      "sha256": "b13a51a12c6bcf7b73b5e1cbff9041a27f3e00fa4b10fbd1b6e5e26d2e8823e5",
+      "bytes": 6241,
+      "prior_source_sha256": "b13a51a12c6bcf7b73b5e1cbff9041a27f3e00fa4b10fbd1b6e5e26d2e8823e5",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_high_witness.py",
+      "sha256": "c6bfaef071132ecc46ae3d6d06391b6972112ced7011af0dd6a8cfdca7107538",
+      "bytes": 5861,
+      "prior_source_sha256": "c6bfaef071132ecc46ae3d6d06391b6972112ced7011af0dd6a8cfdca7107538",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_n5_full_thinning_cliques.py",
+      "sha256": "df9e1bb398db3df94804ae2db0acc9fa71cbe119ca14658f984faa9d56cc8e49",
+      "bytes": 9022,
+      "prior_source_sha256": "df9e1bb398db3df94804ae2db0acc9fa71cbe119ca14658f984faa9d56cc8e49",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_three_class_weighted_counterprofiles.py",
+      "sha256": "37634f4703bef458cf174356cef70514aff7cfaa4bfc91c53d7d61a981bf6cfe",
+      "bytes": 3633,
+      "prior_source_sha256": "37634f4703bef458cf174356cef70514aff7cfaa4bfc91c53d7d61a981bf6cfe",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_three_scale_bad_gates.py",
+      "sha256": "d0de6a025c3d2615d1d27d756da5cb531e3367727592908b1eed8f358f69aa81",
+      "bytes": 3386,
+      "prior_source_sha256": "d0de6a025c3d2615d1d27d756da5cb531e3367727592908b1eed8f358f69aa81",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_three_scale_continuous_cells.py",
+      "sha256": "85867b164ca157af171a613b61036d1776439e236761d7422f7875d8e281d162",
+      "bytes": 1234,
+      "prior_source_sha256": "85867b164ca157af171a613b61036d1776439e236761d7422f7875d8e281d162",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/search_three_type_prefix_cell.py",
+      "sha256": "25e0ada3f662a52a7d0abdedfdb615da80062b83a747e69c9b1cae4415d32b04",
+      "bytes": 2485,
+      "prior_source_sha256": "25e0ada3f662a52a7d0abdedfdb615da80062b83a747e69c9b1cae4415d32b04",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/verify_n5_16_full_thinning_independent.py",
+      "sha256": "8238422d617fa146212bc2abc6bb778854216dc851d00239d7df800c218467be",
+      "bytes": 3601,
+      "prior_source_sha256": "8238422d617fa146212bc2abc6bb778854216dc851d00239d7df800c218467be",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/verify_n5_clean_full_thinning.py",
+      "sha256": "0aff5a4766514d65fd5b595ea8bfc2894f0621e0f8466410b929d2f34f14265a",
+      "bytes": 3668,
+      "prior_source_sha256": "0aff5a4766514d65fd5b595ea8bfc2894f0621e0f8466410b929d2f34f14265a",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/verify_n5_prethin_counterexample.py",
+      "sha256": "2d0b529cbfbb888101721b1860d4f0aabd6ec0f4480e17d57162d2091c815b00",
+      "bytes": 3912,
+      "prior_source_sha256": "2d0b529cbfbb888101721b1860d4f0aabd6ec0f4480e17d57162d2091c815b00",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/verify_two_unit_four_point_gate.py",
+      "sha256": "2a4f5767ad828e91909c0122405da09e948be6e5d586138ec05f93e6bae18f24",
+      "bytes": 3645,
+      "prior_source_sha256": "2a4f5767ad828e91909c0122405da09e948be6e5d586138ec05f93e6bae18f24",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/exposed_column_rank_counter.cpp",
+      "sha256": "cd03c6df5f5fbc41bc4967b39886c4f958cdd398c858d67a45c08dadd6818e24",
+      "bytes": 10174,
+      "prior_source_sha256": "cd03c6df5f5fbc41bc4967b39886c4f958cdd398c858d67a45c08dadd6818e24",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/recovered-local-processes/arbmod-2026-08-14.py",
+      "sha256": "df686685a62e0fce6b660bc5b37fae2a19dabd9c7edd6a8796ead3a7494283bd",
+      "bytes": 1825,
+      "prior_source_sha256": "df686685a62e0fce6b660bc5b37fae2a19dabd9c7edd6a8796ead3a7494283bd",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/recovered-local-processes/max-intersect2-2026-08-14.py",
+      "sha256": "65438e0a9e75245546f358970d88a4a1a70ff1df32532b061d04a0195428c6b1",
+      "bytes": 2154,
+      "prior_source_sha256": "65438e0a9e75245546f358970d88a4a1a70ff1df32532b061d04a0195428c6b1",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/recovered-local-processes/random_aekr-2026-08-14.py",
+      "sha256": "ae87cbb0c4e4c345cd2da6ee9d3bd92545a7257f34dfd9950a070086264c2d64",
+      "bytes": 2528,
+      "prior_source_sha256": "ae87cbb0c4e4c345cd2da6ee9d3bd92545a7257f34dfd9950a070086264c2d64",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/scratch/recovered-local-processes/search-all-small3-2026-08-14.py",
+      "sha256": "032a4bf25058363a99e9ff12621d1346343d85e2d3510cbf36fd56ed7fccf3f0",
+      "bytes": 1722,
+      "prior_source_sha256": "032a4bf25058363a99e9ff12621d1346343d85e2d3510cbf36fd56ed7fccf3f0",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/verification/928-conditioned-fibers/ball-predictions.py",
+      "sha256": "e70704526714a70ee7b44ba1a2fb6712a88742e1ce30d12db09f50a97ad59458",
+      "bytes": 904,
+      "prior_source_sha256": "e70704526714a70ee7b44ba1a2fb6712a88742e1ce30d12db09f50a97ad59458",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/verification/928-conditioned-fibers/check.py",
+      "sha256": "07ed4a8d12b365a5460c92f57ff0b250c9e9c3da6d0da1e99160c22e0fe5a5ce",
+      "bytes": 8153,
+      "prior_source_sha256": "07ed4a8d12b365a5460c92f57ff0b250c9e9c3da6d0da1e99160c22e0fe5a5ce",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/verification/928-conditioned-fibers/distance-witness.py",
+      "sha256": "8671c1197213085b3912962056534e5d9c1885ae82d2f99fffc47e277e90e842",
+      "bytes": 876,
+      "prior_source_sha256": "8671c1197213085b3912962056534e5d9c1885ae82d2f99fffc47e277e90e842",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/verification/928-conditioned-fibers/generate.py",
+      "sha256": "b3a444ddb9172d89173631a0154159c1ee0e9a65be9ea84d7d5f0201c8c48438",
+      "bytes": 1856,
+      "prior_source_sha256": "b3a444ddb9172d89173631a0154159c1ee0e9a65be9ea84d7d5f0201c8c48438",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-block-constant-walsh-stars/verify_block_constant_d3_walsh_stars.py",
+      "sha256": "ab56a08f4ba598a8c9f33687f26219237974d85db45bcc1b5267555b274f8fe7",
+      "bytes": 4370,
+      "prior_source_sha256": "ab56a08f4ba598a8c9f33687f26219237974d85db45bcc1b5267555b274f8fe7",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/classify_three_active_base0.py",
+      "sha256": "9ef4c6d36a42eba4a4fbcaf19089b28607175179ce66c1eda61f2043cbb5d6b1",
+      "bytes": 5918,
+      "prior_source_sha256": "9ef4c6d36a42eba4a4fbcaf19089b28607175179ce66c1eda61f2043cbb5d6b1",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/verify.sh",
+      "sha256": "118eb07378be5441283e349c9604e6fe815dc71698b1bb8ccaa69f032fb35e2b",
+      "bytes": 1055,
+      "prior_source_sha256": "118eb07378be5441283e349c9604e6fe815dc71698b1bb8ccaa69f032fb35e2b",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/verify_three_active_global_lifts.cpp",
+      "sha256": "67e0568c4d93a82f8ebdda0aad42622b6c59f482935a0d2e28200b78ebff837f",
+      "bytes": 13646,
+      "prior_source_sha256": "67e0568c4d93a82f8ebdda0aad42622b6c59f482935a0d2e28200b78ebff837f",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z2-five-base-unsat/classify_z2_profiles.py",
+      "sha256": "ee7d183576fc2d6d258daf45111ef8254c9906d7d2cc6e2d3fe9beba1072b583",
+      "bytes": 6065,
+      "prior_source_sha256": "ee7d183576fc2d6d258daf45111ef8254c9906d7d2cc6e2d3fe9beba1072b583",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z2-five-base-unsat/generate_z2_five_base_cnf.py",
+      "sha256": "4fb273c12abdeac9b5cab379c98f9865c8c18153f0430b9091b0a9031ee6bec9",
+      "bytes": 11435,
+      "prior_source_sha256": "4fb273c12abdeac9b5cab379c98f9865c8c18153f0430b9091b0a9031ee6bec9",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z2-five-base-unsat/verify_bundle.py",
+      "sha256": "231b2e8ee4f02bfbb89f062a0f967ef2b72160f7822d3c208794cb88492eb866",
+      "bytes": 4932,
+      "prior_source_sha256": "231b2e8ee4f02bfbb89f062a0f967ef2b72160f7822d3c208794cb88492eb866",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/verify.sh",
+      "sha256": "9bdfabbffa296a4213586911bf0ddcea4347bc6261568e71e0b25726e967ef8a",
+      "bytes": 677,
+      "prior_source_sha256": "9bdfabbffa296a4213586911bf0ddcea4347bc6261568e71e0b25726e967ef8a",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/verify_final_three_full_lifts.cpp",
+      "sha256": "4385efc6d3d8f0c527ec588de2a2979bdc7d315011a117b01b5dc0b50c1c31b2",
+      "bytes": 12675,
+      "prior_source_sha256": "4385efc6d3d8f0c527ec588de2a2979bdc7d315011a117b01b5dc0b50c1c31b2",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-local-profile-classification/verify_z3_local_profiles.py",
+      "sha256": "7b8d79f00df2e68eac31b7641b75c0fac06b5f75e618896f332563f92d3657de",
+      "bytes": 6530,
+      "prior_source_sha256": "7b8d79f00df2e68eac31b7641b75c0fac06b5f75e618896f332563f92d3657de",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-plane-profile-exclusions/generate_z3_plane_profile_cnf.py",
+      "sha256": "38da3dadc83448035d3ae588668a9c76b434e494345540baf0c8f57cd55beb23",
+      "bytes": 19347,
+      "prior_source_sha256": "38da3dadc83448035d3ae588668a9c76b434e494345540baf0c8f57cd55beb23",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-plane-profile-exclusions/verify_bundle.py",
+      "sha256": "5ca09135a12244e90e17a30956201f03e42f440e4fe0e5c6ddfc48d2d3d56661",
+      "bytes": 9359,
+      "prior_source_sha256": "5ca09135a12244e90e17a30956201f03e42f440e4fe0e5c6ddfc48d2d3d56661",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-plane-profile-exclusions/verify_profile8_three_base_lift.py",
+      "sha256": "7aa35bddef0f953100a5fdd8073cf8c0d53ebf5c12791c0743189a0163b1d868",
+      "bytes": 4004,
+      "prior_source_sha256": "7aa35bddef0f953100a5fdd8073cf8c0d53ebf5c12791c0743189a0163b1d868",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-tail-row-halfspace-classification/verify.sh",
+      "sha256": "ec5c02042315642ca1b2f48588b1e719a050394af8eee1d713ae5ce4a4566d1b",
+      "bytes": 372,
+      "prior_source_sha256": "ec5c02042315642ca1b2f48588b1e719a050394af8eee1d713ae5ce4a4566d1b",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-tail-row-halfspace-classification/verify_tail_row_halfspaces.py",
+      "sha256": "4de651c1237c3c97d847681de29f32f9fbe1956bb21d6f7af83dc0dc1613625e",
+      "bytes": 7063,
+      "prior_source_sha256": "4de651c1237c3c97d847681de29f32f9fbe1956bb21d6f7af83dc0dc1613625e",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-two-half-unsat/generate_z3_two_half_cnf.py",
+      "sha256": "87861e94d7287fb95d681786b767d9cbaa3c6badc7b198b71c91a5827a97ed50",
+      "bytes": 10922,
+      "prior_source_sha256": "87861e94d7287fb95d681786b767d9cbaa3c6badc7b198b71c91a5827a97ed50",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-two-half-unsat/verify_bundle.py",
+      "sha256": "07df8199781586d3f50a33973d74fdb9ab1f2013ebbba278374d697598509a2b",
+      "bytes": 5642,
+      "prior_source_sha256": "07df8199781586d3f50a33973d74fdb9ab1f2013ebbba278374d697598509a2b",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/verify.sh",
+      "sha256": "a0fd6d372b4e79b9c17fecb18ac11b16b480796014788a7ccbb55bf97d711b94",
+      "bytes": 741,
+      "prior_source_sha256": "a0fd6d372b4e79b9c17fecb18ac11b16b480796014788a7ccbb55bf97d711b94",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/verify_z4_final_four_full_lifts.cpp",
+      "sha256": "23e7430bbd42d8e89551d75bbc7d1a8dd5d4e39e84b535345a1c68f92425e495",
+      "bytes": 14928,
+      "prior_source_sha256": "23e7430bbd42d8e89551d75bbc7d1a8dd5d4e39e84b535345a1c68f92425e495",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-selected-base-classification/classify_z4_selected_base.py",
+      "sha256": "67f564820da5cd631e05a9af991c48196faaaef41b5e5f381c84c55312f010ea",
+      "bytes": 9530,
+      "prior_source_sha256": "67f564820da5cd631e05a9af991c48196faaaef41b5e5f381c84c55312f010ea",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-selected-base-classification/verify.sh",
+      "sha256": "6514ea100c05d03e14d6a290702780186bbf5dbd6eb4059de07c13af1a4e7cc8",
+      "bytes": 350,
+      "prior_source_sha256": "6514ea100c05d03e14d6a290702780186bbf5dbd6eb4059de07c13af1a4e7cc8",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/classify_four_active_base.cpp",
+      "sha256": "9937a63f465942de87c1337301fd1d3264dd0c3cf52e8767fdfc3919253ac2b1",
+      "bytes": 2890,
+      "prior_source_sha256": "9937a63f465942de87c1337301fd1d3264dd0c3cf52e8767fdfc3919253ac2b1",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/d3_arbitrary_sat_probe.py",
+      "sha256": "e44be5c3d8f3bb7954155c316194162f7166f8e887e0b81dd6e84178e995b626",
+      "bytes": 9755,
+      "prior_source_sha256": "e44be5c3d8f3bb7954155c316194162f7166f8e887e0b81dd6e84178e995b626",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/d3_normalized_raw_sat.py",
+      "sha256": "66e5f7a8a2778f9f208cea81760c1ec4ca94d16ec603a80c6413140c92c3b83f",
+      "bytes": 3558,
+      "prior_source_sha256": "66e5f7a8a2778f9f208cea81760c1ec4ca94d16ec603a80c6413140c92c3b83f",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/d3_normalized_type_cpsat.py",
+      "sha256": "7528475035bd4a45d4354bda02fdb35e58c65ace566aed7d25902c5e7baf4099",
+      "bytes": 10531,
+      "prior_source_sha256": "7528475035bd4a45d4354bda02fdb35e58c65ace566aed7d25902c5e7baf4099",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/d3_projective_type_cpsat.py",
+      "sha256": "ffd73d302bb0b239b0f33818a3cadc7b7918df5eda9dd5161b54d05a8f619fb6",
+      "bytes": 5589,
+      "prior_source_sha256": "ffd73d302bb0b239b0f33818a3cadc7b7918df5eda9dd5161b54d05a8f619fb6",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/scratch/d3_z2_type_cnf.py",
+      "sha256": "4fb273c12abdeac9b5cab379c98f9865c8c18153f0430b9091b0a9031ee6bec9",
+      "bytes": 11435,
+      "prior_source_sha256": "4fb273c12abdeac9b5cab379c98f9865c8c18153f0430b9091b0a9031ee6bec9",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/computations/bundles/exposed-column-rank-count/README.md",
+      "sha256": "e2321f6be138832e9ce3496907a191e95e2b9e1e0be16874e197023987c7240e",
+      "bytes": 3105,
+      "prior_source_sha256": "e2321f6be138832e9ce3496907a191e95e2b9e1e0be16874e197023987c7240e",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/computations/bundles/n5-mixed-three-target-prethinning-counterexample/README.md",
+      "sha256": "f38ec87bf226f02fd4a1cae934b05ddccd1f050b927db466334467a84732686f",
+      "bytes": 884,
+      "prior_source_sha256": "f38ec87bf226f02fd4a1cae934b05ddccd1f050b927db466334467a84732686f",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/mcsp-unit/verification/928-conditioned-fibers/README.md",
+      "sha256": "53fe1fc62875244b08d1117a19fb1586ca83cade9d9d461b0e6a875b553d318a",
+      "bytes": 1402,
+      "prior_source_sha256": "53fe1fc62875244b08d1117a19fb1586ca83cade9d9d461b0e6a875b553d318a",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-block-constant-walsh-stars/README.md",
+      "sha256": "154859ce332abc3dc24bad67449ab5a5a1b748bbded1c3137f079453a59d1288",
+      "bytes": 1457,
+      "prior_source_sha256": "154859ce332abc3dc24bad67449ab5a5a1b748bbded1c3137f079453a59d1288",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/README.md",
+      "sha256": "b9a6652b465a3506e7659dc13cce958ce43f687720cfe47d001cbe87582c1c0b",
+      "bytes": 2967,
+      "prior_source_sha256": "b9a6652b465a3506e7659dc13cce958ce43f687720cfe47d001cbe87582c1c0b",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/SHA256SUMS",
+      "sha256": "00ebeaaf06f53cc562f60c976d64fb90d22f17c7afaffde5daad6e47f1676342",
+      "bytes": 483,
+      "prior_source_sha256": "00ebeaaf06f53cc562f60c976d64fb90d22f17c7afaffde5daad6e47f1676342",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/expected-classifier-output.txt",
+      "sha256": "52233d30519ceccd833b7a16a2d6f35f08ce63eaa75071a49b6ea95230c5e6c5",
+      "bytes": 1574,
+      "prior_source_sha256": "52233d30519ceccd833b7a16a2d6f35f08ce63eaa75071a49b6ea95230c5e6c5",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/expected-direct-output.txt",
+      "sha256": "61c6b746e0a5b6338afea168fe0e064e82b2fd3a1decde20c5bdd3f3a9cbad93",
+      "bytes": 338,
+      "prior_source_sha256": "61c6b746e0a5b6338afea168fe0e064e82b2fd3a1decde20c5bdd3f3a9cbad93",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-three-active-parity-full-lift-exclusion/expected-pruned-output.txt",
+      "sha256": "ebf5b725a0294ce46ff4b0749130a253e97b25f719d92a2860fe448f3734652d",
+      "bytes": 332,
+      "prior_source_sha256": "ebf5b725a0294ce46ff4b0749130a253e97b25f719d92a2860fe448f3734652d",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z2-five-base-unsat/README.md",
+      "sha256": "f8586ead5c3b9b505192bb05aad6a243d87b75e1230179c8b76e225a64bb4e93",
+      "bytes": 3879,
+      "prior_source_sha256": "f8586ead5c3b9b505192bb05aad6a243d87b75e1230179c8b76e225a64bb4e93",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z2-five-base-unsat/SHA256SUMS",
+      "sha256": "898602df998b6d86ee60bb07a09c291c118046fa876d7e02283ca74d5853fbbe",
+      "bytes": 460,
+      "prior_source_sha256": "898602df998b6d86ee60bb07a09c291c118046fa876d7e02283ca74d5853fbbe",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/README.md",
+      "sha256": "1a64e23c9fdcb2ec4c900bb7acbf401722ba915fcae2efb15bb0c3b3d4038a31",
+      "bytes": 2760,
+      "prior_source_sha256": "1a64e23c9fdcb2ec4c900bb7acbf401722ba915fcae2efb15bb0c3b3d4038a31",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/SHA256SUMS",
+      "sha256": "7c6465801e00786a1ac4fcea54e48cc3421234f1ef71283b8e76011bb44cf502",
+      "bytes": 286,
+      "prior_source_sha256": "7c6465801e00786a1ac4fcea54e48cc3421234f1ef71283b8e76011bb44cf502",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/expected-direct-output.txt",
+      "sha256": "fe8b7521199ea6beec0eb10e9b9e32f3fae155a9068baf67bc771a5218dd41de",
+      "bytes": 584,
+      "prior_source_sha256": "fe8b7521199ea6beec0eb10e9b9e32f3fae155a9068baf67bc771a5218dd41de",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-final-three-full-lift-exclusion/expected-pruned-output.txt",
+      "sha256": "2e661e119a6f62a27f7fb657357364c06db5d4946273b681a5d97011bbb058cf",
+      "bytes": 588,
+      "prior_source_sha256": "2e661e119a6f62a27f7fb657357364c06db5d4946273b681a5d97011bbb058cf",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-local-profile-classification/README.md",
+      "sha256": "e0ae7c2de830644001731b6f12d8c2dcdddbd7819bc417f2becc5a8416065be5",
+      "bytes": 2035,
+      "prior_source_sha256": "e0ae7c2de830644001731b6f12d8c2dcdddbd7819bc417f2becc5a8416065be5",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-plane-profile-exclusions/README.md",
+      "sha256": "4e517f0b82ce0151473144b4c7615accd04cef01d16bfb159e168216390997b3",
+      "bytes": 10303,
+      "prior_source_sha256": "4e517f0b82ce0151473144b4c7615accd04cef01d16bfb159e168216390997b3",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-plane-profile-exclusions/SHA256SUMS",
+      "sha256": "e8dcc1d13dd2213bbea40540171c8ceb93c478472d97dd0bf6ce29c4b8d3678a",
+      "bytes": 1207,
+      "prior_source_sha256": "e8dcc1d13dd2213bbea40540171c8ceb93c478472d97dd0bf6ce29c4b8d3678a",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-tail-row-halfspace-classification/README.md",
+      "sha256": "93896fc89c3edada7374460c7daf1a5f6d51817c7415162a7190f121850d4d70",
+      "bytes": 2069,
+      "prior_source_sha256": "93896fc89c3edada7374460c7daf1a5f6d51817c7415162a7190f121850d4d70",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-tail-row-halfspace-classification/SHA256SUMS",
+      "sha256": "65fe7437ec6cbafb046964db88d20f3c98e6d844f1dfbe8a35d2c69289f9d254",
+      "bytes": 182,
+      "prior_source_sha256": "65fe7437ec6cbafb046964db88d20f3c98e6d844f1dfbe8a35d2c69289f9d254",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-tail-row-halfspace-classification/expected-output.txt",
+      "sha256": "2ff8b89472c4263eb1b454ab8d3666c8493b2df97e2e3d85b5bd778566176271",
+      "bytes": 1731,
+      "prior_source_sha256": "2ff8b89472c4263eb1b454ab8d3666c8493b2df97e2e3d85b5bd778566176271",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-two-half-unsat/README.md",
+      "sha256": "a0212530fc1252c254287a20f641b1cddfa7df125d8f1913b9e6c2da242df49b",
+      "bytes": 3272,
+      "prior_source_sha256": "a0212530fc1252c254287a20f641b1cddfa7df125d8f1913b9e6c2da242df49b",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z3-two-half-unsat/SHA256SUMS",
+      "sha256": "1297d47aa48b1500dd058ff4ffc7c1d55e4d5030c29d8421ecd16515eb36511c",
+      "bytes": 737,
+      "prior_source_sha256": "1297d47aa48b1500dd058ff4ffc7c1d55e4d5030c29d8421ecd16515eb36511c",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/README.md",
+      "sha256": "25945ce842bf48ae4ea8a74bf29ad79c6ddb8b8c583747f121771e1cc5126563",
+      "bytes": 2889,
+      "prior_source_sha256": "25945ce842bf48ae4ea8a74bf29ad79c6ddb8b8c583747f121771e1cc5126563",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/SHA256SUMS",
+      "sha256": "9cb9f2d304f17aceac7af2289a7bb08dae84824d5d4e2bba67ead762a850c4cd",
+      "bytes": 288,
+      "prior_source_sha256": "9cb9f2d304f17aceac7af2289a7bb08dae84824d5d4e2bba67ead762a850c4cd",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/expected-direct-output.txt",
+      "sha256": "0ceee51e633231024d8a5d3a77038cd92dcb76943e93e38e478945729bd4d3e7",
+      "bytes": 876,
+      "prior_source_sha256": "0ceee51e633231024d8a5d3a77038cd92dcb76943e93e38e478945729bd4d3e7",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-final-four-full-lift-exclusion/expected-pruned-output.txt",
+      "sha256": "67006523a76d8457c7cae8bc66666e2f1b54f0f56ac8fa0a6ea290f6cdb6495a",
+      "bytes": 879,
+      "prior_source_sha256": "67006523a76d8457c7cae8bc66666e2f1b54f0f56ac8fa0a6ea290f6cdb6495a",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-selected-base-classification/README.md",
+      "sha256": "e804a7aa999386d84c4b9046a9d527e0ccb079bfac79598872c90ec4fe3912a0",
+      "bytes": 2076,
+      "prior_source_sha256": "e804a7aa999386d84c4b9046a9d527e0ccb079bfac79598872c90ec4fe3912a0",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-selected-base-classification/SHA256SUMS",
+      "sha256": "41f9cf2d9767a2e6a24a582f0a1f14db59ca62d4562956e9bc0b17d1e650e735",
+      "bytes": 182,
+      "prior_source_sha256": "41f9cf2d9767a2e6a24a582f0a1f14db59ca62d4562956e9bc0b17d1e650e735",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/thr2-unit/computations/bundles/d3-z4-selected-base-classification/expected-orbits.json",
+      "sha256": "2e4bfc92cc61de13592c2e98f7ba733392cb79b9cd6b5df7c27413e0f92336ad",
+      "bytes": 61185,
+      "prior_source_sha256": "2e4bfc92cc61de13592c2e98f7ba733392cb79b9cd6b5df7c27413e0f92336ad",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "expected-fixture-not-observed-run",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    }
+  ],
+  "member_count": 87,
+  "member_bytes": 427421,
+  "code_members": 57,
+  "zip_sha256": "fe36b75180df378b1783f71a24f5edf8671ad77d32ae6a9cd78d9c11757a3568",
+  "scientific_validity": "not-assessed"
+}

@@ -1,0 +1,7 @@
+{
+  "edition": "0.1.0-github.1",
+  "method": "Current frozen original body per source path; SHA maps exact bytes, aliases and historical outputs. No older Git-only body claim.",
+  "failed_and_corrected_routes": "Preserved exactly; raw PASS/VERIFIED text remains historical/static, not new acceptance.",
+  "original_checksum_policy": "Original checksum ledgers retained as historical byte contracts. Source/inputs in this edition are byte-identical. Ledgers may reference excluded certificates or separately archived notes; do not claim whole-ledger validation.",
+  "boundary": "Four bounded star/pivot, Fano, literal-row and order-11 families retain local modules and fixed inputs. NetworkX and geng are external runtime dependencies. The JSON-prefix-plus-tail omen-run file and certificate-bound SPEC are exact original bytes. Historical countermodels do not establish unrestricted host/phase conclusions; the 24.6MB note102 input and unrelated SMT fixture families are outside this batch."
+}

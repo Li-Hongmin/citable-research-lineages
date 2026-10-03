@@ -1,0 +1,7 @@
+{
+  "edition": "0.1.0-github.1",
+  "method": "Current frozen original body per source path; SHA maps exact bytes, aliases and historical outputs. No older Git-only body claim.",
+  "failed_and_corrected_routes": "Preserved exactly; raw PASS/VERIFIED text remains historical/static, not new acceptance.",
+  "original_checksum_policy": "Original checksum ledgers retained as historical byte contracts. Source/inputs in this edition are byte-identical. Ledgers may reference excluded certificates or separately archived notes; do not claim whole-ledger validation.",
+  "boundary": "MCSP/THR2 generators, local modules, expected fixtures and historical checksum records are preserved. MCSP928 lacks its three original JSON inputs. Three SAT bundles lack their 26 compressed certificates in this public edition, totaling150385201bytes; four exceed8MiB. A generator workflow is not preservation of absent historical inputs. Expected fixtures and printed checks are not observed new runs. These materials do not certify actual RW witnesses or resolve P versus NP."
+}

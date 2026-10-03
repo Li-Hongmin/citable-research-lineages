@@ -1,0 +1,260 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/rh-original/units/global-spectral-limit/computations/verify_xi_livsic_anchor.py",
+      "sha256": "0b769965108facf04e2ae8754146540f3d8a9b5466225fe32f125007b7637a03",
+      "bytes": 434,
+      "prior_source_sha256": "0b769965108facf04e2ae8754146540f3d8a9b5466225fe32f125007b7637a03",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/units/global-spectral-limit/notes/003-phase-free-livsic-probe-criterion.md",
+      "sha256": "e2f7cc266d3420a8fee64abc12edaaaa398793e25133fd319f91cab5843ae343",
+      "bytes": 5997,
+      "prior_source_sha256": "e2f7cc266d3420a8fee64abc12edaaaa398793e25133fd319f91cab5843ae343",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/verify_q_reverse_poisson_failure.py",
+      "sha256": "19e6686cc095bf697f0e8c32d0d8295db23e318ccf51d222a9ea52fa881ec9b6",
+      "bytes": 4078,
+      "prior_source_sha256": "19e6686cc095bf697f0e8c32d0d8295db23e318ccf51d222a9ea52fa881ec9b6",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/units/global-spectral-limit/scratch/verify_q_three_term_dirichlet_core_upper.py",
+      "sha256": "15d68f3bc416803a176d047588e69be292cf98a5a8a8bb7868943f2fb25a896b",
+      "bytes": 5210,
+      "prior_source_sha256": "15d68f3bc416803a176d047588e69be292cf98a5a8a8bb7868943f2fb25a896b",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/units/critical-line-proportion/scratch/verify_product_fibre_l2.py",
+      "sha256": "396ddce48afa965a521daa3a9c0f3d3a11bd2bd36d4b5e380412abca17e96da8",
+      "bytes": 1297,
+      "prior_source_sha256": "396ddce48afa965a521daa3a9c0f3d3a11bd2bd36d4b5e380412abca17e96da8",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/verify_column_filter_convolution.py",
+      "sha256": "0430c6bb80ff52e60e23f1224658486bbe2faa7602d746b7ae9a97f00513ff75",
+      "bytes": 2275,
+      "prior_source_sha256": "0430c6bb80ff52e60e23f1224658486bbe2faa7602d746b7ae9a97f00513ff75",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/verify_optimal_finite_column_filter.py",
+      "sha256": "6a6325bbe82471a1f94ed19591c45ca0f474ccd85deb5d30ca884a54ddfaee5e",
+      "bytes": 2461,
+      "prior_source_sha256": "6a6325bbe82471a1f94ed19591c45ca0f474ccd85deb5d30ca884a54ddfaee5e",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/diagnose_finite_window_escape.py",
+      "sha256": "7963ef396950a26518eb1fa31f2f42e05f5992add203f490018aad6b12d834c2",
+      "bytes": 1278,
+      "prior_source_sha256": "7963ef396950a26518eb1fa31f2f42e05f5992add203f490018aad6b12d834c2",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/scratch/finite_lambda_outer_matrix_model.py",
+      "sha256": "6bcf2396e5c3e53f3cdaf725f37efeb16e0856fc339439f4f9b47e962dcf4e04",
+      "bytes": 11888,
+      "prior_source_sha256": "6bcf2396e5c3e53f3cdaf725f37efeb16e0856fc339439f4f9b47e962dcf4e04",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/scratch/finite_lambda_outer_matrix_model.json",
+      "sha256": "c8f071851aa1a487a6c11d2e48980cbdec4fc100d5bdbb2f20aac2ecde28e739",
+      "bytes": 11462,
+      "prior_source_sha256": "c8f071851aa1a487a6c11d2e48980cbdec4fc100d5bdbb2f20aac2ecde28e739",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/k1-a2-mellin-zero-free/README.md",
+      "sha256": "2b387185457425dfe07acdeab6aa91775d6a06de75535d009ed86c59b59e4e9b",
+      "bytes": 1508,
+      "prior_source_sha256": "2b387185457425dfe07acdeab6aa91775d6a06de75535d009ed86c59b59e4e9b",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/k1-a2-mellin-zero-free/requirements.txt",
+      "sha256": "4cef508304e84c21f73cf412712165dc26e40978cb784bc08a876948b559d90d",
+      "bytes": 20,
+      "prior_source_sha256": "4cef508304e84c21f73cf412712165dc26e40978cb784bc08a876948b559d90d",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "recorded-dependency-or-environment-text;not-assumed-pip-installable",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/k1-a2-mellin-zero-free/sources/certify_k1_a2_mellin_arb.py",
+      "sha256": "95766e2e9c59e6c5307d246b172a48464b344c75f932136cb5d2fa54399d86db",
+      "bytes": 11384,
+      "prior_source_sha256": "95766e2e9c59e6c5307d246b172a48464b344c75f932136cb5d2fa54399d86db",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/k1-a2-mellin-zero-free/results/certificate-192.log",
+      "sha256": "6c7b223fc882ea8298a2daa2cd4d5b46278bb2a47e053ba7d7318412247b91fc",
+      "bytes": 884,
+      "prior_source_sha256": "6c7b223fc882ea8298a2daa2cd4d5b46278bb2a47e053ba7d7318412247b91fc",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/k1-a2-mellin-zero-free/results/certificate-strip-0-1-192.log",
+      "sha256": "a55bfad2caee91f09449c8e9603457b084fb7c765eb1e927ac5dc6bcbc9390ed",
+      "bytes": 882,
+      "prior_source_sha256": "a55bfad2caee91f09449c8e9603457b084fb7c765eb1e927ac5dc6bcbc9390ed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/j-common-zero-free-20260819/SHA256SUMS.txt",
+      "sha256": "4f2131149da66ec3dfadc6abc1e0bf71ae235897a712dd525f1b7cd19c54429c",
+      "bytes": 443,
+      "prior_source_sha256": "4f2131149da66ec3dfadc6abc1e0bf71ae235897a712dd525f1b7cd19c54429c",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-original-byte-checksum-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/j-common-zero-free-20260819/requirements.txt",
+      "sha256": "f9f0fc6b0f45a3130f1588e4cc851cb39a896b8faa2895f8334e1c7f55fc9c81",
+      "bytes": 177,
+      "prior_source_sha256": "f9f0fc6b0f45a3130f1588e4cc851cb39a896b8faa2895f8334e1c7f55fc9c81",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "recorded-dependency-or-environment-text;not-assumed-pip-installable",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/j-common-zero-free-20260819/sources/verify_j_common_zero_box_arb.py",
+      "sha256": "98819ce4b4929a3ec8649c07bac0e7a80d312faf6564e1fb3856e850c9a06e0c",
+      "bytes": 4143,
+      "prior_source_sha256": "98819ce4b4929a3ec8649c07bac0e7a80d312faf6564e1fb3856e850c9a06e0c",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/bundles/j-common-zero-free-20260819/results/arb_j_common_zero_free_box.log",
+      "sha256": "ca7258ebbed72baf170a6211b1e4a2141f85f1b96294b353c49b9b8bc6bb549c",
+      "bytes": 281,
+      "prior_source_sha256": "ca7258ebbed72baf170a6211b1e4a2141f85f1b96294b353c49b9b8bc6bb549c",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/rh-original/computations/check_qfold_operator_identity.py",
+      "sha256": "9cef28dd76846f18393c7530072e51da773c6afd9b4bfebe2d106cb87d84f0ac",
+      "bytes": 1958,
+      "prior_source_sha256": "9cef28dd76846f18393c7530072e51da773c6afd9b4bfebe2d106cb87d84f0ac",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    },
+    {
+      "path": "original/rh-original/computations/verify_finite_cutoff_boundary_identity.py",
+      "sha256": "a3db0b7653b4fe78d70b455bd9b8b3c84c808919f4f96f7d740b3505605f13fe",
+      "bytes": 1940,
+      "prior_source_sha256": "a3db0b7653b4fe78d70b455bd9b8b3c84c808919f4f96f7d740b3505605f13fe",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    },
+    {
+      "path": "original/rh-original/computations/verify_mrt_triangle_weight_identity.py",
+      "sha256": "428a85eaa3875a99d47eab603b6fbd55c6af9a4dfc26731aebeeee7b504205a6",
+      "bytes": 764,
+      "prior_source_sha256": "428a85eaa3875a99d47eab603b6fbd55c6af9a4dfc26731aebeeee7b504205a6",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    },
+    {
+      "path": "original/rh-original/computations/verify_reciprocal_tail_abel_identity.py",
+      "sha256": "55617b183c435e6d831f82484aa6039f9adfdfd3f837aee1347aed7dddadff6c",
+      "bytes": 1348,
+      "prior_source_sha256": "55617b183c435e6d831f82484aa6039f9adfdfd3f837aee1347aed7dddadff6c",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    },
+    {
+      "path": "original/rh-original/computations/verify_residual_volterra_identity.py",
+      "sha256": "1f94f7cf1c8a72b3931c21c5c9dbef6b2992891aa63af8804eabfe9a2a37e1a9",
+      "bytes": 3112,
+      "prior_source_sha256": "1f94f7cf1c8a72b3931c21c5c9dbef6b2992891aa63af8804eabfe9a2a37e1a9",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    },
+    {
+      "path": "original/rh-original/computations/verify_selberg_internal_variance_identity.py",
+      "sha256": "407818b3d21e672043764fa284d7b84104c732b53f39f0b327458ec1a25c1294",
+      "bytes": 2203,
+      "prior_source_sha256": "407818b3d21e672043764fa284d7b84104c732b53f39f0b327458ec1a25c1294",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "first-positive-body-screen;baseline-metadata-unchanged"
+    }
+  ],
+  "member_count": 25,
+  "member_bytes": 77427,
+  "code_members": 16,
+  "zip_sha256": "6f93cf37b830a8aa0e0eaa009a15f5f00204252efd8d65ddbcf284151bd69030",
+  "scientific_validity": "not-assessed"
+}

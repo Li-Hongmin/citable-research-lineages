@@ -1,0 +1,11 @@
+{
+  "reviewed_record_id": "crl:sha256:01b35e5c1883eae2eccb6b879b89d44e90f615b3db7089d7328fef89590b5551",
+  "root": "crl:problem:berge-fulkerson",
+  "record_type": "RESULT",
+  "repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "archive_commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/bf-complementary-caps-v0.1.0/crl-publication.json",
+  "manifest_raw_sha256": "a72dd80e74b71855c6bc49235b4fc12ee3dbb49344e18d416559a4f24b19d6a4",
+  "manifest_jcs_sha256": "5dffd277afb0111f7b8e76cd53da729d0e7035382a6baca8e103ea0c978dcd4c",
+  "source": "Exact anonymous raw download bytes and signed JCS, not connector-rendered JSON."
+}

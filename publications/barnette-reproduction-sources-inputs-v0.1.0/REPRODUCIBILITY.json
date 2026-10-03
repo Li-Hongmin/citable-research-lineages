@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "five producer finite fixtures",
+      "source_origin": "task-4",
+      "code": 5,
+      "historical_json": 5,
+      "inputs": "embedded",
+      "localmodules": "none",
+      "runtime": "Python standard library",
+      "working_directory": "any; stdout only",
+      "limits": "Recorded counts and Python3.14.7 are old reported output claims. Asserts/printed VERIFIED are expected/static; no fresh run."
+    },
+    {
+      "name": "eight fixed carrier and boundary checks",
+      "source_origin": "unit",
+      "code": 8,
+      "own_documentation": 7,
+      "inputs": "embedded fixtures/graph6",
+      "runtime": "Python; some NetworkX",
+      "recorded_environment": "Some README records Python3.14.6/NetworkX3.6.1, not independently verified or installed.",
+      "limits": "Fixed-order/abstract PM/nonlegal-wide countermodels do not certify legal-wide universal carrier claim."
+    },
+    {
+      "name": "one-cycle module and frozen-corpus tree",
+      "code": 14,
+      "localmodule_closure": "all14 selected, preserve original scratch/computations relative tree",
+      "frozen_corpus_json": 5,
+      "recorded_graph6_entries": 50,
+      "fresh_census_branches": "Require external geng/genbg and source certificates; those branches not declared fully reproduced.",
+      "output_policy": "Default source-near writes require new mutable output location for future replay, never frozen JSON."
+    }
+  ],
+  "observed_expected": "Existing JSON is historical reported output; for corpus scans the same bytes are available inputs. No new execution/output truth certified.",
+  "git_history_scope": "123 distinct old Python blobs /1423164bytes scanned with integrity and AST; all SHA256 duplicate current safe527code, so0newunique bodies. Other refs/dangling/older history not covered."
+}

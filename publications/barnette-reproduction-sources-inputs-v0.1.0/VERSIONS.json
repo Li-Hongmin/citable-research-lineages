@@ -1,0 +1,7 @@
+{
+  "edition": "0.1.0-github.1",
+  "method": "Current frozen original body per source path; SHA maps exact bytes, aliases and historical outputs. No older Git-only body claim.",
+  "failed_and_corrected_routes": "Preserved exactly; raw PASS/VERIFIED text remains historical/static, not new acceptance.",
+  "original_checksum_policy": "Original checksum ledgers retained as historical byte contracts. Source/inputs in this edition are byte-identical. Ledgers may reference excluded certificates or separately archived notes; do not claim whole-ledger validation.",
+  "boundary": "Embedded producer fixtures, self-contained fixed carrier/parity/countermodel checkers and the 14-module one-cycle/frozen-corpus source tree are preserved. The five corpus JSON files retain 50 recorded graph6 entries; this is not the entire order-through-26 space. Dormant fresh-census branches additionally require geng/genbg and source certificates. Round6/7 had no fresh checker; hand/analytic arguments are not computationally certified. Asserts and printed VERIFIED are static/expected behavior, not fresh observations."
+}

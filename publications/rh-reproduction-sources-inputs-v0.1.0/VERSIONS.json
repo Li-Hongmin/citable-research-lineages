@@ -1,0 +1,7 @@
+{
+  "edition": "0.1.0-github.1",
+  "method": "Current frozen original body per source path; SHA maps exact bytes, aliases and historical outputs. No older Git-only body claim.",
+  "failed_and_corrected_routes": "Preserved exactly; raw PASS/VERIFIED text remains historical/static, not new acceptance.",
+  "original_checksum_policy": "Original checksum ledgers retained as historical byte contracts. Source/inputs in this edition are byte-identical. Ledgers may reference excluded certificates or separately archived notes; do not claim whole-ledger validation.",
+  "boundary": "Finite anchor/Q-core, product-fibre, identity/window, conditional Lambda, K1/A2 and J source families are archived. Q import lookup needs PYTHONPATH=computations; the real q_value module is present. Finite Q tails remain open. Product/window diagnostics use floating point. Lambda physical_Q is undefined; its seven-row old output differs from the four default T values and records no quad/complete invocation. J old log T_MAX41 differs from source default50. Local numerical logs are historical reported claims, not a fresh RH/Gram/cancellation certification."
+}

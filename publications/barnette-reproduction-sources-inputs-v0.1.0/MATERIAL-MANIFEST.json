@@ -1,0 +1,450 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/task-4/check_barnette_exposed_pair.py",
+      "sha256": "5f949d663241f46389915919c804e81ffc5facb48857124dfeb02316b7bab65f",
+      "bytes": 4299,
+      "prior_source_sha256": "5f949d663241f46389915919c804e81ffc5facb48857124dfeb02316b7bab65f",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/verify_barnette_profile_countermodel.py",
+      "sha256": "7d2837f5d97a7720c3cb5fa115157f4da29806c8bf42ab03f00185aae1da3ba9",
+      "bytes": 5030,
+      "prior_source_sha256": "7d2837f5d97a7720c3cb5fa115157f4da29806c8bf42ab03f00185aae1da3ba9",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/verify_barnette_round3_marked_cycle.py",
+      "sha256": "85a8f82ca4fa38b42dd0d5c22c1d2b2166add875b9c62da9877137d90594e2d3",
+      "bytes": 4805,
+      "prior_source_sha256": "85a8f82ca4fa38b42dd0d5c22c1d2b2166add875b9c62da9877137d90594e2d3",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/verify_barnette_round4_adjacent_profile.py",
+      "sha256": "585d23bb7ffe3d1dd54c6ef6dc2c0b695ef20849340ae336a6512a1ba925d26d",
+      "bytes": 7801,
+      "prior_source_sha256": "585d23bb7ffe3d1dd54c6ef6dc2c0b695ef20849340ae336a6512a1ba925d26d",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/verify_barnette_round5_transport.py",
+      "sha256": "9d6a0159f06a65a087e96d3a8ab67ecf0737b3e3d7f3f3b0283e5085f980e61c",
+      "bytes": 8692,
+      "prior_source_sha256": "9d6a0159f06a65a087e96d3a8ab67ecf0737b3e3d7f3f3b0283e5085f980e61c",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/barnette-matching-check.json",
+      "sha256": "853957552624f150cb6ed0616f04721cf8c6a060e8e42f5c63348e08ea482a3d",
+      "bytes": 2309,
+      "prior_source_sha256": "853957552624f150cb6ed0616f04721cf8c6a060e8e42f5c63348e08ea482a3d",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/barnette-profile-countermodel-check.json",
+      "sha256": "9e4f6a3dadc002bdb7e17825a27677ca39daf09b77ec8dabc6b54f2d306375b3",
+      "bytes": 4138,
+      "prior_source_sha256": "9e4f6a3dadc002bdb7e17825a27677ca39daf09b77ec8dabc6b54f2d306375b3",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/barnette-round3-marked-cycle-check.json",
+      "sha256": "2c8314ed8db0129b013bdf995e2cf0793ae036aec3eca19cb10409c678c4ade4",
+      "bytes": 2174,
+      "prior_source_sha256": "2c8314ed8db0129b013bdf995e2cf0793ae036aec3eca19cb10409c678c4ade4",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/barnette-round4-adjacent-profile-check.json",
+      "sha256": "ef227214b67ec2502f82254d554975b3d8ae693c423d191e4d11a3627e899cb1",
+      "bytes": 10243,
+      "prior_source_sha256": "ef227214b67ec2502f82254d554975b3d8ae693c423d191e4d11a3627e899cb1",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/task-4/barnette-round5-transport-check.json",
+      "sha256": "4d73797c69e1c6bd5fd549c58f378a8d74cdcf1610f72b702589204db6a6b2bf",
+      "bytes": 8950,
+      "prior_source_sha256": "4d73797c69e1c6bd5fd549c58f378a8d74cdcf1610f72b702589204db6a6b2bf",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/carrier-mandatory-four-row-prefilter/verify_order16_carrier_m2_and_near_m1.py",
+      "sha256": "3f36ec7e3b52a1309ca8e5d5214383dcf0eb064343832f948d0cd8002c3ad136",
+      "bytes": 15836,
+      "prior_source_sha256": "3f36ec7e3b52a1309ca8e5d5214383dcf0eb064343832f948d0cd8002c3ad136",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/order24-carrier-six-crossing-compensation/verify_order24_carrier_six_crossing_compensation.py",
+      "sha256": "acfff52cd72fcc670e704913a346282d65d56e76d42dc85a9d6b938126032033",
+      "bytes": 13374,
+      "prior_source_sha256": "acfff52cd72fcc670e704913a346282d65d56e76d42dc85a9d6b938126032033",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/fixed-carrier-parity-atom-boundary/audit_fixed_carrier_atoms.py",
+      "sha256": "2207a077a232f04978f8327660a6dd8ce710db81abcc177b6bc1e520e7b8fb20",
+      "bytes": 8953,
+      "prior_source_sha256": "2207a077a232f04978f8327660a6dd8ce710db81abcc177b6bc1e520e7b8fb20",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/fixed-carrier-parity-atom-boundary/verify_four_square_parity_atoms.py",
+      "sha256": "54125886c09acb42d028efb1060e620073835c01dc4d1cbfd0c39a0ff22cd9b4",
+      "bytes": 4641,
+      "prior_source_sha256": "54125886c09acb42d028efb1060e620073835c01dc4d1cbfd0c39a0ff22cd9b4",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-selector-gadget/verify_straight_ladder_selector.py",
+      "sha256": "f692b0330abe4f3dce1086c66b2b69e521b953ffd7d7b092a44520be77e7e53d",
+      "bytes": 6330,
+      "prior_source_sha256": "f692b0330abe4f3dce1086c66b2b69e521b953ffd7d7b092a44520be77e7e53d",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-cap-parity/verify_six_trace_cap_escape.py",
+      "sha256": "1653218ea45bb318f1ca26d2e25d707010dfb4b41c2ef40fa668dfb6863701a3",
+      "bytes": 10970,
+      "prior_source_sha256": "1653218ea45bb318f1ca26d2e25d707010dfb4b41c2ef40fa668dfb6863701a3",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/verify_pure_pm_cube_countermodel.py",
+      "sha256": "b30b5591c5a22d30adbfaea39087ccddaa254027b8be8bcdf63d93361a05fe92",
+      "bytes": 5936,
+      "prior_source_sha256": "b30b5591c5a22d30adbfaea39087ccddaa254027b8be8bcdf63d93361a05fe92",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/verify_nonlegal_wide_order16_m1.py",
+      "sha256": "cf4e4eba0df53a43bc52f50236c93d0c09d77853b12f607183f01184de39bdc2",
+      "bytes": 14278,
+      "prior_source_sha256": "cf4e4eba0df53a43bc52f50236c93d0c09d77853b12f607183f01184de39bdc2",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/carrier-mandatory-four-row-prefilter/README.md",
+      "sha256": "a2bdee8949749d2f92d5327e566c0566a8338bed94ac3175d7656f048b0ef297",
+      "bytes": 1565,
+      "prior_source_sha256": "a2bdee8949749d2f92d5327e566c0566a8338bed94ac3175d7656f048b0ef297",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/order24-carrier-six-crossing-compensation/README.md",
+      "sha256": "48216f11bc7df4696c2e6405a0b8ebaac5940510ae208f0cf880431198af8e54",
+      "bytes": 1117,
+      "prior_source_sha256": "48216f11bc7df4696c2e6405a0b8ebaac5940510ae208f0cf880431198af8e54",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/fixed-carrier-parity-atom-boundary/README.md",
+      "sha256": "0ae8864bc1b2a1a9dbf97aa346a303ee8fa297b4c2c3c739b84fa85b5db15ca4",
+      "bytes": 1108,
+      "prior_source_sha256": "0ae8864bc1b2a1a9dbf97aa346a303ee8fa297b4c2c3c739b84fa85b5db15ca4",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-selector-gadget/straight-ladder-selector-boundary.md",
+      "sha256": "0791730359288fcaab3eaf34b95cf6179aa559ad781cdaf4a71af2e30e0f4949",
+      "bytes": 5671,
+      "prior_source_sha256": "0791730359288fcaab3eaf34b95cf6179aa559ad781cdaf4a71af2e30e0f4949",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-cap-parity/result.md",
+      "sha256": "3672305e8f3f18612b784672664f43267f5d17b8ece8ff163c4d5675858c5ba6",
+      "bytes": 6757,
+      "prior_source_sha256": "3672305e8f3f18612b784672664f43267f5d17b8ece8ff163c4d5675858c5ba6",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/nonlegal-wide-order16-m1-boundary.md",
+      "sha256": "c634928a4f427b4925322a9c6b9049cb540ea59a215ee46c7c639887e309f836",
+      "bytes": 4817,
+      "prior_source_sha256": "c634928a4f427b4925322a9c6b9049cb540ea59a215ee46c7c639887e309f836",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/result.md",
+      "sha256": "39cb35b5571af1e69a5ba5e64099ebea0a3c86599a25a233260ff29af84d7a5b",
+      "bytes": 7153,
+      "prior_source_sha256": "39cb35b5571af1e69a5ba5e64099ebea0a3c86599a25a233260ff29af84d7a5b",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "own-source-documentation-or-proof-context;unreviewed",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-proof/verify_one_cycle_repairs.py",
+      "sha256": "aa0f1d8f97e8e227399e9b8714cac7cd8beba1d25f7c319366fa7f78a574d7ab",
+      "bytes": 5318,
+      "prior_source_sha256": "aa0f1d8f97e8e227399e9b8714cac7cd8beba1d25f7c319366fa7f78a574d7ab",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/verify_near_actual_m1_countermodel.py",
+      "sha256": "0015cd9373da66b2ff601f71aa0538dade9269177590e8942aac6483818b4fee",
+      "bytes": 5213,
+      "prior_source_sha256": "0015cd9373da66b2ff601f71aa0538dade9269177590e8942aac6483818b4fee",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-carrier-prefilter-counterexample/scan_existing_carrier_corpus.py",
+      "sha256": "aed01dd95acc86bbcd16ac9bceb455ef47d9fa2efce593ea303b9ba70ea3c60f",
+      "bytes": 19904,
+      "prior_source_sha256": "aed01dd95acc86bbcd16ac9bceb455ef47d9fa2efce593ea303b9ba70ea3c60f",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-frozen-carrier-mandatory-prefilter/mandatory_four_row_prefilter.py",
+      "sha256": "a31b95bfc343443d365d3ceeeb48e95b4d13e852b0d696960958f957703fa9b2",
+      "bytes": 12588,
+      "prior_source_sha256": "a31b95bfc343443d365d3ceeeb48e95b4d13e852b0d696960958f957703fa9b2",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/paired-restricted-gate-coloop-boundary/existing_wide_corpus.py",
+      "sha256": "e46500886cbc4785884753449b3f50983462291b4037f3816186c4b5b9b4191a",
+      "bytes": 11477,
+      "prior_source_sha256": "e46500886cbc4785884753449b3f50983462291b4037f3816186c4b5b9b4191a",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/scratch/worker-arbitrary-carrier-companion-counterexample/scan_fixed_carriers.py",
+      "sha256": "7cf8f466bb5de39027e1668cd261b255c0ceac508fe1455794dc0a626f4d9bc4",
+      "bytes": 15288,
+      "prior_source_sha256": "7cf8f466bb5de39027e1668cd261b255c0ceac508fe1455794dc0a626f4d9bc4",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/wide-gate-escape-order26/search_wide_forced_family_order26.py",
+      "sha256": "0e25b9b74774366ec520770aab354f7a1f5c3d2e36d2b72d2bd0022a95c4a453",
+      "bytes": 21955,
+      "prior_source_sha256": "0e25b9b74774366ec520770aab354f7a1f5c3d2e36d2b72d2bd0022a95c4a453",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/legal-wide-plane-brace-xor-cube/verify_legal_wide_plane_brace_xor_cube.py",
+      "sha256": "f13b41a25929749d5bd4980a9036cd2984f669139f85d132532bb991c1ae215f",
+      "bytes": 11849,
+      "prior_source_sha256": "f13b41a25929749d5bd4980a9036cd2984f669139f85d132532bb991c1ae215f",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/fixed-common-b-no-rooted-triangle/verify_fixed_common_b_no_rooted_triangle.py",
+      "sha256": "866bdccbe90bc9fd03441d06ecd51f5c6d8a40fa3ecb0923afcf0b67d2550719",
+      "bytes": 8160,
+      "prior_source_sha256": "866bdccbe90bc9fd03441d06ecd51f5c6d8a40fa3ecb0923afcf0b67d2550719",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/crossing-bridge-star-counterexample/verify_order22_crossing_bridge_star_counterexample.py",
+      "sha256": "ade4deb26120b4895b2c569a9cccf9fcd21b626906b64d5808cfe8a02837427c",
+      "bytes": 11345,
+      "prior_source_sha256": "ade4deb26120b4895b2c569a9cccf9fcd21b626906b64d5808cfe8a02837427c",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/existence-lifting-order24/census_complete_family_existence_order24.py",
+      "sha256": "9d070b9b1d00a64a2c3f20b4ca3027e31756b11e820a77c31d225b5cea5ee7f6",
+      "bytes": 19588,
+      "prior_source_sha256": "9d070b9b1d00a64a2c3f20b4ca3027e31756b11e820a77c31d225b5cea5ee7f6",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/target-component-saturation-order22/census_forced_target_components_order22.py",
+      "sha256": "e4fce125dd54024121f7a3c6a3c426c7f2f9e2cceb10ccab055bab0812553243",
+      "bytes": 22858,
+      "prior_source_sha256": "e4fce125dd54024121f7a3c6a3c426c7f2f9e2cceb10ccab055bab0812553243",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/planar-two-path-through18/census_planar_brace_two_paths_through18.py",
+      "sha256": "7514d53871a84e906751b65efc1230a5d8cd53083e0b89ce25d7089476dd6ff4",
+      "bytes": 15429,
+      "prior_source_sha256": "7514d53871a84e906751b65efc1230a5d8cd53083e0b89ce25d7089476dd6ff4",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/locked-boundary-escape-through18/census_locked_escape_through18.py",
+      "sha256": "bac416554878bfc138e6c9b374cce685e0a6d4f5e426927359517c54c8bc3388",
+      "bytes": 28444,
+      "prior_source_sha256": "bac416554878bfc138e6c9b374cce685e0a6d4f5e426927359517c54c8bc3388",
+      "license_declared": "Apache-2.0",
+      "kind": "original-checker-generator-or-localmodule-source",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/locked-boundary-escape-through18/locked_escape_census.json",
+      "sha256": "52e06839f5e255eb17f094d16662b2aead4f53b9687f7d739c7ef30bf1371068",
+      "bytes": 5761,
+      "prior_source_sha256": "52e06839f5e255eb17f094d16662b2aead4f53b9687f7d739c7ef30bf1371068",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/locked-boundary-escape-order20/c4_lifting_order20_census.json",
+      "sha256": "7aac7d3410c704adc27712b0afa9c62a86102926c1c33a0cb98b5e3dd942d8df",
+      "bytes": 5710,
+      "prior_source_sha256": "7aac7d3410c704adc27712b0afa9c62a86102926c1c33a0cb98b5e3dd942d8df",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/target-component-saturation-order22/forced_target_components_order22.json",
+      "sha256": "3b9e82b229933c4cd07afeac1f92836bb7a9b1067bae5fafe88c88dd1de1f383",
+      "bytes": 5717,
+      "prior_source_sha256": "3b9e82b229933c4cd07afeac1f92836bb7a9b1067bae5fafe88c88dd1de1f383",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/existence-lifting-order24/complete_family_existence_order24.json",
+      "sha256": "f503a4243c7993d47597b1fdaec9027208c07395d4aa2c8a78cf68d63e5202b2",
+      "bytes": 21898,
+      "prior_source_sha256": "f503a4243c7993d47597b1fdaec9027208c07395d4aa2c8a78cf68d63e5202b2",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    },
+    {
+      "path": "original/unit/computations/bundles/wide-gate-escape-order26/wide_forced_family_order26.json",
+      "sha256": "789473dab72e92b61eefc2a9b7cd9c6809d1b94a1d5bde9a8e238bc770df3fe5",
+      "bytes": 17505,
+      "prior_source_sha256": "789473dab72e92b61eefc2a9b7cd9c6809d1b94a1d5bde9a8e238bc770df3fe5",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited quotations retain source rights",
+      "kind": "historical-reported-output-or-fixed-input;see-reproduction-ledger",
+      "scientific_validity": "unreviewed",
+      "hash_basis": "preexisting-frozen-inventory"
+    }
+  ],
+  "member_count": 44,
+  "member_bytes": 432954,
+  "code_members": 27,
+  "zip_sha256": "f62d20c9af1f6aaeea8ad6a957e9f471f4511bcb2370264cfda81efe0cabab25",
+  "scientific_validity": "not-assessed"
+}
