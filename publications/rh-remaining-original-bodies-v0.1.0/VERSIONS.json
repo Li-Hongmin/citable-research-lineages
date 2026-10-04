@@ -1,0 +1,349 @@
+{
+  "edition": "0.1.0-github.1",
+  "current_frozen_source_members": 1067,
+  "bounded_new_distinct_historical_members": 20,
+  "historical_versions": [
+    {
+      "public_path": "historical/c0914107008c4696bbf771051a2f8e68da63da8f/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "original_git_blob_sha1": "c0914107008c4696bbf771051a2f8e68da63da8f",
+      "original_sha256": "02e23987c4eb47fb3036f758c7b443c37353f1b7aa007d3779bd0b965ea62747",
+      "public_sha256": "02e23987c4eb47fb3036f758c7b443c37353f1b7aa007d3779bd0b965ea62747",
+      "original_bytes": 6429,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+          "commit": "74865022efd0f08f3e33281b1ec05c4a6dac6f81"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/90769a91d342f999b0d45f8a8ed5a744839e548d/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "original_git_blob_sha1": "90769a91d342f999b0d45f8a8ed5a744839e548d",
+      "original_sha256": "ac5a6f6db3407318121551b6d0a014b5abe660f5109aea3074b3ed2adbae7970",
+      "public_sha256": "ac5a6f6db3407318121551b6d0a014b5abe660f5109aea3074b3ed2adbae7970",
+      "original_bytes": 6061,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+          "commit": "f887aaa924055f7d6e2b29a83eb12bcda08d190a"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/b4e3572f28cd3b6920bdc79c6512adaed0703896/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "original_git_blob_sha1": "b4e3572f28cd3b6920bdc79c6512adaed0703896",
+      "original_sha256": "b442f35054e678420a19da83dca842db218bc0fa1fe8fa2201415bc85aa6d8c7",
+      "public_sha256": "b442f35054e678420a19da83dca842db218bc0fa1fe8fa2201415bc85aa6d8c7",
+      "original_bytes": 5612,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/certify_log11_prime_four_step_degree.py",
+          "commit": "c7543abb4618d49d8b616ae7cbc75928fe8dab66"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/aada0304def70505d7b4d87e0f6295799d27eed3/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "original_git_blob_sha1": "aada0304def70505d7b4d87e0f6295799d27eed3",
+      "original_sha256": "5f20e98aab702225249e17acc6f9d0804fd94a743a729c94071f03acfee924f5",
+      "public_sha256": "5f20e98aab702225249e17acc6f9d0804fd94a743a729c94071f03acfee924f5",
+      "original_bytes": 6268,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+          "commit": "1111cf87cdcdfbdc0d1a0945336fd70ad99f563a"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/3e3e850597f5ecad51f08107a9f63f9d9351f383/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "original_git_blob_sha1": "3e3e850597f5ecad51f08107a9f63f9d9351f383",
+      "original_sha256": "b1a86454fb81930a4db46c0f10fe847807f8791a09afa2d8a7689d6d556fbc45",
+      "public_sha256": "b1a86454fb81930a4db46c0f10fe847807f8791a09afa2d8a7689d6d556fbc45",
+      "original_bytes": 6206,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+          "commit": "6ddf9b1a6316f1f8dc95aaa80f5597647bbc6ab6"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/0092d52f679b14b6b4376311ba35eef5ded82682/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "original_git_blob_sha1": "0092d52f679b14b6b4376311ba35eef5ded82682",
+      "original_sha256": "1d2b789eee62778f277097d9760feb0bdaa051dee3847e192f8c83357f142c16",
+      "public_sha256": "1d2b789eee62778f277097d9760feb0bdaa051dee3847e192f8c83357f142c16",
+      "original_bytes": 6035,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/generate_log10_endpoint_contract_cache.py",
+          "commit": "c7543abb4618d49d8b616ae7cbc75928fe8dab66"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/72df717aff31f6dc9b5fff6bf1bb284059ccd225/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "original_git_blob_sha1": "72df717aff31f6dc9b5fff6bf1bb284059ccd225",
+      "original_sha256": "30b1dcebb400d8a8a2dc22f208359705b9123b1777596bca038a49dd0acf1c42",
+      "public_sha256": "30b1dcebb400d8a8a2dc22f208359705b9123b1777596bca038a49dd0acf1c42",
+      "original_bytes": 17989,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+          "commit": "f887aaa924055f7d6e2b29a83eb12bcda08d190a"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/c227c3b666cdefcbcc957ca92086d4575fb77df6/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "original_git_blob_sha1": "c227c3b666cdefcbcc957ca92086d4575fb77df6",
+      "original_sha256": "6b55b5011b4dc1e38370405d5187532abaf725d802ee164cf9a7e3a14781f267",
+      "public_sha256": "6b55b5011b4dc1e38370405d5187532abaf725d802ee164cf9a7e3a14781f267",
+      "original_bytes": 17878,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+          "commit": "4b86c9efa8c02335fea325709b7e228bb8459e57"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/3e86854bd62ce792e6dfaf5917547d3a97688f48/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "original_git_blob_sha1": "3e86854bd62ce792e6dfaf5917547d3a97688f48",
+      "original_sha256": "02a8d00be41eaeb1cf45db8d1a282b2585987b479feaeceeaf42731dcf4953a2",
+      "public_sha256": "02a8d00be41eaeb1cf45db8d1a282b2585987b479feaeceeaf42731dcf4953a2",
+      "original_bytes": 13083,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+          "commit": "9b201d7769c3dea84ec6f8f3d796cafe99e6eca2"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/05e8c2eb9b5937195ae301fad20256f88f2aaa8a/rh-original/computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "original_git_blob_sha1": "05e8c2eb9b5937195ae301fad20256f88f2aaa8a",
+      "original_sha256": "7423d6f8bce8fba59af6b2b64ecb513c00d697813c3eef14ca153103a999f82a",
+      "public_sha256": "7423d6f8bce8fba59af6b2b64ecb513c00d697813c3eef14ca153103a999f82a",
+      "original_bytes": 12915,
+      "original_origin": "rh-original",
+      "original_relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "computations/bundles/log201over20-local-weil-positivity/sources/log10_even_K400_sharp_safe_arb.py",
+          "commit": "c7543abb4618d49d8b616ae7cbc75928fe8dab66"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    },
+    {
+      "public_path": "historical/5ad4073ac3b4f8eaea0723fd530efe7823173f85/rh-original/papers/THEOREM-A-CUTOFF-FREE-SCHUR.md",
+      "original_git_blob_sha1": "5ad4073ac3b4f8eaea0723fd530efe7823173f85",
+      "original_sha256": "6a3160c1a18fb8fcf8e22d98c3eb6937ecb0b9dc35f6c4f31742a1ead8ad5b6c",
+      "public_sha256": "6a3160c1a18fb8fcf8e22d98c3eb6937ecb0b9dc35f6c4f31742a1ead8ad5b6c",
+      "original_bytes": 3808,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/THEOREM-A-CUTOFF-FREE-SCHUR.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/THEOREM-A-CUTOFF-FREE-SCHUR.md",
+          "commit": "934edded7f93658c787b249ebe3a342934414f4e"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/aa1a35b79486a462490ce6be224c285f473ff300/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "aa1a35b79486a462490ce6be224c285f473ff300",
+      "original_sha256": "b2800b6ab9add24749f26611d76d73c5402aeefeb3412198a4bc4279ceaffafb",
+      "public_sha256": "b2800b6ab9add24749f26611d76d73c5402aeefeb3412198a4bc4279ceaffafb",
+      "original_bytes": 24862,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "584bc920d8542722fc2e009d77d26ddbbb4a71e1"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/619a469c5a156b62eec5916a410d7afbc5ecd44f/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "619a469c5a156b62eec5916a410d7afbc5ecd44f",
+      "original_sha256": "0200d710d7ff7669494f38b4839f06c3e49ddd9f0194b76b9ecb0c57377abf47",
+      "public_sha256": "0200d710d7ff7669494f38b4839f06c3e49ddd9f0194b76b9ecb0c57377abf47",
+      "original_bytes": 23795,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "608c42260ccfd4e3b6eefc5767f8555796dea6df"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/c7eaea6084e84e544a2bafaaedab5f89bd13d7fc/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "c7eaea6084e84e544a2bafaaedab5f89bd13d7fc",
+      "original_sha256": "c0e75278b2f856bc18963303a4a8b53419d8311a07e85ed93c46439a35f17b4e",
+      "public_sha256": "c0e75278b2f856bc18963303a4a8b53419d8311a07e85ed93c46439a35f17b4e",
+      "original_bytes": 20795,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "934edded7f93658c787b249ebe3a342934414f4e"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/efaeb3b30f927d87b1aa48515a00ce095328bea5/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "efaeb3b30f927d87b1aa48515a00ce095328bea5",
+      "original_sha256": "e3911ff88b55e68300e696e4481d7b4e5436b3119fa34f134635df192bbadf80",
+      "public_sha256": "e3911ff88b55e68300e696e4481d7b4e5436b3119fa34f134635df192bbadf80",
+      "original_bytes": 18533,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "132d30b0b785ea8412c4b9b0c2333cea6deaeebc"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/8e05a8fda24b4caf8d0eead97fc8a6dfb45b11bc/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "8e05a8fda24b4caf8d0eead97fc8a6dfb45b11bc",
+      "original_sha256": "18d15d0f40b1e271f9d34795e97c53b74bb4a8832beca3e280a325547b098c0a",
+      "public_sha256": "18d15d0f40b1e271f9d34795e97c53b74bb4a8832beca3e280a325547b098c0a",
+      "original_bytes": 14100,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "7ab07552d8018e9bd1092441e51d53e9e1d81d46"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/b507cd97ab4ea38a818532b27e5a77c984df40d8/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "b507cd97ab4ea38a818532b27e5a77c984df40d8",
+      "original_sha256": "27610f0a046199da44387f940ee6ef1bf1018cb2cc7ae4a4fd70f2b58303ea83",
+      "public_sha256": "27610f0a046199da44387f940ee6ef1bf1018cb2cc7ae4a4fd70f2b58303ea83",
+      "original_bytes": 13250,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "d6057bcaff04942a34044e1da6b2e962a2afcfff"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/13da778bbf391638a3fe0244b0fb438baa2c6429/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "13da778bbf391638a3fe0244b0fb438baa2c6429",
+      "original_sha256": "a1c60c74dadb619514b501d94e73b0fe14ad84662626514d2919c695502ffa76",
+      "public_sha256": "a1c60c74dadb619514b501d94e73b0fe14ad84662626514d2919c695502ffa76",
+      "original_bytes": 11422,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "623adf588240deb07d751eee4dd7b13fc7c89eb4"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/77dc0a9f773f938fde0e10e2156aa84daafda8ef/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "original_git_blob_sha1": "77dc0a9f773f938fde0e10e2156aa84daafda8ef",
+      "original_sha256": "32269e2c8d01f5c876350c19ce266b0f2dd80abd5225dc51e52572efc9871286",
+      "public_sha256": "32269e2c8d01f5c876350c19ce266b0f2dd80abd5225dc51e52572efc9871286",
+      "original_bytes": 9516,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis.md",
+          "commit": "0940002ada7177ac342d626fb4b5d179e762597b"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/acfca86eda4b2acf104aa8001a04fe58c394e83b/rh-original/papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/verify_detector_certificates.py",
+      "original_git_blob_sha1": "acfca86eda4b2acf104aa8001a04fe58c394e83b",
+      "original_sha256": "553a843dafa70da0e0699ab88f29f8fc0be446d238ba6cf6fc746862da1a5773",
+      "public_sha256": "553a843dafa70da0e0699ab88f29f8fc0be446d238ba6cf6fc746862da1a5773",
+      "original_bytes": 5033,
+      "original_origin": "rh-original",
+      "original_relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/verify_detector_certificates.py",
+      "path_commit_versions": [
+        {
+          "relative_path": "papers/a-positive-reciprocal-product-criterion-for-the-riemann-hypothesis/verify_detector_certificates.py",
+          "commit": "934edded7f93658c787b249ebe3a342934414f4e"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": true
+    }
+  ],
+  "coverage": "Current exact source paths plus explicitly bounded safe math Git objects only. Does not cover nonHEAD refs/reflogs/dangling or every old body/commit; no author/contact/commit-message fields read. Failed routes/corrections preserved; semantic correctness direction not inferred.",
+  "rh_checksum_correction": "Three old source hashes in the log201over20 ledger match historical Git bodies; not current-source checksum success."
+}

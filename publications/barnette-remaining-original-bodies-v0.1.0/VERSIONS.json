@@ -1,0 +1,587 @@
+{
+  "edition": "0.1.0-github.1",
+  "current_frozen_source_members": 1351,
+  "bounded_new_distinct_historical_members": 26,
+  "historical_versions": [
+    {
+      "public_path": "historical/21b4e379e06daf1310b4e90478a5990fdfdc359b/unit/LOG.md",
+      "original_git_blob_sha1": "21b4e379e06daf1310b4e90478a5990fdfdc359b",
+      "original_sha256": "331f6c2ed4a9a0b19c347e4eecbcc9ec7fad43c6b32dc8cca9cb62530da3a025",
+      "public_sha256": "331f6c2ed4a9a0b19c347e4eecbcc9ec7fad43c6b32dc8cca9cb62530da3a025",
+      "original_bytes": 22105,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "e5c0cf96325c36b2a353a0022f270b41d488a280",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/0310f9cbaac9ea763099762caa8cf09ec70ea9bf/unit/README.md",
+      "original_git_blob_sha1": "0310f9cbaac9ea763099762caa8cf09ec70ea9bf",
+      "original_sha256": "e7b5c05f52ab88c0ff2f50cf2ada83281655d5f1d8432d5e5078da1f65a729f8",
+      "public_sha256": "e7b5c05f52ab88c0ff2f50cf2ada83281655d5f1d8432d5e5078da1f65a729f8",
+      "original_bytes": 116435,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "README.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "00aef435c47d46f3002e76d1abf52579dcacc685",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/a1067bf7e1ef5d609f26a6cfc5cd2c2cd713f9f0/unit/README.md",
+      "original_git_blob_sha1": "a1067bf7e1ef5d609f26a6cfc5cd2c2cd713f9f0",
+      "original_sha256": "cbd9dd8b08908706c545b3d3a540a47205c7a42aa6da89a00ec3486c0421de82",
+      "public_sha256": "cbd9dd8b08908706c545b3d3a540a47205c7a42aa6da89a00ec3486c0421de82",
+      "original_bytes": 454814,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/e5b180cefc0f033b43adac7241935ffa13c7b675/unit/notes/648-a-marked-binary-node-closes-the-chorded-one-root-opening.md",
+      "original_git_blob_sha1": "e5b180cefc0f033b43adac7241935ffa13c7b675",
+      "original_sha256": "228fea8a17294d6fa8846c803fe036a213529c3540a283b770214319b290357d",
+      "public_sha256": "228fea8a17294d6fa8846c803fe036a213529c3540a283b770214319b290357d",
+      "original_bytes": 7454,
+      "original_origin": "unit",
+      "original_relative_path": "notes/648-a-marked-binary-node-closes-the-chorded-one-root-opening.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "notes/648-a-marked-binary-node-closes-the-chorded-one-root-opening.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/3a417651ff2216ba659a86d27f0e1bd7d0a10df8/unit/notes/702-disjoint-split-nodes-have-four-port-signatures-without-cross-root-chords.md",
+      "original_git_blob_sha1": "3a417651ff2216ba659a86d27f0e1bd7d0a10df8",
+      "original_sha256": "f41e30bb734631cb7fde1938e97667861a83fc73bc5b4d509232b58251e48a53",
+      "public_sha256": "f41e30bb734631cb7fde1938e97667861a83fc73bc5b4d509232b58251e48a53",
+      "original_bytes": 6583,
+      "original_origin": "unit",
+      "original_relative_path": "notes/702-disjoint-split-nodes-have-four-port-signatures-without-cross-root-chords.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "notes/702-disjoint-split-nodes-have-four-port-signatures-without-cross-root-chords.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/d641479be8eabf491cc1a3b74e4ceb6fdb717890/unit/notes/703-nested-split-nodes-have-a-two-port-signature-without-cross-root-chords.md",
+      "original_git_blob_sha1": "d641479be8eabf491cc1a3b74e4ceb6fdb717890",
+      "original_sha256": "7780f3adad748c8f5cb08610370b71f47a7b1d13949ed865bccb19bdf4de7064",
+      "public_sha256": "7780f3adad748c8f5cb08610370b71f47a7b1d13949ed865bccb19bdf4de7064",
+      "original_bytes": 7190,
+      "original_origin": "unit",
+      "original_relative_path": "notes/703-nested-split-nodes-have-a-two-port-signature-without-cross-root-chords.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "notes/703-nested-split-nodes-have-a-two-port-signature-without-cross-root-chords.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/18d0f0ffd27ba001b86adf61c4bab1329ca9f452/unit/LOG.md",
+      "original_git_blob_sha1": "18d0f0ffd27ba001b86adf61c4bab1329ca9f452",
+      "original_sha256": "683c92063337eb8550ebfd3af8a7e489b1bf83eb17afe581b6e6bd15c2741e5a",
+      "public_sha256": "683c92063337eb8550ebfd3af8a7e489b1bf83eb17afe581b6e6bd15c2741e5a",
+      "original_bytes": 20095,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "e5c0cf96325c36b2a353a0022f270b41d488a280",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "00aef435c47d46f3002e76d1abf52579dcacc685",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/fc8ca3067d0f8c1fc4a60718428ece437c823699/unit/LOG.md",
+      "original_git_blob_sha1": "fc8ca3067d0f8c1fc4a60718428ece437c823699",
+      "original_sha256": "03b8addf217e583ca87944b0f45b90ef993c5b752fc6d1c132f72b4e7ddc8e55",
+      "public_sha256": "03b8addf217e583ca87944b0f45b90ef993c5b752fc6d1c132f72b4e7ddc8e55",
+      "original_bytes": 17656,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "00aef435c47d46f3002e76d1abf52579dcacc685",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/ae58762034ee6d752470e7ea843d277a6ee32a00/unit/README.md",
+      "original_git_blob_sha1": "ae58762034ee6d752470e7ea843d277a6ee32a00",
+      "original_sha256": "83b74392796f19a4c9fc51354d47f36460f0303433ab507968d42281e4760821",
+      "public_sha256": "83b74392796f19a4c9fc51354d47f36460f0303433ab507968d42281e4760821",
+      "original_bytes": 116358,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "00aef435c47d46f3002e76d1abf52579dcacc685",
+          "relative_path": "README.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/badb0717615c544aafbb6a05a8587d0ffe1a04c0/unit/notes/169-corrected-fourteen-slot-fixed-operation-interface-go.md",
+      "original_git_blob_sha1": "badb0717615c544aafbb6a05a8587d0ffe1a04c0",
+      "original_sha256": "f55395f7e6400833e7a38ef929b46e896184a98611a5da48d9b62d80034a7d26",
+      "public_sha256": "f55395f7e6400833e7a38ef929b46e896184a98611a5da48d9b62d80034a7d26",
+      "original_bytes": 4276,
+      "original_origin": "unit",
+      "original_relative_path": "notes/169-corrected-fourteen-slot-fixed-operation-interface-go.md",
+      "path_commit_versions": [
+        {
+          "commit": "00aef435c47d46f3002e76d1abf52579dcacc685",
+          "relative_path": "notes/169-corrected-fourteen-slot-fixed-operation-interface-go.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "notes/169-corrected-fourteen-slot-fixed-operation-interface-go.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/dcba7ab6f29f4e0f0b99ea07f0b8cdae314d3ffd/unit/LOG.md",
+      "original_git_blob_sha1": "dcba7ab6f29f4e0f0b99ea07f0b8cdae314d3ffd",
+      "original_sha256": "6f3133c8734aa860be6d0e109d7763ce5c61852580eda222ad54d6e3898cfa53",
+      "public_sha256": "6f3133c8734aa860be6d0e109d7763ce5c61852580eda222ad54d6e3898cfa53",
+      "original_bytes": 14381,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "023610a12211264ad0ec6cd15660134f4930426f",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/ee27eb9dfc468d1da1c13b6cf7897af30032ff98/unit/README.md",
+      "original_git_blob_sha1": "ee27eb9dfc468d1da1c13b6cf7897af30032ff98",
+      "original_sha256": "6d57c71d6a49bf3c37e0df816c0743314dacfa9050f05e3470b093779f3cb946",
+      "public_sha256": "6d57c71d6a49bf3c37e0df816c0743314dacfa9050f05e3470b093779f3cb946",
+      "original_bytes": 116183,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "README.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "023610a12211264ad0ec6cd15660134f4930426f",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/01a48e77af64fb0ca8b9af33ded278499ef837b3/unit/notes/168-fixed-third-operation-complete-joint-row-interface-go.md",
+      "original_git_blob_sha1": "01a48e77af64fb0ca8b9af33ded278499ef837b3",
+      "original_sha256": "f82c9475a1e4715a2ce4a57f13570a5376447840df7372402b0aaeb6b6ecbe31",
+      "public_sha256": "f82c9475a1e4715a2ce4a57f13570a5376447840df7372402b0aaeb6b6ecbe31",
+      "original_bytes": 2926,
+      "original_origin": "unit",
+      "original_relative_path": "notes/168-fixed-third-operation-complete-joint-row-interface-go.md",
+      "path_commit_versions": [
+        {
+          "commit": "fb13b775ef959bfb76708ce4d4d1bc520c4cb812",
+          "relative_path": "notes/168-fixed-third-operation-complete-joint-row-interface-go.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "023610a12211264ad0ec6cd15660134f4930426f",
+          "relative_path": "notes/168-fixed-third-operation-complete-joint-row-interface-go.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/df40f60172ffff6df067f61ce8f29c4be0d4d24f/unit/LOG.md",
+      "original_git_blob_sha1": "df40f60172ffff6df067f61ce8f29c4be0d4d24f",
+      "original_sha256": "5a8b53101c1516d967cc6ab0a9333d1041af0a141cabd4416d70cbb83fea3d89",
+      "public_sha256": "5a8b53101c1516d967cc6ab0a9333d1041af0a141cabd4416d70cbb83fea3d89",
+      "original_bytes": 12204,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "023610a12211264ad0ec6cd15660134f4930426f",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "bb94c42732f2af0f69141985f7b016a4725aba79",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/b92426e8abe2b57e9ac9a0443640993b9cf8c376/unit/README.md",
+      "original_git_blob_sha1": "b92426e8abe2b57e9ac9a0443640993b9cf8c376",
+      "original_sha256": "1ea57caaa0cf2afa305b0ca4765d21f8b76c2a3b28908ba2f130dff535df8ef2",
+      "public_sha256": "1ea57caaa0cf2afa305b0ca4765d21f8b76c2a3b28908ba2f130dff535df8ef2",
+      "original_bytes": 115714,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "023610a12211264ad0ec6cd15660134f4930426f",
+          "relative_path": "README.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "10d380d125d4a44fdda54e9064c5c76981c2906c",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/9b2113ecd99aba45e0940c8315b64f3c279f55da/unit/LOG.md",
+      "original_git_blob_sha1": "9b2113ecd99aba45e0940c8315b64f3c279f55da",
+      "original_sha256": "7abe551ac6fdd48a85a4d46d4295afdf4fbf516271768333b439d35cf7de4481",
+      "public_sha256": "7abe551ac6fdd48a85a4d46d4295afdf4fbf516271768333b439d35cf7de4481",
+      "original_bytes": 8721,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "bb94c42732f2af0f69141985f7b016a4725aba79",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "2057008f61aa4fbe48228aa35e896d8ba75a9489",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/b7a2c8632aba913ff443aed2e1fc3977dbb51cea/unit/SPEC-2026-09-12-upgrade-candidate.md",
+      "original_git_blob_sha1": "b7a2c8632aba913ff443aed2e1fc3977dbb51cea",
+      "original_sha256": "592c70ab7ea3e17901f3bf55d85e10f83a51fa668fc94b74dca86b62cc7ba2df",
+      "public_sha256": "592c70ab7ea3e17901f3bf55d85e10f83a51fa668fc94b74dca86b62cc7ba2df",
+      "original_bytes": 12971,
+      "original_origin": "unit",
+      "original_relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+      "path_commit_versions": [
+        {
+          "commit": "bb94c42732f2af0f69141985f7b016a4725aba79",
+          "relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "2057008f61aa4fbe48228aa35e896d8ba75a9489",
+          "relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/8bd0221a662031f38963edacd9cef38ecb33b409/unit/LOG.md",
+      "original_git_blob_sha1": "8bd0221a662031f38963edacd9cef38ecb33b409",
+      "original_sha256": "094a8544238d2daae06ccb042a981928c3edbd159d898cb1926fa325991039c9",
+      "public_sha256": "094a8544238d2daae06ccb042a981928c3edbd159d898cb1926fa325991039c9",
+      "original_bytes": 5801,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "2057008f61aa4fbe48228aa35e896d8ba75a9489",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/5cb3eef42827fc20c480e138a77f07e52f1d11ac/unit/SPEC-2026-09-12-upgrade-candidate.md",
+      "original_git_blob_sha1": "5cb3eef42827fc20c480e138a77f07e52f1d11ac",
+      "original_sha256": "6cd429d33ddec03917140f824133510691a9418ff7bb182c19f62b7926a104bb",
+      "public_sha256": "6cd429d33ddec03917140f824133510691a9418ff7bb182c19f62b7926a104bb",
+      "original_bytes": 4298,
+      "original_origin": "unit",
+      "original_relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+      "path_commit_versions": [
+        {
+          "commit": "2057008f61aa4fbe48228aa35e896d8ba75a9489",
+          "relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "SPEC-2026-09-12-upgrade-candidate.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/f3c652d45a87ae5d864c71a68d68123cf11dbefd/unit/notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+      "original_git_blob_sha1": "f3c652d45a87ae5d864c71a68d68123cf11dbefd",
+      "original_sha256": "9181f80d666dd2cc7d95234b2edd71ee426ea1b4d30d07894e17d25bdd523c30",
+      "public_sha256": "9181f80d666dd2cc7d95234b2edd71ee426ea1b4d30d07894e17d25bdd523c30",
+      "original_bytes": 7205,
+      "original_origin": "unit",
+      "original_relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+      "path_commit_versions": [
+        {
+          "commit": "2057008f61aa4fbe48228aa35e896d8ba75a9489",
+          "relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/9f3b72669ab97d4b37b04a6a9295b37d35f7df01/unit/LOG.md",
+      "original_git_blob_sha1": "9f3b72669ab97d4b37b04a6a9295b37d35f7df01",
+      "original_sha256": "72adcfbc646581ad8e8ed07936c8a28829c89198a83dc4e1205abec435843cf8",
+      "public_sha256": "72adcfbc646581ad8e8ed07936c8a28829c89198a83dc4e1205abec435843cf8",
+      "original_bytes": 3742,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "10d380d125d4a44fdda54e9064c5c76981c2906c",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/3b2171b0a4cb3cd76b487bdd724c71af777e7dc4/unit/notes/011-rooted-two-step-delay-and-exponential-unlabelled-count.md",
+      "original_git_blob_sha1": "3b2171b0a4cb3cd76b487bdd724c71af777e7dc4",
+      "original_sha256": "44cba7b3e75254912f4276ca31a562f104564f5eb7a785646f619b0bd219a434",
+      "public_sha256": "44cba7b3e75254912f4276ca31a562f104564f5eb7a785646f619b0bd219a434",
+      "original_bytes": 9176,
+      "original_origin": "unit",
+      "original_relative_path": "notes/011-rooted-two-step-delay-and-exponential-unlabelled-count.md",
+      "path_commit_versions": [
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "notes/011-rooted-two-step-delay-and-exponential-unlabelled-count.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "notes/011-rooted-two-step-delay-and-exponential-unlabelled-count.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/f44f83230c0f74b180a08706d23ad14fff10d431/unit/notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+      "original_git_blob_sha1": "f44f83230c0f74b180a08706d23ad14fff10d431",
+      "original_sha256": "a79e7cc1fc097b76db00b858755347936549ef137ea485bd80af99849188c159",
+      "public_sha256": "a79e7cc1fc097b76db00b858755347936549ef137ea485bd80af99849188c159",
+      "original_bytes": 4177,
+      "original_origin": "unit",
+      "original_relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+      "path_commit_versions": [
+        {
+          "commit": "a5df1f94f2dbc729a27c1ee73d0dfde9206c24ee",
+          "relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "10d380d125d4a44fdda54e9064c5c76981c2906c",
+          "relative_path": "notes/167-cube-cen-uv-word-fibres-are-polynomial.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/ad593bba2fddeb2153f907cb696e918056e05988/unit/LOG.md",
+      "original_git_blob_sha1": "ad593bba2fddeb2153f907cb696e918056e05988",
+      "original_sha256": "5393899b8bdfc17cc82a730a7fbd275d44a4462496a393ab901febb431acfb9a",
+      "public_sha256": "5393899b8bdfc17cc82a730a7fbd275d44a4462496a393ab901febb431acfb9a",
+      "original_bytes": 2225,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "10d380d125d4a44fdda54e9064c5c76981c2906c",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "0e444be4926a965c1748fb03d2ea1fa9d647c815",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/7f85cedaa46cda715870be4f97eb7da2d63f3c0b/unit/README.md",
+      "original_git_blob_sha1": "7f85cedaa46cda715870be4f97eb7da2d63f3c0b",
+      "original_sha256": "59575ff89835fe11cea9afcb32eae8179212a75697eec56d81525c8faff4f27a",
+      "public_sha256": "59575ff89835fe11cea9afcb32eae8179212a75697eec56d81525c8faff4f27a",
+      "original_bytes": 115004,
+      "original_origin": "unit",
+      "original_relative_path": "README.md",
+      "path_commit_versions": [
+        {
+          "commit": "10d380d125d4a44fdda54e9064c5c76981c2906c",
+          "relative_path": "README.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "README.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/f882fd200ebd44d48a8d1906e5cc94d43d76fb75/unit/LOG.md",
+      "original_git_blob_sha1": "f882fd200ebd44d48a8d1906e5cc94d43d76fb75",
+      "original_sha256": "d54eb3a41ce1364b4c4a7bedce9d246c20dc2546af1d3ee76fe803661748ea68",
+      "public_sha256": "d54eb3a41ce1364b4c4a7bedce9d246c20dc2546af1d3ee76fe803661748ea68",
+      "original_bytes": 890,
+      "original_origin": "unit",
+      "original_relative_path": "LOG.md",
+      "path_commit_versions": [
+        {
+          "commit": "0e444be4926a965c1748fb03d2ea1fa9d647c815",
+          "relative_path": "LOG.md",
+          "slot": "old_blob"
+        },
+        {
+          "commit": "c19c2d0afb79a08011e0719cb557726ae4d9f93e",
+          "relative_path": "LOG.md",
+          "slot": "new_blob"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    }
+  ],
+  "coverage": "Current exact source paths plus explicitly bounded safe math Git objects only. Does not cover nonHEAD refs/reflogs/dangling or every old body/commit; no author/contact/commit-message fields read. Failed routes/corrections preserved; semantic correctness direction not inferred.",
+  "rh_checksum_correction": null
+}

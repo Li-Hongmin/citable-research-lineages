@@ -1,0 +1,223 @@
+{
+  "edition": "0.1.0-github.1",
+  "current_frozen_source_members": 863,
+  "bounded_new_distinct_historical_members": 6,
+  "historical_versions": [
+    {
+      "public_path": "historical/0b84186fd272569664898743714684ff3797de1c/unit/notes/466-the-x-z-forbidden-hamilton-row-must-root-at-y5.md",
+      "original_git_blob_sha1": "0b84186fd272569664898743714684ff3797de1c",
+      "original_sha256": "256c974b81d55aaef05847e62542faf7c271baddb76475b514ed3a70799f8f82",
+      "public_sha256": "256c974b81d55aaef05847e62542faf7c271baddb76475b514ed3a70799f8f82",
+      "original_bytes": 15722,
+      "original_origin": "unit",
+      "original_relative_path": "notes/466-the-x-z-forbidden-hamilton-row-must-root-at-y5.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "notes/466-the-x-z-forbidden-hamilton-row-must-root-at-y5.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/5037fba970d5c8c88c37e41f25ea65eccec265cd/unit/notes/075-fixed-row-paired-switch-connectivity-fails.md",
+      "original_git_blob_sha1": "5037fba970d5c8c88c37e41f25ea65eccec265cd",
+      "original_sha256": "0cf39af2e2102f5818aa57a8aea5b94e0e7ede60dd580ccc71360449403ca43d",
+      "public_sha256": "0cf39af2e2102f5818aa57a8aea5b94e0e7ede60dd580ccc71360449403ca43d",
+      "original_bytes": 5172,
+      "original_origin": "unit",
+      "original_relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md",
+      "path_commit_versions": [
+        {
+          "commit": "1ea857e5029fe7c066fb8cb4edf6259809664f30",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "2932b42577b194d4129d475b8f1922461f7c2900",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "5b83d861710969f3be77c7774c2a1309c9f9fd3c",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "76d698c237f0f37bdb5f3086680313b950d70ac1",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "ba457f2c7edb5893c4973b5d4e200928ab710762",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "d3cc5104d700c6d82393d2cca743fce9c91efc72",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        },
+        {
+          "commit": "f1722413fc56f23a2411767cf6ecf0de99dd5831",
+          "relative_path": "notes/075-fixed-row-paired-switch-connectivity-fails.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/743da47fb7dea02c420b1adca9381d701d5d9c65/unit/notes/043-four-cell-singleton-intersection-forces-a-cover.md",
+      "original_git_blob_sha1": "743da47fb7dea02c420b1adca9381d701d5d9c65",
+      "original_sha256": "10c3e5d134428da8be9ebc595679319ce705053407dfb15ed4be349818eb4fb9",
+      "public_sha256": "10c3e5d134428da8be9ebc595679319ce705053407dfb15ed4be349818eb4fb9",
+      "original_bytes": 3627,
+      "original_origin": "unit",
+      "original_relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md",
+      "path_commit_versions": [
+        {
+          "commit": "1ea857e5029fe7c066fb8cb4edf6259809664f30",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "2932b42577b194d4129d475b8f1922461f7c2900",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "5b83d861710969f3be77c7774c2a1309c9f9fd3c",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "76d698c237f0f37bdb5f3086680313b950d70ac1",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "ba457f2c7edb5893c4973b5d4e200928ab710762",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "d3cc5104d700c6d82393d2cca743fce9c91efc72",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        },
+        {
+          "commit": "f1722413fc56f23a2411767cf6ecf0de99dd5831",
+          "relative_path": "notes/043-four-cell-singleton-intersection-forces-a-cover.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/856ad46a849eeb301bc85f2780ec01bb4f65ae6e/unit/notes/462-the-x-y-forbidden-hamilton-row-has-only-the-common-endpoint-switch.md",
+      "original_git_blob_sha1": "856ad46a849eeb301bc85f2780ec01bb4f65ae6e",
+      "original_sha256": "06516213a652b00e8677ebd3c27aba8b042badec6bf6f4b0afd75a1bd90090e4",
+      "public_sha256": "06516213a652b00e8677ebd3c27aba8b042badec6bf6f4b0afd75a1bd90090e4",
+      "original_bytes": 3274,
+      "original_origin": "unit",
+      "original_relative_path": "notes/462-the-x-y-forbidden-hamilton-row-has-only-the-common-endpoint-switch.md",
+      "path_commit_versions": [
+        {
+          "commit": "7f04c31fee7249d973ff40103cf5500adeffb2c2",
+          "relative_path": "notes/462-the-x-y-forbidden-hamilton-row-has-only-the-common-endpoint-switch.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/9b441de6330380f4dd75f5a6441b0e1edb6ad8f3/unit/notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md",
+      "original_git_blob_sha1": "9b441de6330380f4dd75f5a6441b0e1edb6ad8f3",
+      "original_sha256": "121fdbdc881b163ca48edde569be0e65dd0316addcb954507b48f578a9a2609c",
+      "public_sha256": "121fdbdc881b163ca48edde569be0e65dd0316addcb954507b48f578a9a2609c",
+      "original_bytes": 5730,
+      "original_origin": "unit",
+      "original_relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md",
+      "path_commit_versions": [
+        {
+          "commit": "1ea857e5029fe7c066fb8cb4edf6259809664f30",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "2932b42577b194d4129d475b8f1922461f7c2900",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "5b83d861710969f3be77c7774c2a1309c9f9fd3c",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "76d698c237f0f37bdb5f3086680313b950d70ac1",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "ba457f2c7edb5893c4973b5d4e200928ab710762",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "d3cc5104d700c6d82393d2cca743fce9c91efc72",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        },
+        {
+          "commit": "f1722413fc56f23a2411767cf6ecf0de99dd5831",
+          "relative_path": "notes/076-k33-two-sums-preserve-boundary-support-and-force-opposite-kempe-signs.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    },
+    {
+      "public_path": "historical/c7c45c80f96a98dd5909074c3afe2a9574352faf/unit/notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md",
+      "original_git_blob_sha1": "c7c45c80f96a98dd5909074c3afe2a9574352faf",
+      "original_sha256": "8cd7d16f8c13cd6dbf287e8891f761b57c3b9b7916e2ef2482e2d1132c549e75",
+      "public_sha256": "33a84fe5908ed88f49fb402958ba2a08371f524a0c5d1c156a1dce5fd043defd",
+      "original_bytes": 3764,
+      "original_origin": "unit",
+      "original_relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md",
+      "path_commit_versions": [
+        {
+          "commit": "1ea857e5029fe7c066fb8cb4edf6259809664f30",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "246672ac78e9ac3a785d724012a49ee8e4d3d65b",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "2932b42577b194d4129d475b8f1922461f7c2900",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "5b83d861710969f3be77c7774c2a1309c9f9fd3c",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "76d698c237f0f37bdb5f3086680313b950d70ac1",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "ba457f2c7edb5893c4973b5d4e200928ab710762",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "d3cc5104d700c6d82393d2cca743fce9c91efc72",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        },
+        {
+          "commit": "f1722413fc56f23a2411767cf6ecf0de99dd5831",
+          "relative_path": "notes/100-no-exact-case-xii-five-pole-has-order-at-most-fifteen.md"
+        }
+      ],
+      "role": "different older original body, not direction of correctness or reviewed science acceptance",
+      "code": false
+    }
+  ],
+  "coverage": "Current exact source paths plus explicitly bounded safe math Git objects only. Does not cover nonHEAD refs/reflogs/dangling or every old body/commit; no author/contact/commit-message fields read. Failed routes/corrections preserved; semantic correctness direction not inferred.",
+  "rh_checksum_correction": null
+}

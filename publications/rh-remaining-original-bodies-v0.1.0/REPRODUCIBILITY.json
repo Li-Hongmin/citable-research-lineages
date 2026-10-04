@@ -1,0 +1,10 @@
+{
+  "source": "rh",
+  "body_scope": "Original remaining global, critical-line, finite arithmetic, scratch, computation and historical output bodies retain physical/arithmetic/cancellation stopping gates. B rerun log was found at a maintenance path with exact expected checksum; the earlier missing-bundle-path observation is preserved and corrected here. Numerical logs and symbolic/finite checkers are original unreviewed bodies, not fresh proof acceptance. Opaque arrays/containers and actual private operational material remain excluded.",
+  "research_code_executed": false,
+  "logical_proof_verification": false,
+  "external_dependencies_and_local_modules": "See exact source imports/paths; preserving a source body is not a complete replay claim. Newly archived source trees may reference prior127/3625/199 selected bodies; overlay corresponding trees for future investigation, keeping outputs mutable.",
+  "observed_expected": "Original stdout/JSON/PASS/VERIFIED and assert clauses remain historical reports or expected/static behavior; no fresh acceptance.",
+  "deferred_code_locator_files": 0,
+  "source_metadata_stability": "All selected source size/mtime match frozen baseline before/after read; exact raw SHA preserved privately."
+}

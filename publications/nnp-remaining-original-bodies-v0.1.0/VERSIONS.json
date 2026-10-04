@@ -1,0 +1,8 @@
+{
+  "edition": "0.1.0-github.1",
+  "current_frozen_source_members": 190,
+  "bounded_new_distinct_historical_members": 0,
+  "historical_versions": [],
+  "coverage": "Current exact source paths plus explicitly bounded safe math Git objects only. Does not cover nonHEAD refs/reflogs/dangling or every old body/commit; no author/contact/commit-message fields read. Failed routes/corrections preserved; semantic correctness direction not inferred.",
+  "rh_checksum_correction": null
+}

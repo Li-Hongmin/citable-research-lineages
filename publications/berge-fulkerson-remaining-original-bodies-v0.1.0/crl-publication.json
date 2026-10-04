@@ -1,0 +1,134 @@
+{
+  "id": "crl:sha256:b9e8404f4c11ecf9f1921ee02f2fdc9acf354924673d87d9dae5f57c080bd7fa",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "type": "REVIEW",
+    "problem": "crl:problem:berge-fulkerson",
+    "title": "berge-fulkerson remaining original proof source and historical body archive",
+    "body": "This edition preserves 863 current original bodies and 6 distinct older Git bodies, including 319 code files. Explicit bounded version locators and hashes are in VERSIONS.json; full historical migration remains incomplete.\n\n# berge-fulkerson remaining original proof source and historical body archive\n\n863 original bodies, 319 code files. Original remaining local star, pairing, Fano, jointcarrier, globalclosure, repair and scratch bodies retain rejected and corrected interfaces. Matched scientific fixtures are byte-checked as provenance, not logical verification. Z3, NetworkX, geng and branch-specific model scripts/inputs are external or separately archived. The complete large note102 record remains historical unknown_at_inner_A, not unrestricted acceptance.\n\nThis REVIEW checks archival scope and original byte preservation, not mathematical validity or fresh computational truth. Existing human/AI attribution and own original text/data CC BY4.0/code Apache2 grants apply; citations retain source rights. Exact source/public hashes, locator projections and historical status remain explicit. No research code, solver or proof checker was executed.\n",
+    "scope": "Static archival REVIEW of original remaining proof/source/fixture/history body and exact provenance; scientific validity not assessed, no replay or conjecture acceptance.",
+    "created_at": "2026-10-03T19:54:50Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:01b35e5c1883eae2eccb6b879b89d44e90f615b3db7089d7328fef89590b5551",
+        "scope": "Static archival REVIEW of original remaining proof/source/fixture/history body and exact provenance; scientific validity not assessed, no replay or conjecture acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Static archival REVIEW of original remaining proof/source/fixture/history body and exact provenance; scientific validity not assessed, no replay or conjecture acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "724246aec8f5f86016e377dc2d09bb21df90d40b152be7a95a3a83848746c606",
+        "description": "Original archival artifact: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "51e093b49c37f71c0f0f4fb64e4a99495303917b1a833882ea30d8cec202b26d",
+        "description": "Original archival artifact: LICENSE.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Original archival artifact: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Original archival artifact: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "d83a106bcff0e6a272e4230d8078bbc02a18d69e79165d27bc011229bef9205d",
+        "description": "Original archival artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "6a413d7dc8c6cf7b774d21189972a1f348aeeb64c09cbf891f90a245ca54ea55",
+        "description": "Original archival artifact: MATERIALS.zip",
+        "license_declared": "Mixed Apache-2.0 code/CC-BY-4.0 own text-data; cited source rights retained"
+      },
+      {
+        "path": "README.md",
+        "sha256": "c0f546fd4c475fdf319d203d9ca0c2c9d8ea6c2c8a7a509acd083327fbd9f2a2",
+        "description": "Original archival artifact: README.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "25d7e7a4a773fe13b0ae519c473e8d44c88b165818de12da357569cdf69fd0d5",
+        "description": "Original archival artifact: REFERENCES.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REPRODUCIBILITY.json",
+        "sha256": "bbc5199aa78b838ec702c12055c16048ef795a8a40c7837a451d5c685351c46a",
+        "description": "Original archival artifact: REPRODUCIBILITY.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "60a8f6322df90ac203991722ad85cd45f75fa32e3abd8002b5d5330fd32ea568",
+        "description": "Original archival artifact: REVIEW.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "c5b4601def104d8d5ebf9efc081c489f96e62b5b66c9b7c673b8785303475a7f",
+        "description": "Original archival artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "d4910f585b5b7c60a2d5ec1e9918a3b8d0f7f64e2a336ab4c3f095d5fc6c54c0",
+        "description": "Original archival artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "8adf83baabd5b3c4e27d50d9b8eca92e9717f66e4cb0a41845478a3803223ec4",
+        "description": "Original archival artifact: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Original archival artifact: VERSION",
+        "license_declared": "CC-BY-4.0"
+      },
+      {
+        "path": "VERSIONS.json",
+        "description": "Bounded version and original byte provenance: VERSIONS.json",
+        "license_declared": "CC-BY-4.0 for own contribution; cited source rights retained",
+        "sha256": "d1b1e7c3255186c9f764acbb7e6cbac7de9034814d15ce6807e5657db4022bb6"
+      }
+    ]
+  },
+  "signature": "e2c0db2d8e24384c7f35e16d3580bb4c565e304e829de3c06f006f251b0628772289ec15677da732be7cf95fab5296b90afcbd31921083d0a8ec9e166a5e0a08"
+}
