@@ -1,0 +1,158 @@
+{
+  "id": "crl:sha256:1b3dc807b5f292acf7b0908239e6a12031b98c7849580b799436b50b19e9e01e",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "type": "REVIEW",
+    "problem": "crl:problem:p-vs-np",
+    "title": "THR2 original binary DRAT archive shard 1 of5",
+    "body": "# Original THR2 binary DRAT certificate archive shard 1 of5\n\nThis artifact-check REVIEW preserves 5 exact original compressed portions in this shard. All five shards together reconstruct26 original proof-data files (150385201bytes), including four originals exceeding the single-file8MiB budget. Part and original hashes, offsets, original checksum bindings and source/data provenance are explicit.\n\nComplete bounded binaryDRAT format parsing covers591782656decodedbytes/19902204records. This is structural archival screening, not RAT/UNSAT verification or P versus NP proof acceptance. No solver, proof checker or original research code was run; no proof was newly generated. Canonical numeric text was only hashed in memory and is not an existing/original exported file. Actual solver identity and replay environment are not independently reconstructed. Four named MCSP/THR2 historical inputs remain bounded-not-found.\n\nOriginal human/AI roles and explicit own-data CC BY4.0 grant apply; the new byte-reassembly helper is Apache2. Quoted source words and external solver libraries/binaries retain their rights.\n",
+    "scope": "Static original proof-data byte/framing/provenance REVIEW; not logical certificate validation, fresh solver result or P versus NP acceptance.",
+    "created_at": "2026-10-03T19:38:43Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+        "scope": "Static original proof-data byte/framing/provenance REVIEW; not logical certificate validation, fresh solver result or P versus NP acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Static original proof-data byte/framing/provenance REVIEW; not logical certificate validation, fresh solver result or P versus NP acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CERTIFICATE-SCREEN.json",
+        "sha256": "bfd3eca6d60921c37d01e0b96f7a0ef2e470a0942f873b6ead219dabc380a1f4",
+        "description": "Exact compressed proof portion or archival control: CERTIFICATE-SCREEN.json",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "629fea7f29befdd4915dd9d51dfb9688d4c1613ff78f2510ae7c289a4b762d06",
+        "description": "Exact compressed proof portion or archival control: CHALLENGE.md",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "abbcd371dd000231132d364797d02ff89651ecbf3f4ad305504166e348e7adf6",
+        "description": "Exact compressed proof portion or archival control: LICENSE.md",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Exact compressed proof portion or archival control: Apache-2.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Exact compressed proof portion or archival control: CC-BY-4.0.txt",
+        "license_declared": "Official licence text"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "e5356248ef153ba1c8cd6f0862db28908d1a891ee2e6c96d1ee0eeb9d4eb3715",
+        "description": "Exact compressed proof portion or archival control: MATERIAL-MANIFEST.json",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "README.md",
+        "sha256": "c89e311e42a9d88bbd12801a95effdcd4dc1ded98f6fb4f3fdda0961eb0cb8a6",
+        "description": "Exact compressed proof portion or archival control: README.md",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "REASSEMBLY-MANIFEST.json",
+        "sha256": "857cfddc7cbe2e3cee970bb9d59da47ec5337258b8dd3e625fff3d46ddf7063e",
+        "description": "Exact compressed proof portion or archival control: REASSEMBLY-MANIFEST.json",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "d6af884656c679d495e60a0a8fa007fea8690789d4c108572bdaec1453c09083",
+        "description": "Exact compressed proof portion or archival control: REFERENCES.json",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "65b0480fde7f4d9a86892d5b2edf5337a33f25788202b2199950fda9b0e0680c",
+        "description": "Exact compressed proof portion or archival control: REVIEW.md",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "3c9ad742d4a5c526776442862ca3830d2921f7e3db405dba2fcef14fe8f9b679",
+        "description": "Exact compressed proof portion or archival control: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "2a506a4bd248554fff6ece9da3bff83673339871ac90710b3cfdb0ad952c4622",
+        "description": "Exact compressed proof portion or archival control: VERIFICATION.md",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Exact compressed proof portion or archival control: VERSION",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "data/computations/bundles/d3-z2-five-base-unsat/proofs/profile-5.drat.zst.part001",
+        "sha256": "77abddb7e1a59e2360bd13ab25e1fe1de469b09a3fb121537c60685019c6519d",
+        "description": "Exact compressed proof portion or archival control: profile-5.drat.zst.part001",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "data/computations/bundles/d3-z2-five-base-unsat/proofs/profile-5.drat.zst.part002",
+        "sha256": "64b2d1b03d2cc8ea04d2c10aeca472b2864c73c9219b53079a92dca731b4ac90",
+        "description": "Exact compressed proof portion or archival control: profile-5.drat.zst.part002",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "data/computations/bundles/d3-z3-plane-profile-exclusions/proofs/profile-12.drat.zst",
+        "sha256": "cbdc32984fdcdc17a6d6198d303b3d86ffd9d1b081325f26aed57ed3539887a9",
+        "description": "Exact compressed proof portion or archival control: profile-12.drat.zst",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "data/computations/bundles/d3-z3-plane-profile-exclusions/proofs/profile-18.drat.zst.part001",
+        "sha256": "e06b0f99296f688d337a32cb41f2e5395a3ca3e8d57a1cdf24a45a7cce89f841",
+        "description": "Exact compressed proof portion or archival control: profile-18.drat.zst.part001",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "data/computations/bundles/d3-z3-two-half-unsat/proofs/profile-5.drat.zst",
+        "sha256": "f8f169e196d10b22d3410323d92fcef484a3bf567a92db13a9ae852520f6472b",
+        "description": "Exact compressed proof portion or archival control: profile-5.drat.zst",
+        "license_declared": "CC-BY-4.0 for own contribution; external source rights retained"
+      },
+      {
+        "path": "reassemble.py",
+        "sha256": "079b14b8c981406f58d12585a189ec434bb0ebd44b4acca849223777d29eba99",
+        "description": "Exact compressed proof portion or archival control: reassemble.py",
+        "license_declared": "Apache-2.0"
+      }
+    ]
+  },
+  "signature": "8c6f9847468262c1e132bf6146adb224bcef4f4a4075b0d2efcf68569edc6e3a1491f3dce882f67bc4201fbfbe06687fd4ba5166e68ef2610b280e8e9f05a800"
+}

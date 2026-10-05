@@ -1,0 +1,20 @@
+{
+  "reviewed_record_id": "crl:sha256:8af889073f64d966d78ae1cf07e547f32a6074746aed01a39de7ca3f34f4df8c",
+  "root": "crl:problem:p-vs-np",
+  "record_type": "RESULT",
+  "archive_repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "archive_commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/nnp-weighted-field-projection-v0.1.0/crl-publication.json",
+  "manifest_raw_sha256": "c9aa47bde408bae343dc104d10537318db098c900290b8d73b0a7670c7e5bed7",
+  "manifest_jcs_sha256": "3f7ca7cf502d2d5d7537973860710e8e8704e64e8292ec72b7872e9e88cdfd4c",
+  "format_primary_source": "https://github.com/marijnheule/drat-trim#binary-drat-format",
+  "original_generators_and_ledgers": {
+    "archive_repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+    "archive_commit": "e56d9e1786017d0090b2e203bb72b3833113f81b",
+    "manifest_path": "publications/nnp-reproduction-sources-inputs-v0.1.0/crl-publication.json",
+    "record_id": "crl:sha256:5370d83d37044c3006ca7f44114b119983f6fad8a5bf62de03b7483ad32db277",
+    "manifest_raw_sha256": "aa0d6879692915cd11e2307b3fb9317912cd4a50c4c2a424868508db5a8a2578",
+    "manifest_jcs_sha256": "c595001809df72668759e492f820557284dd6149fcdc19a7e28acf84d5507c1c",
+    "scope": "Original generator/README/expected/SHA256SUMS selection; no newly generated CNF or proof verification."
+  }
+}
