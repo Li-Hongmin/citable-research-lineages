@@ -1,0 +1,4529 @@
+{
+  "projections": [
+    {
+      "path": "original/rw-unit/README.md",
+      "original_bytes": 153810,
+      "original_sha256": "7874be66a54b9302e522d6ab9137593ceafcc0063fafd8680e5d5bcce5f1e698",
+      "public_bytes": 153810,
+      "public_sha256": "7874be66a54b9302e522d6ab9137593ceafcc0063fafd8680e5d5bcce5f1e698",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/rw-unit/papers/README.md",
+      "original_bytes": 4911,
+      "original_sha256": "0699762ff4cf06f5a4e22f97cb8dd43e82592d12271f3889c7e78a6e841fb2ed",
+      "public_bytes": 4911,
+      "public_sha256": "0699762ff4cf06f5a4e22f97cb8dd43e82592d12271f3889c7e78a6e841fb2ed",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-checkpoint-2026-10-03.md",
+      "original_bytes": 12289,
+      "original_sha256": "8ff507958b3e1f6c94683b8baf2ad03d2fed41bb2a29a9ed2af1f8136d824824",
+      "public_bytes": 12272,
+      "public_sha256": "cac1ae4b22eac934c06c57d3875e0e36bcee53964e378ad410ff7f5f8a46b8d5",
+      "transforms": [
+        {
+          "utf8_byte_start": 78,
+          "utf8_byte_end": 114,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        },
+        {
+          "utf8_byte_start": 139,
+          "utf8_byte_end": 175,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        },
+        {
+          "utf8_byte_start": 194,
+          "utf8_byte_end": 278,
+          "replacement": "original/rw-unit",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 7382,
+          "utf8_byte_end": 7401,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 7419,
+          "utf8_byte_end": 7438,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 12105,
+          "utf8_byte_end": 12124,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-final-preservation.json",
+      "original_bytes": 83604,
+      "original_sha256": "17be2ba82c82bf88966ee7a1d3f81ad662def670b2e0f5b855e66b653b11c4e0",
+      "public_bytes": 83342,
+      "public_sha256": "0d10f79ec1ea92f0adb51249961bdf908cd29b4124f3f5eaddf51a4da642ee3b",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse2-checkpoint.md",
+      "original_bytes": 6553,
+      "original_sha256": "16d754d41476c4c1457284593f3fab9b068b6d6d9ef6d3037f629658cedbb052",
+      "public_bytes": 6553,
+      "public_sha256": "16d754d41476c4c1457284593f3fab9b068b6d6d9ef6d3037f629658cedbb052",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse2-delivery-manifest.json",
+      "original_bytes": 6799,
+      "original_sha256": "e1f4227ea04e6fb253ffd08b2883ed3e7c9c93234dd2c34e625039692527bf26",
+      "public_bytes": 5562,
+      "public_sha256": "1358c48568a9dce8fd0e533746313931fa09832084072bca40385fac6d86146e",
+      "transforms": [
+        {
+          "utf8_byte_start": 149,
+          "utf8_byte_end": 240,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 376,
+          "utf8_byte_end": 450,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 585,
+          "utf8_byte_end": 660,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 795,
+          "utf8_byte_end": 879,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1013,
+          "utf8_byte_end": 1080,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1215,
+          "utf8_byte_end": 1291,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1425,
+          "utf8_byte_end": 1501,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1635,
+          "utf8_byte_end": 1713,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1846,
+          "utf8_byte_end": 1930,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2066,
+          "utf8_byte_end": 2152,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2288,
+          "utf8_byte_end": 2372,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2548,
+          "utf8_byte_end": 2606,
+          "replacement": "original/nnp-root-files/AGENTS.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2741,
+          "utf8_byte_end": 2856,
+          "replacement": "original/rw-unit/SPEC-2026-09-23-fixed-orbit.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2991,
+          "utf8_byte_end": 3155,
+          "replacement": "original/rw-unit/notes/597-reached-rw-suffix-residues-force-an-off-grid-high-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3291,
+          "utf8_byte_end": 3478,
+          "replacement": "original/rw-unit/notes/608-the-five-choice-linear-third-source-branch-is-a-rank-one-free-digit-projection-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3614,
+          "utf8_byte_end": 3793,
+          "replacement": "original/rw-unit/notes/609-all-five-choice-third-source-branches-contract-on-the-ledger-separator-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3929,
+          "utf8_byte_end": 4113,
+          "replacement": "original/rw-unit/notes/610-the-reached-five-choice-defect-contracts-across-the-whole-sparse-high-block-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4249,
+          "utf8_byte_end": 4423,
+          "replacement": "original/rw-unit/notes/613-a-free-first-last-digit-annihilates-the-output-only-padding-orbit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4559,
+          "utf8_byte_end": 4732,
+          "replacement": "original/rw-unit/notes/614-the-paired-basis-parity-controls-hard-suffix-cauchy-edge-moments-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4868,
+          "utf8_byte_end": 5042,
+          "replacement": "original/rw-unit/notes/616-sparse-third-source-spectrum-gives-a-common-reached-local-witness-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5178,
+          "utf8_byte_end": 5351,
+          "replacement": "original/rw-unit/notes/617-a-two-digit-common-beacon-survives-one-complete-routed-third-sum-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5487,
+          "utf8_byte_end": 5652,
+          "replacement": "original/rw-unit/notes/619-complete-beacon-sums-project-to-the-full-source-monomial-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5788,
+          "utf8_byte_end": 5968,
+          "replacement": "original/rw-unit/notes/620-the-single-grid-pair-sum-is-two-sparse-evaluations-of-the-actual-kernel-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6103,
+          "utf8_byte_end": 6306,
+          "replacement": "original/rw-unit/notes/621-the-actual-highest-frobenius-branch-survives-a-complete-two-beacon-sum-at-a-common-spare-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse2-final-preservation.json",
+      "original_bytes": 83604,
+      "original_sha256": "7c7ff9d57319e07b7c1e6daaa4903004ce5762b5ec8b74f0e9e33b84e0391ac3",
+      "public_bytes": 83342,
+      "public_sha256": "32f2f575dcbb0ecbe70e1c083b564a64bd712cd7f0d450fea189af0a330ddb50",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse2-startup-preservation.json",
+      "original_bytes": 83577,
+      "original_sha256": "88cf68b832868cb0f55987b42bd1264086bd859d1b9f3cb120ddd78ae9b695d3",
+      "public_bytes": 83315,
+      "public_sha256": "fafe8015854459257293f94b9b3e551c689895e341458cfd784912e27f429876",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse3-checkpoint.md",
+      "original_bytes": 7311,
+      "original_sha256": "34ac37bb9cafa8ffe61a8813091bf86df74b01522351b028d015c74a757f06e1",
+      "public_bytes": 7351,
+      "public_sha256": "66bc34c43fc5db0c6778c407c2a5b72f869f78e0a1cf0258a5816ed44bc245c1",
+      "transforms": [
+        {
+          "utf8_byte_start": 3728,
+          "utf8_byte_end": 3746,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3747,
+          "utf8_byte_end": 3765,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse3-delivery-manifest.json",
+      "original_bytes": 7510,
+      "original_sha256": "848729a62fc246567f2e5e83b44e8f0a6c9b287a94329a0e77e646188d31221c",
+      "public_bytes": 6317,
+      "public_sha256": "b11945169b7172288be0649e95510b4da0bcbc11036d0d8d1a5ad5a4dbc93270",
+      "transforms": [
+        {
+          "utf8_byte_start": 149,
+          "utf8_byte_end": 234,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 370,
+          "utf8_byte_end": 444,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 579,
+          "utf8_byte_end": 656,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 791,
+          "utf8_byte_end": 857,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 992,
+          "utf8_byte_end": 1061,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1196,
+          "utf8_byte_end": 1278,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1412,
+          "utf8_byte_end": 1490,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1624,
+          "utf8_byte_end": 1710,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1846,
+          "utf8_byte_end": 1930,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2092,
+          "utf8_byte_end": 2175,
+          "replacement": "original/task6/rw-pulse2-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2375,
+          "utf8_byte_end": 2578,
+          "replacement": "original/rw-unit/notes/621-the-actual-highest-frobenius-branch-survives-a-complete-two-beacon-sum-at-a-common-spare-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2714,
+          "utf8_byte_end": 2882,
+          "replacement": "original/rw-unit/notes/612-zero-padded-output-inputs-form-a-nonzero-digit-defect-orbit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3018,
+          "utf8_byte_end": 3205,
+          "replacement": "original/rw-unit/notes/608-the-five-choice-linear-third-source-branch-is-a-rank-one-free-digit-projection-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3341,
+          "utf8_byte_end": 3515,
+          "replacement": "original/rw-unit/notes/616-sparse-third-source-spectrum-gives-a-common-reached-local-witness-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3651,
+          "utf8_byte_end": 3835,
+          "replacement": "original/rw-unit/notes/610-the-reached-five-choice-defect-contracts-across-the-whole-sparse-high-block-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3971,
+          "utf8_byte_end": 4151,
+          "replacement": "original/rw-unit/notes/620-the-single-grid-pair-sum-is-two-sparse-evaluations-of-the-actual-kernel-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4286,
+          "utf8_byte_end": 4451,
+          "replacement": "original/rw-unit/notes/619-complete-beacon-sums-project-to-the-full-source-monomial-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4587,
+          "utf8_byte_end": 4759,
+          "replacement": "original/rw-unit/notes/517-two-field-line-source-perturbation-for-the-reached-rw-successor-2026-10-01.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4896,
+          "utf8_byte_end": 5075,
+          "replacement": "original/rw-unit/notes/609-all-five-choice-third-source-branches-contract-on-the-ledger-separator-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5211,
+          "utf8_byte_end": 5384,
+          "replacement": "original/rw-unit/notes/614-the-paired-basis-parity-controls-hard-suffix-cauchy-edge-moments-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5520,
+          "utf8_byte_end": 5694,
+          "replacement": "original/rw-unit/notes/605-the-reached-pair-has-a-two-address-diagonal-and-eight-norm-orbits-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5830,
+          "utf8_byte_end": 5945,
+          "replacement": "original/rw-unit/SPEC-2026-09-23-fixed-orbit.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6080,
+          "utf8_byte_end": 6138,
+          "replacement": "original/nnp-root-files/AGENTS.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6365,
+          "utf8_byte_end": 6403,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse3-final-preservation.json",
+      "original_bytes": 84717,
+      "original_sha256": "966c7a89e669ddbf98658caadcaeda298569446f48225a0a93914dfbc0b78802",
+      "public_bytes": 84059,
+      "public_sha256": "326e80b35ead8a9efe46d1f5660bec41ba8cfaa00ce6e1fe3720e2344a1cbd95",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83620,
+          "utf8_byte_end": 83711,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83725,
+          "utf8_byte_end": 83799,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83813,
+          "utf8_byte_end": 83888,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83902,
+          "utf8_byte_end": 83986,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84000,
+          "utf8_byte_end": 84067,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84081,
+          "utf8_byte_end": 84157,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84171,
+          "utf8_byte_end": 84247,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84261,
+          "utf8_byte_end": 84339,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84353,
+          "utf8_byte_end": 84437,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84451,
+          "utf8_byte_end": 84537,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84551,
+          "utf8_byte_end": 84635,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse3-startup-preservation.json",
+      "original_bytes": 84640,
+      "original_sha256": "a26134714686c3b59ab3b2a1fa62038d5dd43b00e82ea4a8a655bb3ecaed9ec1",
+      "public_bytes": 83982,
+      "public_sha256": "bc24d9e75c736313377322f4bea9afc81d21bf456e4f08432c0bbe68d85cb7e0",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83612,
+          "utf8_byte_end": 83703,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83717,
+          "utf8_byte_end": 83791,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83805,
+          "utf8_byte_end": 83880,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83894,
+          "utf8_byte_end": 83978,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83992,
+          "utf8_byte_end": 84059,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84073,
+          "utf8_byte_end": 84149,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84163,
+          "utf8_byte_end": 84239,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84253,
+          "utf8_byte_end": 84331,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84345,
+          "utf8_byte_end": 84429,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84443,
+          "utf8_byte_end": 84529,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84543,
+          "utf8_byte_end": 84627,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse4-checkpoint.md",
+      "original_bytes": 5922,
+      "original_sha256": "691f14e817ec138f16b30531870e9205f98ee90c915ec2bfb7830642634b555a",
+      "public_bytes": 5938,
+      "public_sha256": "bc779b845df38731708975aa4534c47b6ce1953ff7e339e7e15945f93418b9f9",
+      "transforms": [
+        {
+          "utf8_byte_start": 3328,
+          "utf8_byte_end": 3358,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3359,
+          "utf8_byte_end": 3389,
+          "replacement": "[anonymous-historical-runtime-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse4-delivery-manifest.json",
+      "original_bytes": 6578,
+      "original_sha256": "6615079fa5c3a87164cbab71c6510207f831865e7db24b965ca76c930f84669a",
+      "public_bytes": 5635,
+      "public_sha256": "c2c80718f680f911da6481ed3548787265cc32ede692d17dd6217424df8fd9b0",
+      "transforms": [
+        {
+          "utf8_byte_start": 158,
+          "utf8_byte_end": 243,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 379,
+          "utf8_byte_end": 453,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 588,
+          "utf8_byte_end": 665,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 800,
+          "utf8_byte_end": 878,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1013,
+          "utf8_byte_end": 1098,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1232,
+          "utf8_byte_end": 1324,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1458,
+          "utf8_byte_end": 1544,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1680,
+          "utf8_byte_end": 1764,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1928,
+          "utf8_byte_end": 2011,
+          "replacement": "original/task6/rw-pulse2-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2146,
+          "utf8_byte_end": 2229,
+          "replacement": "original/task6/rw-pulse3-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2404,
+          "utf8_byte_end": 2607,
+          "replacement": "original/rw-unit/notes/621-the-actual-highest-frobenius-branch-survives-a-complete-two-beacon-sum-at-a-common-spare-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2743,
+          "utf8_byte_end": 2916,
+          "replacement": "original/rw-unit/notes/617-a-two-digit-common-beacon-survives-one-complete-routed-third-sum-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3052,
+          "utf8_byte_end": 3226,
+          "replacement": "original/rw-unit/notes/616-sparse-third-source-spectrum-gives-a-common-reached-local-witness-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3362,
+          "utf8_byte_end": 3546,
+          "replacement": "original/rw-unit/notes/610-the-reached-five-choice-defect-contracts-across-the-whole-sparse-high-block-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3682,
+          "utf8_byte_end": 3862,
+          "replacement": "original/rw-unit/notes/620-the-single-grid-pair-sum-is-two-sparse-evaluations-of-the-actual-kernel-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3997,
+          "utf8_byte_end": 4162,
+          "replacement": "original/rw-unit/notes/619-complete-beacon-sums-project-to-the-full-source-monomial-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4298,
+          "utf8_byte_end": 4471,
+          "replacement": "original/rw-unit/notes/614-the-paired-basis-parity-controls-hard-suffix-cauchy-edge-moments-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4607,
+          "utf8_byte_end": 4781,
+          "replacement": "original/rw-unit/notes/605-the-reached-pair-has-a-two-address-diagonal-and-eight-norm-orbits-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4946,
+          "utf8_byte_end": 5013,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5442,
+          "utf8_byte_end": 5478,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse4-final-preservation.json",
+      "original_bytes": 85673,
+      "original_sha256": "45de1580c2b5334bc4bf731d7db5fce7d5a06dc7512e9c2c1e2535b1b1a7c8e8",
+      "public_bytes": 84691,
+      "public_sha256": "0dfa565a96a3a5b7d9c6960cb5d53fdcdd479a1ffcb13dd1ead64fb94d9bc7f1",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83657,
+          "utf8_byte_end": 83748,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83764,
+          "utf8_byte_end": 83838,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83854,
+          "utf8_byte_end": 83929,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83945,
+          "utf8_byte_end": 84029,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84045,
+          "utf8_byte_end": 84112,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84128,
+          "utf8_byte_end": 84204,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84220,
+          "utf8_byte_end": 84296,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84312,
+          "utf8_byte_end": 84390,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84406,
+          "utf8_byte_end": 84490,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84506,
+          "utf8_byte_end": 84592,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84608,
+          "utf8_byte_end": 84692,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84756,
+          "utf8_byte_end": 84841,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84857,
+          "utf8_byte_end": 84931,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84947,
+          "utf8_byte_end": 85024,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85040,
+          "utf8_byte_end": 85106,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85122,
+          "utf8_byte_end": 85191,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85207,
+          "utf8_byte_end": 85289,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85305,
+          "utf8_byte_end": 85383,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85399,
+          "utf8_byte_end": 85485,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85501,
+          "utf8_byte_end": 85585,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse4-startup-preservation.json",
+      "original_bytes": 85597,
+      "original_sha256": "694534064903c1a07bced9ee43201e8bdd807329f2ba161e64a1ba0c68468daa",
+      "public_bytes": 84615,
+      "public_sha256": "24fab3d2a0c835c49810b0523189ada6eb2cb5b766c144c7de0619aa78d670fb",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83649,
+          "utf8_byte_end": 83740,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83756,
+          "utf8_byte_end": 83830,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83846,
+          "utf8_byte_end": 83921,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83937,
+          "utf8_byte_end": 84021,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84037,
+          "utf8_byte_end": 84104,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84120,
+          "utf8_byte_end": 84196,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84212,
+          "utf8_byte_end": 84288,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84304,
+          "utf8_byte_end": 84382,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84398,
+          "utf8_byte_end": 84482,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84498,
+          "utf8_byte_end": 84584,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84600,
+          "utf8_byte_end": 84684,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84748,
+          "utf8_byte_end": 84833,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84849,
+          "utf8_byte_end": 84923,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84939,
+          "utf8_byte_end": 85016,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85032,
+          "utf8_byte_end": 85098,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85114,
+          "utf8_byte_end": 85183,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85199,
+          "utf8_byte_end": 85281,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85297,
+          "utf8_byte_end": 85375,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85391,
+          "utf8_byte_end": 85477,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85493,
+          "utf8_byte_end": 85577,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse5-checkpoint.md",
+      "original_bytes": 4593,
+      "original_sha256": "e1f5de6ac0c5e29f1870832b152bc940efd242e0ebcd745f3bd24c89e5713c45",
+      "public_bytes": 4593,
+      "public_sha256": "e1f5de6ac0c5e29f1870832b152bc940efd242e0ebcd745f3bd24c89e5713c45",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse5-delivery-manifest.json",
+      "original_bytes": 5540,
+      "original_sha256": "fbae57a6062f6c7c13ba4bbbbb73307005f49d6c2276b7dc25af8b2d9f0fb287",
+      "public_bytes": 4773,
+      "public_sha256": "faadeaba14858e4722b1ad59d1566d94033602fc4ca701f48baa6a9c14fccb77",
+      "transforms": [
+        {
+          "utf8_byte_start": 156,
+          "utf8_byte_end": 240,
+          "replacement": "original/task6/rw-pulse5-complete-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 376,
+          "utf8_byte_end": 450,
+          "replacement": "original/task6/rw-pulse5-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 585,
+          "utf8_byte_end": 662,
+          "replacement": "original/task6/rw-pulse5-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 797,
+          "utf8_byte_end": 883,
+          "replacement": "original/task6/rw-pulse5-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1019,
+          "utf8_byte_end": 1103,
+          "replacement": "original/task6/rw-pulse5-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1267,
+          "utf8_byte_end": 1350,
+          "replacement": "original/task6/rw-pulse2-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1485,
+          "utf8_byte_end": 1568,
+          "replacement": "original/task6/rw-pulse3-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1703,
+          "utf8_byte_end": 1786,
+          "replacement": "original/task6/rw-pulse4-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1961,
+          "utf8_byte_end": 2164,
+          "replacement": "original/rw-unit/notes/621-the-actual-highest-frobenius-branch-survives-a-complete-two-beacon-sum-at-a-common-spare-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2300,
+          "utf8_byte_end": 2474,
+          "replacement": "original/rw-unit/notes/616-sparse-third-source-spectrum-gives-a-common-reached-local-witness-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2610,
+          "utf8_byte_end": 2794,
+          "replacement": "original/rw-unit/notes/610-the-reached-five-choice-defect-contracts-across-the-whole-sparse-high-block-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2930,
+          "utf8_byte_end": 3110,
+          "replacement": "original/rw-unit/notes/620-the-single-grid-pair-sum-is-two-sparse-evaluations-of-the-actual-kernel-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3245,
+          "utf8_byte_end": 3410,
+          "replacement": "original/rw-unit/notes/619-complete-beacon-sums-project-to-the-full-source-monomial-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3546,
+          "utf8_byte_end": 3719,
+          "replacement": "original/rw-unit/notes/614-the-paired-basis-parity-controls-hard-suffix-cauchy-edge-moments-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3855,
+          "utf8_byte_end": 4029,
+          "replacement": "original/rw-unit/notes/605-the-reached-pair-has-a-two-address-diagonal-and-eight-norm-orbits-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4328,
+          "utf8_byte_end": 4364,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse5-final-preservation.json",
+      "original_bytes": 86507,
+      "original_sha256": "9483bce4c05e6ae755f13edace3d95a938bb6f23a89c5c133c344c231ba15f34",
+      "public_bytes": 85237,
+      "public_sha256": "077572dc2abd93e680adfb1d85aab7e5070dfd8eb9d693c9f974899f654e08ef",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83657,
+          "utf8_byte_end": 83748,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83764,
+          "utf8_byte_end": 83838,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83854,
+          "utf8_byte_end": 83929,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83945,
+          "utf8_byte_end": 84029,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84045,
+          "utf8_byte_end": 84112,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84128,
+          "utf8_byte_end": 84204,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84220,
+          "utf8_byte_end": 84296,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84312,
+          "utf8_byte_end": 84390,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84406,
+          "utf8_byte_end": 84490,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84506,
+          "utf8_byte_end": 84592,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84608,
+          "utf8_byte_end": 84692,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84756,
+          "utf8_byte_end": 84841,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84857,
+          "utf8_byte_end": 84931,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84947,
+          "utf8_byte_end": 85024,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85040,
+          "utf8_byte_end": 85106,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85122,
+          "utf8_byte_end": 85191,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85207,
+          "utf8_byte_end": 85289,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85305,
+          "utf8_byte_end": 85383,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85399,
+          "utf8_byte_end": 85485,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85501,
+          "utf8_byte_end": 85585,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85649,
+          "utf8_byte_end": 85734,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85750,
+          "utf8_byte_end": 85824,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85840,
+          "utf8_byte_end": 85917,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85933,
+          "utf8_byte_end": 86011,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86027,
+          "utf8_byte_end": 86112,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86128,
+          "utf8_byte_end": 86220,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86236,
+          "utf8_byte_end": 86322,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86338,
+          "utf8_byte_end": 86422,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse5-startup-preservation.json",
+      "original_bytes": 86434,
+      "original_sha256": "ef41e807bd29ef4bc2feca4791c3edfc3cb6e63af8277440ddbd0851179d0e34",
+      "public_bytes": 85164,
+      "public_sha256": "61202a3aec814eb20bd9180a5911db27c986b24c839c39c1f693ff8277633c1f",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83649,
+          "utf8_byte_end": 83740,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83756,
+          "utf8_byte_end": 83830,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83846,
+          "utf8_byte_end": 83921,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83937,
+          "utf8_byte_end": 84021,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84037,
+          "utf8_byte_end": 84104,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84120,
+          "utf8_byte_end": 84196,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84212,
+          "utf8_byte_end": 84288,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84304,
+          "utf8_byte_end": 84382,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84398,
+          "utf8_byte_end": 84482,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84498,
+          "utf8_byte_end": 84584,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84600,
+          "utf8_byte_end": 84684,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84748,
+          "utf8_byte_end": 84833,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84849,
+          "utf8_byte_end": 84923,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84939,
+          "utf8_byte_end": 85016,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85032,
+          "utf8_byte_end": 85098,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85114,
+          "utf8_byte_end": 85183,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85199,
+          "utf8_byte_end": 85281,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85297,
+          "utf8_byte_end": 85375,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85391,
+          "utf8_byte_end": 85477,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85493,
+          "utf8_byte_end": 85577,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85641,
+          "utf8_byte_end": 85726,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85742,
+          "utf8_byte_end": 85816,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85832,
+          "utf8_byte_end": 85909,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85925,
+          "utf8_byte_end": 86003,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86019,
+          "utf8_byte_end": 86104,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86120,
+          "utf8_byte_end": 86212,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86228,
+          "utf8_byte_end": 86314,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86330,
+          "utf8_byte_end": 86414,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse6-checkpoint.md",
+      "original_bytes": 4947,
+      "original_sha256": "7dacdff20ad89aa6d93acd07b1fe85db4ba555bc5b7df3e18f5f53748bfcf082",
+      "public_bytes": 4947,
+      "public_sha256": "7dacdff20ad89aa6d93acd07b1fe85db4ba555bc5b7df3e18f5f53748bfcf082",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse6-delivery-manifest.json",
+      "original_bytes": 7728,
+      "original_sha256": "c89bb1ca5104528b29545da95eab150121f4310dd6f6229b057f63e7ddbeac10",
+      "public_bytes": 6517,
+      "public_sha256": "e0886faba8089c9d59fbd33141a162c45fc7fa36e85335104121145646ddf7a3",
+      "transforms": [
+        {
+          "utf8_byte_start": 171,
+          "utf8_byte_end": 266,
+          "replacement": "original/task6/rw-pulse6-actual-source-certificate-gates.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 402,
+          "utf8_byte_end": 476,
+          "replacement": "original/task6/rw-pulse6-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 611,
+          "utf8_byte_end": 688,
+          "replacement": "original/task6/rw-pulse6-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 823,
+          "utf8_byte_end": 909,
+          "replacement": "original/task6/rw-pulse6-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1045,
+          "utf8_byte_end": 1129,
+          "replacement": "original/task6/rw-pulse6-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1293,
+          "utf8_byte_end": 1376,
+          "replacement": "original/task6/rw-pulse2-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1511,
+          "utf8_byte_end": 1594,
+          "replacement": "original/task6/rw-pulse3-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1729,
+          "utf8_byte_end": 1812,
+          "replacement": "original/task6/rw-pulse4-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1947,
+          "utf8_byte_end": 2030,
+          "replacement": "original/task6/rw-pulse5-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2205,
+          "utf8_byte_end": 2408,
+          "replacement": "original/rw-unit/notes/621-the-actual-highest-frobenius-branch-survives-a-complete-two-beacon-sum-at-a-common-spare-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2544,
+          "utf8_byte_end": 2717,
+          "replacement": "original/rw-unit/notes/617-a-two-digit-common-beacon-survives-one-complete-routed-third-sum-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2853,
+          "utf8_byte_end": 3027,
+          "replacement": "original/rw-unit/notes/613-a-free-first-last-digit-annihilates-the-output-only-padding-orbit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3163,
+          "utf8_byte_end": 3336,
+          "replacement": "original/rw-unit/notes/407-a-public-systematic-permutation-annihilates-the-jk-column-census-2026-09-29.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3472,
+          "utf8_byte_end": 3636,
+          "replacement": "original/rw-unit/notes/597-reached-rw-suffix-residues-force-an-off-grid-high-digit-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 3772,
+          "utf8_byte_end": 3946,
+          "replacement": "original/rw-unit/notes/616-sparse-third-source-spectrum-gives-a-common-reached-local-witness-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4082,
+          "utf8_byte_end": 4266,
+          "replacement": "original/rw-unit/notes/610-the-reached-five-choice-defect-contracts-across-the-whole-sparse-high-block-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4402,
+          "utf8_byte_end": 4582,
+          "replacement": "original/rw-unit/notes/620-the-single-grid-pair-sum-is-two-sparse-evaluations-of-the-actual-kernel-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4717,
+          "utf8_byte_end": 4882,
+          "replacement": "original/rw-unit/notes/619-complete-beacon-sums-project-to-the-full-source-monomial-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5018,
+          "utf8_byte_end": 5190,
+          "replacement": "original/rw-unit/notes/517-two-field-line-source-perturbation-for-the-reached-rw-successor-2026-10-01.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5327,
+          "utf8_byte_end": 5524,
+          "replacement": "original/rw-unit/notes/516-a-deterministic-jk-target-ledger-embeds-the-published-base-word-in-the-successor-history-2026-10-01.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5660,
+          "utf8_byte_end": 5833,
+          "replacement": "original/rw-unit/notes/614-the-paired-basis-parity-controls-hard-suffix-cauchy-edge-moments-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5969,
+          "utf8_byte_end": 6143,
+          "replacement": "original/rw-unit/notes/605-the-reached-pair-has-a-two-address-diagonal-and-eight-norm-orbits-2026-10-03.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6459,
+          "utf8_byte_end": 6495,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse6-final-preservation.json",
+      "original_bytes": 87040,
+      "original_sha256": "30adb8457c0316f67aae80d8acaaf5de16c227633e0e87b7c2383a5d9281fb88",
+      "public_bytes": 85590,
+      "public_sha256": "4f685722b1438c6cdbac85da5499cb7a9b2b9cfebe1887c06f5f1ba1defc6a50",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83657,
+          "utf8_byte_end": 83748,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83764,
+          "utf8_byte_end": 83838,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83854,
+          "utf8_byte_end": 83929,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83945,
+          "utf8_byte_end": 84029,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84045,
+          "utf8_byte_end": 84112,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84128,
+          "utf8_byte_end": 84204,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84220,
+          "utf8_byte_end": 84296,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84312,
+          "utf8_byte_end": 84390,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84406,
+          "utf8_byte_end": 84490,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84506,
+          "utf8_byte_end": 84592,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84608,
+          "utf8_byte_end": 84692,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84756,
+          "utf8_byte_end": 84841,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84857,
+          "utf8_byte_end": 84931,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84947,
+          "utf8_byte_end": 85024,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85040,
+          "utf8_byte_end": 85106,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85122,
+          "utf8_byte_end": 85191,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85207,
+          "utf8_byte_end": 85289,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85305,
+          "utf8_byte_end": 85383,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85399,
+          "utf8_byte_end": 85485,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85501,
+          "utf8_byte_end": 85585,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85649,
+          "utf8_byte_end": 85734,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85750,
+          "utf8_byte_end": 85824,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85840,
+          "utf8_byte_end": 85917,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85933,
+          "utf8_byte_end": 86011,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86027,
+          "utf8_byte_end": 86112,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86128,
+          "utf8_byte_end": 86220,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86236,
+          "utf8_byte_end": 86322,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86338,
+          "utf8_byte_end": 86422,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86486,
+          "utf8_byte_end": 86570,
+          "replacement": "original/task6/rw-pulse5-complete-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86586,
+          "utf8_byte_end": 86660,
+          "replacement": "original/task6/rw-pulse5-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86676,
+          "utf8_byte_end": 86753,
+          "replacement": "original/task6/rw-pulse5-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86769,
+          "utf8_byte_end": 86855,
+          "replacement": "original/task6/rw-pulse5-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86871,
+          "utf8_byte_end": 86955,
+          "replacement": "original/task6/rw-pulse5-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse6-startup-preservation.json",
+      "original_bytes": 86967,
+      "original_sha256": "674962d15a710526f9d2d8f8063d397b46841853359af24bac3c61264356185d",
+      "public_bytes": 85517,
+      "public_sha256": "826b7a5c5fd5b092abcd66a4a01c210379ee75601f2c1c93b9440c8e0c064869",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83649,
+          "utf8_byte_end": 83740,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83756,
+          "utf8_byte_end": 83830,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83846,
+          "utf8_byte_end": 83921,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83937,
+          "utf8_byte_end": 84021,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84037,
+          "utf8_byte_end": 84104,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84120,
+          "utf8_byte_end": 84196,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84212,
+          "utf8_byte_end": 84288,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84304,
+          "utf8_byte_end": 84382,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84398,
+          "utf8_byte_end": 84482,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84498,
+          "utf8_byte_end": 84584,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84600,
+          "utf8_byte_end": 84684,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84748,
+          "utf8_byte_end": 84833,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84849,
+          "utf8_byte_end": 84923,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84939,
+          "utf8_byte_end": 85016,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85032,
+          "utf8_byte_end": 85098,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85114,
+          "utf8_byte_end": 85183,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85199,
+          "utf8_byte_end": 85281,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85297,
+          "utf8_byte_end": 85375,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85391,
+          "utf8_byte_end": 85477,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85493,
+          "utf8_byte_end": 85577,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85641,
+          "utf8_byte_end": 85726,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85742,
+          "utf8_byte_end": 85816,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85832,
+          "utf8_byte_end": 85909,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85925,
+          "utf8_byte_end": 86003,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86019,
+          "utf8_byte_end": 86104,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86120,
+          "utf8_byte_end": 86212,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86228,
+          "utf8_byte_end": 86314,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86330,
+          "utf8_byte_end": 86414,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86478,
+          "utf8_byte_end": 86562,
+          "replacement": "original/task6/rw-pulse5-complete-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86578,
+          "utf8_byte_end": 86652,
+          "replacement": "original/task6/rw-pulse5-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86668,
+          "utf8_byte_end": 86745,
+          "replacement": "original/task6/rw-pulse5-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86761,
+          "utf8_byte_end": 86847,
+          "replacement": "original/task6/rw-pulse5-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86863,
+          "utf8_byte_end": 86947,
+          "replacement": "original/task6/rw-pulse5-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse7-delivery-manifest.json",
+      "original_bytes": 2772,
+      "original_sha256": "ccaea5e1b453d87c71e870d843ff52d2ab20d7f540ed1c08c4f66e2d098d2baa",
+      "public_bytes": 2376,
+      "public_sha256": "774c6bb157ef46bc8e83f95a8ee1fa4e164839bccd4ff4038c88b5457700d60e",
+      "transforms": [
+        {
+          "utf8_byte_start": 200,
+          "utf8_byte_end": 280,
+          "replacement": "original/task6/rw-pulse7-feasibility-stop.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 416,
+          "utf8_byte_end": 490,
+          "replacement": "original/task6/rw-pulse7-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 625,
+          "utf8_byte_end": 702,
+          "replacement": "original/task6/rw-pulse7-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 837,
+          "utf8_byte_end": 919,
+          "replacement": "original/task6/rw-reusable-projection-lemma.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1054,
+          "utf8_byte_end": 1140,
+          "replacement": "original/task6/rw-pulse7-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1276,
+          "utf8_byte_end": 1360,
+          "replacement": "original/task6/rw-pulse7-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1524,
+          "utf8_byte_end": 1607,
+          "replacement": "original/task6/rw-pulse2-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1742,
+          "utf8_byte_end": 1825,
+          "replacement": "original/task6/rw-pulse3-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1960,
+          "utf8_byte_end": 2043,
+          "replacement": "original/task6/rw-pulse4-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2178,
+          "utf8_byte_end": 2261,
+          "replacement": "original/task6/rw-pulse5-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2396,
+          "utf8_byte_end": 2479,
+          "replacement": "original/task6/rw-pulse6-delivery-manifest.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse7-final-preservation.json",
+      "original_bytes": 87709,
+      "original_sha256": "d75607e8f208d779fe8b98807cdf120d344f6c29b6eebb6c7153717a9467ec00",
+      "public_bytes": 86079,
+      "public_sha256": "c37d80e7ae61bc4cfefff055ece815a88b1b69a941cd758df6d7fa8cd705ccc2",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83655,
+          "utf8_byte_end": 83746,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83762,
+          "utf8_byte_end": 83836,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83852,
+          "utf8_byte_end": 83927,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83943,
+          "utf8_byte_end": 84027,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84043,
+          "utf8_byte_end": 84110,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84126,
+          "utf8_byte_end": 84202,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84218,
+          "utf8_byte_end": 84294,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84310,
+          "utf8_byte_end": 84388,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84404,
+          "utf8_byte_end": 84488,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84504,
+          "utf8_byte_end": 84590,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84606,
+          "utf8_byte_end": 84690,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84754,
+          "utf8_byte_end": 84839,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84855,
+          "utf8_byte_end": 84929,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84945,
+          "utf8_byte_end": 85022,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85038,
+          "utf8_byte_end": 85104,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85120,
+          "utf8_byte_end": 85189,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85205,
+          "utf8_byte_end": 85287,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85303,
+          "utf8_byte_end": 85381,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85397,
+          "utf8_byte_end": 85483,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85499,
+          "utf8_byte_end": 85583,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85647,
+          "utf8_byte_end": 85732,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85748,
+          "utf8_byte_end": 85822,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85838,
+          "utf8_byte_end": 85915,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85931,
+          "utf8_byte_end": 86009,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86025,
+          "utf8_byte_end": 86110,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86126,
+          "utf8_byte_end": 86218,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86234,
+          "utf8_byte_end": 86320,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86336,
+          "utf8_byte_end": 86420,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86484,
+          "utf8_byte_end": 86568,
+          "replacement": "original/task6/rw-pulse5-complete-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86584,
+          "utf8_byte_end": 86658,
+          "replacement": "original/task6/rw-pulse5-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86674,
+          "utf8_byte_end": 86751,
+          "replacement": "original/task6/rw-pulse5-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86767,
+          "utf8_byte_end": 86853,
+          "replacement": "original/task6/rw-pulse5-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86869,
+          "utf8_byte_end": 86953,
+          "replacement": "original/task6/rw-pulse5-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87017,
+          "utf8_byte_end": 87112,
+          "replacement": "original/task6/rw-pulse6-actual-source-certificate-gates.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87128,
+          "utf8_byte_end": 87202,
+          "replacement": "original/task6/rw-pulse6-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87218,
+          "utf8_byte_end": 87295,
+          "replacement": "original/task6/rw-pulse6-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87311,
+          "utf8_byte_end": 87397,
+          "replacement": "original/task6/rw-pulse6-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87413,
+          "utf8_byte_end": 87497,
+          "replacement": "original/task6/rw-pulse6-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-pulse7-startup-preservation.json",
+      "original_bytes": 87512,
+      "original_sha256": "8d4142772b62624f29c9435f9b20aec6fa93cd2876bb5d4d221586fb7a16f6dd",
+      "public_bytes": 85882,
+      "public_sha256": "1f165d3555bc375c9d394e8e2d275425d7df02781d86848e4cd17fbe4f025765",
+      "transforms": [
+        {
+          "utf8_byte_start": 78120,
+          "utf8_byte_end": 78359,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78848,
+          "utf8_byte_end": 79062,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 83650,
+          "utf8_byte_end": 83741,
+          "replacement": "original/task6/rw-pulse2-paired-source-factorization.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83757,
+          "utf8_byte_end": 83831,
+          "replacement": "original/task6/rw-pulse2-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83847,
+          "utf8_byte_end": 83922,
+          "replacement": "original/task6/rw_actual_kernel_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 83938,
+          "utf8_byte_end": 84022,
+          "replacement": "original/task6/rw-pulse2-kernel-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84038,
+          "utf8_byte_end": 84105,
+          "replacement": "original/task6/rw_spare_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84121,
+          "utf8_byte_end": 84197,
+          "replacement": "original/task6/rw_field_modulus_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84213,
+          "utf8_byte_end": 84289,
+          "replacement": "original/task6/rw-spare-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84305,
+          "utf8_byte_end": 84383,
+          "replacement": "original/task6/rw-modulus-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84399,
+          "utf8_byte_end": 84483,
+          "replacement": "original/task6/rw-spare-contraction-candidate.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84499,
+          "utf8_byte_end": 84585,
+          "replacement": "original/task6/rw-pulse2-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84601,
+          "utf8_byte_end": 84685,
+          "replacement": "original/task6/rw-pulse2-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84749,
+          "utf8_byte_end": 84834,
+          "replacement": "original/task6/rw-pulse3-complete-x-projection.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84850,
+          "utf8_byte_end": 84924,
+          "replacement": "original/task6/rw-pulse3-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 84940,
+          "utf8_byte_end": 85017,
+          "replacement": "original/task6/rw-pulse3-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85033,
+          "utf8_byte_end": 85099,
+          "replacement": "original/task6/rw_xsum_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85115,
+          "utf8_byte_end": 85184,
+          "replacement": "original/task6/rw_f4_toy_check.py",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85200,
+          "utf8_byte_end": 85282,
+          "replacement": "original/task6/rw-pulse3-xsum-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85298,
+          "utf8_byte_end": 85376,
+          "replacement": "original/task6/rw-pulse3-f4-toy-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85392,
+          "utf8_byte_end": 85478,
+          "replacement": "original/task6/rw-pulse3-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85494,
+          "utf8_byte_end": 85578,
+          "replacement": "original/task6/rw-pulse3-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85642,
+          "utf8_byte_end": 85727,
+          "replacement": "original/task6/rw-pulse4-separated-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85743,
+          "utf8_byte_end": 85817,
+          "replacement": "original/task6/rw-pulse4-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85833,
+          "utf8_byte_end": 85910,
+          "replacement": "original/task6/rw-pulse4-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 85926,
+          "utf8_byte_end": 86004,
+          "replacement": "original/task6/rw_spare_projection_check.c",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86020,
+          "utf8_byte_end": 86105,
+          "replacement": "original/task6/rw-pulse4-scaling-check-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86121,
+          "utf8_byte_end": 86213,
+          "replacement": "original/task6/rw-pulse4-scaling-check-passed-output.txt",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86229,
+          "utf8_byte_end": 86315,
+          "replacement": "original/task6/rw-pulse4-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86331,
+          "utf8_byte_end": 86415,
+          "replacement": "original/task6/rw-pulse4-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86479,
+          "utf8_byte_end": 86563,
+          "replacement": "original/task6/rw-pulse5-complete-first-spare.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86579,
+          "utf8_byte_end": 86653,
+          "replacement": "original/task6/rw-pulse5-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86669,
+          "utf8_byte_end": 86746,
+          "replacement": "original/task6/rw-pulse5-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86762,
+          "utf8_byte_end": 86848,
+          "replacement": "original/task6/rw-pulse5-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 86864,
+          "utf8_byte_end": 86948,
+          "replacement": "original/task6/rw-pulse5-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87012,
+          "utf8_byte_end": 87107,
+          "replacement": "original/task6/rw-pulse6-actual-source-certificate-gates.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87123,
+          "utf8_byte_end": 87197,
+          "replacement": "original/task6/rw-pulse6-checkpoint.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87213,
+          "utf8_byte_end": 87290,
+          "replacement": "original/task6/rw-pulse6-review-record.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87306,
+          "utf8_byte_end": 87392,
+          "replacement": "original/task6/rw-pulse6-startup-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 87408,
+          "utf8_byte_end": 87492,
+          "replacement": "original/task6/rw-pulse6-final-preservation.json",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-startup-snapshot-1.json",
+      "original_bytes": 83547,
+      "original_sha256": "237113549393de85059d0bbfd87fdaf6eaf7b81e4ed76f2208be53cd6905ae93",
+      "public_bytes": 83285,
+      "public_sha256": "b74abd62efb45dc1b74fa4cecfb38b4297edaf71761f17d3e7ed8b68d8e851cb",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/task6/rw-startup-snapshot-2.json",
+      "original_bytes": 83603,
+      "original_sha256": "51ddc113c74afad33a3baf2753c1f49f8af96ed7aa16a54566a579cc5b8f7a37",
+      "public_bytes": 83341,
+      "public_sha256": "3e643649769dc39e8502afbc709da9bc7e90f6920d63bb05ccc2edb606653b58",
+      "transforms": [
+        {
+          "utf8_byte_start": 78119,
+          "utf8_byte_end": 78358,
+          "replacement": "\"[withheld-private-source-002]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":43058,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        },
+        {
+          "utf8_byte_start": 78847,
+          "utf8_byte_end": 79061,
+          "replacement": "\"[withheld-private-source-001]\": {\"privacy_status\":\"held-stat-only\",\"bytes\":2584,\"sha256\":null}",
+          "kind": "preexisting-private-source-provenance-record-stat-only"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/README.md",
+      "original_bytes": 65633,
+      "original_sha256": "857c1e1d6fca28e50dd36ef96ed7b8ebac21dc52df395f9584eceaa685c1f460",
+      "public_bytes": 65633,
+      "public_sha256": "857c1e1d6fca28e50dd36ef96ed7b8ebac21dc52df395f9584eceaa685c1f460",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/papers/README.md",
+      "original_bytes": 9116,
+      "original_sha256": "ffb98b10f8604f50b9ec90a84299bb9930bf71e7d155e544cba1688dc65fa07c",
+      "public_bytes": 9116,
+      "public_sha256": "ffb98b10f8604f50b9ec90a84299bb9930bf71e7d155e544cba1688dc65fa07c",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/papers/line-gates-and-orbit-bounds-in-binary-group-algebras/README.md",
+      "original_bytes": 4094,
+      "original_sha256": "e52b3409db0809a7184654af5bf298b666f458bf54463caf83c74d9c3ff378c3",
+      "public_bytes": 4015,
+      "public_sha256": "c942743d147e00270332887f7621dca86dc717a651749e1c83a6a676f043dd09",
+      "transforms": [
+        {
+          "utf8_byte_start": 3224,
+          "utf8_byte_end": 3327,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/local-jk-literature-records.json",
+      "original_bytes": 2247,
+      "original_sha256": "28b14fedde7d5d993734a6eb0f3fe4609cc378ea93f8ca1d84e35c87307811f8",
+      "public_bytes": 2247,
+      "public_sha256": "28b14fedde7d5d993734a6eb0f3fe4609cc378ea93f8ca1d84e35c87307811f8",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/np-hardness-amplification-records.json",
+      "original_bytes": 977,
+      "original_sha256": "c245a53e7e598bffc9c8e672a4d9cd0ed41987d65b0c8881db0e055f4d99290d",
+      "public_bytes": 977,
+      "public_sha256": "c245a53e7e598bffc9c8e672a4d9cd0ed41987d65b0c8881db0e055f4d99290d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/pippenger-fischer-1979-record.json",
+      "original_bytes": 305,
+      "original_sha256": "b36ced780b9aecd9ffc733d334adc77b41f674127db32fee70ff4f20205f18b3",
+      "public_bytes": 305,
+      "public_sha256": "b36ced780b9aecd9ffc733d334adc77b41f674127db32fee70ff4f20205f18b3",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/rrr-delegation-literature-records.json",
+      "original_bytes": 1567,
+      "original_sha256": "c00e34e6c1103fe71d28a72575ef9c0ae0a0a131171365b0ed78628b62ce47e7",
+      "public_bytes": 1567,
+      "public_sha256": "c00e34e6c1103fe71d28a72575ef9c0ae0a0a131171365b0ed78628b62ce47e7",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/bwz-crossref.json",
+      "original_bytes": 10554,
+      "original_sha256": "92b760781fdf91b28b3d7a147b07fc5e51213cfc4acfcb2229cf39fc74c8bc1e",
+      "public_bytes": 10554,
+      "public_sha256": "92b760781fdf91b28b3d7a147b07fc5e51213cfc4acfcb2229cf39fc74c8bc1e",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/literature-records.json",
+      "original_bytes": 7167,
+      "original_sha256": "a11e4baef01c0a025c2f2bcbea0935ca4210a887ce60b4d134322943fbe55b53",
+      "public_bytes": 5166,
+      "public_sha256": "1153e78259dd061bf45fb4f1a9ac7994cef055753ac7e95ddac8dbe3b3fd0c49",
+      "transforms": [
+        {
+          "utf8_byte_start": 4732,
+          "utf8_byte_end": 6813,
+          "replacement": "\"[third-party passage omitted; source rights retained; consult cited reference]\"",
+          "kind": "thirdparty-long-provider-field-omission"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 1
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/build-console.txt",
+      "original_bytes": 21578,
+      "original_sha256": "8c6ce10f96b75166c9c0d6eefa884127aa169eaa463a0fac2b300e4540288bc8",
+      "public_bytes": 20342,
+      "public_sha256": "d422f3f4aec6d54c348995a99a27d9052fb10e9fc40ecd3a051ac02887758894",
+      "transforms": [
+        {
+          "utf8_byte_start": 505,
+          "utf8_byte_end": 635,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 4838,
+          "utf8_byte_end": 4916,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 5843,
+          "utf8_byte_end": 5921,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6035,
+          "utf8_byte_end": 6113,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 6775,
+          "utf8_byte_end": 6851,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 7335,
+          "utf8_byte_end": 7413,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 9443,
+          "utf8_byte_end": 9504,
+          "replacement": "original/nnp-root-files/units/mcsp-h",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 9681,
+          "utf8_byte_end": 9738,
+          "replacement": "original/nnp-root-files/units/mc",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 9899,
+          "utf8_byte_end": 10086,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.log",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 10108,
+          "utf8_byte_end": 10295,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.fls",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 10317,
+          "utf8_byte_end": 10504,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.log",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 10598,
+          "utf8_byte_end": 10785,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 10901,
+          "utf8_byte_end": 11088,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.aux",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 11091,
+          "utf8_byte_end": 11278,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.out",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 11439,
+          "utf8_byte_end": 11569,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 15772,
+          "utf8_byte_end": 15850,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 16777,
+          "utf8_byte_end": 16855,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 16969,
+          "utf8_byte_end": 17047,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 17709,
+          "utf8_byte_end": 17785,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 18269,
+          "utf8_byte_end": 18347,
+          "replacement": "original/nnp-root-files/units/mcsp-hardness-magnifica",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 20065,
+          "utf8_byte_end": 20126,
+          "replacement": "original/nnp-root-files/units/mcsp-h",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 20303,
+          "utf8_byte_end": 20360,
+          "replacement": "original/nnp-root-files/units/mc",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 20521,
+          "utf8_byte_end": 20708,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.log",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 20730,
+          "utf8_byte_end": 20917,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.fls",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 20939,
+          "utf8_byte_end": 21126,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.log",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 21162,
+          "utf8_byte_end": 21349,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 21373,
+          "utf8_byte_end": 21560,
+          "replacement": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/README.md",
+      "original_bytes": 3479,
+      "original_sha256": "893a5b9cbabb7f1a0598b23112bd08717ea6f5062533e4ce285be36cd5206a26",
+      "public_bytes": 3479,
+      "public_sha256": "893a5b9cbabb7f1a0598b23112bd08717ea6f5062533e4ce285be36cd5206a26",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/papers/README.md",
+      "original_bytes": 2930,
+      "original_sha256": "fcf6c57fb01a31c5583bde83e2c1567994f3c15b8faefcb15c81143f1c9a198a",
+      "public_bytes": 2930,
+      "public_sha256": "fcf6c57fb01a31c5583bde83e2c1567994f3c15b8faefcb15c81143f1c9a198a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/bhatnagar-gopalan-lipton-record.json",
+      "original_bytes": 704,
+      "original_sha256": "575b13fe279995b86729afdb8acbab54b73a936af5d408622a30f894db09f649",
+      "public_bytes": 704,
+      "public_sha256": "575b13fe279995b86729afdb8acbab54b73a936af5d408622a30f894db09f649",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/lu-ye-record.json",
+      "original_bytes": 390,
+      "original_sha256": "71386afe80d11b2683eb9d928cf5850b179463eaf6bc277b3f62f6b3887c6347",
+      "public_bytes": 390,
+      "public_sha256": "71386afe80d11b2683eb9d928cf5850b179463eaf6bc277b3f62f6b3887c6347",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/workspace.json",
+      "original_bytes": 53,
+      "original_sha256": "90960e2c63d71b58a6abef034f7f285b5006e892b5bc93549135d9362a71cf8e",
+      "public_bytes": 53,
+      "public_sha256": "90960e2c63d71b58a6abef034f7f285b5006e892b5bc93549135d9362a71cf8e",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/aaronson2009algebrization/fulltext.meta.json",
+      "original_bytes": 236,
+      "original_sha256": "436417672632c1b1224d3891905487da30fece641bb3df03ae81498b56a94c9a",
+      "public_bytes": 236,
+      "public_sha256": "436417672632c1b1224d3891905487da30fece641bb3df03ae81498b56a94c9a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/aaronson2009algebrization/info.yaml",
+      "original_bytes": 1032,
+      "original_sha256": "32a20bd69619df16a7c16b257f128048c87e14bfda83b4ea49a498e5e94eb727",
+      "public_bytes": 1032,
+      "public_sha256": "32a20bd69619df16a7c16b257f128048c87e14bfda83b4ea49a498e5e94eb727",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/aaronson2009algebrization/recovery.json",
+      "original_bytes": 612,
+      "original_sha256": "349304610fd19ed74eff72a92711ca0b7efeb6d5813639b78632631a6534eeb3",
+      "public_bytes": 612,
+      "public_sha256": "349304610fd19ed74eff72a92711ca0b7efeb6d5813639b78632631a6534eeb3",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/baker1975relativizations/info.yaml",
+      "original_bytes": 812,
+      "original_sha256": "fb1122e79c26e978865a53c05891643b5cb6db4b7059405652aad3e0b91f22ef",
+      "public_bytes": 812,
+      "public_sha256": "fb1122e79c26e978865a53c05891643b5cb6db4b7059405652aad3e0b91f22ef",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2020beyond/fulltext.meta.json",
+      "original_bytes": 225,
+      "original_sha256": "ec6665af8d4d8446a8e8facfb4ba313497f2888e10c2e5bb55c78f1efc4ee70c",
+      "public_bytes": 225,
+      "public_sha256": "ec6665af8d4d8446a8e8facfb4ba313497f2888e10c2e5bb55c78f1efc4ee70c",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2020beyond/info.yaml",
+      "original_bytes": 1106,
+      "original_sha256": "ed47326db6849ff533471c31b241a5085c560f0752bac4149cf4dd312d8b29bd",
+      "public_bytes": 1106,
+      "public_sha256": "ed47326db6849ff533471c31b241a5085c560f0752bac4149cf4dd312d8b29bd",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2020beyond/recovery.json",
+      "original_bytes": 663,
+      "original_sha256": "c49bc4da6a173b19a472d4224d41e8336a8738b9dab4d8ed8c025e934a34e10b",
+      "public_bytes": 663,
+      "public_sha256": "c49bc4da6a173b19a472d4224d41e8336a8738b9dab4d8ed8c025e934a34e10b",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026new/fulltext.meta.json",
+      "original_bytes": 221,
+      "original_sha256": "04203cfd355ad0fcd33b2966bacd24e76f66459a2b2dec5c9f80f721c24bc230",
+      "public_bytes": 221,
+      "public_sha256": "04203cfd355ad0fcd33b2966bacd24e76f66459a2b2dec5c9f80f721c24bc230",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026new/info.yaml",
+      "original_bytes": 1079,
+      "original_sha256": "d4c9799f4c965a27c3bfb73c87ba2c074c6a141889c5726cc8174daa3e2d504f",
+      "public_bytes": 1079,
+      "public_sha256": "d4c9799f4c965a27c3bfb73c87ba2c074c6a141889c5726cc8174daa3e2d504f",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026new/recovery.json",
+      "original_bytes": 666,
+      "original_sha256": "61164efb5e0e013c30b21ee96f31c2d72473ef1b2ff9efad171d7a8c100bd57b",
+      "public_bytes": 666,
+      "public_sha256": "61164efb5e0e013c30b21ee96f31c2d72473ef1b2ff9efad171d7a8c100bd57b",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026super/fulltext.meta.json",
+      "original_bytes": 223,
+      "original_sha256": "c3dfc70860b2c9fe6d03deffa7a18abdbaa2f914e61c7024c667ae15b5d90196",
+      "public_bytes": 223,
+      "public_sha256": "c3dfc70860b2c9fe6d03deffa7a18abdbaa2f914e61c7024c667ae15b5d90196",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026super/info.yaml",
+      "original_bytes": 997,
+      "original_sha256": "1500b2a1702975c1e56252261f20df0ad2d0e64a0cad972a9535f58e850cbfc2",
+      "public_bytes": 997,
+      "public_sha256": "1500b2a1702975c1e56252261f20df0ad2d0e64a0cad972a9535f58e850cbfc2",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/chen2026super/recovery.json",
+      "original_bytes": 604,
+      "original_sha256": "6f9c6b615f125b6106733adf511e67917262ecc9cadc90d72460bf7095cb85c9",
+      "public_bytes": 604,
+      "public_sha256": "6f9c6b615f125b6106733adf511e67917262ecc9cadc90d72460bf7095cb85c9",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/cook1971complexity/fulltext.meta.json",
+      "original_bytes": 223,
+      "original_sha256": "e85f7e3fb831e92deea2bc00425346a7c34acd5896049bb034bc24874afc9f48",
+      "public_bytes": 223,
+      "public_sha256": "e85f7e3fb831e92deea2bc00425346a7c34acd5896049bb034bc24874afc9f48",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/cook1971complexity/info.yaml",
+      "original_bytes": 992,
+      "original_sha256": "0eeca862ee171ca767977000807f714d27a18bc3c2368b8e492880bc05b53f51",
+      "public_bytes": 992,
+      "public_sha256": "0eeca862ee171ca767977000807f714d27a18bc3c2368b8e492880bc05b53f51",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/cook1971complexity/recovery.json",
+      "original_bytes": 602,
+      "original_sha256": "4270f40cf5336530c5c7fe4984c8f1a8120bb179f1c5723c871ca2c0f6714134",
+      "public_bytes": 602,
+      "public_sha256": "4270f40cf5336530c5c7fe4984c8f1a8120bb179f1c5723c871ca2c0f6714134",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hirahara2026sharp/fulltext.meta.json",
+      "original_bytes": 228,
+      "original_sha256": "437dc6be971bde3c796ffdcd8e8a6c88fe8f50f11989bea2214bece017d379c4",
+      "public_bytes": 228,
+      "public_sha256": "437dc6be971bde3c796ffdcd8e8a6c88fe8f50f11989bea2214bece017d379c4",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hirahara2026sharp/info.yaml",
+      "original_bytes": 1117,
+      "original_sha256": "27acffaef091652933119db51fa68d96ab676b83961d332f25f631fde504b814",
+      "public_bytes": 1117,
+      "public_sha256": "27acffaef091652933119db51fa68d96ab676b83961d332f25f631fde504b814",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hirahara2026sharp/recovery.json",
+      "original_bytes": 620,
+      "original_sha256": "2de6f6f83aef3a39892742612db3680d5c865c3c6012a44d2202c0a6753e6e07",
+      "public_bytes": 620,
+      "public_sha256": "2de6f6f83aef3a39892742612db3680d5c865c3c6012a44d2202c0a6753e6e07",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hu2026hardness/fulltext.meta.json",
+      "original_bytes": 225,
+      "original_sha256": "899d37d4a50c9bc0ac94b0a2a9f533df931cc5b51ab907309bc4da70dcd30cc1",
+      "public_bytes": 225,
+      "public_sha256": "899d37d4a50c9bc0ac94b0a2a9f533df931cc5b51ab907309bc4da70dcd30cc1",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hu2026hardness/info.yaml",
+      "original_bytes": 1047,
+      "original_sha256": "025627058d617919eb91a37f26374dff0f483aeaf4a4ac64e485983182575081",
+      "public_bytes": 1047,
+      "public_sha256": "025627058d617919eb91a37f26374dff0f483aeaf4a4ac64e485983182575081",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/hu2026hardness/recovery.json",
+      "original_bytes": 623,
+      "original_sha256": "f9ce9498c154a2e114c92e9e63d70b156caf69205174741c2f5f1e1a482a2be6",
+      "public_bytes": 623,
+      "public_sha256": "f9ce9498c154a2e114c92e9e63d70b156caf69205174741c2f5f1e1a482a2be6",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/impagliazzo1989one/info.yaml",
+      "original_bytes": 780,
+      "original_sha256": "e381e0dbfc447200453c66c1dffd2ab12b2e48d7a9247d333fcf8f86762aa2c5",
+      "public_bytes": 780,
+      "public_sha256": "e381e0dbfc447200453c66c1dffd2ab12b2e48d7a9247d333fcf8f86762aa2c5",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/karp1972reducibility/info.yaml",
+      "original_bytes": 743,
+      "original_sha256": "bd2b39fcde2becc47bb859e472b65f742099becc011f9320a5974ba9d35b4637",
+      "public_bytes": 743,
+      "public_sha256": "bd2b39fcde2becc47bb859e472b65f742099becc011f9320a5974ba9d35b4637",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/mulmuley2001geometric/info.yaml",
+      "original_bytes": 805,
+      "original_sha256": "1e9a60f27239e967326a45c49699fbdaad13b25f02e5e1e32fb1ae18e3ff0c98",
+      "public_bytes": 805,
+      "public_sha256": "1e9a60f27239e967326a45c49699fbdaad13b25f02e5e1e32fb1ae18e3ff0c98",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/oliveira2018hardness/fulltext.meta.json",
+      "original_bytes": 231,
+      "original_sha256": "d195e913643865e2636c8ce8139b7b18c6e696facab27b07fb98c66ec5e814cd",
+      "public_bytes": 231,
+      "public_sha256": "d195e913643865e2636c8ce8139b7b18c6e696facab27b07fb98c66ec5e814cd",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/oliveira2018hardness/info.yaml",
+      "original_bytes": 1073,
+      "original_sha256": "77b8e835e464d499f0e76e3666ec22692825389bd2aa02eb3b7b6ee0d11000f8",
+      "public_bytes": 1073,
+      "public_sha256": "77b8e835e464d499f0e76e3666ec22692825389bd2aa02eb3b7b6ee0d11000f8",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/oliveira2018hardness/recovery.json",
+      "original_bytes": 617,
+      "original_sha256": "d5a2e9fd3371de8f8bcde75b5565e069849df37d1b453e7720a3205240dafc3a",
+      "public_bytes": 617,
+      "public_sha256": "d5a2e9fd3371de8f8bcde75b5565e069849df37d1b453e7720a3205240dafc3a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/razborov1997natural/fulltext.meta.json",
+      "original_bytes": 229,
+      "original_sha256": "ba1b011282b01c16577f4b3e10ca70d82e589ca3ae648f14b576f34b4980cc0d",
+      "public_bytes": 229,
+      "public_sha256": "ba1b011282b01c16577f4b3e10ca70d82e589ca3ae648f14b576f34b4980cc0d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/razborov1997natural/info.yaml",
+      "original_bytes": 1043,
+      "original_sha256": "5fde2689fc96cb97265bc8e2c385902123ef4b2af6e82d82e1d8e7979480cf5c",
+      "public_bytes": 1043,
+      "public_sha256": "5fde2689fc96cb97265bc8e2c385902123ef4b2af6e82d82e1d8e7979480cf5c",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/razborov1997natural/recovery.json",
+      "original_bytes": 604,
+      "original_sha256": "ad01de22dff296aeb30650e3551da0cb0b640e8254736820d7751d41b09a5d62",
+      "public_bytes": 604,
+      "public_sha256": "ad01de22dff296aeb30650e3551da0cb0b640e8254736820d7751d41b09a5d62",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/ren2026near/fulltext.meta.json",
+      "original_bytes": 221,
+      "original_sha256": "5cd1e5c8e8ffb2d4dc2495cdb4915f70a0d2501a44fd43985838f10d6146a407",
+      "public_bytes": 221,
+      "public_sha256": "5cd1e5c8e8ffb2d4dc2495cdb4915f70a0d2501a44fd43985838f10d6146a407",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/ren2026near/info.yaml",
+      "original_bytes": 950,
+      "original_sha256": "4ac92eb28870ecfb3b06f103c74607c67e453a3dcca1a4643973a411c829c8aa",
+      "public_bytes": 950,
+      "public_sha256": "4ac92eb28870ecfb3b06f103c74607c67e453a3dcca1a4643973a411c829c8aa",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/ren2026near/recovery.json",
+      "original_bytes": 615,
+      "original_sha256": "987c9ed3b5940803bb7167b23c7f433b7420b621af7254872356806be05eac66",
+      "public_bytes": 615,
+      "public_sha256": "987c9ed3b5940803bb7167b23c7f433b7420b621af7254872356806be05eac66",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/williams2014nonuniform/fulltext.meta.json",
+      "original_bytes": 233,
+      "original_sha256": "11e34602374158e49ead1dc11978112fa2035ac2bae011ae74b2d393bd9f4e59",
+      "public_bytes": 233,
+      "public_sha256": "11e34602374158e49ead1dc11978112fa2035ac2bae011ae74b2d393bd9f4e59",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/williams2014nonuniform/info.yaml",
+      "original_bytes": 1020,
+      "original_sha256": "56967a01b1fa9ab04d8916537a89ecd82f9cb54037e621b1e2238978f519389b",
+      "public_bytes": 1020,
+      "public_sha256": "56967a01b1fa9ab04d8916537a89ecd82f9cb54037e621b1e2238978f519389b",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/lib/williams2014nonuniform/recovery.json",
+      "original_bytes": 615,
+      "original_sha256": "c5755a0f793bc987b2de720c549f5eae3855007d18f78a5d0615c93211953cd4",
+      "public_bytes": 615,
+      "public_sha256": "c5755a0f793bc987b2de720c549f5eae3855007d18f78a5d0615c93211953cd4",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/projects/p-vs-np/records.yaml",
+      "original_bytes": 11137,
+      "original_sha256": "1a86bcac0d565647dc9bdf2863c33eff456123721c40e2d45a041b4af25ca943",
+      "public_bytes": 11137,
+      "public_sha256": "1a86bcac0d565647dc9bdf2863c33eff456123721c40e2d45a041b4af25ca943",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/projects/p-vs-np/research-map.json",
+      "original_bytes": 5043,
+      "original_sha256": "d46c339fdf6546ef5234059c0b40c88a10a8e82990e8bfcc7054caee39c8e582",
+      "public_bytes": 5043,
+      "public_sha256": "d46c339fdf6546ef5234059c0b40c88a10a8e82990e8bfcc7054caee39c8e582",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/thr2-unit/scratch/extracted-workspace/reports/library-verification.json",
+      "original_bytes": 663,
+      "original_sha256": "7eda40552a5e1619661c228bbe663d80063a7cc826f258b48a874f488eaaba39",
+      "public_bytes": 663,
+      "public_sha256": "7eda40552a5e1619661c228bbe663d80063a7cc826f258b48a874f488eaaba39",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-papers/README.md",
+      "original_bytes": 3955,
+      "original_sha256": "aee7a111cd388ab7c2abcbdb1f0d4403a1bf45ad5aa22e2bb790bcd39c3616d6",
+      "public_bytes": 3955,
+      "public_sha256": "aee7a111cd388ab7c2abcbdb1f0d4403a1bf45ad5aa22e2bb790bcd39c3616d6",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/applebaum-lovett2018-paper-lib-record.json",
+      "original_bytes": 718,
+      "original_sha256": "195f5fc9afd40f2862ee0d32700e119063ea9997016d2ef346918560bdaf985d",
+      "public_bytes": 718,
+      "public_sha256": "195f5fc9afd40f2862ee0d32700e119063ea9997016d2ef346918560bdaf985d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/batch-decompression-literature-records.json",
+      "original_bytes": 1428,
+      "original_sha256": "22e9dbc9cd87d383e5161149e4e048acf6b67892ca9a5ac98d8d1ac009942c8a",
+      "public_bytes": 1428,
+      "public_sha256": "22e9dbc9cd87d383e5161149e4e048acf6b67892ca9a5ac98d8d1ac009942c8a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/bin-packing-decision-records-20260901.json",
+      "original_bytes": 1868,
+      "original_sha256": "80e653b9e3954a788fda3ad998a8678cfb9ca61edbd9196eab220d16525fd1eb",
+      "public_bytes": 1868,
+      "public_sha256": "80e653b9e3954a788fda3ad998a8678cfb9ca61edbd9196eab220d16525fd1eb",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/bkr2023-paper-lib-record.json",
+      "original_bytes": 467,
+      "original_sha256": "7961c295c35daac8845bd90e31e601571baccab671bc79f407800e283abebb18",
+      "public_bytes": 467,
+      "public_sha256": "7961c295c35daac8845bd90e31e601571baccab671bc79f407800e283abebb18",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/chow-almost-natural-proofs-record.json",
+      "original_bytes": 340,
+      "original_sha256": "683975fbb74ab4c754c839a7637bdd1cd6a6515908d76ed0249df4305ef42b76",
+      "public_bytes": 340,
+      "public_sha256": "683975fbb74ab4c754c839a7637bdd1cd6a6515908d76ed0249df4305ef42b76",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/direct-shortcut-literature-records.json",
+      "original_bytes": 5379,
+      "original_sha256": "7e9a2ec938046348aa12683b89ecffaede05d13fdf701bf086c276a800597277",
+      "public_bytes": 5379,
+      "public_sha256": "7e9a2ec938046348aa12683b89ecffaede05d13fdf701bf086c276a800597277",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/ghentiyala-li-stephens-davidowitz-2026-record.json",
+      "original_bytes": 863,
+      "original_sha256": "b9410ed59743030409d4f44b755c69e6fb753ab27cea071386ef172028b7cfdc",
+      "public_bytes": 863,
+      "public_sha256": "b9410ed59743030409d4f44b755c69e6fb753ab27cea071386ef172028b7cfdc",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/gkr-decision-records.json",
+      "original_bytes": 2815,
+      "original_sha256": "0ef1420896e639a437371d6d9025a4a53a3c0feb051518fa9e67146c7686e0ef",
+      "public_bytes": 2815,
+      "public_sha256": "0ef1420896e639a437371d6d9025a4a53a3c0feb051518fa9e67146c7686e0ef",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/goldreich-local-generator-decision-records.json",
+      "original_bytes": 1580,
+      "original_sha256": "83bf2e7510531f311e8a39bd7903af443c5fdb360762e2b71bdc0e516bc03ab0",
+      "public_bytes": 1580,
+      "public_sha256": "83bf2e7510531f311e8a39bd7903af443c5fdb360762e2b71bdc0e516bc03ab0",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/harper-optimal-numberings-record.json",
+      "original_bytes": 339,
+      "original_sha256": "85695e3887ef2c77df5b3eac3f09dd285223eadad82c1ba2f4f3ad1a90aef33e",
+      "public_bytes": 339,
+      "public_sha256": "85695e3887ef2c77df5b3eac3f09dd285223eadad82c1ba2f4f3ad1a90aef33e",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/hirahara-ilango-williams-2024-record.json",
+      "original_bytes": 915,
+      "original_sha256": "b75b4af9412c555c2ecfe588bb5602ede696ce820c5082a4730dc990916cf54b",
+      "public_bytes": 915,
+      "public_sha256": "b75b4af9412c555c2ecfe588bb5602ede696ce820c5082a4730dc990916cf54b",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/jones-swiss-pocket-knife-record.json",
+      "original_bytes": 296,
+      "original_sha256": "0441e07a53c48c55f2f07e84375ad4689cfa71c9fe6368d260a1669fbc8af65d",
+      "public_bytes": 296,
+      "public_sha256": "0441e07a53c48c55f2f07e84375ad4689cfa71c9fe6368d260a1669fbc8af65d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/kamiyama2012-record.json",
+      "original_bytes": 512,
+      "original_sha256": "ba51360c29cb1f42a923dc9ad62e6c5fa110d786d9c44648bc9ad6f69d5145cd",
+      "public_bytes": 512,
+      "public_sha256": "ba51360c29cb1f42a923dc9ad62e6c5fa110d786d9c44648bc9ad6f69d5145cd",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/kkn95-record.json",
+      "original_bytes": 608,
+      "original_sha256": "ddd934e1a358a23f2a5df98fca292cff0cc1a94f9182e04ae77d285b25abfe02",
+      "public_bytes": 608,
+      "public_sha256": "ddd934e1a358a23f2a5df98fca292cff0cc1a94f9182e04ae77d285b25abfe02",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/knowledge-compilation-records.json",
+      "original_bytes": 1184,
+      "original_sha256": "20066b5679d2272007842cbe5ae2850e5305fa849e9b4f6a2aa0f04f2b0f36d9",
+      "public_bytes": 1184,
+      "public_sha256": "20066b5679d2272007842cbe5ae2850e5305fa849e9b4f6a2aa0f04f2b0f36d9",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/korten-pitassi-2024-record.json",
+      "original_bytes": 1074,
+      "original_sha256": "d87e0348d88101a4b02a85222ab44532c0598c7b27a4a497d004ad7a449cbfea",
+      "public_bytes": 1074,
+      "public_sha256": "d87e0348d88101a4b02a85222ab44532c0598c7b27a4a497d004ad7a449cbfea",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/model-lifting-records.json",
+      "original_bytes": 4255,
+      "original_sha256": "721d5225e81ef5b1a92187fa2720f7cfc9f4e45f8727a48f030743c533fb0e6c",
+      "public_bytes": 4255,
+      "public_sha256": "721d5225e81ef5b1a92187fa2720f7cfc9f4e45f8727a48f030743c533fb0e6c",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/muller2025simple-record.json",
+      "original_bytes": 1259,
+      "original_sha256": "a4d3cb2705d9047799fa2c8d1c9c6f1020fa67340a88f20f08a84ff2101474af",
+      "public_bytes": 1259,
+      "public_sha256": "a4d3cb2705d9047799fa2c8d1c9c6f1020fa67340a88f20f08a84ff2101474af",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/ops2019-record.json",
+      "original_bytes": 918,
+      "original_sha256": "56d142889544609b19d3c5795ec85cdb777977eb2ae08f96133d61ee32341fe8",
+      "public_bytes": 918,
+      "public_sha256": "56d142889544609b19d3c5795ec85cdb777977eb2ae08f96133d61ee32341fe8",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/random-gram-literature-records-20260902.json",
+      "original_bytes": 582,
+      "original_sha256": "e92618d4bb49e56fd1a6ce53fa6d188c802f32001f95fabd04afcb3f23fcddf3",
+      "public_bytes": 582,
+      "public_sha256": "e92618d4bb49e56fd1a6ce53fa6d188c802f32001f95fabd04afcb3f23fcddf3",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/recursive-closure-literature-records-2026-08-18.json",
+      "original_bytes": 1240,
+      "original_sha256": "7dd516dfd8f5970b25356ba36335d3f330c9b4ee62b1c83749ba857599b74548",
+      "public_bytes": 1240,
+      "public_sha256": "7dd516dfd8f5970b25356ba36335d3f330c9b4ee62b1c83749ba857599b74548",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/s2-muller.json",
+      "original_bytes": 174,
+      "original_sha256": "65ab993d12c5c2cc9b68e6da2bb79b326930283e520363ffcdc145f88cd5a148",
+      "public_bytes": 174,
+      "public_sha256": "65ab993d12c5c2cc9b68e6da2bb79b326930283e520363ffcdc145f88cd5a148",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/tr26-091-implicit-mcsp-record.json",
+      "original_bytes": 805,
+      "original_sha256": "ee2decbf9114c488c66ff961063a63573beec30dcaa653aaf7f4430602b39926",
+      "public_bytes": 805,
+      "public_sha256": "ee2decbf9114c488c66ff961063a63573beec30dcaa653aaf7f4430602b39926",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/valiant-universal-circuits-record.json",
+      "original_bytes": 248,
+      "original_sha256": "a037b7faf29fa0f45e4e7c6fa9df9018e901f7bda5ff34d6239528e0dc313dea",
+      "public_bytes": 248,
+      "public_sha256": "a037b7faf29fa0f45e4e7c6fa9df9018e901f7bda5ff34d6239528e0dc313dea",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-abstract-k-count-prefix-binding-20260927.md",
+      "original_bytes": 16005,
+      "original_sha256": "8ce8004ae6f2b65202c01118ea9ff0ac66555862489956970bfbb981e5ba7249",
+      "public_bytes": 15938,
+      "public_sha256": "63ba17376b189a6c15588524a33ff1d8995248517eed35550a90d2bdc06b1271",
+      "transforms": [
+        {
+          "utf8_byte_start": 1428,
+          "utf8_byte_end": 1519,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-actual-residual-bulk-one-step-20260927.md",
+      "original_bytes": 15410,
+      "original_sha256": "d34705fab9ec25038fbf877aaa81d9d5ad018daf95c808514138fe6274c24766",
+      "public_bytes": 15347,
+      "public_sha256": "31a5d7be25a10a17fe77b4cad0bd8ac8dd58af2fac1d24333fc679ea7c9051c3",
+      "transforms": [
+        {
+          "utf8_byte_start": 1190,
+          "utf8_byte_end": 1277,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-aggregate-composition-independent-20260927.md",
+      "original_bytes": 14107,
+      "original_sha256": "1b1cb473263467ed1e69b5535646f521e9a044cae2620e3cf265b45e00a975e9",
+      "public_bytes": 14044,
+      "public_sha256": "05ad2e9965fec553ca9abce9ede383ededc23f9510f2f6051cd2d87547c24a1d",
+      "transforms": [
+        {
+          "utf8_byte_start": 1060,
+          "utf8_byte_end": 1147,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-algebraic-window-source-verdict-20260927.md",
+      "original_bytes": 14850,
+      "original_sha256": "f6052aa03be395e1ea5132c1ff0859335345dd4e9b6928e48a17221b7d73131c",
+      "public_bytes": 14783,
+      "public_sha256": "598f413260904c6f9128281404a0ad2a996e2d1a6e48fa199d689152103f67d8",
+      "transforms": [
+        {
+          "utf8_byte_start": 1136,
+          "utf8_byte_end": 1227,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-cover-collapse-check-20260927.md",
+      "original_bytes": 13685,
+      "original_sha256": "ef52e8a70cd6a2309c8cd2f3fcc157104d0591d73d93ddcef48b5819db23d8d4",
+      "public_bytes": 13622,
+      "public_sha256": "c8eea583948125efea629f10646cd41a193a053d05c876c4ad04d86faa66bfc2",
+      "transforms": [
+        {
+          "utf8_byte_start": 939,
+          "utf8_byte_end": 1026,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-final-answer.md",
+      "original_bytes": 2873,
+      "original_sha256": "212c8702955bdb440e56197ca33e0b43bd59d45b0e1507270ea875a16b40113f",
+      "public_bytes": 2807,
+      "public_sha256": "e5e2f01cd2e9d5cd82da57cadc7f324368a05c5b762d6f4d040540ee6dafdd5d",
+      "transforms": [
+        {
+          "utf8_byte_start": 2488,
+          "utf8_byte_end": 2614,
+          "replacement": "original/shared-scratch/fixed-orbit-2026-09-26/r2-pro-formulas-and-global-seed-compression.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 2661,
+          "utf8_byte_end": 2759,
+          "replacement": "original/shared-scratch/fixed-orbit-2026-09-26/r2-final-answer.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-function-semantics-layout-dependency-20260927.md",
+      "original_bytes": 17928,
+      "original_sha256": "84afd8b1f6ccf2bc4d319171860f1be8988f4fa97fe5a1d20e655bbe58a6d281",
+      "public_bytes": 17865,
+      "public_sha256": "62f533e108a2e2e2abae75c7ffb56568bfba554639aeadb1258f679d367a1712",
+      "transforms": [
+        {
+          "utf8_byte_start": 1272,
+          "utf8_byte_end": 1359,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-independent-source-binding-check.md",
+      "original_bytes": 18507,
+      "original_sha256": "c040205af19539595914bed6fe845f928f6cd47c7c75a5d0e0b74425d6f450c2",
+      "public_bytes": 18444,
+      "public_sha256": "6a82e29b858bc892f6e672c1707eaa424866fdf44549ecb8430c178227c621a6",
+      "transforms": [
+        {
+          "utf8_byte_start": 1310,
+          "utf8_byte_end": 1397,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-nondegenerate-composition-gate-20260928.md",
+      "original_bytes": 17045,
+      "original_sha256": "441998b6c4a421348636bafcd58c4dc933aaf273828170095b13ab29982b6447",
+      "public_bytes": 16982,
+      "public_sha256": "c3aa681b26992e2833980f61e54deafad5c1d75fe94cd8be4e928da03ce537f3",
+      "transforms": [
+        {
+          "utf8_byte_start": 1100,
+          "utf8_byte_end": 1187,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-pro-formulas-and-global-seed-compression.md",
+      "original_bytes": 24567,
+      "original_sha256": "fb9cb91f52c71d436d7b5d02da0d8c8715fa59a00ea8ba3fcaa5325dbf62b3db",
+      "public_bytes": 24504,
+      "public_sha256": "1bc44be840fd86dd1e892d2132893cbc828b781640fd3f1e84495b8934637924",
+      "transforms": [
+        {
+          "utf8_byte_start": 1347,
+          "utf8_byte_end": 1434,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-sat-semantic-table-audit.md",
+      "original_bytes": 28939,
+      "original_sha256": "1e526302d2b1e788b14916135d926265e26aee1ff530d93e17276c23c5fc5948",
+      "public_bytes": 28873,
+      "public_sha256": "0b94a3fceea8bdf0a465e1f5f67e204832dfee032568720fe1a9e6b88b085c06",
+      "transforms": [
+        {
+          "utf8_byte_start": 1453,
+          "utf8_byte_end": 1489,
+          "replacement": "[coordination-identifier-removed]",
+          "kind": "coordination-UUID"
+        },
+        {
+          "utf8_byte_start": 2216,
+          "utf8_byte_end": 2303,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/fixed-orbit-2026-09-26/r2-window-independent-verdict-20260927.md",
+      "original_bytes": 859,
+      "original_sha256": "dd36493422a194895a93e11f7a1474f6b50f5cd48122d968e310f0ee28251a79",
+      "public_bytes": 826,
+      "public_sha256": "28bceb6d36e91c5a901d27edf835c1b7ede404789ce54b37697b983ddb706994",
+      "transforms": [
+        {
+          "utf8_byte_start": 685,
+          "utf8_byte_end": 811,
+          "replacement": "original/shared-scratch/fixed-orbit-2026-09-26/r2-algebraic-window-source-verdict-20260927.md",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/direct-glue-necessity-20260901/result.json",
+      "original_bytes": 1974,
+      "original_sha256": "9f808cf17f67fc8fd2dda68bad7ba773a5bec2a7fda63d98ea9e9edd9d79bc44",
+      "public_bytes": 2014,
+      "public_sha256": "bc780ca72d7a7d108f9b6b80d8d32aa4bb89ac44527ce132e70500452cc9ea9a",
+      "transforms": [
+        {
+          "utf8_byte_start": 780,
+          "utf8_byte_end": 786,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/endpoint-count-boundary-20260901/result.json",
+      "original_bytes": 318,
+      "original_sha256": "efbe1c35f1d7e8c530e94a456f2c065b91d55a916872881de92967494cfc0fa2",
+      "public_bytes": 358,
+      "public_sha256": "8051b1123f7dbe735faec63e8f6f85b62a054e6dd93e3020e490de3bb15954f5",
+      "transforms": [
+        {
+          "utf8_byte_start": 9,
+          "utf8_byte_end": 15,
+          "replacement": "'[runtime-or-coordination-identifier-removed]'",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/expanded-count-boundary-20260901/result.json",
+      "original_bytes": 1182,
+      "original_sha256": "0e62e5714bd421a2cce220aa4eb88ef5724a5930aff2aee1e6c71931aa81e556",
+      "public_bytes": 1222,
+      "public_sha256": "9e1b1c7362e76852fe01cd7e13e0635be36934f9acdc1b1f205b35adfd289cee",
+      "transforms": [
+        {
+          "utf8_byte_start": 24,
+          "utf8_byte_end": 30,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/selector-family-20260901/result.json",
+      "original_bytes": 2614,
+      "original_sha256": "b438a8804c1e970b639a7082d47f7fab1c6449ac5515966b41d85e3ddab50154",
+      "public_bytes": 3094,
+      "public_sha256": "7f054cb9dc224dd8966f46fb2e1e7180364877b678bfc32189e30d43f2c03652",
+      "transforms": [
+        {
+          "utf8_byte_start": 161,
+          "utf8_byte_end": 167,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 378,
+          "utf8_byte_end": 384,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 595,
+          "utf8_byte_end": 601,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 813,
+          "utf8_byte_end": 819,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 1031,
+          "utf8_byte_end": 1037,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 1249,
+          "utf8_byte_end": 1255,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 1467,
+          "utf8_byte_end": 1473,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 1685,
+          "utf8_byte_end": 1691,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 1902,
+          "utf8_byte_end": 1908,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 2119,
+          "utf8_byte_end": 2125,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 2337,
+          "utf8_byte_end": 2343,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        },
+        {
+          "utf8_byte_start": 2556,
+          "utf8_byte_end": 2562,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/selector-prefix-20260901/result.json",
+      "original_bytes": 3801,
+      "original_sha256": "aa0c3529176c2354ac34ed27b2fb167efa3221a7cc9e5b3929001b4650444253",
+      "public_bytes": 3841,
+      "public_sha256": "6cbe552aa52e1b6a88732a31c8425480ed6cd9a5f0b2a869b2f5d0d163d099e0",
+      "transforms": [
+        {
+          "utf8_byte_start": 56,
+          "utf8_byte_end": 62,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/witnessed-source-cap-20260901/result.json",
+      "original_bytes": 546,
+      "original_sha256": "1e13e6097da4f12f435f4334d289debc4dfaa7dc06567633ce11457e7de6b301",
+      "public_bytes": 586,
+      "public_sha256": "d76c27ac29d2dd21b956b57fb8905d0c2d05b46a5f47cba3361b34da6314a651",
+      "transforms": [
+        {
+          "utf8_byte_start": 78,
+          "utf8_byte_end": 84,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/witnessed-source-cap-stress-20260901/result.json",
+      "original_bytes": 566,
+      "original_sha256": "0911fcb8b36dfd85c7c2bb5d7d3fdcd7dddeeb49d1592e21249e73ba3c1352ad",
+      "public_bytes": 606,
+      "public_sha256": "7a28924a356b013d1599141fda35edd9c81efe9a49b038c8ed0cc18764c2ab38",
+      "transforms": [
+        {
+          "utf8_byte_start": 83,
+          "utf8_byte_end": 89,
+          "replacement": "\"[runtime-or-coordination-identifier-removed]\"",
+          "kind": "runtime-or-coordination-field-value"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/nnp-root-files/AGENTS.md",
+      "original_bytes": 2721,
+      "original_sha256": "4384a666c5d22ded685adea5bfc79e0e6f3d32a9d61bd448015daf227c1e0b42",
+      "public_bytes": 2646,
+      "public_sha256": "01df8bc62c4d934d4a87a9c7d3bb695b513a897fd6792832eba13aae3bd160fb",
+      "transforms": [
+        {
+          "utf8_byte_start": 90,
+          "utf8_byte_end": 124,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 274,
+          "utf8_byte_end": 322,
+          "replacement": "original/nnp-root-files",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 371,
+          "utf8_byte_end": 405,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 516,
+          "utf8_byte_end": 550,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1331,
+          "utf8_byte_end": 1365,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        },
+        {
+          "utf8_byte_start": 1737,
+          "utf8_byte_end": 1771,
+          "replacement": "[unmapped-local-locator]",
+          "kind": "absolute-local-locator-to-public-key-or-placeholder"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    },
+    {
+      "path": "original/nnp-root-files/README.md",
+      "original_bytes": 6764,
+      "original_sha256": "e1f7f5da470126933e5f538f0a858deb1ef00d998623f8823db31a169db2f476",
+      "public_bytes": 6764,
+      "public_sha256": "e1f7f5da470126933e5f538f0a858deb1ef00d998623f8823db31a169db2f476",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "private_source_fingerprints_published": false,
+      "thirdparty_omitted_field_count": 0
+    }
+  ],
+  "projection_counts": {
+    "coordination-UUID": 6,
+    "absolute-local-locator-to-public-key-or-placeholder": 429,
+    "preexisting-private-source-provenance-record-stat-only": 30,
+    "runtime-or-coordination-field-value": 19,
+    "thirdparty-long-provider-field-omission": 1
+  },
+  "policy": "Exact declared byte spans only. Public citation URLs retained. Own mathematical prose not rewritten. Private source path/hash records replaced by anonymous stat-only placeholders without reading the underlying private bodies. One long attributed abstract omitted; its citation and own annotations retained. Original raw files and original span hashes stay private."
+}
