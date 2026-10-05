@@ -1,0 +1,196 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/rh-original/computations/bundles/log11-even-f640-true-schur-obstruction/results/frozen-witness-256.npz",
+      "bytes": 121148,
+      "sha256": "a3a277ab4427d2b9063babe1e8b8e2727c2758e1c69aa0bfa5ac1b372824b3a7",
+      "prior_source_sha256": "6d4ac9a4a2e40bc09ed956d1f01aa0775f00ec4229190182cde43addf15839b1",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-even-f640-true-schur-obstruction/results/phase-tail-q8000-p16-m200000-256.npz",
+      "bytes": 3760,
+      "sha256": "5cabcf112581cbae3904d40e1eb7788fb19b528be6362345e524e9f2168e2f72",
+      "prior_source_sha256": "5cabcf112581cbae3904d40e1eb7788fb19b528be6362345e524e9f2168e2f72",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log201over20-local-weil-positivity/results/even-final.npz",
+      "bytes": 18909,
+      "sha256": "bf58171aec9b68a8a6829b17ca558453699b44a007d0b958740733e0f5ee76ab",
+      "prior_source_sha256": "bf58171aec9b68a8a6829b17ca558453699b44a007d0b958740733e0f5ee76ab",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log201over20-local-weil-positivity/results/odd-final.npz",
+      "bytes": 15457,
+      "sha256": "d9b88953a592b526070138a883acbcc3a808def18e344f6a7c6a0b6a74c5c621",
+      "prior_source_sha256": "d9b88953a592b526070138a883acbcc3a808def18e344f6a7c6a0b6a74c5c621",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-even-p400-principal-positivity/results/principal-positive-256.npz",
+      "bytes": 5926,
+      "sha256": "f636eaf24292226f223097ab02568d24750285d489fd3e8e18ae15edf4676a4a",
+      "prior_source_sha256": "f636eaf24292226f223097ab02568d24750285d489fd3e8e18ae15edf4676a4a",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-even-j640-true-lower-model-obstruction/results/j640-gate-256.npz",
+      "bytes": 22561,
+      "sha256": "0f590b7afed493cc0c4122e4c77f29093fb615f9c1d12e0019a7f0701c5dca94",
+      "prior_source_sha256": "0f590b7afed493cc0c4122e4c77f29093fb615f9c1d12e0019a7f0701c5dca94",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-local-weil-positivity-round1/results/log11_even_K400_N500_clean_sharp_family_500_850_full393_q8000_arb_256.npz",
+      "bytes": 22801,
+      "sha256": "f6497f4f96334ba2705c30d16c0462e24a28c4116fb07bd7e9771012107aa58b",
+      "prior_source_sha256": "f6497f4f96334ba2705c30d16c0462e24a28c4116fb07bd7e9771012107aa58b",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-local-weil-positivity-round1/results/log11_odd_K400_N500_clean_sharp_family_500_850_full394_q8000_arb_256.npz",
+      "bytes": 18321,
+      "sha256": "109ee0b13d0e1cfe076edbabe1e78ccd4646dc1d353166629022d673456ec170",
+      "prior_source_sha256": "109ee0b13d0e1cfe076edbabe1e78ccd4646dc1d353166629022d673456ec170",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/computations/bundles/log11-even-variable-qtail-l8000-obstruction/results/q8000-gate-256.npz",
+      "bytes": 22801,
+      "sha256": "68c916454ef2b77e18de7761772bbaca9764e7d06d2cd96c34fdc3c2695edeb7",
+      "prior_source_sha256": "68c916454ef2b77e18de7761772bbaca9764e7d06d2cd96c34fdc3c2695edeb7",
+      "format": "NPZ",
+      "kind": "original stored own numeric witness/gate input, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/riemann_log2_strict_positivity_bundle.zip/riemann_local/computations/numeric_galerkin_log5.py",
+      "bytes": 2440,
+      "sha256": "2217502828453f4e96ae22718528d299e8c5778b7e1bd84f3568a0014e1b9b5c",
+      "prior_source_sha256": "2217502828453f4e96ae22718528d299e8c5778b7e1bd84f3568a0014e1b9b5c",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "Apache-2.0",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/riemann_log2_strict_positivity_bundle.zip/riemann_local/computations/probe_three_prime_endpoint_log5.py",
+      "bytes": 4476,
+      "sha256": "81b4eb5edb73e868107bb0d287b5658f054d319110d9d881a9198340d6d5a8ff",
+      "prior_source_sha256": "81b4eb5edb73e868107bb0d287b5658f054d319110d9d881a9198340d6d5a8ff",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "Apache-2.0",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/riemann_log2_strict_positivity_bundle.zip/riemann_local/results/SHA256SUMS.txt",
+      "bytes": 612,
+      "sha256": "58fc359065402f40f3b2b7dd837efdb384c12bdfb5450b2dff6c14b7836353ef",
+      "prior_source_sha256": "58fc359065402f40f3b2b7dd837efdb384c12bdfb5450b2dff6c14b7836353ef",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/riemann_log2_strict_positivity_bundle.zip/riemann_local/CURRENT_STATUS_2026-08-11_log2.md",
+      "bytes": 1564,
+      "sha256": "5f6905f49dcd520df98b946dac9287654bb39fd8091bb265e6fef35e0c083e7e",
+      "prior_source_sha256": "5f6905f49dcd520df98b946dac9287654bb39fd8091bb265e6fef35e0c083e7e",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/riemann_log2_strict_positivity_bundle.zip/riemann_local/024-two-prime-band-complete-strict-positivity-to-log2.md",
+      "bytes": 8270,
+      "sha256": "62e874cfae3239fbeac13d384942ebfd96368ee0de7266b3dd59a34413b29af2",
+      "prior_source_sha256": "62e874cfae3239fbeac13d384942ebfd96368ee0de7266b3dd59a34413b29af2",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/归档.zip/notes/038-prime-reflection-destroys-odd-half-markov-ground-state-route.md",
+      "bytes": 3678,
+      "sha256": "8e8b9d702561d044c00292ff96f1356b45c9f0a01f2433ce946f1d1bff727ddd",
+      "prior_source_sha256": "8e8b9d702561d044c00292ff96f1356b45c9f0a01f2433ce946f1d1bff727ddd",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/归档.zip/notes/057-historical-causal-pf-route-map.md",
+      "bytes": 10315,
+      "sha256": "7588587fa7aaeb23281a5ae4624971ee2abd8a2f2f03ab9ec5992ba48a14ae7f",
+      "prior_source_sha256": "7588587fa7aaeb23281a5ae4624971ee2abd8a2f2f03ab9ec5992ba48a14ae7f",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/rh-original/legacy-container/归档.zip/units/critical-line-proportion/README.md",
+      "bytes": 79656,
+      "sha256": "4c03a1af27ad9004018d40091eceb3564885c2b1f4adee6de4d179d021b7c8ae",
+      "prior_source_sha256": "4c03a1af27ad9004018d40091eceb3564885c2b1f4adee6de4d179d021b7c8ae",
+      "format": "text",
+      "kind": "original historical own legacy container mathematical body, distinct old version, unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited source words excluded",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    }
+  ],
+  "member_count": 17,
+  "member_bytes": 362695,
+  "zip_sha256": "7e17e897e487ce9bd7cb6952cec662355227aae1020cb144099f840696d18d90",
+  "scientific_validity": "not-assessed"
+}

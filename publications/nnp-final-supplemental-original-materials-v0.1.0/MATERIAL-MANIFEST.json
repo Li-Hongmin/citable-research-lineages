@@ -1,0 +1,174 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/mcsp-unit/papers/line-gates-and-orbit-bounds-in-binary-group-algebras/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+      "bytes": 385210,
+      "sha256": "919467653306e732139a7f65adca45b38d14972743053bebe9fc1a98e6437a0b",
+      "prior_source_sha256": "919467653306e732139a7f65adca45b38d14972743053bebe9fc1a98e6437a0b",
+      "format": "PDF",
+      "kind": "own original generated manuscript draft, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/shared-scratch/source_transformer_omen.out",
+      "bytes": 1383,
+      "sha256": "292f8b26f78134c0a9d7d91092d78490040da92db90af793e34e82989a5404e4",
+      "prior_source_sha256": "292f8b26f78134c0a9d7d91092d78490040da92db90af793e34e82989a5404e4",
+      "format": "text",
+      "kind": "original historical reported output or empty stderr, no fresh run",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/shared-scratch/omen-runs/expanded-count-boundary-20260901/stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "prior_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": "text",
+      "kind": "original historical reported output or empty stderr, no fresh run",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/contact-1.png",
+      "bytes": 535796,
+      "sha256": "f7122530b75b6ec94a9c67dd34a12daa7323d9bb537dda280836f22cd3cc4c42",
+      "prior_source_sha256": "f7122530b75b6ec94a9c67dd34a12daa7323d9bb537dda280836f22cd3cc4c42",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/contact-6.png",
+      "bytes": 499270,
+      "sha256": "db9def003439b41f0408c06e20246757cd396679fe085a3465af1aefddfc25c5",
+      "prior_source_sha256": "db9def003439b41f0408c06e20246757cd396679fe085a3465af1aefddfc25c5",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-01.png",
+      "bytes": 164473,
+      "sha256": "35373a7d3e9d36459cd177fa20094a2fa46cd09418fda335f4269cbdc7529a0c",
+      "prior_source_sha256": "35373a7d3e9d36459cd177fa20094a2fa46cd09418fda335f4269cbdc7529a0c",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-02.png",
+      "bytes": 141465,
+      "sha256": "fd7d360419fe2b8498d4661c7cff6f4b7645a473730f83afad99e79fa155d2ec",
+      "prior_source_sha256": "fd7d360419fe2b8498d4661c7cff6f4b7645a473730f83afad99e79fa155d2ec",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-03.png",
+      "bytes": 162836,
+      "sha256": "e18bcf5dd3b3c7b299118c9bacd0b8171d38f9db9337c844ab53172e2142ba0e",
+      "prior_source_sha256": "e18bcf5dd3b3c7b299118c9bacd0b8171d38f9db9337c844ab53172e2142ba0e",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-04.png",
+      "bytes": 145671,
+      "sha256": "35586d8765719e3bae1223cbff977655d813b9b44ca55daeab6427f757561b85",
+      "prior_source_sha256": "35586d8765719e3bae1223cbff977655d813b9b44ca55daeab6427f757561b85",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-05.png",
+      "bytes": 138995,
+      "sha256": "fb92aa503b50fa5681093839c75e31d28242bbba5d5020723a35c3dd38a8f70a",
+      "prior_source_sha256": "fb92aa503b50fa5681093839c75e31d28242bbba5d5020723a35c3dd38a8f70a",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-06.png",
+      "bytes": 139955,
+      "sha256": "9e3d8e23ee4b9d6ce29816f3ed148ee13324fc04e43becb197af3e6409801401",
+      "prior_source_sha256": "9e3d8e23ee4b9d6ce29816f3ed148ee13324fc04e43becb197af3e6409801401",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-07.png",
+      "bytes": 166791,
+      "sha256": "b26b0d5d96b038ba889c2dbb97a03fe2082cffda5fa6a5a6d6e137098c323c3d",
+      "prior_source_sha256": "b26b0d5d96b038ba889c2dbb97a03fe2082cffda5fa6a5a6d6e137098c323c3d",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-08.png",
+      "bytes": 166887,
+      "sha256": "48c371ba092204ed4ec4b27ebadd7d4294b264f6e40b57bd00f10e95751ab770",
+      "prior_source_sha256": "48c371ba092204ed4ec4b27ebadd7d4294b264f6e40b57bd00f10e95751ab770",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-09.png",
+      "bytes": 177765,
+      "sha256": "862bd4cd18a473f250f71d40dea8132a893c9289878adb7946d6e2789aa14c4b",
+      "prior_source_sha256": "862bd4cd18a473f250f71d40dea8132a893c9289878adb7946d6e2789aa14c4b",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/mcsp-unit/scratch/exposed-column-verification/latex-build/page-10.png",
+      "bytes": 56855,
+      "sha256": "09e4e38fa0f4735147109d219a923b7a046d197dc1538b73400f346d1894eeed",
+      "prior_source_sha256": "09e4e38fa0f4735147109d219a923b7a046d197dc1538b73400f346d1894eeed",
+      "format": "PNG",
+      "kind": "own rendered mathematical manuscript page/contact sheet, historical unreviewed",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    }
+  ],
+  "member_count": 15,
+  "member_bytes": 2883352,
+  "zip_sha256": "efdc03275b138514e0d4bd110b6c17b792ef661db3e20f94247c1d54adecb23a",
+  "scientific_validity": "not-assessed"
+}

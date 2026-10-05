@@ -1,0 +1,131 @@
+{
+  "projections": [
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.fdb_latexmk",
+      "original_bytes": 19799,
+      "original_sha256": "aef0c8532a8f2bedad4f886222f276694ef87938e2faa04159c68426df42f6f7",
+      "public_bytes": 19739,
+      "public_sha256": "e683c319f0180131dc9deda54d16c44e5ae47d274a63bf02562d3d71f7b1ea4e",
+      "transforms": [
+        {
+          "kind": "local-compilation-locator-projection",
+          "utf8_byte_start": 975,
+          "utf8_byte_end": 1062,
+          "replacement": "[local compilation locator]"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.fls",
+      "original_bytes": 20539,
+      "original_sha256": "70966d60e5370be62a5ad737c6161f99d277d9e4860bee97780fd38d2180ffae",
+      "public_bytes": 20384,
+      "public_sha256": "14eef3a08404280d89cc2aed77d81fd3ab656fd1ef725f893388bedd6c24e8b6",
+      "transforms": [
+        {
+          "kind": "local-compilation-locator-projection",
+          "utf8_byte_start": 4,
+          "utf8_byte_end": 126,
+          "replacement": "[local compilation locator]"
+        },
+        {
+          "kind": "local-compilation-locator-projection",
+          "utf8_byte_start": 16469,
+          "utf8_byte_end": 16556,
+          "replacement": "[local compilation locator]"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.blg",
+      "original_bytes": 927,
+      "original_sha256": "758800f5056c7fa72efa945c39e94b80b05e551e0d2b6f940ae4028328a51d9d",
+      "public_bytes": 927,
+      "public_sha256": "758800f5056c7fa72efa945c39e94b80b05e551e0d2b6f940ae4028328a51d9d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.aux",
+      "original_bytes": 8436,
+      "original_sha256": "cdd1150f57e3cd42c4602993882f1927f29ac33f64ca0e750769c78a4739cc2a",
+      "public_bytes": 8436,
+      "public_sha256": "cdd1150f57e3cd42c4602993882f1927f29ac33f64ca0e750769c78a4739cc2a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.log",
+      "original_bytes": 25408,
+      "original_sha256": "084bdd3165450391d6fe7c70f7e0129bbc8bf6d576ddc39592129585e5c614dd",
+      "public_bytes": 25357,
+      "public_sha256": "529d596db639e8359bd50a23743133934086477a8ebae1ef40672844ca6641e5",
+      "transforms": [
+        {
+          "kind": "local-compilation-locator-projection",
+          "utf8_byte_start": 21704,
+          "utf8_byte_end": 21782,
+          "replacement": "[local compilation locator]"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.bbl",
+      "original_bytes": 1663,
+      "original_sha256": "b8daa736e924675ad9d691cd2702562515893fe31fef55c7155cdb1510248c8d",
+      "public_bytes": 1663,
+      "public_sha256": "b8daa736e924675ad9d691cd2702562515893fe31fef55c7155cdb1510248c8d",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.out",
+      "original_bytes": 2474,
+      "original_sha256": "c6db71e292e9ebae1773bce7929fd096f9045fe2b650d25e5229ee3e4452cfc7",
+      "public_bytes": 2474,
+      "public_sha256": "c6db71e292e9ebae1773bce7929fd096f9045fe2b650d25e5229ee3e4452cfc7",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/scratch/family_forced_gate_leaf_20260826_codex/order24_family_exchange.json",
+      "original_bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_bytes": 0,
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete UTF8 own scientific compilation body screen; exact local locator projection, historical empty JSON explicitly retained"
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.pdf",
+      "original_bytes": 406211,
+      "original_sha256": "37d475424b244bf648b66d480993c3af0e47343bf4fc4403da375bc7918eec3e",
+      "public_bytes": 406211,
+      "public_sha256": "37d475424b244bf648b66d480993c3af0e47343bf4fc4403da375bc7918eec3e",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "complete own PDF text and metadata privacy/rights screen; bounded Poppler and qpdf passive catalog/action/attachment parse"
+    }
+  ],
+  "policy": "Original raw files retained privately. Exact own body/data preserved except specifically declared provenance/identifier cells or fields. No source-code AST edits, mathematical rewrite, data repair or new computation."
+}

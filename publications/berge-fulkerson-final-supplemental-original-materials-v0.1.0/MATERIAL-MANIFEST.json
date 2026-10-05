@@ -1,0 +1,262 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/unit/legacy/bf_5cut_coherent_kempe_bundle.zip",
+      "bytes": 10970,
+      "sha256": "cda49587e25a35c56881258fc013b6cd6b9dda93165afe5961520e29e81b54dc",
+      "prior_source_sha256": "cda49587e25a35c56881258fc013b6cd6b9dda93165afe5961520e29e81b54dc",
+      "format": "ZIP",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "Mixed original container: own code Apache-2.0, own text/data CC-BY-4.0, attributed mathematical source facts/citations retain source rights; see per-member list",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/legacy/bf_5cut_stage2_bundle.zip",
+      "bytes": 20480,
+      "sha256": "3b9bd8ecf14c6c7141dafd03745c2f8410e9190b11e053ea06807619ade52f71",
+      "prior_source_sha256": "3b9bd8ecf14c6c7141dafd03745c2f8410e9190b11e053ea06807619ade52f71",
+      "format": "ZIP",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "Mixed original container: own code Apache-2.0, own text/data CC-BY-4.0, attributed mathematical source facts/citations retain source rights; see per-member list",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/scratch/stage2-import/bf_5cut_certificate.py",
+      "bytes": 7238,
+      "sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a",
+      "prior_source_sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "Apache-2.0 for own code; original cited-source rights retained",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/scratch/worker-bf-ir-gate/probe_local_2switch_exact40_d5.py",
+      "bytes": 7463,
+      "sha256": "b1dd5628bbe408d349a8994dd6b12c12e82ef3e008c7edd03218b7f482e2fd3e",
+      "prior_source_sha256": "b1dd5628bbe408d349a8994dd6b12c12e82ef3e008c7edd03218b7f482e2fd3e",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "Apache-2.0 for own code; original cited-source rights retained",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/scratch/worker-exact-negative-support-proof/note085-vertex-completion-to-cubic-multigraph-boundary.md",
+      "bytes": 7253,
+      "sha256": "8e4c552d410c96bdd736b2826999c7e57dacafe57c2341e9ca4491e33a55e7c4",
+      "prior_source_sha256": "8e4c552d410c96bdd736b2826999c7e57dacafe57c2341e9ca4491e33a55e7c4",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own original mathematical text",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-final-file-check.json",
+      "bytes": 95,
+      "sha256": "eabc6ed3b74c5ae5713276090557fdbe73ca76f4c2bf50ca35635d0b37a83235",
+      "prior_source_sha256": "5b7012df39e7cdd6aedc072b1390c58c682ea735d64a032ae406048d5e4edd7c",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse2-deliverable-sha256.txt",
+      "bytes": 1134,
+      "sha256": "0e735e2c4bb62804dbbbaf3e6d7c3e51e22a05ccdd7cf114862d632b8f0b9ad7",
+      "prior_source_sha256": "0e735e2c4bb62804dbbbaf3e6d7c3e51e22a05ccdd7cf114862d632b8f0b9ad7",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse2-final-file-check.json",
+      "bytes": 95,
+      "sha256": "a42932c33d9dbd4395b5335c86e0ec09ec81898633ec238fa31bdad5991e663d",
+      "prior_source_sha256": "a5b8d5e0029ea2ec2d1999e2f55c6b9ec63cc5125d4959b9d18e4932c7e0a973",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse2-start.json",
+      "bytes": 167136,
+      "sha256": "a3b20fb2078383fb1f256d91decf1197c2d3545ff810e0bcb4be29fb2f2729c8",
+      "prior_source_sha256": "1e99c37b6d61945e1092062a82ecc43a7c849e27f0974de1c821040269cc7ccd",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse3-deliverable-sha256.txt",
+      "bytes": 1043,
+      "sha256": "96d37f6f873490a40cce50a7a49a207a99a99209f500cc4d0dad014b120d7600",
+      "prior_source_sha256": "96d37f6f873490a40cce50a7a49a207a99a99209f500cc4d0dad014b120d7600",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse3-final-file-check.json",
+      "bytes": 1205,
+      "sha256": "01e0de8a0babb26f413bc71ba7c499f93d8a4ba0d8a72f1cc6bf3a69c8ba621c",
+      "prior_source_sha256": "0d6929ebe8987177f0dc767a4c314fe3534d189d5a266a11c6a7667b982e06e5",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse3-start.json",
+      "bytes": 167135,
+      "sha256": "64aa1ceacdd1c16ca2975ee61553c3be917e504d8c2dfa7c2048a2f3e805858b",
+      "prior_source_sha256": "9f5ba82b63551e63769ab9f9447e8bc501178d41962d4b89e09455e4b2203521",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse4-deliverable-sha256.txt",
+      "bytes": 1128,
+      "sha256": "69269b851c6edde0ab52ac79a68bdb173aa713ed8b99121483d26bfff35e6097",
+      "prior_source_sha256": "69269b851c6edde0ab52ac79a68bdb173aa713ed8b99121483d26bfff35e6097",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse4-final-file-check.json",
+      "bytes": 2128,
+      "sha256": "96102424407146753cb1386d2d6db6db34777e12d001abd9619790bf8df61c92",
+      "prior_source_sha256": "687000f505ce68b27699b3b60588490e56c53f4fbc916a87780f5c4ad743ccb3",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse4-start.json",
+      "bytes": 205446,
+      "sha256": "6c1872c5f1c66d8899dfe93b45f21de01eefd17c583c052cab31ed5747ebf6a5",
+      "prior_source_sha256": "764a25e703129dca8d50e66fb90942e6a501ba8d946a1ff0eff136ed850b56f0",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse5-deliverable-sha256.txt",
+      "bytes": 867,
+      "sha256": "bbe80c7a0cf608804354ca23872161758a1f9aeb4ac6c92812118bc30b495b6a",
+      "prior_source_sha256": "bbe80c7a0cf608804354ca23872161758a1f9aeb4ac6c92812118bc30b495b6a",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse5-final-file-check.json",
+      "bytes": 3328,
+      "sha256": "b3edbfa9759758c6d372a7135f9c9f9a975bbb4de8d7a566f44c9fabc54a3383",
+      "prior_source_sha256": "58e5761f019f2edda4226e3a44a816b73dedc6801233b72ddb463ed317be4f44",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse5-start.json",
+      "bytes": 207368,
+      "sha256": "95f02887d0532bfdf38467ebfb1887d3b7ebb71c2973446ef4a48a98f794d918",
+      "prior_source_sha256": "c0ce5ffb1f243f03f47b5bddff449b12fae78288305406f715709e52b5508adc",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse6-deliverable-sha256.txt",
+      "bytes": 767,
+      "sha256": "9cdaacc046af4bac694ed542469760b8ba70065a50a737e53346a410aba45255",
+      "prior_source_sha256": "9cdaacc046af4bac694ed542469760b8ba70065a50a737e53346a410aba45255",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse6-final-file-check.json",
+      "bytes": 7425,
+      "sha256": "db3f4553c1d3db3cdbd75196a26ce8615711f00aac15e270aab5255710a00383",
+      "prior_source_sha256": "bdf06e3cf29f5187fe88675aa6ab932c96a5e0a527fb5cd1b292688dd68c1cdb",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-pulse6-start.json",
+      "bytes": 208882,
+      "sha256": "b2c74b3801975674817a3e0c9c74008c1a31718b03e71a663e530a51af48d306",
+      "prior_source_sha256": "77004eaaec09c4d173b8365a01fd2b1b6f6cb77d6bf71665e4c17d04c2a65b81",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-start-check.json",
+      "bytes": 87,
+      "sha256": "981b471af7abf8c9a9a3dc69a5ff6ec92f3fd6a6c70c88b7ffb2479475d7b2bf",
+      "prior_source_sha256": "13d8a4b2c2219e3a8709db2ca74eeb336b2ef650ccd896779c6625650793dc57",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/producer/bf-start-snapshot.json",
+      "bytes": 167136,
+      "sha256": "c82c0065b47da1ca235f4cbb3acd05f043c2db1cd664e61b23aebd83f13416eb",
+      "prior_source_sha256": "96b78d866b8819840bdeec3b92252db0f5014dbab364f4f3252e7889d689980d",
+      "format": "text",
+      "kind": "historical archival provenance, not new accepted proof",
+      "license_declared": "CC-BY-4.0 for own archival control text/data",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    }
+  ],
+  "member_count": 23,
+  "member_bytes": 1195809,
+  "zip_sha256": "58e42df2bdf818c5bb59bccfe65fbdbeeffdfe654eb4f7a6395ad8711252641b",
+  "scientific_validity": "not-assessed"
+}

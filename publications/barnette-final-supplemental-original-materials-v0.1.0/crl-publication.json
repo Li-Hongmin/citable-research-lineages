@@ -1,0 +1,122 @@
+{
+  "id": "crl:sha256:ffbd29cabaf829bf0024e206e8d9c09e6b461bc59db82936ebc66758367c76d2",
+  "payload": {
+    "profile": "crl-publication/0.3",
+    "creators": [
+      {
+        "name": "Li Hongmin",
+        "contribution": "Authorized human contribution credit and publication coordination; disclosed AI-assisted source research and Codex archival review/packaging. No independent human proof acceptance."
+      }
+    ],
+    "actor": {
+      "kind": "human-ai",
+      "name": "Li Hongmin with disclosed AI assistance",
+      "public_key": "747a0174620e531c8ca5750719f74a4cd0be5aa61f72d08f435c02cfcfb01eb7"
+    },
+    "rights": {
+      "rights_holder_statement": "User explicitly authorizes confirmed own original four-line text/data CC BY 4.0 and code Apache-2.0, with human contribution credit and disclosed AI roles. Third-party full text and private material excluded.",
+      "license_declared": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "type": "REVIEW",
+    "problem": "crl:problem:barnette",
+    "title": "barnette final supplemental original material archive",
+    "body": "# barnette final supplemental original material archive\n\n9 existing source bodies, 485457 original bytes. Original supplemental own scientific source, necessary stored inputs and compilation/checkpoint history remain unreviewed. Own generated manuscript PDFs are screened as existing documents, not new proof validation. Safe container/NPY format checks do not certify numerical claims. Retained old stdout, false routes, expected fixtures and original assertions are historical. All conjecture, actual-source, physical and arithmetic interfaces remain outside this artifact-check acceptance. No research source, solver or proof checker was executed.\n\nOnly positively screened own material is included. Source-provider, cited or external software words retain their rights; own mathematical input facts or references do not license copied source expression. Explicit original human/AI roles and own text/data CC BY4.0/code Apache2 grant apply. Specific provenance projections and original/public byte hashes remain inspectable. This REVIEW is inconclusive about scientific validity.\n",
+    "scope": "Static archival artifact-check of positively screened own source, stored input and historical document bytes; no fresh execution or scientific acceptance.",
+    "created_at": "2026-10-03T20:27:59Z",
+    "basis_snapshot": "sha256:00f6c49fe024f7ad595aeed76215461d4b6d584bf647bad1338c5219a4a196d6",
+    "relations": [
+      {
+        "type": "reviews",
+        "target": "crl:sha256:0a9caef4b4cdb264ce31ca5d9db9d01f3df0caa61824ab13fb12837752306e10",
+        "scope": "Static archival artifact-check of positively screened own source, stored input and historical document bytes; no fresh execution or scientific acceptance."
+      }
+    ],
+    "review": {
+      "outcome": "inconclusive",
+      "method": "artifact-check",
+      "scope": "Static archival artifact-check of positively screened own source, stored input and historical document bytes; no fresh execution or scientific acceptance."
+    },
+    "artifacts": [
+      {
+        "path": "CHALLENGE.md",
+        "sha256": "d03ad31633d6c13f99dcd68f530ca987461467eb89f7dcc6c9057068b634c281",
+        "description": "Final supplemental original artifact: CHALLENGE.md",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "LICENSE.md",
+        "sha256": "f8a3944cf07f56324b7374ce5702f78d7b3c03a5ce2d5d3d9e55406d9a368b8d",
+        "description": "Final supplemental original artifact: LICENSE.md",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "LICENSES/Apache-2.0.txt",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "description": "Final supplemental original artifact: Apache-2.0.txt",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "LICENSES/CC-BY-4.0.txt",
+        "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+        "description": "Final supplemental original artifact: CC-BY-4.0.txt",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "MATERIAL-MANIFEST.json",
+        "sha256": "f1e6c88c9ed5debe8b4c2112d5c1783e0068b28d7c0826af8e92437614e11488",
+        "description": "Final supplemental original artifact: MATERIAL-MANIFEST.json",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "MATERIALS.zip",
+        "sha256": "16dbd67e3741b1198c8cffb7694aa61f0ee964be17b16a1b82f861f3d48df0f0",
+        "description": "Final supplemental original artifact: MATERIALS.zip",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "README.md",
+        "sha256": "9efef02b2a75edb9eac203608427d9dba537faa37ef607e2eaab1e7237408fed",
+        "description": "Final supplemental original artifact: README.md",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "REFERENCES.json",
+        "sha256": "915d652106849cacf6b8af422c7ad8d6e5085190474db280311a3be58c0cbe3f",
+        "description": "Final supplemental original artifact: REFERENCES.json",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "REVIEW.md",
+        "sha256": "3b1cd59af1f47a27dcc47df5603331ead86c2b4eea865618e429d1c57de88a1c",
+        "description": "Final supplemental original artifact: REVIEW.md",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "RIGHTS-AND-ATTRIBUTION.json",
+        "sha256": "b9e431a3221206c5311a55fefb3ed2d03826329db9841e86d7058434dc9832ff",
+        "description": "Final supplemental original artifact: RIGHTS-AND-ATTRIBUTION.json",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "SOURCE-PROJECTIONS.json",
+        "sha256": "0f41e8f120617ab53f61378637de8052ac1ed95c5739f0143e3d6b77774d1d0b",
+        "description": "Final supplemental original artifact: SOURCE-PROJECTIONS.json",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "sha256": "7006a51d1b6b88d973ad4af6f1236b72661758c9a47fe47840f3ac8b458d8c3d",
+        "description": "Final supplemental original artifact: VERIFICATION.md",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      },
+      {
+        "path": "VERSION",
+        "sha256": "6b15441f671db460bef4575fec57c854f0af4826cc4c5861ba5626a1360135e5",
+        "description": "Final supplemental original artifact: VERSION",
+        "license_declared": "Own code Apache-2.0; own text/data CC-BY-4.0; cited/software source rights retained"
+      }
+    ]
+  },
+  "signature": "e34cef9f17b8d6bf1b56bc92cf521971958cec3ac7dff394f3659022f8f632ae23da5c153c5d5a590a67300af2f46862fc24357337986e6d4157ab5d24949b0a"
+}

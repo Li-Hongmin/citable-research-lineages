@@ -1,0 +1,9 @@
+{
+  "reviewed_record_id": "crl:sha256:900e68c3b88b07d3b25b250500d631afc2ffab56acc01679b63dec314a237d45",
+  "root": "crl:problem:riemann-hypothesis",
+  "archive_repository": "https://github.com/Li-Hongmin/citable-research-lineages",
+  "archive_commit": "847e6c53a02713ff0e2146a0a794f2d7f2975bda",
+  "manifest_path": "publications/rh-short-filter-localization-v0.1.0/crl-publication.json",
+  "manifest_raw_sha256": "7c8c73b6fe639497568601b28d4ae20829340b3c607a0ee77bfa5b3cb9a596a1",
+  "manifest_jcs_sha256": "d5445d13f0d106a99750a5f38fba96bc5f198bf6fec99adcadf78fd402f97458"
+}

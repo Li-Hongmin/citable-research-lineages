@@ -1,0 +1,15 @@
+{
+  "aliases": [
+    {
+      "alias_origin": "mcsp-unit",
+      "alias_relative_path": "scratch/exposed-column-verification/latex-build/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+      "source_bytes": 385210,
+      "source_sha256": "919467653306e732139a7f65adca45b38d14972743053bebe9fc1a98e6437a0b",
+      "canonical_member": "original/mcsp-unit/papers/line-gates-and-orbit-bounds-in-binary-group-algebras/line-gates-and-orbit-bounds-in-binary-group-algebras.pdf",
+      "exact_original_byte_equivalence": true,
+      "target_manifest_path": "publications/nnp-final-supplemental-original-materials-v0.1.0/crl-publication.json",
+      "target_containing_commit": "pending; not fabricated"
+    }
+  ],
+  "scope": "Exact original raw-body aliases of named canonical MATERIALS.zip members. This local signed package is awaiting containing commit; no anonymous public readback or index admission is claimed."
+}

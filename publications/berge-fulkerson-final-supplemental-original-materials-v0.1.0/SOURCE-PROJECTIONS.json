@@ -1,0 +1,1388 @@
+{
+  "projections": [
+    {
+      "path": "original/unit/legacy/bf_5cut_coherent_kempe_bundle.zip",
+      "original_bytes": 10970,
+      "original_sha256": "cda49587e25a35c56881258fc013b6cd6b9dda93165afe5961520e29e81b54dc",
+      "public_bytes": 10970,
+      "public_sha256": "cda49587e25a35c56881258fc013b6cd6b9dda93165afe5961520e29e81b54dc",
+      "transforms": [
+        {
+          "kind": "raw-ZIP-preserved",
+          "original_complete_ZIP_bytes_kept": true,
+          "anonymous_checksum_locator_exceptions": [
+            {
+              "member": "bf_5cut_artifact_hashes.txt",
+              "member_raw_sha256": "73769145dc1f66fd12a6884eb50bb30cced5da46baca4f0b22ff40ad27dfeaa3",
+              "literal_sha256": "f0e3b8e5a387023e27ea587f5f2d1e761e04a0b0fb470284c9fa2a3b2a43b390",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            },
+            {
+              "member": "bf_5cut_artifact_hashes.txt",
+              "member_raw_sha256": "73769145dc1f66fd12a6884eb50bb30cced5da46baca4f0b22ff40ad27dfeaa3",
+              "literal_sha256": "148df26e800d23e0d4e7b18769459597491980512eb8fe60ccb49663a05a7d53",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            },
+            {
+              "member": "bf_5cut_artifact_hashes.txt",
+              "member_raw_sha256": "73769145dc1f66fd12a6884eb50bb30cced5da46baca4f0b22ff40ad27dfeaa3",
+              "literal_sha256": "65320d7ad7ea2986be521c8b76c9e7332a91f7c40e66f4b46619e4ab68ee1cd2",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            }
+          ],
+          "member_licenses": [
+            {
+              "member": "bf_5cut_coherent_kempe_note.md",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "9ed9d9b5f2d2ffde3aa796ceeb9e0ab424ce52287c9674119ba34a37c2cbec52"
+            },
+            {
+              "member": "bf_5cut_certificate.py",
+              "license_declared": "Apache-2.0 for own code",
+              "sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a"
+            },
+            {
+              "member": "bf_5cut_certificate_output.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "b04f0652c85901895b9091a8a2d350e1ed00c0bdfdade8c3f4a25181c404bdfa"
+            },
+            {
+              "member": "kempe_routing_audit.py",
+              "license_declared": "Apache-2.0 for own code",
+              "sha256": "3dfc9a7a61bc16a809d9393fd914ab7df13e5b731686086a383ff4405fcf699b"
+            },
+            {
+              "member": "kempe_routing_audit_output.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "ec0241f76cb40bdf5ee99540735f83b5c9bf5fe918119324a355a0cbc83fb406"
+            },
+            {
+              "member": "bf_5cut_artifact_hashes.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "73769145dc1f66fd12a6884eb50bb30cced5da46baca4f0b22ff40ad27dfeaa3"
+            }
+          ],
+          "no_generic_path_prefix_exception": true
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/unit/legacy/bf_5cut_stage2_bundle.zip",
+      "original_bytes": 20480,
+      "original_sha256": "3b9bd8ecf14c6c7141dafd03745c2f8410e9190b11e053ea06807619ade52f71",
+      "public_bytes": 20480,
+      "public_sha256": "3b9bd8ecf14c6c7141dafd03745c2f8410e9190b11e053ea06807619ade52f71",
+      "transforms": [
+        {
+          "kind": "raw-ZIP-preserved",
+          "original_complete_ZIP_bytes_kept": true,
+          "anonymous_checksum_locator_exceptions": [
+            {
+              "member": "case_xii_pentagon_hashes.txt",
+              "member_raw_sha256": "45d0ba8c6c56935c00118d117661ecd4a3827f4be437b25c407de8d1fc751248",
+              "literal_sha256": "6971c6a0d1ff7af2310504a10d951e893f1737ec99b0c55f6be765d823bbaf83",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            },
+            {
+              "member": "case_xii_pentagon_hashes.txt",
+              "member_raw_sha256": "45d0ba8c6c56935c00118d117661ecd4a3827f4be437b25c407de8d1fc751248",
+              "literal_sha256": "8c0ae08d57414f4a39e924060833d12b2b847e115c60546454fe47c7d68ec071",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            },
+            {
+              "member": "case_xii_pentagon_hashes.txt",
+              "member_raw_sha256": "45d0ba8c6c56935c00118d117661ecd4a3827f4be437b25c407de8d1fc751248",
+              "literal_sha256": "69edc4c69ff3f67fa843ce2ab4cba633df95ffb28a5ef3034ff22577839339bf",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            },
+            {
+              "member": "case_xii_pentagon_hashes.txt",
+              "member_raw_sha256": "45d0ba8c6c56935c00118d117661ecd4a3827f4be437b25c407de8d1fc751248",
+              "literal_sha256": "7d11e92911cbc60d7bf02cd0771cbf402faf05f5d9a07e6e8cdfbc9b161408fd",
+              "context": "original SHA256 checksum-file locator",
+              "rationale": "Anonymous fixed mathematical data locator; no identifying or credential information."
+            }
+          ],
+          "member_licenses": [
+            {
+              "member": "bf_5cut_coherent_kempe_note.md",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "9ed9d9b5f2d2ffde3aa796ceeb9e0ab424ce52287c9674119ba34a37c2cbec52"
+            },
+            {
+              "member": "bf_5cut_certificate.py",
+              "license_declared": "Apache-2.0 for own code",
+              "sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a"
+            },
+            {
+              "member": "bf_5cut_certificate_output.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "b04f0652c85901895b9091a8a2d350e1ed00c0bdfdade8c3f4a25181c404bdfa"
+            },
+            {
+              "member": "kempe_routing_audit.py",
+              "license_declared": "Apache-2.0 for own code",
+              "sha256": "3dfc9a7a61bc16a809d9393fd914ab7df13e5b731686086a383ff4405fcf699b"
+            },
+            {
+              "member": "kempe_routing_audit_output.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "ec0241f76cb40bdf5ee99540735f83b5c9bf5fe918119324a355a0cbc83fb406"
+            },
+            {
+              "member": "case_xii_pentagon_note.md",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "cac88d813e7304603fccb171ed49f935dc2fe9b9b4c5539fce984e8522643391"
+            },
+            {
+              "member": "case_xii_pentagon_audit.py",
+              "license_declared": "Apache-2.0 for own code",
+              "sha256": "9f9b285369269bdef8299505e137cb210fa2dcacc26738d77681c152894de11c"
+            },
+            {
+              "member": "case_xii_pentagon_audit_output.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "ad41e83cc4bffa17e5511034526100a8a869f41b8720485a745b7993389091a9"
+            },
+            {
+              "member": "case_xii_pentagon_audit_results.json",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "2a017a5991b8d12f2b6d69aeb78432fdc91d9ec8ff4923d0a2ff368b1147d6ce"
+            },
+            {
+              "member": "case_xii_pentagon_hashes.txt",
+              "license_declared": "CC-BY-4.0 for own math/text/generated-checksum data; cited source rights retained",
+              "sha256": "45d0ba8c6c56935c00118d117661ecd4a3827f4be437b25c407de8d1fc751248"
+            }
+          ],
+          "no_generic_path_prefix_exception": true
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/unit/scratch/stage2-import/bf_5cut_certificate.py",
+      "original_bytes": 7238,
+      "original_sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a",
+      "public_bytes": 7238,
+      "public_sha256": "117afb1a0ab5081273c08d27d4a27c94c529c6f9f11877eeb394688fa7dd705a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/unit/scratch/worker-bf-ir-gate/probe_local_2switch_exact40_d5.py",
+      "original_bytes": 7463,
+      "original_sha256": "b1dd5628bbe408d349a8994dd6b12c12e82ef3e008c7edd03218b7f482e2fd3e",
+      "public_bytes": 7463,
+      "public_sha256": "b1dd5628bbe408d349a8994dd6b12c12e82ef3e008c7edd03218b7f482e2fd3e",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/unit/scratch/worker-exact-negative-support-proof/note085-vertex-completion-to-cubic-multigraph-boundary.md",
+      "original_bytes": 7253,
+      "original_sha256": "8e4c552d410c96bdd736b2826999c7e57dacafe57c2341e9ca4491e33a55e7c4",
+      "public_bytes": 7253,
+      "public_sha256": "8e4c552d410c96bdd736b2826999c7e57dacafe57c2341e9ca4491e33a55e7c4",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-final-file-check.json",
+      "original_bytes": 130,
+      "original_sha256": "5b7012df39e7cdd6aedc072b1390c58c682ea735d64a032ae406048d5e4edd7c",
+      "public_bytes": 95,
+      "public_sha256": "eabc6ed3b74c5ae5713276090557fdbe73ca76f4c2bf50ca35635d0b37a83235",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 70,
+          "utf8_byte_end": 105,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse2-deliverable-sha256.txt",
+      "original_bytes": 1134,
+      "original_sha256": "0e735e2c4bb62804dbbbaf3e6d7c3e51e22a05ccdd7cf114862d632b8f0b9ad7",
+      "public_bytes": 1134,
+      "public_sha256": "0e735e2c4bb62804dbbbaf3e6d7c3e51e22a05ccdd7cf114862d632b8f0b9ad7",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse2-final-file-check.json",
+      "original_bytes": 165,
+      "original_sha256": "a5b8d5e0029ea2ec2d1999e2f55c6b9ec63cc5125d4959b9d18e4932c7e0a973",
+      "public_bytes": 95,
+      "public_sha256": "a42932c33d9dbd4395b5335c86e0ec09ec81898633ec238fa31bdad5991e663d",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 94,
+          "utf8_byte_end": 164,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse2-start.json",
+      "original_bytes": 192893,
+      "original_sha256": "1e99c37b6d61945e1092062a82ecc43a7c849e27f0974de1c821040269cc7ccd",
+      "public_bytes": 167136,
+      "public_sha256": "a3b20fb2078383fb1f256d91decf1197c2d3545ff810e0bcb4be29fb2f2729c8",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 629,
+          "utf8_byte_end": 704,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1275,
+          "utf8_byte_end": 1350,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1976,
+          "utf8_byte_end": 2044,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2913,
+          "utf8_byte_end": 2988,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 85699,
+          "utf8_byte_end": 85826,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104733,
+          "utf8_byte_end": 104842,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104945,
+          "utf8_byte_end": 105047,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 105531,
+          "utf8_byte_end": 106876,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 150689,
+          "utf8_byte_end": 154691,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 154912,
+          "utf8_byte_end": 156457,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 159686,
+          "utf8_byte_end": 164622,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 166634,
+          "utf8_byte_end": 169494,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 170472,
+          "utf8_byte_end": 171103,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 172153,
+          "utf8_byte_end": 174018,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 174207,
+          "utf8_byte_end": 179494,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179703,
+          "utf8_byte_end": 179851,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179939,
+          "utf8_byte_end": 180843,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 181403,
+          "utf8_byte_end": 181914,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 191799,
+          "utf8_byte_end": 192891,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse3-deliverable-sha256.txt",
+      "original_bytes": 1043,
+      "original_sha256": "96d37f6f873490a40cce50a7a49a207a99a99209f500cc4d0dad014b120d7600",
+      "public_bytes": 1043,
+      "public_sha256": "96d37f6f873490a40cce50a7a49a207a99a99209f500cc4d0dad014b120d7600",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse3-final-file-check.json",
+      "original_bytes": 1384,
+      "original_sha256": "0d6929ebe8987177f0dc767a4c314fe3534d189d5a266a11c6a7667b982e06e5",
+      "public_bytes": 1205,
+      "public_sha256": "01e0de8a0babb26f413bc71ba7c499f93d8a4ba0d8a72f1cc6bf3a69c8ba621c",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1203,
+          "utf8_byte_end": 1382,
+          "replacement": "",
+          "removed_entry_count": 2,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse3-start.json",
+      "original_bytes": 192892,
+      "original_sha256": "9f5ba82b63551e63769ab9f9447e8bc501178d41962d4b89e09455e4b2203521",
+      "public_bytes": 167135,
+      "public_sha256": "64aa1ceacdd1c16ca2975ee61553c3be917e504d8c2dfa7c2048a2f3e805858b",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 628,
+          "utf8_byte_end": 703,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1274,
+          "utf8_byte_end": 1349,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1975,
+          "utf8_byte_end": 2043,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2912,
+          "utf8_byte_end": 2987,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 85698,
+          "utf8_byte_end": 85825,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104732,
+          "utf8_byte_end": 104841,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104944,
+          "utf8_byte_end": 105046,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 105530,
+          "utf8_byte_end": 106875,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 150688,
+          "utf8_byte_end": 154690,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 154911,
+          "utf8_byte_end": 156456,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 159685,
+          "utf8_byte_end": 164621,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 166633,
+          "utf8_byte_end": 169493,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 170471,
+          "utf8_byte_end": 171102,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 172152,
+          "utf8_byte_end": 174017,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 174206,
+          "utf8_byte_end": 179493,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179702,
+          "utf8_byte_end": 179850,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179938,
+          "utf8_byte_end": 180842,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 181402,
+          "utf8_byte_end": 181913,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 191798,
+          "utf8_byte_end": 192890,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse4-deliverable-sha256.txt",
+      "original_bytes": 1128,
+      "original_sha256": "69269b851c6edde0ab52ac79a68bdb173aa713ed8b99121483d26bfff35e6097",
+      "public_bytes": 1128,
+      "public_sha256": "69269b851c6edde0ab52ac79a68bdb173aa713ed8b99121483d26bfff35e6097",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse4-final-file-check.json",
+      "original_bytes": 2313,
+      "original_sha256": "687000f505ce68b27699b3b60588490e56c53f4fbc916a87780f5c4ad743ccb3",
+      "public_bytes": 2128,
+      "public_sha256": "96102424407146753cb1386d2d6db6db34777e12d001abd9619790bf8df61c92",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2126,
+          "utf8_byte_end": 2311,
+          "replacement": "",
+          "removed_entry_count": 2,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse4-start.json",
+      "original_bytes": 235826,
+      "original_sha256": "764a25e703129dca8d50e66fb90942e6a501ba8d946a1ff0eff136ed850b56f0",
+      "public_bytes": 205446,
+      "public_sha256": "6c1872c5f1c66d8899dfe93b45f21de01eefd17c583c052cab31ed5747ebf6a5",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 836,
+          "utf8_byte_end": 933,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1658,
+          "utf8_byte_end": 1755,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2557,
+          "utf8_byte_end": 2647,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 3758,
+          "utf8_byte_end": 3855,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 103924,
+          "utf8_byte_end": 104073,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 126984,
+          "utf8_byte_end": 127115,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127240,
+          "utf8_byte_end": 127364,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127958,
+          "utf8_byte_end": 129611,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 182136,
+          "utf8_byte_end": 186886,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 187151,
+          "utf8_byte_end": 188960,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 192805,
+          "utf8_byte_end": 198577,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 200963,
+          "utf8_byte_end": 204307,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 205461,
+          "utf8_byte_end": 206202,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 207472,
+          "utf8_byte_end": 209689,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 209922,
+          "utf8_byte_end": 216111,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216364,
+          "utf8_byte_end": 216534,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216644,
+          "utf8_byte_end": 217724,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 218394,
+          "utf8_byte_end": 218993,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 230832,
+          "utf8_byte_end": 232103,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse5-deliverable-sha256.txt",
+      "original_bytes": 867,
+      "original_sha256": "bbe80c7a0cf608804354ca23872161758a1f9aeb4ac6c92812118bc30b495b6a",
+      "public_bytes": 867,
+      "public_sha256": "bbe80c7a0cf608804354ca23872161758a1f9aeb4ac6c92812118bc30b495b6a",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse5-final-file-check.json",
+      "original_bytes": 3495,
+      "original_sha256": "58e5761f019f2edda4226e3a44a816b73dedc6801233b72ddb463ed317be4f44",
+      "public_bytes": 3328,
+      "public_sha256": "b3edbfa9759758c6d372a7135f9c9f9a975bbb4de8d7a566f44c9fabc54a3383",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 3326,
+          "utf8_byte_end": 3493,
+          "replacement": "",
+          "removed_entry_count": 2,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse5-start.json",
+      "original_bytes": 237748,
+      "original_sha256": "c0ce5ffb1f243f03f47b5bddff449b12fae78288305406f715709e52b5508adc",
+      "public_bytes": 207368,
+      "public_sha256": "95f02887d0532bfdf38467ebfb1887d3b7ebb71c2973446ef4a48a98f794d918",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 838,
+          "utf8_byte_end": 935,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1660,
+          "utf8_byte_end": 1757,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2559,
+          "utf8_byte_end": 2649,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 3760,
+          "utf8_byte_end": 3857,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 103926,
+          "utf8_byte_end": 104075,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 126986,
+          "utf8_byte_end": 127117,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127242,
+          "utf8_byte_end": 127366,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127960,
+          "utf8_byte_end": 129613,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 182138,
+          "utf8_byte_end": 186888,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 187153,
+          "utf8_byte_end": 188962,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 192807,
+          "utf8_byte_end": 198579,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 200965,
+          "utf8_byte_end": 204309,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 205463,
+          "utf8_byte_end": 206204,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 207474,
+          "utf8_byte_end": 209691,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 209924,
+          "utf8_byte_end": 216113,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216366,
+          "utf8_byte_end": 216536,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216646,
+          "utf8_byte_end": 217726,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 218396,
+          "utf8_byte_end": 218995,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 230834,
+          "utf8_byte_end": 232105,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse6-deliverable-sha256.txt",
+      "original_bytes": 767,
+      "original_sha256": "9cdaacc046af4bac694ed542469760b8ba70065a50a737e53346a410aba45255",
+      "public_bytes": 767,
+      "public_sha256": "9cdaacc046af4bac694ed542469760b8ba70065a50a737e53346a410aba45255",
+      "transforms": [],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse6-final-file-check.json",
+      "original_bytes": 7504,
+      "original_sha256": "bdf06e3cf29f5187fe88675aa6ab932c96a5e0a527fb5cd1b292688dd68c1cdb",
+      "public_bytes": 7425,
+      "public_sha256": "db3f4553c1d3db3cdbd75196a26ce8615711f00aac15e270aab5255710a00383",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 7396,
+          "utf8_byte_end": 7475,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-pulse6-start.json",
+      "original_bytes": 239262,
+      "original_sha256": "77004eaaec09c4d173b8365a01fd2b1b6f6cb77d6bf71665e4c17d04c2a65b81",
+      "public_bytes": 208882,
+      "public_sha256": "b2c74b3801975674817a3e0c9c74008c1a31718b03e71a663e530a51af48d306",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 837,
+          "utf8_byte_end": 934,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1659,
+          "utf8_byte_end": 1756,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2558,
+          "utf8_byte_end": 2648,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 3759,
+          "utf8_byte_end": 3856,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 103925,
+          "utf8_byte_end": 104074,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 126985,
+          "utf8_byte_end": 127116,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127241,
+          "utf8_byte_end": 127365,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 127959,
+          "utf8_byte_end": 129612,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 182137,
+          "utf8_byte_end": 186887,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 187152,
+          "utf8_byte_end": 188961,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 192806,
+          "utf8_byte_end": 198578,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 200964,
+          "utf8_byte_end": 204308,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 205462,
+          "utf8_byte_end": 206203,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 207473,
+          "utf8_byte_end": 209690,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 209923,
+          "utf8_byte_end": 216112,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216365,
+          "utf8_byte_end": 216535,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 216645,
+          "utf8_byte_end": 217725,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 218395,
+          "utf8_byte_end": 218994,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 230833,
+          "utf8_byte_end": 232104,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-start-check.json",
+      "original_bytes": 120,
+      "original_sha256": "13d8a4b2c2219e3a8709db2ca74eeb336b2ef650ccd896779c6625650793dc57",
+      "public_bytes": 87,
+      "public_sha256": "981b471af7abf8c9a9a3dc69a5ff6ec92f3fd6a6c70c88b7ffb2479475d7b2bf",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 86,
+          "utf8_byte_end": 119,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "drop exact operational process/coordination fields; retain all mathematical preservation fields"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    },
+    {
+      "path": "original/producer/bf-start-snapshot.json",
+      "original_bytes": 192893,
+      "original_sha256": "96b78d866b8819840bdeec3b92252db0f5014dbab364f4f3252e7889d689980d",
+      "public_bytes": 167136,
+      "public_sha256": "c82c0065b47da1ca235f4cbb3acd05f043c2db1cd664e61b23aebd83f13416eb",
+      "transforms": [
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 629,
+          "utf8_byte_end": 704,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1275,
+          "utf8_byte_end": 1350,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 1976,
+          "utf8_byte_end": 2044,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 2913,
+          "utf8_byte_end": 2988,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 85699,
+          "utf8_byte_end": 85826,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104733,
+          "utf8_byte_end": 104842,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 104945,
+          "utf8_byte_end": 105047,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 105531,
+          "utf8_byte_end": 106876,
+          "replacement": "",
+          "removed_entry_count": 14,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 150689,
+          "utf8_byte_end": 154691,
+          "replacement": "",
+          "removed_entry_count": 34,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 154912,
+          "utf8_byte_end": 156457,
+          "replacement": "",
+          "removed_entry_count": 12,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 159686,
+          "utf8_byte_end": 164622,
+          "replacement": "",
+          "removed_entry_count": 38,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 166634,
+          "utf8_byte_end": 169494,
+          "replacement": "",
+          "removed_entry_count": 22,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 170472,
+          "utf8_byte_end": 171103,
+          "replacement": "",
+          "removed_entry_count": 5,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 172153,
+          "utf8_byte_end": 174018,
+          "replacement": "",
+          "removed_entry_count": 16,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 174207,
+          "utf8_byte_end": 179494,
+          "replacement": "",
+          "removed_entry_count": 41,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179703,
+          "utf8_byte_end": 179851,
+          "replacement": "",
+          "removed_entry_count": 1,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 179939,
+          "utf8_byte_end": 180843,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 181403,
+          "utf8_byte_end": 181914,
+          "replacement": "",
+          "removed_entry_count": 4,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        },
+        {
+          "kind": "exact-operational-or-private-source-provenance-field-removal",
+          "utf8_byte_start": 191799,
+          "utf8_byte_end": 192891,
+          "replacement": "",
+          "removed_entry_count": 8,
+          "reason": "exclude nonapproved or excluded-cache baseline path keys; keep original count in sidecar"
+        }
+      ],
+      "own_mathematical_body_changed": false,
+      "original_retained_private": true,
+      "screen_method": "full own body/provenance screen; exact byte removal only, all retained JSON keys/values/token bytes invariant; ZIP full member SHA/CRC and exact checksum locator exceptions"
+    }
+  ],
+  "policy": "Original raw files retained privately. Exact own body/data preserved except specifically declared provenance/identifier cells or fields. No source-code AST edits, mathematical rewrite, data repair or new computation."
+}

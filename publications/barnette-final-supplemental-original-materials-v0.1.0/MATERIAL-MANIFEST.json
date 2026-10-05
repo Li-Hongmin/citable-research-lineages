@@ -1,0 +1,108 @@
+{
+  "edition": "0.1.0-github.1",
+  "materials": [
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.fdb_latexmk",
+      "bytes": 19739,
+      "sha256": "e683c319f0180131dc9deda54d16c44e5ae47d274a63bf02562d3d71f7b1ea4e",
+      "prior_source_sha256": "aef0c8532a8f2bedad4f886222f276694ef87938e2faa04159c68426df42f6f7",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.fls",
+      "bytes": 20384,
+      "sha256": "14eef3a08404280d89cc2aed77d81fd3ab656fd1ef725f893388bedd6c24e8b6",
+      "prior_source_sha256": "70966d60e5370be62a5ad737c6161f99d277d9e4860bee97780fd38d2180ffae",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.blg",
+      "bytes": 927,
+      "sha256": "758800f5056c7fa72efa945c39e94b80b05e551e0d2b6f940ae4028328a51d9d",
+      "prior_source_sha256": "758800f5056c7fa72efa945c39e94b80b05e551e0d2b6f940ae4028328a51d9d",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.aux",
+      "bytes": 8436,
+      "sha256": "cdd1150f57e3cd42c4602993882f1927f29ac33f64ca0e750769c78a4739cc2a",
+      "prior_source_sha256": "cdd1150f57e3cd42c4602993882f1927f29ac33f64ca0e750769c78a4739cc2a",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.log",
+      "bytes": 25357,
+      "sha256": "529d596db639e8359bd50a23743133934086477a8ebae1ef40672844ca6641e5",
+      "prior_source_sha256": "084bdd3165450391d6fe7c70f7e0129bbc8bf6d576ddc39592129585e5c614dd",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.bbl",
+      "bytes": 1663,
+      "sha256": "b8daa736e924675ad9d691cd2702562515893fe31fef55c7155cdb1510248c8d",
+      "prior_source_sha256": "b8daa736e924675ad9d691cd2702562515893fe31fef55c7155cdb1510248c8d",
+      "format": "text",
+      "kind": "own-bibliography-compiled-citation-context",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.out",
+      "bytes": 2474,
+      "sha256": "c6db71e292e9ebae1773bce7929fd096f9045fe2b650d25e5229ee3e4452cfc7",
+      "prior_source_sha256": "c6db71e292e9ebae1773bce7929fd096f9045fe2b650d25e5229ee3e4452cfc7",
+      "format": "text",
+      "kind": "own-scientific-compilation-history-and-dependency-metadata",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/scratch/family_forced_gate_leaf_20260826_codex/order24_family_exchange.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "prior_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": "text",
+      "kind": "empty-historical-output-placeholder",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    },
+    {
+      "path": "original/unit/papers/exponentially-many-p2-hamiltonian-barnette-graphs/exponentially-many-p2-hamiltonian-barnette-graphs.pdf",
+      "bytes": 406211,
+      "sha256": "37d475424b244bf648b66d480993c3af0e47343bf4fc4403da375bc7918eec3e",
+      "prior_source_sha256": "37d475424b244bf648b66d480993c3af0e47343bf4fc4403da375bc7918eec3e",
+      "format": "PDF",
+      "kind": "own generated manuscript draft PDF, archival proof/context/history, not accepted theorem or newly executed check",
+      "license_declared": "CC-BY-4.0 for own original contribution; cited/source/software words retain source rights",
+      "scientific_validity": "not-assessed",
+      "historical": true
+    }
+  ],
+  "member_count": 9,
+  "member_bytes": 485191,
+  "zip_sha256": "16dbd67e3741b1198c8cffb7694aa61f0ee964be17b16a1b82f861f3d48df0f0",
+  "scientific_validity": "not-assessed"
+}
